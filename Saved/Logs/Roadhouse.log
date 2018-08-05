@@ -478,6 +478,7 @@ LogInit: Object subsystem initialized
 [2018.08.05-20.15.52:140][836]LogSavePackage: Save=3929.52ms
 [2018.08.05-20.15.52:140][836]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataD4AD642A441ACBE72DD36597A8152303.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
 [2018.08.05-20.15.52:147][836]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+<<<<<<< HEAD
 [2018.08.05-20.18.53:256][876]AssetReimport: New page: Outstanding source content changes 00:18:53
 [2018.08.05-20.19.04:828][876]LogSlate: Window 'Delete Assets' being destroyed
 [2018.08.05-20.19.07:856][ 37]AssetReimport: Attempting to delete blockout_mit_assets (its source file has been removed).
@@ -878,3 +879,5 @@ LogInit: Object subsystem initialized
 [2018.08.05-20.26.01:711][335]SourceControl:  rename Content/{Geometry/Meshes => Assets}/Bar/Table_v2_1.uasset (73%)
 [2018.08.05-20.26.01:711][335]SourceControl:  rename Content/{Geometry/Meshes => Assets}/Bar/Table_v2_2.uasset (73%)
 [2018.08.05-20.26.01:716][335]SourceControl: Commited [master c197092] Tische einsortiert.
+=======
+>>>>>>> f851ff7cc8cfe0ffd2d336f5d7604e569496a46a
