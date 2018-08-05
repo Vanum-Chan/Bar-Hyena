@@ -478,3 +478,16 @@ LogInit: Object subsystem initialized
 [2018.08.05-20.15.52:140][836]LogSavePackage: Save=3929.52ms
 [2018.08.05-20.15.52:140][836]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataD4AD642A441ACBE72DD36597A8152303.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
 [2018.08.05-20.15.52:147][836]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.08.05-20.18.53:256][876]AssetReimport: New page: Outstanding source content changes 00:18:53
+[2018.08.05-20.19.04:828][876]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.05-20.19.07:856][ 37]AssetReimport: Attempting to delete blockout_mit_assets (its source file has been removed).
+[2018.08.05-20.19.07:856][ 37]AssetReimport: Attempting to delete Table_OcclusionRoughnessMetallic (its source file has been removed).
+[2018.08.05-20.19.07:857][ 37]AssetReimport: Attempting to delete Table_Normal (its source file has been removed).
+[2018.08.05-20.19.07:857][ 37]AssetReimport: Attempting to delete Table_BaseColor (its source file has been removed).
+[2018.08.05-20.19.07:857][ 37]AssetReimport: Attempting to delete Table_v2_2 (its source file has been removed).
+[2018.08.05-20.19.07:857][ 37]AssetReimport: Attempting to delete Table_v2_1 (its source file has been removed).
+[2018.08.05-20.19.07:857][ 37]AssetReimport: Attempting to delete Table_v1_2 (its source file has been removed).
+[2018.08.05-20.19.07:857][ 37]AssetReimport: Attempting to delete Table_v1_1 (its source file has been removed).
+[2018.08.05-20.19.29:617][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_3)
+[2018.08.05-20.19.30:887][371]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.05-20.19.32:040][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
