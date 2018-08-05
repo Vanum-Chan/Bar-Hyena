@@ -478,3 +478,326 @@ LogInit: Object subsystem initialized
 [2018.08.05-20.15.52:140][836]LogSavePackage: Save=3929.52ms
 [2018.08.05-20.15.52:140][836]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataD4AD642A441ACBE72DD36597A8152303.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
 [2018.08.05-20.15.52:147][836]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.08.05-20.18.53:256][876]AssetReimport: New page: Outstanding source content changes 00:18:53
+[2018.08.05-20.19.04:828][876]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.05-20.19.07:856][ 37]AssetReimport: Attempting to delete blockout_mit_assets (its source file has been removed).
+[2018.08.05-20.19.07:856][ 37]AssetReimport: Attempting to delete Table_OcclusionRoughnessMetallic (its source file has been removed).
+[2018.08.05-20.19.07:857][ 37]AssetReimport: Attempting to delete Table_Normal (its source file has been removed).
+[2018.08.05-20.19.07:857][ 37]AssetReimport: Attempting to delete Table_BaseColor (its source file has been removed).
+[2018.08.05-20.19.07:857][ 37]AssetReimport: Attempting to delete Table_v2_2 (its source file has been removed).
+[2018.08.05-20.19.07:857][ 37]AssetReimport: Attempting to delete Table_v2_1 (its source file has been removed).
+[2018.08.05-20.19.07:857][ 37]AssetReimport: Attempting to delete Table_v1_2 (its source file has been removed).
+[2018.08.05-20.19.07:857][ 37]AssetReimport: Attempting to delete Table_v1_1 (its source file has been removed).
+[2018.08.05-20.19.29:617][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_3)
+[2018.08.05-20.19.30:887][371]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.05-20.19.32:040][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-20.20.20:808][261]AssetReimport: New page: Outstanding source content changes 00:20:20
+[2018.08.05-20.20.20:850][262]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_Normal.tga]
+[2018.08.05-20.20.20:863][262]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_Normal.tga)
+[2018.08.05-20.20.21:118][262]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.21:153][263]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_BaseColor.tga]
+[2018.08.05-20.20.21:166][263]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_BaseColor.tga)
+[2018.08.05-20.20.22:478][263]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.22:520][264]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_2.fbx]
+[2018.08.05-20.20.22:536][264]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_2.fbx
+[2018.08.05-20.20.22:548][264]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.22:674][264]LogStaticMesh: Building static mesh Table_v2_2...
+[2018.08.05-20.20.22:733][264]LogStaticMesh: Built static mesh [0.06s] /Game/Geometry/Meshes/Bar/Table_v2_2.Table_v2_2
+[2018.08.05-20.20.22:760][264]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.22:790][265]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_1.fbx]
+[2018.08.05-20.20.22:811][265]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_1.fbx
+[2018.08.05-20.20.22:823][265]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.22:971][265]LogStaticMesh: Building static mesh Table_v2_1...
+[2018.08.05-20.20.23:039][265]LogStaticMesh: Built static mesh [0.07s] /Game/Geometry/Meshes/Bar/Table_v2_1.Table_v2_1
+[2018.08.05-20.20.23:061][265]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.23:093][266]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_2.fbx]
+[2018.08.05-20.20.23:111][266]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_2.fbx
+[2018.08.05-20.20.23:125][266]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.23:196][266]LogStaticMesh: Building static mesh Table_v1_2...
+[2018.08.05-20.20.23:230][266]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/Bar/Table_v1_2.Table_v1_2
+[2018.08.05-20.20.23:246][266]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.23:393][267]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_1.fbx]
+[2018.08.05-20.20.23:405][267]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_1.fbx
+[2018.08.05-20.20.23:414][267]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.23:477][267]LogStaticMesh: Building static mesh Table_v1_1...
+[2018.08.05-20.20.23:509][267]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/Bar/Table_v1_1.Table_v1_1
+[2018.08.05-20.20.23:524][267]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.23:645][268]LogStaticMesh: Building static mesh bar_LP...
+[2018.08.05-20.20.23:796][268]LogStaticMesh: Built static mesh [0.15s] /Game/Assets/Bar/bar_LP.bar_LP
+[2018.08.05-20.20.23:811][268]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/bar_LP.fbx]
+[2018.08.05-20.20.23:825][268]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/bar_LP.fbx
+[2018.08.05-20.20.23:875][268]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.24:054][268]LogStaticMesh: Building static mesh bar_LP...
+[2018.08.05-20.20.24:199][268]LogStaticMesh: Built static mesh [0.15s] /Game/Assets/Bar/bar_LP.bar_LP
+[2018.08.05-20.20.24:235][268]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.24:287][269]LogStaticMesh: Building static mesh Table_v2_Table_Leg...
+[2018.08.05-20.20.24:297][269]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Bar/Table_v2_Table_Leg.Table_v2_Table_Leg
+[2018.08.05-20.20.24:306][269]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx]
+[2018.08.05-20.20.24:323][269]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx
+[2018.08.05-20.20.24:342][269]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.24:357][269]LogStaticMesh: Building static mesh Table_v2_Table_Leg...
+[2018.08.05-20.20.24:367][269]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Bar/Table_v2_Table_Leg.Table_v2_Table_Leg
+[2018.08.05-20.20.24:374][269]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.24:385][269]LogStaticMesh: Building static mesh Table_v2_Table_Leg1...
+[2018.08.05-20.20.24:395][269]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Bar/Table_v2_Table_Leg1.Table_v2_Table_Leg1
+[2018.08.05-20.20.24:398][269]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx]
+[2018.08.05-20.20.24:415][269]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx
+[2018.08.05-20.20.24:434][269]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.24:447][269]LogStaticMesh: Building static mesh Table_v2_Table_Leg1...
+[2018.08.05-20.20.24:455][269]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Bar/Table_v2_Table_Leg1.Table_v2_Table_Leg1
+[2018.08.05-20.20.24:461][269]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.24:473][269]LogStaticMesh: Building static mesh Table_v2_deco10...
+[2018.08.05-20.20.24:480][269]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Bar/Table_v2_deco10.Table_v2_deco10
+[2018.08.05-20.20.24:483][269]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx]
+[2018.08.05-20.20.24:495][269]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx
+[2018.08.05-20.20.24:510][269]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.24:525][269]LogStaticMesh: Building static mesh Table_v2_deco10...
+[2018.08.05-20.20.24:530][269]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Bar/Table_v2_deco10.Table_v2_deco10
+[2018.08.05-20.20.24:538][269]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.24:549][269]LogStaticMesh: Building static mesh Table_v2_deco10_1...
+[2018.08.05-20.20.24:609][269]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Bar/Table_v2_deco10_1.Table_v2_deco10_1
+[2018.08.05-20.20.24:619][269]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx]
+[2018.08.05-20.20.24:632][269]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx
+[2018.08.05-20.20.24:646][269]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.24:757][269]LogStaticMesh: Building static mesh Table_v2_deco10_1...
+[2018.08.05-20.20.24:814][269]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Bar/Table_v2_deco10_1.Table_v2_deco10_1
+[2018.08.05-20.20.24:837][269]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.24:856][269]LogStaticMesh: Building static mesh Table_v2_deco11...
+[2018.08.05-20.20.24:864][269]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Bar/Table_v2_deco11.Table_v2_deco11
+[2018.08.05-20.20.24:867][269]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx]
+[2018.08.05-20.20.24:879][269]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx
+[2018.08.05-20.20.24:896][269]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.24:912][269]LogStaticMesh: Building static mesh Table_v2_deco11...
+[2018.08.05-20.20.24:918][269]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Bar/Table_v2_deco11.Table_v2_deco11
+[2018.08.05-20.20.24:925][269]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.24:937][269]LogStaticMesh: Building static mesh Table_v2_deco11_1...
+[2018.08.05-20.20.24:993][269]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Bar/Table_v2_deco11_1.Table_v2_deco11_1
+[2018.08.05-20.20.25:005][269]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx]
+[2018.08.05-20.20.25:016][269]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx
+[2018.08.05-20.20.25:031][269]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.25:140][269]LogStaticMesh: Building static mesh Table_v2_deco11_1...
+[2018.08.05-20.20.25:197][269]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Bar/Table_v2_deco11_1.Table_v2_deco11_1
+[2018.08.05-20.20.25:220][269]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.25:240][269]LogStaticMesh: Building static mesh Table_v2_deco8...
+[2018.08.05-20.20.25:247][269]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Bar/Table_v2_deco8.Table_v2_deco8
+[2018.08.05-20.20.25:249][269]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx]
+[2018.08.05-20.20.25:260][269]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx
+[2018.08.05-20.20.25:276][269]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.25:292][269]LogStaticMesh: Building static mesh Table_v2_deco8...
+[2018.08.05-20.20.25:298][269]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Bar/Table_v2_deco8.Table_v2_deco8
+[2018.08.05-20.20.25:305][269]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.25:317][269]LogStaticMesh: Building static mesh Table_v2_deco8_1...
+[2018.08.05-20.20.25:376][269]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Bar/Table_v2_deco8_1.Table_v2_deco8_1
+[2018.08.05-20.20.25:388][269]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx]
+[2018.08.05-20.20.25:400][269]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx
+[2018.08.05-20.20.25:415][269]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.25:526][269]LogStaticMesh: Building static mesh Table_v2_deco8_1...
+[2018.08.05-20.20.25:582][269]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Bar/Table_v2_deco8_1.Table_v2_deco8_1
+[2018.08.05-20.20.25:608][269]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.25:627][269]LogStaticMesh: Building static mesh Table_v2_deco9...
+[2018.08.05-20.20.25:633][269]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Bar/Table_v2_deco9.Table_v2_deco9
+[2018.08.05-20.20.25:635][269]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx]
+[2018.08.05-20.20.25:648][269]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx
+[2018.08.05-20.20.25:664][269]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.25:681][269]LogStaticMesh: Building static mesh Table_v2_deco9...
+[2018.08.05-20.20.25:687][269]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Bar/Table_v2_deco9.Table_v2_deco9
+[2018.08.05-20.20.25:693][269]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.25:711][269]LogStaticMesh: Building static mesh Table_v2_deco9_1...
+[2018.08.05-20.20.25:771][269]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Bar/Table_v2_deco9_1.Table_v2_deco9_1
+[2018.08.05-20.20.25:781][269]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx]
+[2018.08.05-20.20.25:794][269]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx
+[2018.08.05-20.20.25:808][269]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.25:926][269]LogStaticMesh: Building static mesh Table_v2_deco9_1...
+[2018.08.05-20.20.25:983][269]LogStaticMesh: Built static mesh [0.06s] /Game/Assets/Bar/Table_v2_deco9_1.Table_v2_deco9_1
+[2018.08.05-20.20.26:006][269]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.26:024][269]LogStaticMesh: Building static mesh Table_v2_table_top...
+[2018.08.05-20.20.26:031][269]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Bar/Table_v2_table_top.Table_v2_table_top
+[2018.08.05-20.20.26:033][269]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx]
+[2018.08.05-20.20.26:046][269]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx
+[2018.08.05-20.20.26:062][269]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.26:072][269]LogStaticMesh: Building static mesh Table_v2_table_top...
+[2018.08.05-20.20.26:077][269]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Bar/Table_v2_table_top.Table_v2_table_top
+[2018.08.05-20.20.26:083][269]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.26:110][270]LogStaticMesh: Building static mesh Table_v1_Table_Leg...
+[2018.08.05-20.20.26:152][270]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Bar/Table_v1_Table_Leg.Table_v1_Table_Leg
+[2018.08.05-20.20.26:158][270]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1.fbx]
+[2018.08.05-20.20.26:172][270]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1.fbx
+[2018.08.05-20.20.26:186][270]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.26:258][270]LogStaticMesh: Building static mesh Table_v1_Table_Leg...
+[2018.08.05-20.20.26:290][270]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Bar/Table_v1_Table_Leg.Table_v1_Table_Leg
+[2018.08.05-20.20.26:305][270]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.26:320][270]LogStaticMesh: Building static mesh Table_v1_deco10...
+[2018.08.05-20.20.26:352][270]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Bar/Table_v1_deco10.Table_v1_deco10
+[2018.08.05-20.20.26:358][270]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1.fbx]
+[2018.08.05-20.20.26:370][270]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1.fbx
+[2018.08.05-20.20.26:381][270]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.26:444][270]LogStaticMesh: Building static mesh Table_v1_deco10...
+[2018.08.05-20.20.26:475][270]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Bar/Table_v1_deco10.Table_v1_deco10
+[2018.08.05-20.20.26:490][270]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.26:505][270]LogStaticMesh: Building static mesh Table_v1_deco11...
+[2018.08.05-20.20.26:539][270]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Bar/Table_v1_deco11.Table_v1_deco11
+[2018.08.05-20.20.26:544][270]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1.fbx]
+[2018.08.05-20.20.26:557][270]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1.fbx
+[2018.08.05-20.20.26:568][270]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.26:634][270]LogStaticMesh: Building static mesh Table_v1_deco11...
+[2018.08.05-20.20.26:666][270]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Bar/Table_v1_deco11.Table_v1_deco11
+[2018.08.05-20.20.26:681][270]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.26:696][270]LogStaticMesh: Building static mesh Table_v1_deco8...
+[2018.08.05-20.20.26:729][270]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Bar/Table_v1_deco8.Table_v1_deco8
+[2018.08.05-20.20.26:736][270]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1.fbx]
+[2018.08.05-20.20.26:748][270]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1.fbx
+[2018.08.05-20.20.26:760][270]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.26:825][270]LogStaticMesh: Building static mesh Table_v1_deco8...
+[2018.08.05-20.20.26:858][270]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Bar/Table_v1_deco8.Table_v1_deco8
+[2018.08.05-20.20.26:872][270]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.26:886][270]LogStaticMesh: Building static mesh Table_v1_deco9...
+[2018.08.05-20.20.26:918][270]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Bar/Table_v1_deco9.Table_v1_deco9
+[2018.08.05-20.20.26:924][270]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1.fbx]
+[2018.08.05-20.20.26:935][270]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1.fbx
+[2018.08.05-20.20.26:947][270]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.27:008][270]LogStaticMesh: Building static mesh Table_v1_deco9...
+[2018.08.05-20.20.27:040][270]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Bar/Table_v1_deco9.Table_v1_deco9
+[2018.08.05-20.20.27:057][270]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.27:072][270]LogStaticMesh: Building static mesh Table_v1_table_top...
+[2018.08.05-20.20.27:104][270]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Bar/Table_v1_table_top.Table_v1_table_top
+[2018.08.05-20.20.27:111][270]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1.fbx]
+[2018.08.05-20.20.27:123][270]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1.fbx
+[2018.08.05-20.20.27:137][270]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.27:199][270]LogStaticMesh: Building static mesh Table_v1_table_top...
+[2018.08.05-20.20.27:233][270]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Bar/Table_v1_table_top.Table_v1_table_top
+[2018.08.05-20.20.27:248][270]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.27:275][271]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/blockout_mit_assets.fbx]
+[2018.08.05-20.20.27:298][271]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/blockout_mit_assets.fbx
+[2018.08.05-20.20.27:494][271]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.05-20.20.29:727][271]LogStaticMesh: Building static mesh blockout_mit_assets...
+[2018.08.05-20.20.31:465][271]LogStaticMesh: Built static mesh [1.74s] /Game/Geometry/Blockout/blockout_mit_assets.blockout_mit_assets
+[2018.08.05-20.20.31:954][271]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.32:198][272]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_OcclusionRoughnessMetallic.tga]
+[2018.08.05-20.20.32:215][272]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_OcclusionRoughnessMetallic.tga)
+[2018.08.05-20.20.33:236][272]LogEditorFactories: -- imported successfully
+[2018.08.05-20.20.34:016][273]LogSavePackage: Save=194.58ms
+[2018.08.05-20.20.34:016][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_NormalA3012C7D4BEFABB324C6BB9BB4B24943.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_Normal.uasset'
+[2018.08.05-20.20.34:027][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_Normal.uasset
+[2018.08.05-20.20.34:341][273]LogSavePackage: Save=262.86ms
+[2018.08.05-20.20.34:341][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_BaseColorC3E9D5C74AC49833A30F539208E69AE8.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_BaseColor.uasset'
+[2018.08.05-20.20.34:352][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_BaseColor.uasset
+[2018.08.05-20.20.34:435][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Bar/Table_v2_2" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_2.uasset" SILENT=true
+[2018.08.05-20.20.34:461][273]LogSavePackage: Save=15.31ms
+[2018.08.05-20.20.34:461][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v2_2F6FB330643188EE8DD5547B5ED4ACF34.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_2.uasset'
+[2018.08.05-20.20.34:470][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_2.uasset
+[2018.08.05-20.20.34:517][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Bar/Table_v2_1" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_1.uasset" SILENT=true
+[2018.08.05-20.20.34:555][273]LogSavePackage: Save=16.71ms
+[2018.08.05-20.20.34:555][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v2_10F254BC44F18114248AE5BBFAF9601E1.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_1.uasset'
+[2018.08.05-20.20.34:563][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_1.uasset
+[2018.08.05-20.20.34:612][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Bar/Table_v1_2" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_2.uasset" SILENT=true
+[2018.08.05-20.20.34:638][273]LogSavePackage: Save=15.54ms
+[2018.08.05-20.20.34:639][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v1_2F4DC722741D84DA724F2399609592423.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_2.uasset'
+[2018.08.05-20.20.34:647][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_2.uasset
+[2018.08.05-20.20.34:699][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Bar/Table_v1_1" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_1.uasset" SILENT=true
+[2018.08.05-20.20.34:727][273]LogSavePackage: Save=15.87ms
+[2018.08.05-20.20.34:727][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v1_1FB1565274838A3010CB00BA283463C26.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_1.uasset'
+[2018.08.05-20.20.34:736][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_1.uasset
+[2018.08.05-20.20.34:800][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/bar_LP" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/bar_LP.uasset" SILENT=true
+[2018.08.05-20.20.34:826][273]LogSavePackage: Save=17.34ms
+[2018.08.05-20.20.34:826][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/bar_LP2434C8B54E4297DD709E7AA676C560A2.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/bar_LP.uasset'
+[2018.08.05-20.20.34:835][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/bar_LP.uasset
+[2018.08.05-20.20.34:883][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Table_v2_Table_Leg" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_Table_Leg.uasset" SILENT=true
+[2018.08.05-20.20.34:909][273]LogSavePackage: Save=17.01ms
+[2018.08.05-20.20.34:909][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v2_Table_Leg0130500C42C6DFCF4FAC4BAA37DD0B0D.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_Table_Leg.uasset'
+[2018.08.05-20.20.34:918][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_Table_Leg.uasset
+[2018.08.05-20.20.34:965][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Table_v2_Table_Leg1" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_Table_Leg1.uasset" SILENT=true
+[2018.08.05-20.20.34:990][273]LogSavePackage: Save=15.67ms
+[2018.08.05-20.20.34:990][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v2_Table_Leg10B9340E848B4AE51EA41BCA86FCB991F.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_Table_Leg1.uasset'
+[2018.08.05-20.20.34:997][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_Table_Leg1.uasset
+[2018.08.05-20.20.35:054][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Table_v2_deco10" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco10.uasset" SILENT=true
+[2018.08.05-20.20.35:078][273]LogSavePackage: Save=15.43ms
+[2018.08.05-20.20.35:078][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v2_deco10764EEC5D4DF2A0DB16A00E8C05F3F0F0.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco10.uasset'
+[2018.08.05-20.20.35:087][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco10.uasset
+[2018.08.05-20.20.35:135][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Table_v2_deco10_1" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco10_1.uasset" SILENT=true
+[2018.08.05-20.20.35:162][273]LogSavePackage: Save=18.23ms
+[2018.08.05-20.20.35:162][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v2_deco10_166E781494B47FF227E9BB180817069DA.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco10_1.uasset'
+[2018.08.05-20.20.35:171][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco10_1.uasset
+[2018.08.05-20.20.35:221][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Table_v2_deco11" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco11.uasset" SILENT=true
+[2018.08.05-20.20.35:246][273]LogSavePackage: Save=16.65ms
+[2018.08.05-20.20.35:246][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v2_deco11170B83C24D32A1071AA25AA6171ACAEE.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco11.uasset'
+[2018.08.05-20.20.35:255][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco11.uasset
+[2018.08.05-20.20.35:308][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Table_v2_deco11_1" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco11_1.uasset" SILENT=true
+[2018.08.05-20.20.35:337][273]LogSavePackage: Save=17.58ms
+[2018.08.05-20.20.35:337][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v2_deco11_143C72D2F4AE934B521B4A990B45269F2.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco11_1.uasset'
+[2018.08.05-20.20.35:345][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco11_1.uasset
+[2018.08.05-20.20.35:395][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Table_v2_deco8" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco8.uasset" SILENT=true
+[2018.08.05-20.20.35:420][273]LogSavePackage: Save=15.95ms
+[2018.08.05-20.20.35:420][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v2_deco82F4777764493C0E245476BAAAD13F806.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco8.uasset'
+[2018.08.05-20.20.35:429][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco8.uasset
+[2018.08.05-20.20.35:478][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Table_v2_deco8_1" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco8_1.uasset" SILENT=true
+[2018.08.05-20.20.35:507][273]LogSavePackage: Save=17.95ms
+[2018.08.05-20.20.35:507][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v2_deco8_1971349F24EC750BD6905DD8BE82637E8.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco8_1.uasset'
+[2018.08.05-20.20.35:515][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco8_1.uasset
+[2018.08.05-20.20.35:572][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Table_v2_deco9" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco9.uasset" SILENT=true
+[2018.08.05-20.20.35:609][273]LogSavePackage: Save=27.19ms
+[2018.08.05-20.20.35:609][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v2_deco970923A8C425EBDCE1B3E8F9E45B0F86E.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco9.uasset'
+[2018.08.05-20.20.35:630][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco9.uasset
+[2018.08.05-20.20.35:696][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Table_v2_deco9_1" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco9_1.uasset" SILENT=true
+[2018.08.05-20.20.35:730][273]LogSavePackage: Save=20.39ms
+[2018.08.05-20.20.35:730][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v2_deco9_14364C0B9482F961F1EE86C856484E978.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco9_1.uasset'
+[2018.08.05-20.20.35:742][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_deco9_1.uasset
+[2018.08.05-20.20.35:791][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Table_v2_table_top" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_table_top.uasset" SILENT=true
+[2018.08.05-20.20.35:857][273]LogSavePackage: Save=24.61ms
+[2018.08.05-20.20.35:857][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v2_table_top677ACC8749E83FDAD1EA47978607BF54.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_table_top.uasset'
+[2018.08.05-20.20.35:869][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2_table_top.uasset
+[2018.08.05-20.20.35:922][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Table_v1_Table_Leg" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1_Table_Leg.uasset" SILENT=true
+[2018.08.05-20.20.35:965][273]LogSavePackage: Save=27.25ms
+[2018.08.05-20.20.35:965][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v1_Table_LegE72399F6457C5F3A942366BE121B9908.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1_Table_Leg.uasset'
+[2018.08.05-20.20.35:982][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1_Table_Leg.uasset
+[2018.08.05-20.20.36:036][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Table_v1_deco10" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1_deco10.uasset" SILENT=true
+[2018.08.05-20.20.36:128][273]LogSavePackage: Save=36.30ms
+[2018.08.05-20.20.36:128][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v1_deco10171BF07047119EE68F4F058438B58331.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1_deco10.uasset'
+[2018.08.05-20.20.36:148][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1_deco10.uasset
+[2018.08.05-20.20.36:277][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Table_v1_deco11" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1_deco11.uasset" SILENT=true
+[2018.08.05-20.20.36:388][273]LogSavePackage: Save=38.99ms
+[2018.08.05-20.20.36:388][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v1_deco110C69547F4D76A22FD8547DBD516FC851.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1_deco11.uasset'
+[2018.08.05-20.20.36:397][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1_deco11.uasset
+[2018.08.05-20.20.36:452][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Table_v1_deco8" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1_deco8.uasset" SILENT=true
+[2018.08.05-20.20.36:644][273]LogSavePackage: Save=169.14ms
+[2018.08.05-20.20.36:644][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v1_deco839A5A1E2462B264CB895C0B2645C9E06.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1_deco8.uasset'
+[2018.08.05-20.20.36:664][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1_deco8.uasset
+[2018.08.05-20.20.36:730][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Table_v1_deco9" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1_deco9.uasset" SILENT=true
+[2018.08.05-20.20.36:780][273]LogSavePackage: Save=34.79ms
+[2018.08.05-20.20.36:780][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v1_deco9E8588A9141BB7E9BB82843A21DD498F6.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1_deco9.uasset'
+[2018.08.05-20.20.36:796][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1_deco9.uasset
+[2018.08.05-20.20.36:856][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Table_v1_table_top" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1_table_top.uasset" SILENT=true
+[2018.08.05-20.20.36:885][273]LogSavePackage: Save=20.37ms
+[2018.08.05-20.20.36:886][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v1_table_top786464614C3FB1F4923224A3AF1F8617.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1_table_top.uasset'
+[2018.08.05-20.20.36:894][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1_table_top.uasset
+[2018.08.05-20.20.37:146][273]LogSavePackage: Save=29.84ms
+[2018.08.05-20.20.37:146][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/blockout_mit_assetsEE6B4EE841AFA334F553BBBD13AAE4EC.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Blockout/blockout_mit_assets.uasset'
+[2018.08.05-20.20.37:163][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Blockout/blockout_mit_assets.uasset
+[2018.08.05-20.20.37:541][273]LogSavePackage: Save=314.69ms
+[2018.08.05-20.20.37:541][273]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_OcclusionRoughnessMetallicE64FA8D84ADF28007C3B6DBC6D28DF99.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_OcclusionRoughnessMetallic.uasset'
+[2018.08.05-20.20.37:549][273]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_OcclusionRoughnessMetallic.uasset
+[2018.08.05-20.20.40:613][283]AssetReimport: Reimported asset Table_Normal from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_Normal.tga.
+[2018.08.05-20.20.40:613][283]AssetReimport: Reimported asset Table_BaseColor from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_BaseColor.tga.
+[2018.08.05-20.20.40:613][283]AssetReimport: Reimported asset Table_v2_2 from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_2.fbx.
+[2018.08.05-20.20.40:613][283]AssetReimport: Reimported asset Table_v2_1 from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_1.fbx.
+[2018.08.05-20.20.40:614][283]AssetReimport: Reimported asset Table_v1_2 from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_2.fbx.
+[2018.08.05-20.20.40:614][283]AssetReimport: Reimported asset Table_v1_1 from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_1.fbx.
+[2018.08.05-20.20.40:614][283]AssetReimport: Reimported asset bar_LP from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/bar_LP.fbx.
+[2018.08.05-20.20.40:614][283]AssetReimport: Reimported asset Table_v2_Table_Leg from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx.
+[2018.08.05-20.20.40:614][283]AssetReimport: Reimported asset Table_v2_Table_Leg1 from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx.
+[2018.08.05-20.20.40:614][283]AssetReimport: Reimported asset Table_v2_deco10 from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx.
+[2018.08.05-20.20.40:614][283]AssetReimport: Reimported asset Table_v2_deco10_1 from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx.
+[2018.08.05-20.20.40:614][283]AssetReimport: Reimported asset Table_v2_deco11 from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx.
+[2018.08.05-20.20.40:614][283]AssetReimport: Reimported asset Table_v2_deco11_1 from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx.
+[2018.08.05-20.20.40:614][283]AssetReimport: Reimported asset Table_v2_deco8 from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx.
+[2018.08.05-20.20.40:614][283]AssetReimport: Reimported asset Table_v2_deco8_1 from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx.
+[2018.08.05-20.20.40:614][283]AssetReimport: Reimported asset Table_v2_deco9 from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx.
+[2018.08.05-20.20.40:614][283]AssetReimport: Reimported asset Table_v2_deco9_1 from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx.
+[2018.08.05-20.20.40:614][283]AssetReimport: Reimported asset Table_v2_table_top from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v2.fbx.
+[2018.08.05-20.20.40:614][283]AssetReimport: Reimported asset Table_v1_Table_Leg from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1.fbx.
+[2018.08.05-20.20.40:614][283]AssetReimport: Reimported asset Table_v1_deco10 from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1.fbx.
+[2018.08.05-20.20.40:614][283]AssetReimport: Reimported asset Table_v1_deco11 from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1.fbx.
+[2018.08.05-20.20.40:615][283]AssetReimport: Reimported asset Table_v1_deco8 from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1.fbx.
+[2018.08.05-20.20.40:615][283]AssetReimport: Reimported asset Table_v1_deco9 from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1.fbx.
+[2018.08.05-20.20.40:615][283]AssetReimport: Reimported asset Table_v1_table_top from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table_v1.fbx.
+[2018.08.05-20.20.40:615][283]AssetReimport: Reimported asset blockout_mit_assets from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/blockout_mit_assets.fbx.
+[2018.08.05-20.20.40:615][283]AssetReimport: Reimported asset Table_OcclusionRoughnessMetallic from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_OcclusionRoughnessMetallic.tga.
