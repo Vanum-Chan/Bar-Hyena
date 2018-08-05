@@ -1,4 +1,4 @@
-﻿Log file open, 08/05/18 20:28:08
+﻿Log file open, 08/05/18 22:13:28
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: Roadhouse
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(1224000589) SRandInit(1224000589).
+LogInit: Display: RandInit(-1142662337) SRandInit(-1142662337).
 LogInit: Read version file with build ID '3944462'
 LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
 LogInit: Registered custom module enumerator with build ID '3944462'
 LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.187420
+LogStats: Stats thread started at 0.189842
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
@@ -168,7 +168,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  2.196s to configure plugins.
+LogStreaming: Display: Took  2.037s to configure plugins.
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -219,937 +219,262 @@ LogInit: Branch Name: ++UE4+Release-4.19
 LogInit: Command Line: -EpicPortal 
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
-LogStreaming: Display: Took  0.002s to delete old logs.
+LogStreaming: Display: Took  0.001s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.08.05-18.28.11:105][  0]LogInit: Selected Device Profile: [Windows]
-[2018.08.05-18.28.11:106][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.08.05-18.28.11:124][  0]LogInit: Computer: DESKTOP-5J6HU0I
-[2018.08.05-18.28.11:124][  0]LogInit: User: usagi
-[2018.08.05-18.28.11:124][  0]LogInit: CPU Page size=4096, Cores=2
-[2018.08.05-18.28.11:124][  0]LogInit: High frequency timer resolution =2.343747 MHz
-[2018.08.05-18.28.11:125][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2018.08.05-18.28.11:125][  0]LogMemory: Platform Memory Stats for Windows
-[2018.08.05-18.28.11:125][  0]LogMemory: Process Physical Memory: 274.09 MB used, 274.09 MB peak
-[2018.08.05-18.28.11:125][  0]LogMemory: Process Virtual Memory: 266.02 MB used, 266.02 MB peak
-[2018.08.05-18.28.11:125][  0]LogMemory: Physical Memory: 6486.77 MB used,  9811.17 MB free, 16297.94 MB total
-[2018.08.05-18.28.11:125][  0]LogMemory: Virtual Memory: 4762.94 MB used,  9811.17 MB free, 134217728.00 MB total
-[2018.08.05-18.28.11:157][  0]LogInit: Using OS detected language (de-DE).
-[2018.08.05-18.28.11:157][  0]LogInit: Using OS detected locale (de-DE).
-[2018.08.05-18.28.11:162][  0]LogTextLocalizationManager: No localization for 'de-DE' exists, so 'en' will be used for the language.
-[2018.08.05-18.28.11:794][  0]LogStreaming: Display: Took  0.637s to EndInitTextLocalization.
-[2018.08.05-18.28.11:794][  0]LogInit: Setting process to per monitor DPI aware
-[2018.08.05-18.28.11:830][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.08.05-18.28.11:830][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.08.05-18.28.12:195][  0]LogD3D11RHI: D3D11 adapters:
-[2018.08.05-18.28.12:273][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
-[2018.08.05-18.28.12:273][  0]LogD3D11RHI:       2010/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.08.05-18.28.12:281][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
-[2018.08.05-18.28.12:281][  0]LogD3D11RHI:       128/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2018.08.05-18.28.12:286][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.08.05-18.28.12:286][  0]LogD3D11RHI:       0/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.08.05-18.28.12:286][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.08.05-18.28.12:307][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.08.05-18.28.12:307][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
-[2018.08.05-18.28.12:307][  0]LogWindows: EnumDisplayDevices:
-[2018.08.05-18.28.12:307][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
-[2018.08.05-18.28.12:307][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
-[2018.08.05-18.28.12:307][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
-[2018.08.05-18.28.12:308][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.08.05-18.28.12:308][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
-[2018.08.05-18.28.12:308][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.08.05-18.28.12:308][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.08.05-18.28.12:308][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
-[2018.08.05-18.28.12:362][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2018.08.05-18.28.12:362][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2018.08.05-18.28.12:362][  0]LogD3D11RHI: Async texture creation enabled
-[2018.08.05-18.28.12:383][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2018.08.05-18.28.12:385][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Intermediate/Shaders/WorkingDirectory/12928/).
-[2018.08.05-18.28.12:385][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/usagi/AppData/Local/Temp/UnrealShaderWorkingDir/0E791DA24BCA77C072D4649849544FFD/'.
-[2018.08.05-18.28.12:768][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.08.05-18.28.12:790][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.08.05-18.28.12:813][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.08.05-18.28.12:836][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.08.05-18.28.12:857][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.08.05-18.28.12:877][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.08.05-18.28.12:896][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.08.05-18.28.12:915][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.08.05-18.28.12:926][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.08.05-18.28.12:943][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.08.05-18.28.12:960][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.08.05-18.28.12:978][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.08.05-18.28.12:996][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
-[2018.08.05-18.28.13:014][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.08.05-18.28.13:031][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.08.05-18.28.13:067][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.08.05-18.28.13:067][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.08.05-18.28.13:084][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.08.05-18.28.13:086][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.08.05-18.28.13:132][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.08.05-18.28.13:150][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.08.05-18.28.13:169][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.08.05-18.28.13:186][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.08.05-18.28.13:204][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.08.05-18.28.13:225][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.08.05-18.28.13:225][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.08.05-18.28.13:434][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.08.05-18.28.13:434][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.08.05-18.28.13:434][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.08.05-18.28.14:437][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.08.05-18.28.14:522][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/usagi/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.08.05-18.28.14:522][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/usagi/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
-[2018.08.05-18.28.14:522][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.08.05-18.28.14:522][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.08.05-18.28.14:522][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.08.05-18.28.14:522][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.08.05-18.28.14:544][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.08.05-18.28.14:558][  0]LogDerivedDataCache: Using Local data cache path C:/Users/usagi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.08.05-18.28.14:558][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.08.05-18.28.14:558][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.08.05-18.28.14:577][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.08.05-18.28.14:578][  0]LogSlate: Using Freetype 2.6.0
-[2018.08.05-18.28.14:579][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.08.05-18.28.14:579][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.08.05-18.28.14:817][  0]LogAssetRegistry: FAssetRegistry took 0.0296 seconds to start up
-[2018.08.05-18.28.15:335][  0]LogInit: Selected Device Profile: [Windows]
-[2018.08.05-18.28.15:582][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.08.05-18.28.15:587][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.08.05-18.28.15:587][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.08.05-18.28.15:587][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.08.05-18.28.15:587][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.08.05-18.28.15:587][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.08.05-18.28.15:646][  0]LogNetVersion: Roadhouse , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 487093703)
-[2018.08.05-18.28.16:321][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.084415 seconds
-[2018.08.05-18.28.16:330][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
-[2018.08.05-18.28.16:330][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
-[2018.08.05-18.28.16:330][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.08.05-18.28.19:155][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.08.05-18.28.19:204][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.08.05-18.28.19:867][  0]SourceControl: Source control is disabled
-[2018.08.05-18.28.21:560][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.08.05-18.28.21:830][  0]LogOcInput: OculusInput pre-init called
-[2018.08.05-18.28.22:005][  0]LogEngine: Initializing Engine...
-[2018.08.05-18.28.22:007][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.08.05-18.28.22:009][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.08.05-18.28.22:009][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.08.05-18.28.22:324][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.08.05-18.28.22:337][  0]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.08.05-18.28.22:360][  0]LogInit: FAudioDevice initialized.
-[2018.08.05-18.28.22:451][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/usagi/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.08.05-18.28.22:463][  0]LogInit: Texture streaming: Enabled
-[2018.08.05-18.28.22:491][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.08.05-18.28.22:510][  0]LogInit: Transaction tracking system initialized
-[2018.08.05-18.28.22:549][  0]BlueprintLog: New page: Editor Load
-[2018.08.05-18.28.22:670][  0]LocalizationService: Localization service is disabled
-[2018.08.05-18.28.22:844][  0]LogConsoleResponse: Display: 
-[2018.08.05-18.28.23:119][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.08.05-18.28.23:119][  0]LogCook: Display: Mobile HDR setting 1
-[2018.08.05-18.28.23:119][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.08.05-18.28.23:119][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.08.05-18.28.23:119][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.08.05-18.28.23:897][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/' took 0.02s
-[2018.08.05-18.28.23:939][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.08.05-18.28.23:941][  0]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.08.05-18.28.41:312][  0]LogSlate: Window 'Restore Packages' being destroyed
-[2018.08.05-18.28.41:313][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.08.05-18.28.41:317][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.08.05-18.28.41:507][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.08.05-18.28.41:508][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.08.05-18.28.41:589][  0]Cmd: MAP LOAD FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.08.05-18.28.41:590][  0]LightingResults: New page: Lighting Build
-[2018.08.05-18.28.41:596][  0]MapCheck: New page: Map Check
-[2018.08.05-18.28.41:596][  0]LightingResults: New page: Lighting Build
-[2018.08.05-18.28.41:711][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025614be1c60, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
-[2018.08.05-18.28.41:729][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025614be1c60, Size=72
-[2018.08.05-18.28.41:729][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025602f0f420, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
-[2018.08.05-18.28.41:746][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256084918a0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
-[2018.08.05-18.28.41:764][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025608464900, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
-[2018.08.05-18.28.41:771][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025608464900, Size=256
-[2018.08.05-18.28.41:771][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025608464900, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_4:ExecuteUbergraph_FirstPersonProjectile
-[2018.08.05-18.28.41:775][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025608466700, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
-[2018.08.05-18.28.41:977][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000256027e1300, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
-[2018.08.05-18.28.41:993][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256027e1300, Size=688
-[2018.08.05-18.28.41:993][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002560277a800, Size=688, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_6:ExecuteUbergraph_FirstPersonCharacter
-[2018.08.05-18.28.42:006][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025602778d00, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
-[2018.08.05-18.28.42:133][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out'
-[2018.08.05-18.28.42:133][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xmodular/Door_pb.uasset.
-[2018.08.05-18.28.42:133][  0]LoadErrors: Error: /Game/Assets/Xmodular/Door_pb : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Door_out
-[2018.08.05-18.28.42:134][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door'
-[2018.08.05-18.28.42:134][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xmodular/Door_pb.uasset.
-[2018.08.05-18.28.42:134][  0]LoadErrors: Error: /Game/Assets/Xmodular/Door_pb : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door
-[2018.08.05-18.28.42:135][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door'
-[2018.08.05-18.28.42:135][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xmodular/Door_pb.uasset.
-[2018.08.05-18.28.42:135][  0]LoadErrors: Error: /Game/Assets/Xmodular/Door_pb : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door
-[2018.08.05-18.28.42:135][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out'
-[2018.08.05-18.28.42:135][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xmodular/Door_pb.uasset.
-[2018.08.05-18.28.42:135][  0]LoadErrors: Error: /Game/Assets/Xmodular/Door_pb : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Door_out
-[2018.08.05-18.28.42:135][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door'
-[2018.08.05-18.28.42:136][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xmodular/Door_pb.uasset.
-[2018.08.05-18.28.42:136][  0]LoadErrors: Error: /Game/Assets/Xmodular/Door_pb : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door
-[2018.08.05-18.28.42:136][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door'
-[2018.08.05-18.28.42:136][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xmodular/Door_pb.uasset.
-[2018.08.05-18.28.42:136][  0]LoadErrors: Error: /Game/Assets/Xmodular/Door_pb : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door
-[2018.08.05-18.28.42:137][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025675a89900, Size=384, Default__Door_pb_C Function /Game/Assets/Xmodular/Door_pb.Door_pb_C:ExecuteUbergraph_Door_pb
-[2018.08.05-18.28.42:138][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out'
-[2018.08.05-18.28.42:138][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
-[2018.08.05-18.28.42:138][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Door_out
-[2018.08.05-18.28.42:138][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door'
-[2018.08.05-18.28.42:138][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
-[2018.08.05-18.28.42:138][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door
-[2018.08.05-18.28.42:138][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door'
-[2018.08.05-18.28.42:138][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
-[2018.08.05-18.28.42:138][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door
-[2018.08.05-18.28.42:139][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out'
-[2018.08.05-18.28.42:139][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
-[2018.08.05-18.28.42:139][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Door_out
-[2018.08.05-18.28.42:139][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door'
-[2018.08.05-18.28.42:139][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
-[2018.08.05-18.28.42:139][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door
-[2018.08.05-18.28.42:139][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door'
-[2018.08.05-18.28.42:139][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
-[2018.08.05-18.28.42:139][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door
-[2018.08.05-18.28.42:141][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door'
-[2018.08.05-18.28.42:141][  0]LoadErrors: Failed to load /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door.Wall_door Referenced by Wall_door1_GEN_VARIABLE
-[2018.08.05-18.28.42:142][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
-[2018.08.05-18.28.42:142][  0]LoadErrors: Failed to load /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door.Wall_door Referenced by Wall_door1_GEN_VARIABLE
-[2018.08.05-18.28.42:142][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door
-[2018.08.05-18.28.42:142][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door'
-[2018.08.05-18.28.42:142][  0]LoadErrors: Failed to load /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door.Wall_interrior_door Referenced by Wall_interrior_door_GEN_VARIABLE
-[2018.08.05-18.28.42:142][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
-[2018.08.05-18.28.42:142][  0]LoadErrors: Failed to load /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door.Wall_interrior_door Referenced by Wall_interrior_door_GEN_VARIABLE
-[2018.08.05-18.28.42:142][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door
-[2018.08.05-18.28.42:143][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out'
-[2018.08.05-18.28.42:143][  0]LoadErrors: Failed to load /Game/UE4-Jagdhuette/Assets/Xmodular/Door_out.Door_out Referenced by Door_out1_GEN_VARIABLE
-[2018.08.05-18.28.42:143][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
-[2018.08.05-18.28.42:143][  0]LoadErrors: Failed to load /Game/UE4-Jagdhuette/Assets/Xmodular/Door_out.Door_out Referenced by Door_out1_GEN_VARIABLE
-[2018.08.05-18.28.42:143][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Door_out
-[2018.08.05-18.28.42:145][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025675a89900, Size=384
-[2018.08.05-18.28.42:145][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025609e52680, Size=384, Default__Door_pb_C Function /Engine/Transient.REINST_Door_pb_C_10:ExecuteUbergraph_Door_pb
-[2018.08.05-18.28.42:150][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000025615042500, Size=384, Default__Door_pb_C Function /Game/Assets/Xmodular/Door_pb.Door_pb_C:ExecuteUbergraph_Door_pb
-[2018.08.05-18.28.42:158][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002560ab13318, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
-[2018.08.05-18.28.42:162][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002560ab13318, Size=52
-[2018.08.05-18.28.42:162][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002560ab13318, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_12:ExecuteUbergraph_FirstPersonHUD
-[2018.08.05-18.28.42:166][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002560ab12f28, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
-[2018.08.05-18.28.43:060][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [7.331850ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
-[2018.08.05-18.28.43:084][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [10.734947ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
-[2018.08.05-18.28.43:560][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
-[2018.08.05-18.28.43:605][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.08.05-18.28.43:628][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025602f0f420, Size=72
-[2018.08.05-18.28.43:628][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025608464900, Size=256
-[2018.08.05-18.28.43:628][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002560277a800, Size=688
-[2018.08.05-18.28.43:628][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025609e52680, Size=384
-[2018.08.05-18.28.43:628][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002560ab13318, Size=52
-[2018.08.05-18.28.43:631][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.08.05-18.28.43:820][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 189,07ms to complete.
-[2018.08.05-18.28.43:820][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 2.231
-[2018.08.05-18.28.43:988][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_a40_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_1d70_0///####STATCAT_Advanced####
-[2018.08.05-18.28.43:989][  0]LogCollectionManager: Loaded 0 collections in 0.003909 seconds
-[2018.08.05-18.28.44:068][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Collections/' took 0.01s
-[2018.08.05-18.28.44:068][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Developers/usagi/Collections/' took 0.01s
-[2018.08.05-18.28.44:068][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Collections/' took 0.01s
-[2018.08.05-18.28.44:068][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.08.05-18.28.44:088][  0]LogContentBrowser: Native class hierarchy populated in 0.0173 seconds. Added 2452 classes and 558 folders.
-[2018.08.05-18.28.44:109][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2018.08.05-18.28.44:367][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2018.08.05-18.28.44:385][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
-[2018.08.05-18.28.44:457][  0]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.08.05-18.28.44:470][  0]LogSlate: Took 0.003782 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.08.05-18.28.44:675][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
-[2018.08.05-18.28.45:058][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
-[2018.08.05-18.28.45:058][  0]LogLoad: (Engine Initialization) Total time: 38.23 seconds
-[2018.08.05-18.28.45:058][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.08.05-18.28.45:107][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.08.05-18.28.45:111][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.08.05-18.28.45:147][  0]LogSlate: Took 0.002236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.08.05-18.28.45:592][  2]LogAssetRegistry: Asset discovery search completed in 30.7982 seconds
-[2018.08.05-18.28.45:594][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.08.05-18.28.45:594][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000076 seconds (updated 0 objects)
-[2018.08.05-18.28.48:096][151]LogSlate: Took 0.000732 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.08.05-18.28.48:722][182]LogEditorViewport: Clicking on Actor (LMB): Door_pb_C (Door_pb)
-[2018.08.05-18.28.50:200][250]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/' took 5.12s
-[2018.08.05-18.28.58:208][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.08.05-18.29.06:338][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall3)
-[2018.08.05-18.29.07:248][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall3)
-[2018.08.05-18.29.07:891][165]LogEditorViewport: Clicking on Actor (LMB): Door_pb_C (Door_pb)
-[2018.08.05-18.29.16:381][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v2_2)
-[2018.08.05-18.29.29:994][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.08.05-18.29.32:353][452]LogSlate: Window 'Message Log' being destroyed
-[2018.08.05-18.29.32:361][452]LogSlate: Window 'Message Log' being destroyed
-[2018.08.05-18.29.34:405][572]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.08.05-18.30.04:542][386]AssetReimport: New page: Outstanding source content changes 22:30:04
-[2018.08.05-18.30.04:557][386]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/blockout_mit_assets.fbx]
-[2018.08.05-18.30.04:589][386]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/blockout_mit_assets.fbx
-[2018.08.05-18.30.04:768][386]LogFbx: FBX Scene Loaded Succesfully
-[2018.08.05-18.30.06:643][386]LogStaticMesh: Building static mesh blockout_mit_assets...
-[2018.08.05-18.30.07:844][386]LogStaticMesh: Built static mesh [1.20s] /Game/Geometry/Blockout/blockout_mit_assets.blockout_mit_assets
-[2018.08.05-18.30.08:214][386]LogEditorFactories: -- imported successfully
-[2018.08.05-18.30.08:458][387]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_1.fbx]
-[2018.08.05-18.30.08:475][387]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_1.fbx
-[2018.08.05-18.30.08:488][387]LogFbx: FBX Scene Loaded Succesfully
-[2018.08.05-18.30.08:560][387]LogStaticMesh: Building static mesh Table_v1_1...
-[2018.08.05-18.30.08:593][387]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/Bar/Table_v1_1.Table_v1_1
-[2018.08.05-18.30.08:609][387]LogEditorFactories: -- imported successfully
-[2018.08.05-18.30.08:647][388]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_2.fbx]
-[2018.08.05-18.30.08:664][388]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_2.fbx
-[2018.08.05-18.30.08:675][388]LogFbx: FBX Scene Loaded Succesfully
-[2018.08.05-18.30.08:749][388]LogStaticMesh: Building static mesh Table_v1_2...
-[2018.08.05-18.30.08:784][388]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/Bar/Table_v1_2.Table_v1_2
-[2018.08.05-18.30.08:799][388]LogEditorFactories: -- imported successfully
-[2018.08.05-18.30.08:831][389]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_1.fbx]
-[2018.08.05-18.30.08:850][389]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_1.fbx
-[2018.08.05-18.30.08:862][389]LogFbx: FBX Scene Loaded Succesfully
-[2018.08.05-18.30.08:993][389]LogStaticMesh: Building static mesh Table_v2_1...
-[2018.08.05-18.30.09:050][389]LogStaticMesh: Built static mesh [0.06s] /Game/Geometry/Meshes/Bar/Table_v2_1.Table_v2_1
-[2018.08.05-18.30.09:077][389]LogEditorFactories: -- imported successfully
-[2018.08.05-18.30.09:109][390]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_2.fbx]
-[2018.08.05-18.30.09:126][390]LogFbx: Loading FBX Scene from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_2.fbx
-[2018.08.05-18.30.09:140][390]LogFbx: FBX Scene Loaded Succesfully
-[2018.08.05-18.30.09:266][390]LogStaticMesh: Building static mesh Table_v2_2...
-[2018.08.05-18.30.09:325][390]LogStaticMesh: Built static mesh [0.06s] /Game/Geometry/Meshes/Bar/Table_v2_2.Table_v2_2
-[2018.08.05-18.30.09:347][390]LogEditorFactories: -- imported successfully
-[2018.08.05-18.30.09:392][391]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_BaseColor.tga]
-[2018.08.05-18.30.09:404][391]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_BaseColor.tga)
-[2018.08.05-18.30.10:740][391]LogEditorFactories: -- imported successfully
-[2018.08.05-18.30.10:793][392]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_Normal.tga]
-[2018.08.05-18.30.10:806][392]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_Normal.tga)
-[2018.08.05-18.30.11:060][392]LogEditorFactories: -- imported successfully
-[2018.08.05-18.30.11:111][393]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_OcclusionRoughnessMetallic.tga]
-[2018.08.05-18.30.11:123][393]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_OcclusionRoughnessMetallic.tga)
-[2018.08.05-18.30.12:136][393]LogEditorFactories: -- imported successfully
-[2018.08.05-18.30.12:687][394]LogSavePackage: Save=28.26ms
-[2018.08.05-18.30.12:687][394]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/blockout_mit_assets59511D004D469F40B0DF438F6EF705AC.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Blockout/blockout_mit_assets.uasset'
-[2018.08.05-18.30.12:695][394]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Blockout/blockout_mit_assets.uasset
-[2018.08.05-18.30.12:734][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Bar/Table_v1_1" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_1.uasset" SILENT=true
-[2018.08.05-18.30.12:769][394]LogSavePackage: Save=16.91ms
-[2018.08.05-18.30.12:769][394]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v1_1C79C79474342197E1AFA58BB9D9C780D.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_1.uasset'
-[2018.08.05-18.30.12:777][394]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_1.uasset
-[2018.08.05-18.30.12:807][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Bar/Table_v1_2" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_2.uasset" SILENT=true
-[2018.08.05-18.30.12:841][394]LogSavePackage: Save=16.31ms
-[2018.08.05-18.30.12:841][394]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v1_279F5D55D417DCC338AE7A69D30133A15.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_2.uasset'
-[2018.08.05-18.30.12:850][394]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_2.uasset
-[2018.08.05-18.30.12:885][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Bar/Table_v2_1" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_1.uasset" SILENT=true
-[2018.08.05-18.30.12:920][394]LogSavePackage: Save=16.02ms
-[2018.08.05-18.30.12:920][394]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v2_1EFE659984F8050EBBED0BAAA2C3A4496.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_1.uasset'
-[2018.08.05-18.30.12:928][394]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_1.uasset
-[2018.08.05-18.30.12:955][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Bar/Table_v2_2" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_2.uasset" SILENT=true
-[2018.08.05-18.30.12:992][394]LogSavePackage: Save=17.94ms
-[2018.08.05-18.30.12:992][394]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_v2_29725E4E546F21DAE0880D5A7CEC3C092.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_2.uasset'
-[2018.08.05-18.30.13:004][394]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_2.uasset
-[2018.08.05-18.30.13:248][394]LogSavePackage: Save=192.17ms
-[2018.08.05-18.30.13:248][394]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_BaseColor361818324D06B777AB7633B3254D05B4.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_BaseColor.uasset'
-[2018.08.05-18.30.13:256][394]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_BaseColor.uasset
-[2018.08.05-18.30.13:494][394]LogSavePackage: Save=193.15ms
-[2018.08.05-18.30.13:494][394]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_Normal7AAE4DFE44B66738052632ACA91290A5.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_Normal.uasset'
-[2018.08.05-18.30.13:505][394]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_Normal.uasset
-[2018.08.05-18.30.13:719][394]LogSavePackage: Save=169.37ms
-[2018.08.05-18.30.13:719][394]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_OcclusionRoughnessMetallicBAE9939D42B2CD63E5EE578184F90357.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_OcclusionRoughnessMetallic.uasset'
-[2018.08.05-18.30.13:728][394]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_OcclusionRoughnessMetallic.uasset
-[2018.08.05-18.30.15:711][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v2_2)
-[2018.08.05-18.30.16:746][585]AssetReimport: Reimported asset blockout_mit_assets from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/blockout_mit_assets.fbx.
-[2018.08.05-18.30.16:746][585]AssetReimport: Reimported asset Table_v1_1 from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_1.fbx.
-[2018.08.05-18.30.16:746][585]AssetReimport: Reimported asset Table_v1_2 from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v1_2.fbx.
-[2018.08.05-18.30.16:746][585]AssetReimport: Reimported asset Table_v2_1 from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_1.fbx.
-[2018.08.05-18.30.16:746][585]AssetReimport: Reimported asset Table_v2_2 from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Meshes/Bar/Table_v2_2.fbx.
-[2018.08.05-18.30.16:746][585]AssetReimport: Reimported asset Table_BaseColor from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_BaseColor.tga.
-[2018.08.05-18.30.16:746][585]AssetReimport: Reimported asset Table_Normal from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_Normal.tga.
-[2018.08.05-18.30.16:746][585]AssetReimport: Reimported asset Table_OcclusionRoughnessMetallic from C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Geometry/Textures/Table/Table_OcclusionRoughnessMetallic.tga.
-[2018.08.05-18.30.17:253][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.08.05-18.30.33:570][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.08.05-18.30.35:287][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.08.05-18.30.42:085][286]Cmd: TRANSACTION UNDO
-[2018.08.05-18.30.42:085][286]LogEditorTransaction: Undo Create Actors
-[2018.08.05-18.30.43:336][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.08.05-18.30.45:706][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.08.05-18.31.32:272][953]LogEditorViewport: Clicking on Actor (LMB): Door_pb_C (Door_pb)
-[2018.08.05-18.32.03:548][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.08.05-18.32.03:606][356]LogTemp: Repeating last play command: Selected Viewport
-[2018.08.05-18.32.03:622][356]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.08.05-18.32.03:623][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.08.05-18.32.03:625][356]PIE: New page: PIE session: FirstPersonExampleMap (05.08.2018 22:32:03)
-[2018.08.05-18.32.03:625][356]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
-[2018.08.05-18.32.03:667][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041299s)
-[2018.08.05-18.32.03:668][356]LogAIModule: Creating AISystem for world FirstPersonExampleMap
-[2018.08.05-18.32.03:668][356]LogPlayLevel: PIE: World Init took: (0.001354s)
-[2018.08.05-18.32.03:668][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.043058s)
-[2018.08.05-18.32.03:698][356]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.08.05-18.32.03:715][356]LogInit: FAudioDevice initialized.
-[2018.08.05-18.32.03:761][356]LogLoad: Game class is 'FirstPersonGameMode_C'
-[2018.08.05-18.32.03:772][356]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.08.05-20.32.03
-[2018.08.05-18.32.03:773][356]LogWorld: Bringing up level for play took: 0.010195
-[2018.08.05-18.32.03:787][356]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
-[2018.08.05-18.32.03:788][356]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1,003
-[2018.08.05-18.32.03:788][356]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.08.05-18.32.24:414][ 98]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.08.05-18.32.24:466][ 98]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.08.05-18.32.32:437][228]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.08.05-18.32.33:050][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
-[2018.08.05-18.32.34:998][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.08.05-18.32.35:086][366]LogTemp: Repeating last play command: Selected Viewport
-[2018.08.05-18.32.35:110][366]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.08.05-18.32.35:111][366]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.08.05-18.32.35:111][366]PIE: New page: PIE session: FirstPersonExampleMap (05.08.2018 22:32:35)
-[2018.08.05-18.32.35:111][366]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
-[2018.08.05-18.32.35:151][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039683s)
-[2018.08.05-18.32.35:152][366]LogAIModule: Creating AISystem for world FirstPersonExampleMap
-[2018.08.05-18.32.35:153][366]LogPlayLevel: PIE: World Init took: (0.001513s)
-[2018.08.05-18.32.35:153][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.041696s)
-[2018.08.05-18.32.35:178][366]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.08.05-18.32.35:193][366]LogInit: FAudioDevice initialized.
-[2018.08.05-18.32.35:231][366]LogLoad: Game class is 'FirstPersonGameMode_C'
-[2018.08.05-18.32.35:239][366]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.08.05-20.32.35
-[2018.08.05-18.32.35:240][366]LogWorld: Bringing up level for play took: 0.008246
-[2018.08.05-18.32.35:241][366]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,457
-[2018.08.05-18.32.35:242][366]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.08.05-18.34.03:115][101]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.08.05-18.34.03:177][101]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.08.05-18.34.19:887][394]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.08.05-18.34.24:376][722]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
-[2018.08.05-18.34.24:598][722]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.08.05-18.34.28:619][722]LogSlate: Window 'Save Content' being destroyed
-[2018.08.05-18.34.28:633][722]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.08.05-18.34.28:789][722]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.08.05-18.34.29:348][722]LogSavePackage: Save=329.82ms
-[2018.08.05-18.34.29:348][722]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap8AF3822F4B85773CE921FE9ACB7A4A8A.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
-[2018.08.05-18.34.29:356][722]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
-[2018.08.05-18.34.29:378][722]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.574
-[2018.08.05-18.34.29:397][722]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.08.05-18.34.47:224][722]LogSlate: Window 'Submit Files' being destroyed
-[2018.08.05-18.34.47:236][722]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.08.05-18.34.47:718][722]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.08.05-18.34.49:894][722]LogSourceControl: commit successful: [Kirill d947d2c] Test
-[2018.08.05-18.34.50:316][722]SourceControl: [Kirill d947d2c] Test
-[2018.08.05-18.34.50:316][722]SourceControl:  10 files changed, 0 insertions(+), 0 deletions(-)
-[2018.08.05-18.34.50:316][722]SourceControl:  create mode 100644 Content/Geometry/Textures/Table/Table_BaseColor_Mat.uasset
-[2018.08.05-18.34.50:323][722]SourceControl: Commited [Kirill d947d2c] Test.
-[2018.08.05-18.34.58:141][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.08.05-18.36.27:812][588]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.08.05-18.36.30:068][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.08.05-18.40.57:510][817]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.08.05-18.40.57:594][824]LogTemp: Repeating last play command: Selected Viewport
-[2018.08.05-18.40.57:613][824]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.08.05-18.40.57:613][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.08.05-18.40.57:613][824]PIE: New page: PIE session: FirstPersonExampleMap (05.08.2018 22:40:57)
-[2018.08.05-18.40.57:613][824]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
-[2018.08.05-18.40.57:651][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037580s)
-[2018.08.05-18.40.57:652][824]LogAIModule: Creating AISystem for world FirstPersonExampleMap
-[2018.08.05-18.40.57:653][824]LogPlayLevel: PIE: World Init took: (0.001707s)
-[2018.08.05-18.40.57:653][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.039664s)
-[2018.08.05-18.40.57:680][824]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.08.05-18.40.57:699][824]LogInit: FAudioDevice initialized.
-[2018.08.05-18.40.57:735][824]LogLoad: Game class is 'FirstPersonGameMode_C'
-[2018.08.05-18.40.57:745][824]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.08.05-20.40.57
-[2018.08.05-18.40.57:745][824]LogWorld: Bringing up level for play took: 0.008728
-[2018.08.05-18.40.57:747][824]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,962
-[2018.08.05-18.40.57:747][824]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.08.05-18.41.02:929][285]LogRenderer: Reallocating scene render targets to support 1208x596 Format 10 NumSamples 1 (Frame:451).
-[2018.08.05-18.41.02:976][286]LogRenderer: Reallocating scene render targets to support 1208x608 Format 10 NumSamples 1 (Frame:452).
-[2018.08.05-18.41.03:023][287]LogRenderer: Reallocating scene render targets to support 1208x624 Format 10 NumSamples 1 (Frame:453).
-[2018.08.05-18.41.03:073][288]LogRenderer: Reallocating scene render targets to support 1208x628 Format 10 NumSamples 1 (Frame:454).
-[2018.08.05-18.41.03:129][289]LogRenderer: Reallocating scene render targets to support 1208x632 Format 10 NumSamples 1 (Frame:455).
-[2018.08.05-18.41.03:235][291]LogRenderer: Reallocating scene render targets to support 1208x636 Format 10 NumSamples 1 (Frame:457).
-[2018.08.05-18.41.03:282][292]LogRenderer: Reallocating scene render targets to support 1208x648 Format 10 NumSamples 1 (Frame:458).
-[2018.08.05-18.41.03:329][293]LogRenderer: Reallocating scene render targets to support 1208x676 Format 10 NumSamples 1 (Frame:459).
-[2018.08.05-18.41.03:379][294]LogRenderer: Reallocating scene render targets to support 1208x716 Format 10 NumSamples 1 (Frame:460).
-[2018.08.05-18.41.03:456][295]LogRenderer: Reallocating scene render targets to support 1208x748 Format 10 NumSamples 1 (Frame:461).
-[2018.08.05-18.41.03:507][296]LogRenderer: Reallocating scene render targets to support 1208x812 Format 10 NumSamples 1 (Frame:462).
-[2018.08.05-18.41.03:551][297]LogRenderer: Reallocating scene render targets to support 1208x836 Format 10 NumSamples 1 (Frame:463).
-[2018.08.05-18.41.03:618][298]LogRenderer: Reallocating scene render targets to support 1208x844 Format 10 NumSamples 1 (Frame:464).
-[2018.08.05-18.41.03:666][299]LogRenderer: Reallocating scene render targets to support 1208x852 Format 10 NumSamples 1 (Frame:465).
-[2018.08.05-18.41.03:782][303]LogRenderer: Reallocating scene render targets to support 1208x864 Format 10 NumSamples 1 (Frame:467).
-[2018.08.05-18.41.03:828][304]LogRenderer: Reallocating scene render targets to support 1208x880 Format 10 NumSamples 1 (Frame:468).
-[2018.08.05-18.41.03:872][305]LogRenderer: Reallocating scene render targets to support 1208x892 Format 10 NumSamples 1 (Frame:469).
-[2018.08.05-18.41.03:919][306]LogRenderer: Reallocating scene render targets to support 1208x896 Format 10 NumSamples 1 (Frame:470).
-[2018.08.05-18.41.09:782][781]LogRenderer: Reallocating scene render targets to support 1212x896 Format 10 NumSamples 1 (Frame:857).
-[2018.08.05-18.41.09:828][782]LogRenderer: Reallocating scene render targets to support 1220x896 Format 10 NumSamples 1 (Frame:858).
-[2018.08.05-18.41.09:876][783]LogRenderer: Reallocating scene render targets to support 1232x896 Format 10 NumSamples 1 (Frame:859).
-[2018.08.05-18.41.09:928][784]LogRenderer: Reallocating scene render targets to support 1244x896 Format 10 NumSamples 1 (Frame:860).
-[2018.08.05-18.41.09:978][785]LogRenderer: Reallocating scene render targets to support 1280x896 Format 10 NumSamples 1 (Frame:861).
-[2018.08.05-18.41.10:039][786]LogRenderer: Reallocating scene render targets to support 1308x896 Format 10 NumSamples 1 (Frame:862).
-[2018.08.05-18.41.10:106][787]LogRenderer: Reallocating scene render targets to support 1312x896 Format 10 NumSamples 1 (Frame:863).
-[2018.08.05-18.41.10:226][791]LogRenderer: Reallocating scene render targets to support 1356x896 Format 10 NumSamples 1 (Frame:865).
-[2018.08.05-18.41.10:284][792]LogRenderer: Reallocating scene render targets to support 1392x896 Format 10 NumSamples 1 (Frame:866).
-[2018.08.05-18.41.10:346][793]LogRenderer: Reallocating scene render targets to support 1432x896 Format 10 NumSamples 1 (Frame:867).
-[2018.08.05-18.41.10:408][794]LogRenderer: Reallocating scene render targets to support 1436x896 Format 10 NumSamples 1 (Frame:868).
-[2018.08.05-18.41.10:456][795]LogRenderer: Reallocating scene render targets to support 1440x896 Format 10 NumSamples 1 (Frame:869).
-[2018.08.05-18.41.10:528][796]LogRenderer: Reallocating scene render targets to support 1444x896 Format 10 NumSamples 1 (Frame:870).
-[2018.08.05-18.41.10:588][797]LogRenderer: Reallocating scene render targets to support 1456x896 Format 10 NumSamples 1 (Frame:871).
-[2018.08.05-18.41.10:650][798]LogRenderer: Reallocating scene render targets to support 1464x896 Format 10 NumSamples 1 (Frame:872).
-[2018.08.05-18.41.10:818][808]LogRenderer: Reallocating scene render targets to support 1468x896 Format 10 NumSamples 1 (Frame:874).
-[2018.08.05-18.41.10:865][809]LogRenderer: Reallocating scene render targets to support 1472x896 Format 10 NumSamples 1 (Frame:875).
-[2018.08.05-18.41.10:910][810]LogRenderer: Reallocating scene render targets to support 1476x896 Format 10 NumSamples 1 (Frame:876).
-[2018.08.05-18.41.10:958][811]LogRenderer: Reallocating scene render targets to support 1480x896 Format 10 NumSamples 1 (Frame:877).
-[2018.08.05-18.41.11:440][851]LogRenderer: Reallocating scene render targets to support 1484x896 Format 10 NumSamples 1 (Frame:880).
-[2018.08.05-18.41.11:488][852]LogRenderer: Reallocating scene render targets to support 1488x896 Format 10 NumSamples 1 (Frame:881).
-[2018.08.05-18.41.11:580][854]LogRenderer: Reallocating scene render targets to support 1492x896 Format 10 NumSamples 1 (Frame:883).
-[2018.08.05-18.41.11:708][860]LogRenderer: Reallocating scene render targets to support 1496x896 Format 10 NumSamples 1 (Frame:885).
-[2018.08.05-18.41.39:112][ 85]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.08.05-18.41.39:183][ 85]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.08.05-18.41.43:927][416]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.08.05-18.41.49:085][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.08.05-18.41.50:312][884]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.08.05-18.41.52:582][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.08.05-18.42.06:296][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.08.05-18.42.14:554][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v9)
-[2018.08.05-18.42.22:133][127]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.08.05-18.42.50:680][876]LogRenderer: Reallocating scene render targets to support 1496x900 Format 10 NumSamples 1 (Frame:18335).
-[2018.08.05-18.42.54:305][ 75]LogTemp: Repeating last play command: Selected Viewport
-[2018.08.05-18.42.54:326][ 75]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.08.05-18.42.54:326][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.08.05-18.42.54:327][ 75]PIE: New page: PIE session: FirstPersonExampleMap (05.08.2018 22:42:54)
-[2018.08.05-18.42.54:327][ 75]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
-[2018.08.05-18.42.54:362][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034722s)
-[2018.08.05-18.42.54:363][ 75]LogAIModule: Creating AISystem for world FirstPersonExampleMap
-[2018.08.05-18.42.54:364][ 75]LogPlayLevel: PIE: World Init took: (0.001501s)
-[2018.08.05-18.42.54:364][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.036617s)
-[2018.08.05-18.42.54:394][ 75]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.08.05-18.42.54:411][ 75]LogInit: FAudioDevice initialized.
-[2018.08.05-18.42.54:446][ 75]LogLoad: Game class is 'FirstPersonGameMode_C'
-[2018.08.05-18.42.54:455][ 75]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.08.05-20.42.54
-[2018.08.05-18.42.54:456][ 75]LogWorld: Bringing up level for play took: 0.009030
-[2018.08.05-18.42.54:457][ 75]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0,327
-[2018.08.05-18.42.54:458][ 75]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.08.05-18.43.14:628][345]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.08.05-18.43.14:683][345]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.08.05-18.43.16:731][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.08.05-18.43.22:588][733]LogRenderer: Reallocating scene render targets to support 1504x900 Format 10 NumSamples 1 (Frame:18956).
-[2018.08.05-18.43.22:664][734]LogRenderer: Reallocating scene render targets to support 1628x900 Format 10 NumSamples 1 (Frame:18958).
-[2018.08.05-18.43.22:750][735]LogRenderer: Reallocating scene render targets to support 1796x900 Format 10 NumSamples 1 (Frame:18960).
-[2018.08.05-18.43.22:834][736]LogRenderer: Reallocating scene render targets to support 1828x900 Format 10 NumSamples 1 (Frame:18962).
-[2018.08.05-18.43.22:904][737]LogRenderer: Reallocating scene render targets to support 1852x900 Format 10 NumSamples 1 (Frame:18964).
-[2018.08.05-18.43.23:040][738]LogRenderer: Reallocating scene render targets to support 1856x900 Format 10 NumSamples 1 (Frame:18966).
-[2018.08.05-18.43.23:108][739]LogRenderer: Reallocating scene render targets to support 1868x900 Format 10 NumSamples 1 (Frame:18968).
-[2018.08.05-18.43.53:560][341]LogTemp: Repeating last play command: Selected Viewport
-[2018.08.05-18.43.53:581][341]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.08.05-18.43.53:582][341]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.08.05-18.43.53:582][341]PIE: New page: PIE session: FirstPersonExampleMap (05.08.2018 22:43:53)
-[2018.08.05-18.43.53:582][341]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
-[2018.08.05-18.43.53:613][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030623s)
-[2018.08.05-18.43.53:614][341]LogAIModule: Creating AISystem for world FirstPersonExampleMap
-[2018.08.05-18.43.53:614][341]LogPlayLevel: PIE: World Init took: (0.001601s)
-[2018.08.05-18.43.53:615][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.032763s)
-[2018.08.05-18.43.53:643][341]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.08.05-18.43.53:664][341]LogInit: FAudioDevice initialized.
-[2018.08.05-18.43.53:704][341]LogLoad: Game class is 'FirstPersonGameMode_C'
-[2018.08.05-18.43.53:713][341]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.08.05-20.43.53
-[2018.08.05-18.43.53:714][341]LogWorld: Bringing up level for play took: 0.009483
-[2018.08.05-18.43.53:717][341]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,932
-[2018.08.05-18.43.53:717][341]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.08.05-18.45.16:265][984]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.08.05-18.45.16:341][984]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
-[2018.08.05-18.45.26:504][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.08.05-19.21.12:670][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall3)
-[2018.08.05-19.21.14:955][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.08.05-19.21.15:642][897]LogSavePackage: Save=343.99ms
-[2018.08.05-19.21.15:642][897]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMapF3FDBD0B4C6A4E1DCBD5DF81B1A21462.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
-[2018.08.05-19.21.15:655][897]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
-[2018.08.05-19.21.19:778][897]LogSavePackage: Save=3865.91ms
-[2018.08.05-19.21.19:778][897]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataFF57A8CC4430D70E0343DA84A7F91F83.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
-[2018.08.05-19.21.19:787][897]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
-[2018.08.05-19.21.41:308][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_2)
-[2018.08.05-19.21.49:206][182]Cmd: TRANSACTION UNDO
-[2018.08.05-19.21.49:206][182]LogEditorTransaction: Undo Move Actors
-[2018.08.05-19.21.54:517][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v2_2)
-[2018.08.05-19.21.59:575][748]Cmd: TRANSACTION UNDO
-[2018.08.05-19.21.59:575][748]LogEditorTransaction: Undo Move Actors
-[2018.08.05-19.22.08:419][230]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.08.05-19.22.16:130][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Table_v4)
-[2018.08.05-19.22.18:069][788]Cmd: DELETE
-[2018.08.05-19.22.18:069][788]Cmd: ACTOR DELETE
-[2018.08.05-19.22.18:082][788]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.08.05-19.22.18:099][788]LogEditorActor: Deleted 1 Actors (0.028 secs)
-[2018.08.05-19.22.22:769][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v2_2)
-[2018.08.05-19.22.55:823][974]Cmd: EDIT COPY
-[2018.08.05-19.22.56:145][993]Cmd: EDIT PASTE
-[2018.08.05-19.23.17:284][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Table_v3)
-[2018.08.05-19.23.20:021][340]Cmd: DELETE
-[2018.08.05-19.23.20:022][340]Cmd: ACTOR DELETE
-[2018.08.05-19.23.20:028][340]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.08.05-19.23.20:045][340]LogEditorActor: Deleted 1 Actors (0.024 secs)
-[2018.08.05-19.23.20:969][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Table_v2)
-[2018.08.05-19.23.21:387][412]Cmd: DELETE
-[2018.08.05-19.23.21:387][412]Cmd: ACTOR DELETE
-[2018.08.05-19.23.21:394][412]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.08.05-19.23.21:410][412]LogEditorActor: Deleted 1 Actors (0.024 secs)
-[2018.08.05-19.23.23:356][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Table_v5)
-[2018.08.05-19.23.23:615][530]Cmd: DELETE
-[2018.08.05-19.23.23:615][530]Cmd: ACTOR DELETE
-[2018.08.05-19.23.23:622][530]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.08.05-19.23.23:641][530]LogEditorActor: Deleted 1 Actors (0.026 secs)
-[2018.08.05-19.23.25:487][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v2_3)
-[2018.08.05-19.23.29:714][868]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.08.05-19.23.40:915][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v2_1)
-[2018.08.05-19.23.45:432][752]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.08.05-19.23.53:758][229]Cmd: EDIT COPY
-[2018.08.05-19.23.54:078][248]Cmd: EDIT PASTE
-[2018.08.05-19.24.10:943][194]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.08.05-19.24.24:501][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v70)
-[2018.08.05-19.24.24:954][984]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
-[2018.08.05-19.24.30:263][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Table_v1)
-[2018.08.05-19.24.33:358][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Table_v6)
-[2018.08.05-19.24.36:586][635]Cmd: DELETE
-[2018.08.05-19.24.36:586][635]Cmd: ACTOR DELETE
-[2018.08.05-19.24.36:593][635]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.08.05-19.24.36:611][635]LogEditorActor: Deleted 1 Actors (0.026 secs)
-[2018.08.05-19.24.37:742][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Table_v1)
-[2018.08.05-19.24.38:008][711]Cmd: DELETE
-[2018.08.05-19.24.38:008][711]Cmd: ACTOR DELETE
-[2018.08.05-19.24.38:015][711]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.08.05-19.24.38:035][711]LogEditorActor: Deleted 1 Actors (0.027 secs)
-[2018.08.05-19.24.38:775][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Table_v7)
-[2018.08.05-19.24.39:131][769]Cmd: DELETE
-[2018.08.05-19.24.39:131][769]Cmd: ACTOR DELETE
-[2018.08.05-19.24.39:137][769]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.08.05-19.24.39:157][769]LogEditorActor: Deleted 1 Actors (0.026 secs)
-[2018.08.05-19.24.40:419][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall3)
-[2018.08.05-19.24.50:567][401]Cmd: TRANSACTION UNDO
-[2018.08.05-19.24.50:567][401]LogEditorTransaction: Undo Move Actors
-[2018.08.05-19.24.51:559][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_1)
-[2018.08.05-19.24.51:996][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_1)
-[2018.08.05-19.24.53:267][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall3)
-[2018.08.05-19.24.55:187][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall3)
-[2018.08.05-19.24.55:780][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_1)
-[2018.08.05-19.25.00:035][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_2)
-[2018.08.05-19.25.02:647][  4]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.08.05-19.25.09:273][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_1)
-[2018.08.05-19.25.20:471][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_2)
-[2018.08.05-19.25.24:749][235]Cmd: EDIT COPY
-[2018.08.05-19.25.25:001][249]Cmd: EDIT PASTE
-[2018.08.05-19.25.35:447][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
-[2018.08.05-19.25.42:822][214]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.08.05-19.25.43:085][214]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.08.05-19.25.43:488][214]LogSavePackage: Save=344.55ms
-[2018.08.05-19.25.43:488][214]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMapDDBEEBB14E106DB5E3C5AB9E814E395C.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
-[2018.08.05-19.25.43:497][214]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
-[2018.08.05-19.25.47:437][214]LogSavePackage: Save=3574.14ms
-[2018.08.05-19.25.47:437][214]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataB427E14541F03530F86423AB0F60B6A9.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
-[2018.08.05-19.25.47:444][214]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
-[2018.08.05-19.25.53:077][502]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
-[2018.08.05-19.26.10:623][502]LogSlate: Window 'Submit Files' being destroyed
-[2018.08.05-19.26.13:713][502]LogSourceControl: commit successful: [Kirill 4ae1559] Neue Tische plaziert
-[2018.08.05-19.26.13:823][502]SourceControl: [Kirill 4ae1559] Neue Tische plaziert
-[2018.08.05-19.26.13:823][502]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
-[2018.08.05-19.26.13:829][502]SourceControl: Commited [Kirill 4ae1559] Neue Tische plaziert.
-[2018.08.05-19.26.17:690][686]LogSavePackage: Save=319.64ms
-[2018.08.05-19.26.17:690][686]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMapFBDBFB514988C96DE1D8AEAFA2E20833.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
-[2018.08.05-19.26.17:699][686]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
-[2018.08.05-19.26.21:246][686]LogSavePackage: Save=3357.40ms
-[2018.08.05-19.26.21:246][686]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltData49CC7CA343858E524F92AD8CEF8D4CD4.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
-[2018.08.05-19.26.21:253][686]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
-[2018.08.05-19.27.21:820][ 48]LogSlate: Window 'Roadhouse - Unreal Editor' being destroyed
-[2018.08.05-19.27.22:187][ 49]Cmd: QUIT_EDITOR
-[2018.08.05-19.27.22:712][ 49]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.08.05-19.27.22:841][ 49]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
-[2018.08.05-19.27.22:842][ 49]LogExit: Preparing to exit.
-[2018.08.05-19.27.23:228][ 49]LogDirectoryWatcher: A directory notification for 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/' was aborted.
-[2018.08.05-19.27.23:292][ 49]LogExit: Editor shut down
-[2018.08.05-19.27.23:310][ 49]LogExit: Transaction tracking system shut down
-[2018.08.05-19.27.23:312][ 49]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000256084918a0, Size=72
-[2018.08.05-19.27.23:312][ 49]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025608466700, Size=256
-[2018.08.05-19.27.23:312][ 49]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025602778d00, Size=688
-[2018.08.05-19.27.23:312][ 49]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000025615042500, Size=384
-[2018.08.05-19.27.23:312][ 49]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002560ab12f28, Size=52
-[2018.08.05-19.27.23:504][ 49]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
-[2018.08.05-19.27.23:504][ 49]LogDirectoryWatcher: A directory notification for '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/' was aborted.
-[2018.08.05-19.27.23:504][ 49]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
-[2018.08.05-19.27.23:504][ 49]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
-[2018.08.05-19.27.23:504][ 49]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
-[2018.08.05-19.27.23:504][ 49]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
-[2018.08.05-19.27.23:504][ 49]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
-[2018.08.05-19.27.23:504][ 49]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
-[2018.08.05-19.27.23:659][ 49]LogExit: Object subsystem successfully closed.
-[2018.08.05-19.27.23:680][ 49]LogShaderCompilers: Display: Shaders left to compile 0
-[2018.08.05-19.27.23:688][ 49]LogD3D11RHI: Shutdown
-[2018.08.05-19.27.23:688][ 49]LogD3D11RHI: CleanupD3DDevice
-[2018.08.05-19.27.23:696][ 49]LogD3D11RHI: ~FD3D11DynamicRHI
-[2018.08.05-19.27.23:753][ 49]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (576)
-[2018.08.05-19.27.23:753][ 49]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
-[2018.08.05-19.27.23:753][ 49]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
-[2018.08.05-19.27.23:753][ 49]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
-[2018.08.05-19.27.23:754][ 49]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
-[2018.08.05-19.27.23:757][ 49]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
-[2018.08.05-19.27.23:757][ 49]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
-[2018.08.05-19.27.23:757][ 49]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
-[2018.08.05-19.27.23:757][ 49]LogDirectoryWatcher: A directory notification for 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Collections/' was aborted.
-[2018.08.05-19.27.23:757][ 49]LogDirectoryWatcher: A directory notification for 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Developers/usagi/Collections/' was aborted.
-[2018.08.05-19.27.23:757][ 49]LogDirectoryWatcher: A directory notification for 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Collections/' was aborted.
-[2018.08.05-19.27.23:758][ 49]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
-[2018.08.05-19.27.23:758][ 49]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
-[2018.08.05-19.27.23:758][ 49]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
-[2018.08.05-19.27.23:758][ 49]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
-[2018.08.05-19.27.23:758][ 49]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
-[2018.08.05-19.27.23:758][ 49]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
-[2018.08.05-19.27.23:758][ 49]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
-[2018.08.05-19.27.23:758][ 49]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
-[2018.08.05-19.27.23:758][ 49]LogModuleManager: Shutting down and abandoning module BspMode (546)
-[2018.08.05-19.27.23:758][ 49]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
-[2018.08.05-19.27.23:758][ 49]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
-[2018.08.05-19.27.23:758][ 49]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
-[2018.08.05-19.27.23:758][ 49]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
-[2018.08.05-19.27.23:758][ 49]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
-[2018.08.05-19.27.23:758][ 49]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
-[2018.08.05-19.27.23:758][ 49]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
-[2018.08.05-19.27.23:758][ 49]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
-[2018.08.05-19.27.23:758][ 49]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
-[2018.08.05-19.27.23:758][ 49]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
-[2018.08.05-19.27.23:758][ 49]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
-[2018.08.05-19.27.23:758][ 49]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
-[2018.08.05-19.27.23:758][ 49]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
-[2018.08.05-19.27.23:759][ 49]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
-[2018.08.05-19.27.23:759][ 49]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
-[2018.08.05-19.27.23:759][ 49]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
-[2018.08.05-19.27.23:759][ 49]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
-[2018.08.05-19.27.23:759][ 49]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
-[2018.08.05-19.27.23:759][ 49]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
-[2018.08.05-19.27.23:759][ 49]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
-[2018.08.05-19.27.23:759][ 49]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
-[2018.08.05-19.27.23:759][ 49]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
-[2018.08.05-19.27.23:759][ 49]LogModuleManager: Shutting down and abandoning module SessionServices (500)
-[2018.08.05-19.27.23:759][ 49]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
-[2018.08.05-19.27.23:759][ 49]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
-[2018.08.05-19.27.23:759][ 49]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
-[2018.08.05-19.27.23:759][ 49]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
-[2018.08.05-19.27.23:759][ 49]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
-[2018.08.05-19.27.23:759][ 49]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
-[2018.08.05-19.27.23:759][ 49]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
-[2018.08.05-19.27.23:759][ 49]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
-[2018.08.05-19.27.23:759][ 49]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
-[2018.08.05-19.27.23:759][ 49]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
-[2018.08.05-19.27.23:759][ 49]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
-[2018.08.05-19.27.23:896][ 49]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
-[2018.08.05-19.27.23:897][ 49]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
-[2018.08.05-19.27.23:897][ 49]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
-[2018.08.05-19.27.23:897][ 49]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
-[2018.08.05-19.27.23:897][ 49]LogModuleManager: Shutting down and abandoning module MergeActors (468)
-[2018.08.05-19.27.23:897][ 49]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
-[2018.08.05-19.27.23:898][ 49]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
-[2018.08.05-19.27.23:898][ 49]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
-[2018.08.05-19.27.23:898][ 49]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
-[2018.08.05-19.27.23:898][ 49]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
-[2018.08.05-19.27.23:898][ 49]LogModuleManager: Shutting down and abandoning module XmlParser (456)
-[2018.08.05-19.27.23:898][ 49]LogModuleManager: Shutting down and abandoning module Blutility (454)
-[2018.08.05-19.27.23:898][ 49]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
-[2018.08.05-19.27.23:898][ 49]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
-[2018.08.05-19.27.23:899][ 49]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
-[2018.08.05-19.27.23:899][ 49]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
-[2018.08.05-19.27.23:900][ 49]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
-[2018.08.05-19.27.23:900][ 49]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
-[2018.08.05-19.27.23:900][ 49]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
-[2018.08.05-19.27.23:900][ 49]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
-[2018.08.05-19.27.23:900][ 49]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
-[2018.08.05-19.27.23:953][ 49]LogModuleManager: Shutting down and abandoning module AutomationController (434)
-[2018.08.05-19.27.23:953][ 49]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
-[2018.08.05-19.27.23:953][ 49]LogModuleManager: Shutting down and abandoning module Layers (430)
-[2018.08.05-19.27.23:953][ 49]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
-[2018.08.05-19.27.23:953][ 49]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
-[2018.08.05-19.27.23:953][ 49]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
-[2018.08.05-19.27.23:954][ 49]LogModuleManager: Shutting down and abandoning module Persona (422)
-[2018.08.05-19.27.23:954][ 49]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
-[2018.08.05-19.27.23:954][ 49]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
-[2018.08.05-19.27.23:954][ 49]LogModuleManager: Shutting down and abandoning module Kismet (416)
-[2018.08.05-19.27.23:954][ 49]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
-[2018.08.05-19.27.23:954][ 49]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
-[2018.08.05-19.27.23:954][ 49]LogModuleManager: Shutting down and abandoning module Toolbox (410)
-[2018.08.05-19.27.23:954][ 49]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
-[2018.08.05-19.27.23:954][ 49]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
-[2018.08.05-19.27.23:955][ 49]LogModuleManager: Shutting down and abandoning module OutputLog (404)
-[2018.08.05-19.27.23:955][ 49]LogModuleManager: Shutting down and abandoning module GammaUI (402)
-[2018.08.05-19.27.23:955][ 49]LogModuleManager: Shutting down and abandoning module Documentation (400)
-[2018.08.05-19.27.23:955][ 49]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
-[2018.08.05-19.27.23:955][ 49]LogModuleManager: Shutting down and abandoning module MovieScene (396)
-[2018.08.05-19.27.23:955][ 49]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
-[2018.08.05-19.27.23:955][ 49]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
-[2018.08.05-19.27.23:955][ 49]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
-[2018.08.05-19.27.23:955][ 49]LogModuleManager: Shutting down and abandoning module PortalServices (388)
-[2018.08.05-19.27.23:955][ 49]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
-[2018.08.05-19.27.23:955][ 49]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
-[2018.08.05-19.27.23:955][ 49]LogModuleManager: Shutting down and abandoning module AIModule (382)
-[2018.08.05-19.27.23:955][ 49]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
-[2018.08.05-19.27.23:955][ 49]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
-[2018.08.05-19.27.23:955][ 49]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
-[2018.08.05-19.27.23:955][ 49]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
-[2018.08.05-19.27.24:151][ 49]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
-[2018.08.05-19.27.24:151][ 49]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
-[2018.08.05-19.27.24:151][ 49]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
-[2018.08.05-19.27.24:151][ 49]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
-[2018.08.05-19.27.24:152][ 49]LogModuleManager: Shutting down and abandoning module OculusInput (364)
-[2018.08.05-19.27.24:152][ 49]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
-[2018.08.05-19.27.24:152][ 49]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
-[2018.08.05-19.27.24:152][ 49]LogModuleManager: Shutting down and abandoning module CableComponent (358)
-[2018.08.05-19.27.24:152][ 49]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
-[2018.08.05-19.27.24:152][ 49]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
-[2018.08.05-19.27.24:152][ 49]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
-[2018.08.05-19.27.24:152][ 49]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
-[2018.08.05-19.27.24:152][ 49]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
-[2018.08.05-19.27.24:152][ 49]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
-[2018.08.05-19.27.24:152][ 49]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
-[2018.08.05-19.27.24:152][ 49]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
-[2018.08.05-19.27.24:152][ 49]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
-[2018.08.05-19.27.24:157][ 49]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
-[2018.08.05-19.27.24:157][ 49]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
-[2018.08.05-19.27.24:157][ 49]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
-[2018.08.05-19.27.24:157][ 49]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
-[2018.08.05-19.27.24:157][ 49]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
-[2018.08.05-19.27.24:157][ 49]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
-[2018.08.05-19.27.24:157][ 49]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
-[2018.08.05-19.27.24:157][ 49]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
-[2018.08.05-19.27.24:157][ 49]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
-[2018.08.05-19.27.24:158][ 49]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
-[2018.08.05-19.27.24:158][ 49]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
-[2018.08.05-19.27.24:158][ 49]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
-[2018.08.05-19.27.24:158][ 49]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
-[2018.08.05-19.27.24:158][ 49]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
-[2018.08.05-19.27.24:158][ 49]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
-[2018.08.05-19.27.24:158][ 49]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
-[2018.08.05-19.27.24:158][ 49]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
-[2018.08.05-19.27.24:158][ 49]LogModuleManager: Shutting down and abandoning module SourceControl (303)
-[2018.08.05-19.27.24:158][ 49]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
-[2018.08.05-19.27.24:158][ 49]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
-[2018.08.05-19.27.24:158][ 49]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
-[2018.08.05-19.27.24:158][ 49]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
-[2018.08.05-19.27.24:158][ 49]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
-[2018.08.05-19.27.24:158][ 49]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
-[2018.08.05-19.27.24:158][ 49]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
-[2018.08.05-19.27.24:158][ 49]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
-[2018.08.05-19.27.24:158][ 49]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
-[2018.08.05-19.27.24:158][ 49]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
-[2018.08.05-19.27.24:158][ 49]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
-[2018.08.05-19.27.24:158][ 49]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
-[2018.08.05-19.27.24:158][ 49]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
-[2018.08.05-19.27.24:159][ 49]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
-[2018.08.05-19.27.24:159][ 49]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
-[2018.08.05-19.27.24:260][ 49]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
-[2018.08.05-19.27.24:361][ 49]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
-[2018.08.05-19.27.24:361][ 49]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
-[2018.08.05-19.27.24:361][ 49]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
-[2018.08.05-19.27.24:361][ 49]LogModuleManager: Shutting down and abandoning module DataValidation (262)
-[2018.08.05-19.27.24:361][ 49]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
-[2018.08.05-19.27.24:361][ 49]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
-[2018.08.05-19.27.24:362][ 49]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
-[2018.08.05-19.27.24:362][ 49]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
-[2018.08.05-19.27.24:362][ 49]LogModuleManager: Shutting down and abandoning module MainFrame (254)
-[2018.08.05-19.27.24:363][ 49]LogModuleManager: Shutting down and abandoning module HotReload (253)
-[2018.08.05-19.27.24:363][ 49]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
-[2018.08.05-19.27.24:366][ 49]LogModuleManager: Shutting down and abandoning module TreeMap (247)
-[2018.08.05-19.27.24:366][ 49]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
-[2018.08.05-19.27.24:366][ 49]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
-[2018.08.05-19.27.24:366][ 49]LogModuleManager: Shutting down and abandoning module LiveLink (240)
-[2018.08.05-19.27.24:676][ 49]LogModuleManager: Shutting down and abandoning module Paper2D (238)
-[2018.08.05-19.27.24:676][ 49]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
-[2018.08.05-19.27.24:676][ 49]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
-[2018.08.05-19.27.24:677][ 49]LogModuleManager: Shutting down and abandoning module Media (233)
-[2018.08.05-19.27.24:683][ 49]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
-[2018.08.05-19.27.24:684][ 49]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
-[2018.08.05-19.27.24:684][ 49]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
-[2018.08.05-19.27.24:684][ 49]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
-[2018.08.05-19.27.24:684][ 49]LogModuleManager: Shutting down and abandoning module Overlay (222)
-[2018.08.05-19.27.24:684][ 49]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
-[2018.08.05-19.27.24:684][ 49]LogModuleManager: Shutting down and abandoning module VREditor (218)
-[2018.08.05-19.27.24:684][ 49]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
-[2018.08.05-19.27.24:684][ 49]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
-[2018.08.05-19.27.24:684][ 49]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
-[2018.08.05-19.27.24:684][ 49]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
-[2018.08.05-19.27.24:684][ 49]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
-[2018.08.05-19.27.24:684][ 49]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
-[2018.08.05-19.27.24:684][ 49]LogModuleManager: Shutting down and abandoning module UMG (204)
-[2018.08.05-19.27.24:684][ 49]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
-[2018.08.05-19.27.24:684][ 49]LogModuleManager: Shutting down and abandoning module Sequencer (202)
-[2018.08.05-19.27.24:684][ 49]LogModuleManager: Shutting down and abandoning module MessageLog (199)
-[2018.08.05-19.27.24:684][ 49]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
-[2018.08.05-19.27.24:684][ 49]LogModuleManager: Shutting down and abandoning module Slate (192)
-[2018.08.05-19.27.24:684][ 49]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
-[2018.08.05-19.27.24:686][ 49]LogModuleManager: Shutting down and abandoning module MRMesh (188)
-[2018.08.05-19.27.24:686][ 49]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
-[2018.08.05-19.27.24:686][ 49]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
-[2018.08.05-19.27.24:686][ 49]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
-[2018.08.05-19.27.24:686][ 49]LogModuleManager: Shutting down and abandoning module Networking (180)
-[2018.08.05-19.27.24:686][ 49]LogModuleManager: Shutting down and abandoning module Core (178)
-[2018.08.05-19.27.24:686][ 49]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
-[2018.08.05-19.27.24:686][ 49]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
-[2018.08.05-19.27.24:687][ 49]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
-[2018.08.05-19.27.24:687][ 49]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
-[2018.08.05-19.27.24:687][ 49]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
-[2018.08.05-19.27.24:687][ 49]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
-[2018.08.05-19.27.24:687][ 49]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
-[2018.08.05-19.27.24:687][ 49]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
-[2018.08.05-19.27.24:687][ 49]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
-[2018.08.05-19.27.24:687][ 49]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
-[2018.08.05-19.27.24:690][ 49]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
-[2018.08.05-19.27.24:706][ 49]LogDerivedDataCache: Shutdown
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module XGEController (152)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module Messaging (109)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
-[2018.08.05-19.27.24:706][ 49]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module InputCore (66)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module Settings (64)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module SteamVR (60)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module XMPP (43)
-[2018.08.05-19.27.24:707][ 49]LogModuleManager: Shutting down and abandoning module HTTP (41)
-[2018.08.05-19.27.24:707][ 49]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
-[2018.08.05-19.27.24:707][ 49]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B72E984B2-4D80-B6EF-83A2-10A46380DF0C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=45133d5643d4d745c18ea3b09ad971ca%7C0a2c2f5bbc5f41cebf178ebfc7d33677%7C2debc7a1-8005-4312-91dc-e5f743cc7aa2&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
-[2018.08.05-19.27.24:724][ 49]LogModuleManager: Shutting down and abandoning module SSL (40)
-[2018.08.05-19.27.24:725][ 49]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
-[2018.08.05-19.27.24:725][ 49]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
-[2018.08.05-19.27.24:726][ 49]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
-[2018.08.05-19.27.24:726][ 49]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
-[2018.08.05-19.27.24:726][ 49]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
-[2018.08.05-19.27.24:726][ 49]LogModuleManager: Shutting down and abandoning module Landscape (26)
-[2018.08.05-19.27.24:726][ 49]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
-[2018.08.05-19.27.24:728][ 49]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
-[2018.08.05-19.27.24:728][ 49]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
-[2018.08.05-19.27.24:728][ 49]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
-[2018.08.05-19.27.24:729][ 49]LogModuleManager: Shutting down and abandoning module Renderer (16)
-[2018.08.05-19.27.24:729][ 49]LogModuleManager: Shutting down and abandoning module Engine (14)
-[2018.08.05-19.27.24:729][ 49]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
-[2018.08.05-19.27.24:729][ 49]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
-[2018.08.05-19.27.24:729][ 49]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
-[2018.08.05-19.27.24:729][ 49]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
-[2018.08.05-19.27.24:729][ 49]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
-[2018.08.05-19.27.24:729][ 49]LogModuleManager: Shutting down and abandoning module PakFile (2)
-[2018.08.05-19.27.24:737][ 49]LogExit: Exiting.
-[2018.08.05-19.27.24:752][ 49]Log file closed, 08/05/18 21:27:24
+[2018.08.05-20.13.31:164][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.05-20.13.31:165][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.05-20.13.31:181][  0]LogInit: Computer: DESKTOP-5J6HU0I
+[2018.08.05-20.13.31:181][  0]LogInit: User: usagi
+[2018.08.05-20.13.31:181][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.08.05-20.13.31:181][  0]LogInit: High frequency timer resolution =2.343747 MHz
+[2018.08.05-20.13.31:181][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.08.05-20.13.31:182][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.05-20.13.31:182][  0]LogMemory: Process Physical Memory: 274.05 MB used, 274.05 MB peak
+[2018.08.05-20.13.31:182][  0]LogMemory: Process Virtual Memory: 265.98 MB used, 265.98 MB peak
+[2018.08.05-20.13.31:182][  0]LogMemory: Physical Memory: 5146.64 MB used,  11151.30 MB free, 16297.94 MB total
+[2018.08.05-20.13.31:182][  0]LogMemory: Virtual Memory: 4762.94 MB used,  11151.30 MB free, 134217728.00 MB total
+[2018.08.05-20.13.31:214][  0]LogInit: Using OS detected language (de-DE).
+[2018.08.05-20.13.31:214][  0]LogInit: Using OS detected locale (de-DE).
+[2018.08.05-20.13.31:219][  0]LogTextLocalizationManager: No localization for 'de-DE' exists, so 'en' will be used for the language.
+[2018.08.05-20.13.31:796][  0]LogStreaming: Display: Took  0.582s to EndInitTextLocalization.
+[2018.08.05-20.13.31:796][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.05-20.13.31:844][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.05-20.13.31:844][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.05-20.13.32:181][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.05-20.13.32:250][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2018.08.05-20.13.32:250][  0]LogD3D11RHI:       2010/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.05-20.13.32:258][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2018.08.05-20.13.32:259][  0]LogD3D11RHI:       128/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.08.05-20.13.32:262][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.05-20.13.32:262][  0]LogD3D11RHI:       0/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.05-20.13.32:262][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.05-20.13.32:282][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.05-20.13.32:282][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2018.08.05-20.13.32:282][  0]LogWindows: EnumDisplayDevices:
+[2018.08.05-20.13.32:283][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2018.08.05-20.13.32:283][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.08.05-20.13.32:283][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.08.05-20.13.32:283][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.05-20.13.32:283][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2018.08.05-20.13.32:283][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.05-20.13.32:283][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.05-20.13.32:283][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2018.08.05-20.13.32:337][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.05-20.13.32:338][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.05-20.13.32:338][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.05-20.13.32:358][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.08.05-20.13.32:359][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Intermediate/Shaders/WorkingDirectory/15028/).
+[2018.08.05-20.13.32:359][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/usagi/AppData/Local/Temp/UnrealShaderWorkingDir/A2424CBA42FBB5B701E93BA9E6F1C1AE/'.
+[2018.08.05-20.13.32:757][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.05-20.13.32:778][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.05-20.13.32:796][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.05-20.13.32:817][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.05-20.13.32:839][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.05-20.13.32:861][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.05-20.13.32:889][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.05-20.13.32:912][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.05-20.13.32:923][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.05-20.13.32:941][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.05-20.13.32:957][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.05-20.13.32:977][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.05-20.13.32:993][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.08.05-20.13.33:011][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.05-20.13.33:028][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.05-20.13.33:063][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.05-20.13.33:063][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.05-20.13.33:081][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.05-20.13.33:083][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.05-20.13.33:131][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.05-20.13.33:147][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.05-20.13.33:163][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.05-20.13.33:184][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.05-20.13.33:202][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.05-20.13.33:221][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.05-20.13.33:221][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.05-20.13.33:426][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.05-20.13.33:426][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.05-20.13.33:426][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.05-20.13.34:482][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.05-20.13.34:566][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/usagi/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.05-20.13.34:566][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/usagi/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.08.05-20.13.34:567][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.05-20.13.34:567][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.05-20.13.34:567][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.05-20.13.34:567][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.05-20.13.34:588][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.05-20.13.34:602][  0]LogDerivedDataCache: Using Local data cache path C:/Users/usagi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.05-20.13.34:602][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.05-20.13.34:602][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.05-20.13.34:618][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.05-20.13.34:618][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.05-20.13.34:619][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.05-20.13.34:620][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.05-20.13.34:828][  0]LogAssetRegistry: FAssetRegistry took 0.0291 seconds to start up
+[2018.08.05-20.13.35:312][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.05-20.13.35:542][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.05-20.13.35:548][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.05-20.13.35:548][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.05-20.13.35:548][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.05-20.13.35:548][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.05-20.13.35:548][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.05-20.13.35:601][  0]LogNetVersion: Roadhouse , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 487093703)
+[2018.08.05-20.13.36:260][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.083126 seconds
+[2018.08.05-20.13.36:268][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.08.05-20.13.36:268][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.08.05-20.13.36:268][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.05-20.13.38:790][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.05-20.13.38:838][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.05-20.13.39:442][  0]SourceControl: Source control is disabled
+[2018.08.05-20.13.39:442][  0]SourceControl: Source control is disabled
+[2018.08.05-20.13.39:477][  0]SourceControl: Source control is disabled
+[2018.08.05-20.13.39:511][  0]SourceControl: Source control is disabled
+[2018.08.05-20.13.40:329][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.05-20.13.40:590][  0]LogOcInput: OculusInput pre-init called
+[2018.08.05-20.13.40:758][  0]LogEngine: Initializing Engine...
+[2018.08.05-20.13.40:762][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.05-20.13.40:764][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.05-20.13.40:764][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.05-20.13.41:070][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.05-20.13.41:087][  0]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.05-20.13.41:110][  0]LogInit: FAudioDevice initialized.
+[2018.08.05-20.13.41:199][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/usagi/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.05-20.13.41:214][  0]LogInit: Texture streaming: Enabled
+[2018.08.05-20.13.41:239][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.05-20.13.41:257][  0]LogInit: Transaction tracking system initialized
+[2018.08.05-20.13.41:293][  0]BlueprintLog: New page: Editor Load
+[2018.08.05-20.13.41:412][  0]LocalizationService: Localization service is disabled
+[2018.08.05-20.13.41:566][  0]LogConsoleResponse: Display: 
+[2018.08.05-20.13.41:805][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.05-20.13.41:805][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.05-20.13.41:805][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.05-20.13.41:805][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.05-20.13.41:805][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.05-20.13.42:479][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/' took 0.02s
+[2018.08.05-20.13.42:480][  0]SourceControl: Source control is disabled
+[2018.08.05-20.13.42:480][  0]Cmd: MAP LOAD FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.05-20.13.42:480][  0]LightingResults: New page: Lighting Build
+[2018.08.05-20.13.42:485][  0]MapCheck: New page: Map Check
+[2018.08.05-20.13.42:485][  0]LightingResults: New page: Lighting Build
+[2018.08.05-20.13.42:560][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001288b432430, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.08.05-20.13.42:573][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001288b432430, Size=72
+[2018.08.05-20.13.42:574][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001288b0bb920, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.08.05-20.13.42:583][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001288b05dad0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.08.05-20.13.42:601][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001288b042700, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.08.05-20.13.42:608][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001288b042700, Size=256
+[2018.08.05-20.13.42:608][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001288b042700, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_4:ExecuteUbergraph_FirstPersonProjectile
+[2018.08.05-20.13.42:611][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001288b040c00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.08.05-20.13.42:702][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001288acabd00, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.08.05-20.13.42:716][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001288acabd00, Size=688
+[2018.08.05-20.13.42:716][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001288acabd00, Size=688, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_6:ExecuteUbergraph_FirstPersonCharacter
+[2018.08.05-20.13.42:729][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001288abe7700, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.08.05-20.13.42:832][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out'
+[2018.08.05-20.13.42:832][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xmodular/Door_pb.uasset.
+[2018.08.05-20.13.42:832][  0]LoadErrors: Error: /Game/Assets/Xmodular/Door_pb : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Door_out
+[2018.08.05-20.13.42:832][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door'
+[2018.08.05-20.13.42:832][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xmodular/Door_pb.uasset.
+[2018.08.05-20.13.42:832][  0]LoadErrors: Error: /Game/Assets/Xmodular/Door_pb : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door
+[2018.08.05-20.13.42:833][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door'
+[2018.08.05-20.13.42:833][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xmodular/Door_pb.uasset.
+[2018.08.05-20.13.42:833][  0]LoadErrors: Error: /Game/Assets/Xmodular/Door_pb : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door
+[2018.08.05-20.13.42:833][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out'
+[2018.08.05-20.13.42:834][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xmodular/Door_pb.uasset.
+[2018.08.05-20.13.42:834][  0]LoadErrors: Error: /Game/Assets/Xmodular/Door_pb : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Door_out
+[2018.08.05-20.13.42:834][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door'
+[2018.08.05-20.13.42:834][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xmodular/Door_pb.uasset.
+[2018.08.05-20.13.42:834][  0]LoadErrors: Error: /Game/Assets/Xmodular/Door_pb : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door
+[2018.08.05-20.13.42:834][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door'
+[2018.08.05-20.13.42:834][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xmodular/Door_pb.uasset.
+[2018.08.05-20.13.42:834][  0]LoadErrors: Error: /Game/Assets/Xmodular/Door_pb : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door
+[2018.08.05-20.13.42:835][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000012895924700, Size=384, Default__Door_pb_C Function /Game/Assets/Xmodular/Door_pb.Door_pb_C:ExecuteUbergraph_Door_pb
+[2018.08.05-20.13.42:836][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out'
+[2018.08.05-20.13.42:836][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.05-20.13.42:836][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Door_out
+[2018.08.05-20.13.42:836][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door'
+[2018.08.05-20.13.42:837][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.05-20.13.42:837][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door
+[2018.08.05-20.13.42:837][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door'
+[2018.08.05-20.13.42:837][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.05-20.13.42:837][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door
+[2018.08.05-20.13.42:837][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out'
+[2018.08.05-20.13.42:837][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.05-20.13.42:838][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Door_out
+[2018.08.05-20.13.42:838][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door'
+[2018.08.05-20.13.42:838][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.05-20.13.42:838][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door
+[2018.08.05-20.13.42:838][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door'
+[2018.08.05-20.13.42:838][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.05-20.13.42:838][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door
+[2018.08.05-20.13.42:840][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door'
+[2018.08.05-20.13.42:840][  0]LoadErrors: Failed to load /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door.Wall_door Referenced by Wall_door1_GEN_VARIABLE
+[2018.08.05-20.13.42:840][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.05-20.13.42:841][  0]LoadErrors: Failed to load /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door.Wall_door Referenced by Wall_door1_GEN_VARIABLE
+[2018.08.05-20.13.42:841][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door
+[2018.08.05-20.13.42:841][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door'
+[2018.08.05-20.13.42:841][  0]LoadErrors: Failed to load /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door.Wall_interrior_door Referenced by Wall_interrior_door_GEN_VARIABLE
+[2018.08.05-20.13.42:841][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.05-20.13.42:841][  0]LoadErrors: Failed to load /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door.Wall_interrior_door Referenced by Wall_interrior_door_GEN_VARIABLE
+[2018.08.05-20.13.42:841][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door
+[2018.08.05-20.13.42:841][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out'
+[2018.08.05-20.13.42:842][  0]LoadErrors: Failed to load /Game/UE4-Jagdhuette/Assets/Xmodular/Door_out.Door_out Referenced by Door_out1_GEN_VARIABLE
+[2018.08.05-20.13.42:842][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out' while loading ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.05-20.13.42:842][  0]LoadErrors: Failed to load /Game/UE4-Jagdhuette/Assets/Xmodular/Door_out.Door_out Referenced by Door_out1_GEN_VARIABLE
+[2018.08.05-20.13.42:842][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Door_out
+[2018.08.05-20.13.42:844][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000012895924700, Size=384
+[2018.08.05-20.13.42:844][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000012895292200, Size=384, Default__Door_pb_C Function /Engine/Transient.REINST_Door_pb_C_10:ExecuteUbergraph_Door_pb
+[2018.08.05-20.13.42:847][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001288a5ad780, Size=384, Default__Door_pb_C Function /Game/Assets/Xmodular/Door_pb.Door_pb_C:ExecuteUbergraph_Door_pb
+[2018.08.05-20.13.42:856][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000012895947318, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.08.05-20.13.42:860][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000012895947318, Size=52
+[2018.08.05-20.13.42:860][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000012895947318, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_12:ExecuteUbergraph_FirstPersonHUD
+[2018.08.05-20.13.42:862][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000012895946f28, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.08.05-20.13.43:388][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [8.081077ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.08.05-20.13.43:734][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [4.797873ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.08.05-20.13.43:741][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.08.05-20.13.43:767][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.05-20.13.43:789][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001288b0bb920, Size=72
+[2018.08.05-20.13.43:789][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001288b042700, Size=256
+[2018.08.05-20.13.43:789][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001288acabd00, Size=688
+[2018.08.05-20.13.43:790][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000012895292200, Size=384
+[2018.08.05-20.13.43:790][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000012895947318, Size=52
+[2018.08.05-20.13.43:791][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.05-20.13.43:940][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 149,658ms to complete.
+[2018.08.05-20.13.43:941][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.461
+[2018.08.05-20.13.44:118][  0]LogCollectionManager: Loaded 0 collections in 0.003767 seconds
+[2018.08.05-20.13.44:173][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Collections/' took 0.01s
+[2018.08.05-20.13.44:173][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Developers/usagi/Collections/' took 0.01s
+[2018.08.05-20.13.44:173][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Collections/' took 0.01s
+[2018.08.05-20.13.44:173][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.05-20.13.44:186][  0]LogContentBrowser: Native class hierarchy populated in 0.0122 seconds. Added 2452 classes and 558 folders.
+[2018.08.05-20.13.44:195][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.08.05-20.13.44:279][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.05-20.13.44:285][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.08.05-20.13.44:310][  0]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.05-20.13.44:313][  0]LogSlate: Took 0.000375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.05-20.13.44:322][  0]LogSlate: Took 0.000720 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.05-20.13.44:481][  0]LogRenderer: Reallocating scene render targets to support 1308x648 Format 10 NumSamples 1 (Frame:1).
+[2018.08.05-20.13.44:706][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.08.05-20.13.44:706][  0]LogLoad: (Engine Initialization) Total time: 17.65 seconds
+[2018.08.05-20.13.44:706][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.05-20.13.44:725][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.05-20.13.44:757][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.05-20.13.44:761][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.05-20.13.44:843][  0]LogSlate: Took 0.000387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.05-20.13.44:871][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/' took 0.13s
+[2018.08.05-20.13.44:896][  1]LogAssetRegistry: Asset discovery search completed in 10.0911 seconds
+[2018.08.05-20.13.44:899][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2018.08.05-20.13.44:899][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000189 seconds (updated 0 objects)
+[2018.08.05-20.13.52:229][422]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-20.13.52:232][422]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-20.13.59:522][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.05-20.15.33:213][ 91]LogSlate: Window 'Source Control Login' being destroyed
+[2018.08.05-20.15.38:673][380]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.08.05-20.15.38:863][380]EditorErrors: Warning: No assets to check in!
+[2018.08.05-20.15.45:351][717]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-20.15.45:355][717]LogSlate: Window 'Message Log' being destroyed
+[2018.08.05-20.15.47:667][836]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.05-20.15.48:038][836]LogSavePackage: Save=325.93ms
+[2018.08.05-20.15.48:038][836]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap4F553A4A4407F064E0E166A4C14D4997.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.08.05-20.15.48:048][836]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.08.05-20.15.52:140][836]LogSavePackage: Save=3929.52ms
+[2018.08.05-20.15.52:140][836]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataD4AD642A441ACBE72DD36597A8152303.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.08.05-20.15.52:147][836]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
