@@ -1,0 +1,979 @@
+﻿Log file open, 08/06/18 16:11:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Roadhouse
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(538614279) SRandInit(538614279).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.304514
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  2.211s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am VC-LP (10.2.5.37:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/UE4_engine/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.06-14.11.33:905][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.06-14.11.33:905][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.06-14.11.33:945][  0]LogInit: Computer: VC-LP
+[2018.08.06-14.11.33:945][  0]LogInit: User: Administrator
+[2018.08.06-14.11.33:945][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.06-14.11.33:945][  0]LogInit: High frequency timer resolution =2.143475 MHz
+[2018.08.06-14.11.33:946][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.08.06-14.11.33:946][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.06-14.11.33:946][  0]LogMemory: Process Physical Memory: 273.38 MB used, 273.38 MB peak
+[2018.08.06-14.11.33:946][  0]LogMemory: Process Virtual Memory: 264.78 MB used, 264.78 MB peak
+[2018.08.06-14.11.33:946][  0]LogMemory: Physical Memory: 10252.24 MB used,  22396.03 MB free, 32648.27 MB total
+[2018.08.06-14.11.33:946][  0]LogMemory: Virtual Memory: 4779.94 MB used,  22396.03 MB free, 134217728.00 MB total
+[2018.08.06-14.11.33:984][  0]LogInit: Using OS detected language (de-DE).
+[2018.08.06-14.11.33:984][  0]LogInit: Using OS detected locale (de-DE).
+[2018.08.06-14.11.33:990][  0]LogTextLocalizationManager: No localization for 'de-DE' exists, so 'en' will be used for the language.
+[2018.08.06-14.11.34:634][  0]LogStreaming: Display: Took  0.650s to EndInitTextLocalization.
+[2018.08.06-14.11.34:634][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.06-14.11.34:690][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.06-14.11.34:690][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.06-14.11.35:080][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.06-14.11.35:115][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760M' (Feature Level 11_0)
+[2018.08.06-14.11.35:115][  0]LogD3D11RHI:       2019/0/16324 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.08.06-14.11.35:125][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.08.06-14.11.35:125][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.08.06-14.11.35:129][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.06-14.11.35:129][  0]LogD3D11RHI:       0/0/16324 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.06-14.11.35:129][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.06-14.11.35:148][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.06-14.11.35:148][  0]LogD3D11RHI:     GPU DeviceId: 0x11e3 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.06-14.11.35:148][  0]LogWindows: EnumDisplayDevices:
+[2018.08.06-14.11.35:149][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.08.06-14.11.35:149][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.08.06-14.11.35:149][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.08.06-14.11.35:150][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.06-14.11.35:150][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760M
+[2018.08.06-14.11.35:150][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.06-14.11.35:150][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.06-14.11.35:150][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2018.08.06-14.11.35:169][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.08.06-14.11.35:169][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.06-14.11.35:169][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.06-14.11.35:183][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.08.06-14.11.35:184][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Intermediate/Shaders/WorkingDirectory/26128/).
+[2018.08.06-14.11.35:184][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/411AB76D48CAD259CF323A86946CD283/'.
+[2018.08.06-14.11.35:581][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.06-14.11.35:601][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.06-14.11.35:623][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.06-14.11.35:644][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.06-14.11.35:665][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.06-14.11.35:685][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.06-14.11.35:705][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.06-14.11.35:728][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.06-14.11.35:738][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.06-14.11.35:757][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.06-14.11.35:779][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.06-14.11.35:799][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.06-14.11.35:818][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.08.06-14.11.35:837][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.06-14.11.35:856][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.06-14.11.35:894][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.06-14.11.35:894][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.06-14.11.35:913][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.06-14.11.35:916][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.06-14.11.35:961][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.06-14.11.35:980][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.06-14.11.35:999][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.06-14.11.36:017][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.06-14.11.36:035][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.06-14.11.36:055][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.06-14.11.36:055][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.06-14.11.36:244][  0]LogXGEController: Cleaning working directory: C:/Users/Administrator/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.08.06-14.11.36:245][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.06-14.11.36:245][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.06-14.11.36:245][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.06-14.11.37:313][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.06-14.11.37:407][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.06-14.11.37:407][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.08.06-14.11.37:407][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.06-14.11.37:407][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.06-14.11.37:407][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.06-14.11.37:407][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.06-14.11.37:432][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.06-14.11.37:446][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.06-14.11.37:446][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.06-14.11.37:446][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.06-14.11.37:463][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.06-14.11.37:463][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.06-14.11.37:464][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.06-14.11.37:464][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.06-14.11.37:664][  0]LogAssetRegistry: FAssetRegistry took 0.0284 seconds to start up
+[2018.08.06-14.11.38:140][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.06-14.11.38:370][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.06-14.11.38:374][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.06-14.11.38:374][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.06-14.11.38:374][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.06-14.11.38:374][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.06-14.11.38:374][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.06-14.11.38:434][  0]LogNetVersion: Roadhouse , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 487093703)
+[2018.08.06-14.11.39:037][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.065049 seconds
+[2018.08.06-14.11.39:045][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.08.06-14.11.39:045][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.08.06-14.11.39:045][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.06-14.11.41:743][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.06-14.11.41:789][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.06-14.11.42:415][  0]SourceControl: Source control is disabled
+[2018.08.06-14.11.45:332][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.06-14.11.45:599][  0]LogOcInput: OculusInput pre-init called
+[2018.08.06-14.11.45:790][  0]LogEngine: Initializing Engine...
+[2018.08.06-14.11.45:799][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.08.06-14.11.45:801][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.06-14.11.45:801][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.06-14.11.46:116][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.06-14.11.46:136][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.06-14.11.46:166][  0]LogInit: FAudioDevice initialized.
+[2018.08.06-14.11.46:632][  0]LogDerivedDataCache: Saved boot cache 0.46s 74MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.06-14.11.46:653][  0]LogInit: Texture streaming: Enabled
+[2018.08.06-14.11.46:676][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.06-14.11.46:722][  0]LogInit: Transaction tracking system initialized
+[2018.08.06-14.11.46:759][  0]BlueprintLog: New page: Editor Load
+[2018.08.06-14.11.46:867][  0]LocalizationService: Localization service is disabled
+[2018.08.06-14.11.47:406][  0]LogConsoleResponse: Display: 
+[2018.08.06-14.11.47:621][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.06-14.11.47:621][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.06-14.11.47:621][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.06-14.11.47:621][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.06-14.11.47:621][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.06-14.11.47:865][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Administrator/Documents/GitHub/Bar-Hyena/Content/' took 0.02s
+[2018.08.06-14.11.48:313][  0]Cmd: MAP LOAD FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.06-14.11.48:314][  0]LightingResults: New page: Lighting Build
+[2018.08.06-14.11.48:318][  0]MapCheck: New page: Map Check
+[2018.08.06-14.11.48:318][  0]LightingResults: New page: Lighting Build
+[2018.08.06-14.11.48:393][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f5fde8bec0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.08.06-14.11.48:406][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f5fde8bec0, Size=72
+[2018.08.06-14.11.48:406][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f58343afc0, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.08.06-14.11.48:418][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f5833d3470, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.08.06-14.11.48:435][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f5833b3e00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.08.06-14.11.48:442][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f5833b3e00, Size=256
+[2018.08.06-14.11.48:442][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f5833b3e00, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_4:ExecuteUbergraph_FirstPersonProjectile
+[2018.08.06-14.11.48:445][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f5833b0e00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.08.06-14.11.48:533][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f583fed000, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.08.06-14.11.48:550][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f583fed000, Size=688
+[2018.08.06-14.11.48:550][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f583c26500, Size=688, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_6:ExecuteUbergraph_FirstPersonCharacter
+[2018.08.06-14.11.48:563][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f583c24a00, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.08.06-14.11.48:669][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out'
+[2018.08.06-14.11.48:670][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Door_pb.uasset.
+[2018.08.06-14.11.48:670][  0]LoadErrors: Error: /Game/Assets/Xmodular/Door_pb : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Door_out
+[2018.08.06-14.11.48:670][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door'
+[2018.08.06-14.11.48:670][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Door_pb.uasset.
+[2018.08.06-14.11.48:670][  0]LoadErrors: Error: /Game/Assets/Xmodular/Door_pb : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door
+[2018.08.06-14.11.48:670][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door'
+[2018.08.06-14.11.48:670][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Door_pb.uasset.
+[2018.08.06-14.11.48:670][  0]LoadErrors: Error: /Game/Assets/Xmodular/Door_pb : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door
+[2018.08.06-14.11.48:671][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out'
+[2018.08.06-14.11.48:671][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Door_pb.uasset.
+[2018.08.06-14.11.48:671][  0]LoadErrors: Error: /Game/Assets/Xmodular/Door_pb : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Door_out
+[2018.08.06-14.11.48:671][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door'
+[2018.08.06-14.11.48:671][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Door_pb.uasset.
+[2018.08.06-14.11.48:671][  0]LoadErrors: Error: /Game/Assets/Xmodular/Door_pb : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door
+[2018.08.06-14.11.48:671][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door'
+[2018.08.06-14.11.48:672][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Door_pb.uasset.
+[2018.08.06-14.11.48:672][  0]LoadErrors: Error: /Game/Assets/Xmodular/Door_pb : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door
+[2018.08.06-14.11.48:673][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f586245180, Size=384, Default__Door_pb_C Function /Game/Assets/Xmodular/Door_pb.Door_pb_C:ExecuteUbergraph_Door_pb
+[2018.08.06-14.11.48:673][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out'
+[2018.08.06-14.11.48:673][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.06-14.11.48:673][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Door_out
+[2018.08.06-14.11.48:673][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door'
+[2018.08.06-14.11.48:673][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.06-14.11.48:673][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door
+[2018.08.06-14.11.48:673][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door'
+[2018.08.06-14.11.48:674][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.06-14.11.48:674][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door
+[2018.08.06-14.11.48:674][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out'
+[2018.08.06-14.11.48:674][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.06-14.11.48:674][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Door_out
+[2018.08.06-14.11.48:674][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door'
+[2018.08.06-14.11.48:674][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.06-14.11.48:674][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door
+[2018.08.06-14.11.48:674][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door'
+[2018.08.06-14.11.48:674][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.06-14.11.48:675][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door
+[2018.08.06-14.11.48:677][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door'
+[2018.08.06-14.11.48:677][  0]LoadErrors: Failed to load /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door.Wall_door Referenced by Wall_door1_GEN_VARIABLE
+[2018.08.06-14.11.48:678][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.06-14.11.48:678][  0]LoadErrors: Failed to load /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door.Wall_door Referenced by Wall_door1_GEN_VARIABLE
+[2018.08.06-14.11.48:678][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_door
+[2018.08.06-14.11.48:678][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door'
+[2018.08.06-14.11.48:678][  0]LoadErrors: Failed to load /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door.Wall_interrior_door Referenced by Wall_interrior_door_GEN_VARIABLE
+[2018.08.06-14.11.48:678][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.06-14.11.48:678][  0]LoadErrors: Failed to load /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door.Wall_interrior_door Referenced by Wall_interrior_door_GEN_VARIABLE
+[2018.08.06-14.11.48:678][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Wall_interrior_door
+[2018.08.06-14.11.48:679][  0]LogLinker: Warning: Can't find file '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out'
+[2018.08.06-14.11.48:679][  0]LoadErrors: Failed to load /Game/UE4-Jagdhuette/Assets/Xmodular/Door_out.Door_out Referenced by Door_out1_GEN_VARIABLE
+[2018.08.06-14.11.48:679][  0]LogLinker: Warning: Can't find file for asset '/Game/UE4-Jagdhuette/Assets/Xmodular/Door_out' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.06-14.11.48:679][  0]LoadErrors: Failed to load /Game/UE4-Jagdhuette/Assets/Xmodular/Door_out.Door_out Referenced by Door_out1_GEN_VARIABLE
+[2018.08.06-14.11.48:679][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/UE4-Jagdhuette/Assets/Xmodular/Door_out
+[2018.08.06-14.11.48:681][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f586245180, Size=384
+[2018.08.06-14.11.48:681][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f58383a800, Size=384, Default__Door_pb_C Function /Engine/Transient.REINST_Door_pb_C_10:ExecuteUbergraph_Door_pb
+[2018.08.06-14.11.48:685][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f583b49c00, Size=384, Default__Door_pb_C Function /Game/Assets/Xmodular/Door_pb.Door_pb_C:ExecuteUbergraph_Door_pb
+[2018.08.06-14.11.48:694][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f58625f318, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.08.06-14.11.48:698][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f58625f318, Size=52
+[2018.08.06-14.11.48:698][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f58625f318, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_12:ExecuteUbergraph_FirstPersonHUD
+[2018.08.06-14.11.48:701][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f58625ef28, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.08.06-14.11.48:900][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Bar/Table_v1_1'
+[2018.08.06-14.11.48:900][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Bar/Table_v1_1' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.06-14.11.48:900][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/Geometry/Meshes/Bar/Table_v1_1
+[2018.08.06-14.11.48:900][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Bar/Table_v1_2'
+[2018.08.06-14.11.48:901][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Bar/Table_v1_2' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.06-14.11.48:901][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/Geometry/Meshes/Bar/Table_v1_2
+[2018.08.06-14.11.48:901][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Bar/Table_v2_1'
+[2018.08.06-14.11.48:901][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Bar/Table_v2_1' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.06-14.11.48:901][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/Geometry/Meshes/Bar/Table_v2_1
+[2018.08.06-14.11.48:901][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Bar/Table_v2_2'
+[2018.08.06-14.11.48:901][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Bar/Table_v2_2' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.06-14.11.48:901][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/Geometry/Meshes/Bar/Table_v2_2
+[2018.08.06-14.11.48:913][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Bar/Table_v1_1'
+[2018.08.06-14.11.48:913][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Bar/Table_v1_1' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.06-14.11.48:913][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/Geometry/Meshes/Bar/Table_v1_1
+[2018.08.06-14.11.48:913][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Bar/Table_v1_2'
+[2018.08.06-14.11.48:913][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Bar/Table_v1_2' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.06-14.11.48:913][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/Geometry/Meshes/Bar/Table_v1_2
+[2018.08.06-14.11.48:913][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Bar/Table_v2_1'
+[2018.08.06-14.11.48:913][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Bar/Table_v2_1' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.06-14.11.48:914][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/Geometry/Meshes/Bar/Table_v2_1
+[2018.08.06-14.11.48:914][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Bar/Table_v2_2'
+[2018.08.06-14.11.48:914][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Bar/Table_v2_2' while loading ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap.
+[2018.08.06-14.11.48:914][  0]LoadErrors: Error: /Game/FirstPersonBP/Maps/FirstPersonExampleMap : Can't find file for asset. /Game/Geometry/Meshes/Bar/Table_v2_2
+[2018.08.06-14.11.48:916][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Bar/Table_v1_1'
+[2018.08.06-14.11.48:916][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Bar/Table_v1_1' while loading NULL.
+[2018.08.06-14.11.48:916][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Bar/Table_v1_2'
+[2018.08.06-14.11.48:916][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Bar/Table_v1_2' while loading NULL.
+[2018.08.06-14.11.48:916][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Bar/Table_v2_1'
+[2018.08.06-14.11.48:916][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Bar/Table_v2_1' while loading NULL.
+[2018.08.06-14.11.48:916][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Bar/Table_v2_2'
+[2018.08.06-14.11.48:917][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Bar/Table_v2_2' while loading NULL.
+[2018.08.06-14.11.48:917][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Bar/Table_v1_1'
+[2018.08.06-14.11.48:917][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Bar/Table_v1_1' while loading NULL.
+[2018.08.06-14.11.48:917][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Bar/Table_v1_2'
+[2018.08.06-14.11.48:917][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Bar/Table_v1_2' while loading NULL.
+[2018.08.06-14.11.48:917][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Bar/Table_v2_1'
+[2018.08.06-14.11.48:917][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Bar/Table_v2_1' while loading NULL.
+[2018.08.06-14.11.48:917][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Bar/Table_v2_2'
+[2018.08.06-14.11.48:918][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Bar/Table_v2_2' while loading NULL.
+[2018.08.06-14.11.49:054][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Bar/Table_v1_1'
+[2018.08.06-14.11.49:054][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Bar/Table_v1_1.Table_v1_1 Referenced by StaticMeshComponent0
+[2018.08.06-14.11.49:054][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Bar/Table_v1_1' while loading NULL.
+[2018.08.06-14.11.49:054][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Bar/Table_v1_1.Table_v1_1 Referenced by StaticMeshComponent0
+[2018.08.06-14.11.49:055][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Bar/Table_v1_2'
+[2018.08.06-14.11.49:055][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Bar/Table_v1_2.Table_v1_2 Referenced by StaticMeshComponent0
+[2018.08.06-14.11.49:055][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Bar/Table_v1_2' while loading NULL.
+[2018.08.06-14.11.49:055][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Bar/Table_v1_2.Table_v1_2 Referenced by StaticMeshComponent0
+[2018.08.06-14.11.49:055][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Bar/Table_v2_1'
+[2018.08.06-14.11.49:055][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Bar/Table_v2_1.Table_v2_1 Referenced by StaticMeshComponent0
+[2018.08.06-14.11.49:055][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Bar/Table_v2_1' while loading NULL.
+[2018.08.06-14.11.49:055][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Bar/Table_v2_1.Table_v2_1 Referenced by StaticMeshComponent0
+[2018.08.06-14.11.49:056][  0]LogLinker: Warning: Can't find file '/Game/Geometry/Meshes/Bar/Table_v2_2'
+[2018.08.06-14.11.49:056][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Bar/Table_v2_2.Table_v2_2 Referenced by StaticMeshComponent0
+[2018.08.06-14.11.49:056][  0]LogLinker: Warning: Can't find file for asset '/Game/Geometry/Meshes/Bar/Table_v2_2' while loading NULL.
+[2018.08.06-14.11.49:056][  0]LoadErrors: Failed to load /Game/Geometry/Meshes/Bar/Table_v2_2.Table_v2_2 Referenced by StaticMeshComponent0
+[2018.08.06-14.11.49:076][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [8.745612ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.08.06-14.11.49:167][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [5.149582ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.08.06-14.11.49:317][  0]LogStaticMesh: Building static mesh blockout_mit_assets...
+[2018.08.06-14.11.50:718][  0]LogStaticMesh: Built static mesh [1.40s] /Game/Geometry/Blockout/blockout_mit_assets.blockout_mit_assets
+[2018.08.06-14.11.51:221][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.08.06-14.11.51:250][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.06-14.11.51:268][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f58343afc0, Size=72
+[2018.08.06-14.11.51:269][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f5833b3e00, Size=256
+[2018.08.06-14.11.51:269][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f583c26500, Size=688
+[2018.08.06-14.11.51:269][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f58383a800, Size=384
+[2018.08.06-14.11.51:269][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001f58625f318, Size=52
+[2018.08.06-14.11.51:270][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.06-14.11.51:399][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 128,294ms to complete.
+[2018.08.06-14.11.51:399][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 3.085
+[2018.08.06-14.11.51:600][  0]LogCollectionManager: Loaded 0 collections in 0.003518 seconds
+[2018.08.06-14.11.51:652][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Collections/' took 0.01s
+[2018.08.06-14.11.51:652][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Developers/Administrator/Collections/' took 0.01s
+[2018.08.06-14.11.51:652][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Collections/' took 0.01s
+[2018.08.06-14.11.51:652][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.06-14.11.51:670][  0]LogContentBrowser: Native class hierarchy populated in 0.0176 seconds. Added 2452 classes and 558 folders.
+[2018.08.06-14.11.51:683][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.08.06-14.11.51:794][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.08.06-14.11.51:801][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.08.06-14.11.51:829][  0]LogSlate: Took 0.000427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.06-14.11.51:833][  0]LogSlate: Took 0.000501 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.06-14.11.51:844][  0]LogSlate: Took 0.000348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.06-14.11.52:021][  0]LogRenderer: Reallocating scene render targets to support 1208x564 Format 9 NumSamples 1 (Frame:1).
+[2018.08.06-14.11.52:253][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.08.06-14.11.52:253][  0]LogLoad: (Engine Initialization) Total time: 23.17 seconds
+[2018.08.06-14.11.52:253][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.06-14.11.52:628][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.08.06-14.11.52:638][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-14.11.52:927][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Users/Administrator/Documents/GitHub/Bar-Hyena/Content/' took 0.32s
+[2018.08.06-14.11.52:947][  1]LogAssetRegistry: Asset discovery search completed in 15.3048 seconds
+[2018.08.06-14.11.52:950][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.06-14.11.52:950][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000098 seconds (updated 0 objects)
+[2018.08.06-14.11.57:031][ 13]LogSlate: Took 0.036921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.06-14.12.32:391][830]LogSlate: Window 'Message Log' being destroyed
+[2018.08.06-14.12.32:411][830]LogSlate: Window 'Message Log' being destroyed
+[2018.08.06-14.12.40:061][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ofen)
+[2018.08.06-14.12.43:906][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barhocker2)
+[2018.08.06-14.12.46:105][326]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (blockout_Bar)
+[2018.08.06-14.12.46:443][326]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-14.13.15:280][260]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-14.13.19:280][375]SourceControl: fatal: D:/UE4_engine/UE_4.19/Engine/Content: 'D:/UE4_engine/UE_4.19/Engine/Content' is outside repository
+[2018.08.06-14.13.19:984][375]EditorErrors: Warning: No assets to check in!
+[2018.08.06-14.14.57:788][ 25]LogSlate: Took 0.000448 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.06-14.14.57:792][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-14.14.58:020][ 25]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 d:\Users\Administrator\Desktop\Sink.fbx)
+[2018.08.06-14.14.58:200][ 25]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.08.06-14.14.58:200][ 25]LogFbx: ItemName: Geometry, ItemCount : 4
+[2018.08.06-14.14.58:200][ 25]LogFbx: ItemName: Model, ItemCount : 4
+[2018.08.06-14.14.58:286][ 25]LogFbx: Loading FBX Scene from d:\Users\Administrator\Desktop\Sink.fbx
+[2018.08.06-14.14.58:362][ 25]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.06-14.15.04:651][ 25]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.06-14.15.04:782][ 25]LogFbx: Loading FBX Scene from d:\Users\Administrator\Desktop\Sink.fbx
+[2018.08.06-14.15.04:792][ 25]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.06-14.15.04:838][ 25]LogFbx: Warning: Triangulating static mesh NurbsPath.001
+[2018.08.06-14.15.04:855][ 25]LogFbx: Warning: Triangulating static mesh Cylinder.009
+[2018.08.06-14.15.04:867][ 25]LogFbx: Warning: Triangulating static mesh Cylinder.008
+[2018.08.06-14.15.04:872][ 25]LogFbx: Warning: Triangulating static mesh Cube.001
+[2018.08.06-14.15.04:897][ 25]LogStaticMesh: Building static mesh Sink...
+[2018.08.06-14.15.04:908][ 25]LogStaticMesh: Built static mesh [0.01s] /Game/Material/Sink.Sink
+[2018.08.06-14.15.04:912][ 25]LogStaticMesh: Warning: Sink has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.08.06-14.15.04:912][ 25]LogStaticMesh: Warning: Sink has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.08.06-14.15.05:037][ 25]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.06-14.15.05:038][ 25]FBXImport: Warning: Sink has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.08.06-14.15.05:038][ 25]FBXImport: Warning: Sink has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.08.06-14.15.11:224][253]LogSlate: Window 'Message Log' being destroyed
+[2018.08.06-14.15.11:244][253]LogSlate: Window 'Message Log' being destroyed
+[2018.08.06-14.15.12:525][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-14.15.12:644][289]LogActorFactory: Actor Factory created Sink
+[2018.08.06-14.15.13:310][306]LogActorFactory: Actor Factory created Sink
+[2018.08.06-14.15.14:680][339]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.06-14.15.15:155][353]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.06-14.15.37:529][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-14.15.38:827][823]LogEditorFactories: Performing atomic reimport of [D:/Users/Administrator/Desktop/Sink.fbx]
+[2018.08.06-14.15.38:974][823]LogFbx: Loading FBX Scene from D:/Users/Administrator/Desktop/Sink.fbx
+[2018.08.06-14.15.39:009][823]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.06-14.15.39:062][823]LogFbx: Warning: Triangulating static mesh NurbsPath.001
+[2018.08.06-14.15.39:085][823]LogFbx: Warning: Triangulating static mesh Cylinder.009
+[2018.08.06-14.15.39:119][823]LogFbx: Warning: Triangulating static mesh Cylinder.008
+[2018.08.06-14.15.39:133][823]LogFbx: Warning: Triangulating static mesh Cube.001
+[2018.08.06-14.15.39:290][823]LogStaticMesh: Building static mesh Sink...
+[2018.08.06-14.15.39:331][823]LogStaticMesh: Built static mesh [0.05s] /Game/Material/Sink.Sink
+[2018.08.06-14.15.39:344][823]LogStaticMesh: Warning: Sink has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.08.06-14.15.39:344][823]LogStaticMesh: Warning: Sink has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.08.06-14.15.39:396][823]LogEditorFactories: -- imported successfully
+[2018.08.06-14.15.39:408][823]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.06-14.15.39:409][823]FBXImport: Warning: Sink has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.08.06-14.15.39:409][823]FBXImport: Warning: Sink has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.08.06-14.15.49:472][196]Cmd: DELETE
+[2018.08.06-14.15.49:472][196]Cmd: ACTOR DELETE
+[2018.08.06-14.15.49:620][196]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.06-14.15.49:663][196]LogEditorActor: Deleted 1 Actors (0.104 secs)
+[2018.08.06-14.15.51:596][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-14.15.57:794][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Kitchen/Sink" FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/Sink.uasset" SILENT=true
+[2018.08.06-14.15.57:892][414]LogSavePackage: Save=94.26ms
+[2018.08.06-14.15.57:892][414]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Sink4C7630D247AAAFF494E5069C440155FD.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/Sink.uasset'
+[2018.08.06-14.15.57:897][414]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/Sink.uasset
+[2018.08.06-14.16.07:142][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-14.16.07:732][801]LogActorFactory: Actor Factory created Sink
+[2018.08.06-14.16.09:195][852]LogActorFactory: Actor Factory created Sink
+[2018.08.06-14.16.09:908][868]Cmd: DELETE
+[2018.08.06-14.16.09:908][868]Cmd: ACTOR DELETE
+[2018.08.06-14.16.09:927][868]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.06-14.16.09:969][868]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2018.08.06-14.16.11:245][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-14.16.13:243][993]LogActorFactory: Actor Factory created Sink
+[2018.08.06-14.16.14:064][ 22]LogActorFactory: Actor Factory created Sink
+[2018.08.06-14.16.22:586][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ofen)
+[2018.08.06-14.16.27:378][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sink)
+[2018.08.06-14.16.32:738][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-14.16.51:673][985]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-14.16.53:054][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ofen)
+[2018.08.06-14.20.26:091][733]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-14.21.56:837][119]LogSavePackage: Save=1529.79ms
+[2018.08.06-14.21.56:837][119]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap_Auto185ECE9864B9A0858F318DEACEB95C127.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2018.08.06-14.21.56:841][119]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap
+[2018.08.06-14.21.56:866][119]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 1.723
+[2018.08.06-14.21.56:866][119]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.723
+[2018.08.06-14.23.01:690][477]SourceControl: fatal: D:/UE4_engine/UE_4.19/Engine/Content: 'D:/UE4_engine/UE_4.19/Engine/Content' is outside repository
+[2018.08.06-14.23.23:865][477]LogSlate: Window 'Submit Files' being destroyed
+[2018.08.06-14.23.24:977][477]LogSourceControl: commit successful: [Kirill bf1e6f9] test
+[2018.08.06-14.23.25:088][477]SourceControl: [Kirill bf1e6f9] test
+[2018.08.06-14.23.25:088][477]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.08.06-14.23.25:088][477]SourceControl:  create mode 100644 Content/Assets/Kitchen/Sink.uasset
+[2018.08.06-14.23.25:105][477]SourceControl: Commited [Kirill bf1e6f9] test.
+[2018.08.06-14.24.50:072][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ofen)
+[2018.08.06-14.24.51:087][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Grill3)
+[2018.08.06-14.24.52:380][293]Cmd: DELETE
+[2018.08.06-14.24.52:380][293]Cmd: ACTOR DELETE
+[2018.08.06-14.24.52:399][293]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.06-14.24.52:440][293]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2018.08.06-14.24.53:224][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Fryer)
+[2018.08.06-14.24.55:188][382]Cmd: DELETE
+[2018.08.06-14.24.55:188][382]Cmd: ACTOR DELETE
+[2018.08.06-14.24.55:211][382]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.06-14.24.55:251][382]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2018.08.06-14.25.01:774][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_hood)
+[2018.08.06-14.25.10:587][726]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-14.27.11:452][336]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-14.28.54:420][660]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (blockout_Table_kitchen_2)
+[2018.08.06-14.28.54:631][660]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-14.28.55:484][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Table_kitchen_2)
+[2018.08.06-14.31.56:928][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-14.32.00:828][490]LogSavePackage: Save=1425.78ms
+[2018.08.06-14.32.00:828][490]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap_Auto2A23E0FE4407CB605F1E0F68648C86705.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2018.08.06-14.32.00:831][490]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap
+[2018.08.06-14.32.00:834][490]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 1.690
+[2018.08.06-14.32.00:834][490]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.690
+[2018.08.06-14.32.48:335][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-14.56.59:435][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-14.57.01:639][106]SourceControl: fatal: D:/UE4_engine/UE_4.19/Engine/Content: 'D:/UE4_engine/UE_4.19/Engine/Content' is outside repository
+[2018.08.06-14.57.01:880][106]EditorErrors: Warning: No assets to check in!
+[2018.08.06-15.00.39:037][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-15.00.42:332][289]LogEditorFactories: Performing atomic reimport of [D:/Users/Administrator/Desktop/Sink.fbx]
+[2018.08.06-15.00.42:420][289]LogFbx: Loading FBX Scene from D:/Users/Administrator/Desktop/Sink.fbx
+[2018.08.06-15.00.42:443][289]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.06-15.00.42:446][289]LogFbx: Warning: Triangulating static mesh Cube.003
+[2018.08.06-15.00.42:471][289]LogFbx: Warning: Triangulating static mesh NurbsPath.001
+[2018.08.06-15.00.42:484][289]LogFbx: Warning: Triangulating static mesh Cylinder.009
+[2018.08.06-15.00.42:504][289]LogFbx: Warning: Triangulating static mesh Cylinder.008
+[2018.08.06-15.00.42:512][289]LogFbx: Warning: Triangulating static mesh Cube.001
+[2018.08.06-15.00.42:592][289]LogStaticMesh: Building static mesh Sink...
+[2018.08.06-15.00.42:627][289]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Kitchen/Sink.Sink
+[2018.08.06-15.00.42:636][289]LogStaticMesh: Warning: Sink has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.08.06-15.00.42:636][289]LogStaticMesh: Warning: Sink has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.08.06-15.00.42:684][289]LogEditorFactories: -- imported successfully
+[2018.08.06-15.00.42:691][289]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.06-15.00.42:691][289]FBXImport: Warning: Sink has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.08.06-15.00.42:691][289]FBXImport: Warning: Sink has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.08.06-15.00.49:567][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sink)
+[2018.08.06-15.00.57:397][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Table_kitchen_2)
+[2018.08.06-15.00.58:363][920]Cmd: DELETE
+[2018.08.06-15.00.58:363][920]Cmd: ACTOR DELETE
+[2018.08.06-15.00.58:376][920]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.06-15.00.58:405][920]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2018.08.06-15.00.58:868][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sink)
+[2018.08.06-15.01.11:922][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_hood)
+[2018.08.06-15.01.13:613][371]Cmd: DELETE
+[2018.08.06-15.01.13:614][371]Cmd: ACTOR DELETE
+[2018.08.06-15.01.13:625][371]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.06-15.01.13:657][371]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.08.06-15.01.41:078][479]LogSavePackage: Save=1969.23ms
+[2018.08.06-15.01.41:078][479]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap_Auto3F81923C641BBB0C60B68B0BC0C8F6660.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2018.08.06-15.01.41:083][479]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap
+[2018.08.06-15.01.41:085][479]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 2.233
+[2018.08.06-15.01.41:085][479]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.233
+[2018.08.06-15.01.41:090][479]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Kitchen/Sink] ([1] browsable assets)...
+[2018.08.06-15.01.41:108][479]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Kitchen/Sink.Sink]
+[2018.08.06-15.01.41:108][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Kitchen/Sink]
+[2018.08.06-15.01.41:284][479]LogSavePackage: Save=153.77ms
+[2018.08.06-15.01.41:284][479]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Sink_Auto39863D3BF48D69DB5724228B97290EDE8.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/Assets/Kitchen/Sink_Auto3.uasset'
+[2018.08.06-15.01.41:288][479]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/Assets/Kitchen/Sink_Auto3.uasset
+[2018.08.06-15.01.41:288][479]LogFileHelpers: Auto-saving content packages took 0.200
+[2018.08.06-15.01.42:636][484]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-15.01.44:299][563]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 d:\Users\Administrator\Desktop\airvent.fbx)
+[2018.08.06-15.01.44:329][563]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.08.06-15.01.44:329][563]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.08.06-15.01.44:329][563]LogFbx: ItemName: Model, ItemCount : 1
+[2018.08.06-15.01.44:345][563]LogFbx: Loading FBX Scene from d:\Users\Administrator\Desktop\airvent.fbx
+[2018.08.06-15.01.44:363][563]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.06-15.01.45:523][563]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.06-15.01.45:617][563]LogFbx: Loading FBX Scene from d:\Users\Administrator\Desktop\airvent.fbx
+[2018.08.06-15.01.45:652][563]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.06-15.01.45:653][563]LogFbx: Warning: Triangulating static mesh Cube.002
+[2018.08.06-15.01.45:690][563]LogStaticMesh: Building static mesh airvent...
+[2018.08.06-15.01.45:694][563]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Kitchen/airvent.airvent
+[2018.08.06-15.01.45:696][563]LogStaticMesh: Warning: airvent has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.08.06-15.01.45:696][563]LogStaticMesh: Warning: airvent has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.08.06-15.01.45:722][563]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.06-15.01.45:723][563]FBXImport: Warning: airvent has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.08.06-15.01.45:723][563]FBXImport: Warning: airvent has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.08.06-15.01.47:172][614]LogSlate: Window 'Message Log' being destroyed
+[2018.08.06-15.01.47:185][614]LogSlate: Window 'Message Log' being destroyed
+[2018.08.06-15.01.48:006][650]LogActorFactory: Actor Factory created airvent
+[2018.08.06-15.01.48:773][689]LogActorFactory: Actor Factory created airvent
+[2018.08.06-15.01.50:797][780]Cmd: DELETE
+[2018.08.06-15.01.50:797][780]Cmd: ACTOR DELETE
+[2018.08.06-15.01.50:810][780]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.06-15.01.50:852][780]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2018.08.06-15.01.51:447][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-15.01.53:240][857]LogActorFactory: Actor Factory created airvent
+[2018.08.06-15.01.53:555][873]LogActorFactory: Actor Factory created airvent
+[2018.08.06-15.02.16:445][324]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-15.02.18:719][387]LogEditorFactories: Performing atomic reimport of [D:/Users/Administrator/Desktop/airvent.fbx]
+[2018.08.06-15.02.18:872][387]LogFbx: Loading FBX Scene from D:/Users/Administrator/Desktop/airvent.fbx
+[2018.08.06-15.02.18:940][387]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.06-15.02.18:943][387]LogFbx: Warning: Triangulating static mesh Cube.002
+[2018.08.06-15.02.19:093][387]LogStaticMesh: Building static mesh airvent...
+[2018.08.06-15.02.19:101][387]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Kitchen/airvent.airvent
+[2018.08.06-15.02.19:106][387]LogStaticMesh: Warning: airvent has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.08.06-15.02.19:106][387]LogStaticMesh: Warning: airvent has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.08.06-15.02.19:151][387]LogEditorFactories: -- imported successfully
+[2018.08.06-15.02.19:180][387]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.06-15.02.19:180][387]FBXImport: Warning: airvent has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.08.06-15.02.19:181][387]FBXImport: Warning: airvent has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.08.06-15.02.25:696][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Oven)
+[2018.08.06-15.03.08:992][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Diahwasher1)
+[2018.08.06-15.03.16:608][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sink)
+[2018.08.06-15.03.21:990][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Dishwasher2)
+[2018.08.06-15.03.23:519][911]LogSlate: Took 0.043410 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.06-15.03.39:428][293]Cmd: DELETE
+[2018.08.06-15.03.39:429][293]Cmd: ACTOR DELETE
+[2018.08.06-15.03.39:464][293]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.06-15.03.39:535][293]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2018.08.06-15.03.40:960][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sink)
+[2018.08.06-15.03.57:899][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-15.04.03:827][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Oven)
+[2018.08.06-15.04.04:911][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ofen)
+[2018.08.06-15.04.06:130][763]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (airvent)
+[2018.08.06-15.04.14:635][964]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-15.04.18:425][964]LogSavePackage: Save=2537.41ms
+[2018.08.06-15.04.18:425][964]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMapC4DA56F64927416F8960B2AC8D47E3D5.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.08.06-15.04.18:432][964]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.08.06-15.04.26:052][964]LogSavePackage: Save=6812.98ms
+[2018.08.06-15.04.26:052][964]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap_BuiltData0A8D260B49A4502BCEC171BC90175FEB.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.08.06-15.04.26:062][964]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.08.06-15.04.31:489][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (airvent)
+[2018.08.06-15.04.37:112][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ofen)
+[2018.08.06-15.04.39:340][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-15.04.44:032][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (airvent)
+[2018.08.06-15.04.59:279][518]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-15.05.01:927][592]LogEditorFactories: Performing atomic reimport of [D:/Users/Administrator/Desktop/airvent.fbx]
+[2018.08.06-15.05.02:121][592]LogFbx: Loading FBX Scene from D:/Users/Administrator/Desktop/airvent.fbx
+[2018.08.06-15.05.02:143][592]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.06-15.05.02:144][592]LogFbx: Warning: Triangulating static mesh Cube.002
+[2018.08.06-15.05.02:241][592]LogStaticMesh: Building static mesh airvent...
+[2018.08.06-15.05.02:261][592]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Kitchen/airvent.airvent
+[2018.08.06-15.05.02:297][592]LogStaticMesh: Warning: airvent has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.08.06-15.05.02:298][592]LogStaticMesh: Warning: airvent has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.08.06-15.05.02:327][592]LogEditorFactories: -- imported successfully
+[2018.08.06-15.05.02:337][592]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.06-15.05.02:337][592]FBXImport: Warning: airvent has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.08.06-15.05.02:337][592]FBXImport: Warning: airvent has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.08.06-15.05.04:638][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Kitchen/airvent" FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/airvent.uasset" SILENT=true
+[2018.08.06-15.05.04:751][630]LogSavePackage: Save=105.77ms
+[2018.08.06-15.05.04:751][630]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/airventACA44A9949035C1EA329B88449BC83F8.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/airvent.uasset'
+[2018.08.06-15.05.04:761][630]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/airvent.uasset
+[2018.08.06-15.06.55:662][966]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-15.08.44:226][717]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-15.08.46:252][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Kitchen/airvent" FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/airvent.uasset" SILENT=true
+[2018.08.06-15.08.46:368][786]LogSavePackage: Save=86.13ms
+[2018.08.06-15.08.46:368][786]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/airventB0F87B654B420C8EFF571D9E78DB3F84.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/airvent.uasset'
+[2018.08.06-15.08.46:372][786]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/airvent.uasset
+[2018.08.06-15.08.48:455][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Kitchen/Sink" FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/Sink.uasset" SILENT=true
+[2018.08.06-15.08.48:563][848]LogSavePackage: Save=71.97ms
+[2018.08.06-15.08.48:563][848]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/SinkFE21791D47000E2C64F6A3AEE3578E2B.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/Sink.uasset'
+[2018.08.06-15.08.48:573][848]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/Sink.uasset
+[2018.08.06-15.09.10:212][  3]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-15.09.13:051][109]LogEditorFactories: Performing atomic reimport of [D:/Users/Administrator/Desktop/Sink.fbx]
+[2018.08.06-15.09.13:184][109]LogFbx: Loading FBX Scene from D:/Users/Administrator/Desktop/Sink.fbx
+[2018.08.06-15.09.13:214][109]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.06-15.09.13:218][109]LogFbx: Warning: Triangulating static mesh Cube.003
+[2018.08.06-15.09.13:250][109]LogFbx: Warning: Triangulating static mesh Cube.002
+[2018.08.06-15.09.13:261][109]LogFbx: Warning: Triangulating static mesh NurbsPath.001
+[2018.08.06-15.09.13:277][109]LogFbx: Warning: Triangulating static mesh Cylinder.009
+[2018.08.06-15.09.13:330][109]LogFbx: Warning: Triangulating static mesh Cylinder.008
+[2018.08.06-15.09.13:352][109]LogFbx: Warning: Triangulating static mesh Cube.001
+[2018.08.06-15.09.13:468][109]LogStaticMesh: Building static mesh Sink...
+[2018.08.06-15.09.13:507][109]LogStaticMesh: Built static mesh [0.05s] /Game/Assets/Kitchen/Sink.Sink
+[2018.08.06-15.09.13:520][109]LogStaticMesh: Warning: Sink has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.08.06-15.09.13:520][109]LogStaticMesh: Warning: Sink has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.08.06-15.09.13:552][109]LogEditorFactories: -- imported successfully
+[2018.08.06-15.09.13:571][109]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.06-15.09.13:572][109]FBXImport: Warning: Sink has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.08.06-15.09.13:572][109]FBXImport: Warning: Sink has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.08.06-15.09.37:609][530]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-15.09.39:419][587]LogEditorFactories: Performing atomic reimport of [D:/Users/Administrator/Desktop/Sink.fbx]
+[2018.08.06-15.09.39:538][587]LogFbx: Loading FBX Scene from D:/Users/Administrator/Desktop/Sink.fbx
+[2018.08.06-15.09.39:580][587]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.06-15.09.39:584][587]LogFbx: Warning: Triangulating static mesh Cube.003
+[2018.08.06-15.09.39:625][587]LogFbx: Warning: Triangulating static mesh NurbsPath.001
+[2018.08.06-15.09.39:646][587]LogFbx: Warning: Triangulating static mesh Cylinder.009
+[2018.08.06-15.09.39:668][587]LogFbx: Warning: Triangulating static mesh Cylinder.008
+[2018.08.06-15.09.39:676][587]LogFbx: Warning: Triangulating static mesh Cube.001
+[2018.08.06-15.09.39:784][587]LogStaticMesh: Building static mesh Sink...
+[2018.08.06-15.09.39:824][587]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Kitchen/Sink.Sink
+[2018.08.06-15.09.39:834][587]LogStaticMesh: Warning: Sink has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.08.06-15.09.39:834][587]LogStaticMesh: Warning: Sink has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.08.06-15.09.39:859][587]LogEditorFactories: -- imported successfully
+[2018.08.06-15.09.39:868][587]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.06-15.09.39:868][587]FBXImport: Warning: Sink has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.08.06-15.09.39:868][587]FBXImport: Warning: Sink has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.08.06-15.09.54:897][109]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-15.09.58:534][109]LogSavePackage: Save=2560.48ms
+[2018.08.06-15.09.58:534][109]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap7973BC494CA39047524CEBA574BB7659.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.08.06-15.09.58:543][109]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.08.06-15.10.05:128][109]LogSavePackage: Save=4796.53ms
+[2018.08.06-15.10.05:129][109]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap_BuiltDataFDD7968A4368569301B03E9A788DF427.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.08.06-15.10.05:136][109]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.08.06-15.10.32:481][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-15.10.35:500][546]LogSavePackage: Save=1930.79ms
+[2018.08.06-15.10.35:500][546]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMapD96A768444505D7A7BB695B4144EAEA7.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.08.06-15.10.35:507][546]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.08.06-15.10.40:490][546]LogSavePackage: Save=4118.71ms
+[2018.08.06-15.10.40:490][546]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap_BuiltData5F9C3ABC42A9A8B2C54403BB0BD5B8DE.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.08.06-15.10.40:497][546]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.08.06-15.10.46:416][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-15.10.50:414][867]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Kitchen/Sink" FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/Sink.uasset" SILENT=true
+[2018.08.06-15.10.50:580][867]LogSavePackage: Save=141.70ms
+[2018.08.06-15.10.50:580][867]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/SinkF4A18B3E43583F231B41F3A3B5F29798.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/Sink.uasset'
+[2018.08.06-15.10.50:591][867]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/Sink.uasset
+[2018.08.06-15.11.01:921][156]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-15.11.13:692][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-15.11.30:188][732]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 116 classes and 0 folders.
+[2018.08.06-15.11.31:221][732]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f60e7fa578, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.06-15.11.31:222][732]LogUObjectGlobals: Created PersistentFrame Addr=0x000001f60e7fa570, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.06-15.11.33:208][732]LogSlate: Took 0.066465 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.06-15.11.35:429][762]LogRenderer: Reallocating scene render targets to support 1208x712 Format 9 NumSamples 1 (Frame:1).
+[2018.08.06-15.11.39:744][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-15.11.39:922][844]LogSlate: Window 'Door_pb' being destroyed
+[2018.08.06-15.11.39:936][844]LogSlate: Window 'Door_pb' being destroyed
+[2018.08.06-15.12.58:026][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sink)
+[2018.08.06-15.13.07:692][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Table_kitchen_3)
+[2018.08.06-15.13.09:722][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Diahwasher1)
+[2018.08.06-15.13.12:849][ 38]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sink)
+[2018.08.06-15.13.19:584][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Diahwasher1)
+[2018.08.06-15.14.12:825][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Diahwasher1)
+[2018.08.06-15.14.13:190][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sink)
+[2018.08.06-15.14.14:502][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-15.14.16:565][775]LogEditorFactories: Performing atomic reimport of [D:/Users/Administrator/Desktop/Sink.fbx]
+[2018.08.06-15.14.16:691][775]LogFbx: Loading FBX Scene from D:/Users/Administrator/Desktop/Sink.fbx
+[2018.08.06-15.14.16:736][775]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.06-15.14.16:742][775]LogFbx: Warning: Triangulating static mesh Cube.003
+[2018.08.06-15.14.16:773][775]LogFbx: Warning: Triangulating static mesh NurbsPath.001
+[2018.08.06-15.14.16:787][775]LogFbx: Warning: Triangulating static mesh Cylinder.009
+[2018.08.06-15.14.16:811][775]LogFbx: Warning: Triangulating static mesh Cylinder.008
+[2018.08.06-15.14.16:819][775]LogFbx: Warning: Triangulating static mesh Cube.001
+[2018.08.06-15.14.16:918][775]LogStaticMesh: Building static mesh Sink...
+[2018.08.06-15.14.16:992][775]LogStaticMesh: Built static mesh [0.09s] /Game/Assets/Kitchen/Sink.Sink
+[2018.08.06-15.14.17:002][775]LogStaticMesh: Warning: Sink has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.08.06-15.14.17:002][775]LogStaticMesh: Warning: Sink has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.08.06-15.14.17:070][775]LogEditorFactories: -- imported successfully
+[2018.08.06-15.14.17:078][775]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.06-15.14.17:078][775]FBXImport: Warning: Sink has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.08.06-15.14.17:078][775]FBXImport: Warning: Sink has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.08.06-15.14.19:055][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Kitchen/Sink" FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/Sink.uasset" SILENT=true
+[2018.08.06-15.14.19:209][810]LogSavePackage: Save=120.78ms
+[2018.08.06-15.14.19:209][810]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Sink4273D08840503241C250ED9B3B16E174.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/Sink.uasset'
+[2018.08.06-15.14.19:218][810]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/Sink.uasset
+[2018.08.06-15.20.35:799][967]LogSavePackage: Save=1703.28ms
+[2018.08.06-15.20.35:799][967]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap_Auto477E60C4D4FC2029287031BB234AB651E.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2018.08.06-15.20.35:804][967]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap
+[2018.08.06-15.20.35:807][967]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 1.960
+[2018.08.06-15.20.35:807][967]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.960
+[2018.08.06-15.21.16:382][132]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 d:\Users\Administrator\Desktop\closet.fbx)
+[2018.08.06-15.21.16:399][132]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.08.06-15.21.16:400][132]LogFbx: ItemName: Geometry, ItemCount : 2
+[2018.08.06-15.21.16:400][132]LogFbx: ItemName: Model, ItemCount : 2
+[2018.08.06-15.21.16:413][132]LogFbx: Loading FBX Scene from d:\Users\Administrator\Desktop\closet.fbx
+[2018.08.06-15.21.16:430][132]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.06-15.21.17:484][132]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.06-15.21.17:561][132]LogFbx: Loading FBX Scene from d:\Users\Administrator\Desktop\closet.fbx
+[2018.08.06-15.21.17:578][132]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.06-15.21.17:578][132]LogFbx: Warning: Triangulating static mesh Plane
+[2018.08.06-15.21.17:580][132]LogFbx: Warning: Triangulating static mesh Cube.003
+[2018.08.06-15.21.17:597][132]LogStaticMesh: Building static mesh closet...
+[2018.08.06-15.21.17:602][132]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Kitchen/closet.closet
+[2018.08.06-15.21.17:604][132]LogStaticMesh: Warning: closet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.08.06-15.21.17:604][132]LogStaticMesh: Warning: closet has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.08.06-15.21.17:627][132]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.06-15.21.17:627][132]FBXImport: Warning: closet has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.08.06-15.21.17:627][132]FBXImport: Warning: closet has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.08.06-15.21.19:011][185]LogSlate: Window 'Message Log' being destroyed
+[2018.08.06-15.21.19:020][185]LogSlate: Window 'Message Log' being destroyed
+[2018.08.06-15.21.22:147][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Table_kitchen_1)
+[2018.08.06-15.21.22:699][366]Cmd: DELETE
+[2018.08.06-15.21.22:700][366]Cmd: ACTOR DELETE
+[2018.08.06-15.21.22:710][366]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.06-15.21.22:750][366]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2018.08.06-15.21.23:242][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-15.21.23:437][400]LogActorFactory: Actor Factory created closet
+[2018.08.06-15.21.24:147][440]LogActorFactory: Actor Factory created closet
+[2018.08.06-15.21.25:104][479]Cmd: DELETE
+[2018.08.06-15.21.25:104][479]Cmd: ACTOR DELETE
+[2018.08.06-15.21.25:115][479]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.06-15.21.25:169][479]LogEditorActor: Deleted 1 Actors (0.064 secs)
+[2018.08.06-15.21.27:155][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-15.21.29:149][629]LogActorFactory: Actor Factory created closet
+[2018.08.06-15.21.29:548][635]LogActorFactory: Actor Factory created closet
+[2018.08.06-15.21.37:564][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-15.21.49:031][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-15.22.00:630][439]Cmd: EDIT COPY
+[2018.08.06-15.22.00:866][445]Cmd: EDIT PASTE
+[2018.08.06-15.22.16:496][832]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-15.22.20:309][832]LogSavePackage: Save=2563.95ms
+[2018.08.06-15.22.20:309][832]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMapE71280B64530522E4389D585A784D5AB.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.08.06-15.22.20:317][832]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.08.06-15.22.26:185][832]LogSavePackage: Save=4911.18ms
+[2018.08.06-15.22.26:185][832]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap_BuiltData094B500442011DD223AC15BCEDA59186.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.08.06-15.22.26:196][832]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.08.06-15.25.33:842][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Diahwasher1)
+[2018.08.06-15.25.44:112][664]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-15.25.47:668][664]LogSavePackage: Save=2222.21ms
+[2018.08.06-15.25.47:669][664]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMapB8DDAEAE4012FDBA1D1C1A95E494D55B.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.08.06-15.25.47:680][664]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.08.06-15.25.55:238][664]LogSavePackage: Save=5986.04ms
+[2018.08.06-15.25.55:238][664]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap_BuiltDataC1591BCB40E1F7A3E9A2669C2E4D1BA2.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.08.06-15.25.55:247][664]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.08.06-15.28.18:993][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-15.30.32:268][525]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-15.30.36:443][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Oven)
+[2018.08.06-15.30.37:281][829]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMeshComponent0)
+[2018.08.06-15.30.37:369][829]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-15.30.40:495][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (airvent)
+[2018.08.06-15.30.46:510][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Diahwasher1)
+[2018.08.06-15.35.44:278][602]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-15.35.46:797][602]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.069
+[2018.08.06-15.35.46:829][602]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Kitchen/closet] ([1] browsable assets)...
+[2018.08.06-15.35.46:884][602]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Kitchen/closet.closet]
+[2018.08.06-15.35.46:884][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Kitchen/closet]
+[2018.08.06-15.35.46:978][602]LogSavePackage: Save=85.58ms
+[2018.08.06-15.35.46:978][602]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/closet_Auto5199D4EE447D9398FB76C868BDBCC7EB6.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/Assets/Kitchen/closet_Auto5.uasset'
+[2018.08.06-15.35.46:982][602]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/Assets/Kitchen/closet_Auto5.uasset
+[2018.08.06-15.35.46:983][602]LogFileHelpers: Auto-saving content packages took 0.175
+[2018.08.06-15.47.53:661][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-15.47.55:986][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Kitchen/closet" FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/closet.uasset" SILENT=true
+[2018.08.06-15.47.56:055][884]LogSavePackage: Save=65.90ms
+[2018.08.06-15.47.56:055][884]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/closetDE3FF6184FD4552C220818ACED2C89BD.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/closet.uasset'
+[2018.08.06-15.47.56:060][884]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/closet.uasset
+[2018.08.06-15.51.03:591][  9]AssetReimport: New page: Outstanding source content changes 19:51:03
+[2018.08.06-15.51.06:019][ 10]LogTexture: Display: Building textures: Table_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.08.06-15.51.06:019][ 10]LogTexture: Display: Building textures: Table_Normal (BC5, 1024X1024)
+[2018.08.06-15.51.06:019][ 10]LogTexture: Display: Building textures: Table_BaseColor (AutoDXT, 1024X1024)
+[2018.08.06-15.51.06:019][ 10]LogStaticMesh: Building static mesh Table_v2_2...
+[2018.08.06-15.51.06:160][ 10]LogStaticMesh: Built static mesh [0.14s] /Game/Geometry/Meshes/Bar/Table_v2_2.Table_v2_2
+[2018.08.06-15.51.06:183][ 10]LogStaticMesh: Building static mesh Table_v2_1...
+[2018.08.06-15.51.06:304][ 10]LogStaticMesh: Built static mesh [0.12s] /Game/Geometry/Meshes/Bar/Table_v2_1.Table_v2_1
+[2018.08.06-15.51.06:325][ 10]LogStaticMesh: Building static mesh Table_v1_2...
+[2018.08.06-15.51.06:415][ 10]LogStaticMesh: Built static mesh [0.09s] /Game/Geometry/Meshes/Bar/Table_v1_2.Table_v1_2
+[2018.08.06-15.51.06:433][ 10]LogStaticMesh: Building static mesh Table_v1_1...
+[2018.08.06-15.51.06:523][ 10]LogStaticMesh: Built static mesh [0.09s] /Game/Geometry/Meshes/Bar/Table_v1_1.Table_v1_1
+[2018.08.06-15.51.16:380][ 10]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.06-15.51.22:612][ 10]SourceControl: rm 'Content/Geometry/Blockout/blockout_mit_assets.uasset'
+[2018.08.06-15.51.22:612][ 10]SourceControl: rm 'Content/Geometry/Meshes/Bar/Table_v1_1.uasset'
+[2018.08.06-15.51.22:612][ 10]SourceControl: rm 'Content/Geometry/Meshes/Bar/Table_v1_2.uasset'
+[2018.08.06-15.51.22:612][ 10]SourceControl: rm 'Content/Geometry/Meshes/Bar/Table_v2_1.uasset'
+[2018.08.06-15.51.22:612][ 10]SourceControl: rm 'Content/Geometry/Meshes/Bar/Table_v2_2.uasset'
+[2018.08.06-15.51.22:612][ 10]SourceControl: rm 'Content/Textures/Table/Table_BaseColor.uasset'
+[2018.08.06-15.51.22:612][ 10]SourceControl: rm 'Content/Textures/Table/Table_Normal.uasset'
+[2018.08.06-15.51.22:612][ 10]SourceControl: rm 'Content/Textures/Table/Table_OcclusionRoughnessMetallic.uasset'
+[2018.08.06-15.51.25:660][166]AssetReimport: Attempting to delete Table_OcclusionRoughnessMetallic (its source file has been removed).
+[2018.08.06-15.51.25:660][166]AssetReimport: Attempting to delete Table_Normal (its source file has been removed).
+[2018.08.06-15.51.25:660][166]AssetReimport: Attempting to delete Table_BaseColor (its source file has been removed).
+[2018.08.06-15.51.25:660][166]AssetReimport: Attempting to delete blockout_mit_assets (its source file has been removed).
+[2018.08.06-15.51.25:660][166]AssetReimport: Attempting to delete Table_v2_2 (its source file has been removed).
+[2018.08.06-15.51.25:660][166]AssetReimport: Attempting to delete Table_v2_1 (its source file has been removed).
+[2018.08.06-15.51.25:660][166]AssetReimport: Attempting to delete Table_v1_2 (its source file has been removed).
+[2018.08.06-15.51.25:660][166]AssetReimport: Attempting to delete Table_v1_1 (its source file has been removed).
+[2018.08.06-15.51.28:693][331]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-15.51.30:623][331]LogSavePackage: Save=1815.38ms
+[2018.08.06-15.51.30:623][331]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap_Auto691BCDF6C4ED91ECE85D936888C04B708.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap'
+[2018.08.06-15.51.30:633][331]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap
+[2018.08.06-15.51.30:639][331]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 1.888
+[2018.08.06-15.51.30:640][331]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.888
