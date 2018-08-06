@@ -403,3 +403,8 @@ LogInit: Object subsystem initialized
 [2018.08.06-15.00.17:587][107]LogSlate: Took 0.000650 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2018.08.06-15.00.20:413][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.08.06-15.00.20:566][187]LogRenderer: Reallocating scene render targets to support 1308x648 Format 10 NumSamples 1 (Frame:172).
+[2018.08.06-15.19.27:340][881]LogSlate: Took 0.000432 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.06-15.19.37:170][425]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.06-15.19.38:012][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-15.20.17:045][266]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.08.06-15.20.18:401][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
