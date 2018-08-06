@@ -517,3 +517,118 @@ LogInit: Object subsystem initialized
 [2018.08.06-14.11.52:950][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2018.08.06-14.11.52:950][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000098 seconds (updated 0 objects)
 [2018.08.06-14.11.57:031][ 13]LogSlate: Took 0.036921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.06-14.12.32:391][830]LogSlate: Window 'Message Log' being destroyed
+[2018.08.06-14.12.32:411][830]LogSlate: Window 'Message Log' being destroyed
+[2018.08.06-14.12.40:061][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ofen)
+[2018.08.06-14.12.43:906][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barhocker2)
+[2018.08.06-14.12.46:105][326]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (blockout_Bar)
+[2018.08.06-14.12.46:443][326]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-14.13.15:280][260]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-14.13.19:280][375]SourceControl: fatal: D:/UE4_engine/UE_4.19/Engine/Content: 'D:/UE4_engine/UE_4.19/Engine/Content' is outside repository
+[2018.08.06-14.13.19:984][375]EditorErrors: Warning: No assets to check in!
+[2018.08.06-14.14.57:788][ 25]LogSlate: Took 0.000448 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.06-14.14.57:792][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-14.14.58:020][ 25]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 d:\Users\Administrator\Desktop\Sink.fbx)
+[2018.08.06-14.14.58:200][ 25]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.08.06-14.14.58:200][ 25]LogFbx: ItemName: Geometry, ItemCount : 4
+[2018.08.06-14.14.58:200][ 25]LogFbx: ItemName: Model, ItemCount : 4
+[2018.08.06-14.14.58:286][ 25]LogFbx: Loading FBX Scene from d:\Users\Administrator\Desktop\Sink.fbx
+[2018.08.06-14.14.58:362][ 25]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.06-14.15.04:651][ 25]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.06-14.15.04:782][ 25]LogFbx: Loading FBX Scene from d:\Users\Administrator\Desktop\Sink.fbx
+[2018.08.06-14.15.04:792][ 25]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.06-14.15.04:838][ 25]LogFbx: Warning: Triangulating static mesh NurbsPath.001
+[2018.08.06-14.15.04:855][ 25]LogFbx: Warning: Triangulating static mesh Cylinder.009
+[2018.08.06-14.15.04:867][ 25]LogFbx: Warning: Triangulating static mesh Cylinder.008
+[2018.08.06-14.15.04:872][ 25]LogFbx: Warning: Triangulating static mesh Cube.001
+[2018.08.06-14.15.04:897][ 25]LogStaticMesh: Building static mesh Sink...
+[2018.08.06-14.15.04:908][ 25]LogStaticMesh: Built static mesh [0.01s] /Game/Material/Sink.Sink
+[2018.08.06-14.15.04:912][ 25]LogStaticMesh: Warning: Sink has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.08.06-14.15.04:912][ 25]LogStaticMesh: Warning: Sink has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.08.06-14.15.05:037][ 25]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.06-14.15.05:038][ 25]FBXImport: Warning: Sink has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.08.06-14.15.05:038][ 25]FBXImport: Warning: Sink has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.08.06-14.15.11:224][253]LogSlate: Window 'Message Log' being destroyed
+[2018.08.06-14.15.11:244][253]LogSlate: Window 'Message Log' being destroyed
+[2018.08.06-14.15.12:525][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-14.15.12:644][289]LogActorFactory: Actor Factory created Sink
+[2018.08.06-14.15.13:310][306]LogActorFactory: Actor Factory created Sink
+[2018.08.06-14.15.14:680][339]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.06-14.15.15:155][353]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.06-14.15.37:529][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-14.15.38:827][823]LogEditorFactories: Performing atomic reimport of [D:/Users/Administrator/Desktop/Sink.fbx]
+[2018.08.06-14.15.38:974][823]LogFbx: Loading FBX Scene from D:/Users/Administrator/Desktop/Sink.fbx
+[2018.08.06-14.15.39:009][823]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.06-14.15.39:062][823]LogFbx: Warning: Triangulating static mesh NurbsPath.001
+[2018.08.06-14.15.39:085][823]LogFbx: Warning: Triangulating static mesh Cylinder.009
+[2018.08.06-14.15.39:119][823]LogFbx: Warning: Triangulating static mesh Cylinder.008
+[2018.08.06-14.15.39:133][823]LogFbx: Warning: Triangulating static mesh Cube.001
+[2018.08.06-14.15.39:290][823]LogStaticMesh: Building static mesh Sink...
+[2018.08.06-14.15.39:331][823]LogStaticMesh: Built static mesh [0.05s] /Game/Material/Sink.Sink
+[2018.08.06-14.15.39:344][823]LogStaticMesh: Warning: Sink has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.08.06-14.15.39:344][823]LogStaticMesh: Warning: Sink has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.08.06-14.15.39:396][823]LogEditorFactories: -- imported successfully
+[2018.08.06-14.15.39:408][823]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.06-14.15.39:409][823]FBXImport: Warning: Sink has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.08.06-14.15.39:409][823]FBXImport: Warning: Sink has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.08.06-14.15.49:472][196]Cmd: DELETE
+[2018.08.06-14.15.49:472][196]Cmd: ACTOR DELETE
+[2018.08.06-14.15.49:620][196]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.06-14.15.49:663][196]LogEditorActor: Deleted 1 Actors (0.104 secs)
+[2018.08.06-14.15.51:596][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-14.15.57:794][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Kitchen/Sink" FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/Sink.uasset" SILENT=true
+[2018.08.06-14.15.57:892][414]LogSavePackage: Save=94.26ms
+[2018.08.06-14.15.57:892][414]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Sink4C7630D247AAAFF494E5069C440155FD.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/Sink.uasset'
+[2018.08.06-14.15.57:897][414]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Kitchen/Sink.uasset
+[2018.08.06-14.16.07:142][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-14.16.07:732][801]LogActorFactory: Actor Factory created Sink
+[2018.08.06-14.16.09:195][852]LogActorFactory: Actor Factory created Sink
+[2018.08.06-14.16.09:908][868]Cmd: DELETE
+[2018.08.06-14.16.09:908][868]Cmd: ACTOR DELETE
+[2018.08.06-14.16.09:927][868]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.06-14.16.09:969][868]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2018.08.06-14.16.11:245][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-14.16.13:243][993]LogActorFactory: Actor Factory created Sink
+[2018.08.06-14.16.14:064][ 22]LogActorFactory: Actor Factory created Sink
+[2018.08.06-14.16.22:586][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ofen)
+[2018.08.06-14.16.27:378][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sink)
+[2018.08.06-14.16.32:738][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.06-14.16.51:673][985]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-14.16.53:054][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ofen)
+[2018.08.06-14.20.26:091][733]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-14.21.56:837][119]LogSavePackage: Save=1529.79ms
+[2018.08.06-14.21.56:837][119]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap_Auto185ECE9864B9A0858F318DEACEB95C127.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2018.08.06-14.21.56:841][119]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap
+[2018.08.06-14.21.56:866][119]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 1.723
+[2018.08.06-14.21.56:866][119]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.723
+[2018.08.06-14.23.01:690][477]SourceControl: fatal: D:/UE4_engine/UE_4.19/Engine/Content: 'D:/UE4_engine/UE_4.19/Engine/Content' is outside repository
+[2018.08.06-14.23.23:865][477]LogSlate: Window 'Submit Files' being destroyed
+[2018.08.06-14.23.24:977][477]LogSourceControl: commit successful: [Kirill bf1e6f9] test
+[2018.08.06-14.23.25:088][477]SourceControl: [Kirill bf1e6f9] test
+[2018.08.06-14.23.25:088][477]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.08.06-14.23.25:088][477]SourceControl:  create mode 100644 Content/Assets/Kitchen/Sink.uasset
+[2018.08.06-14.23.25:105][477]SourceControl: Commited [Kirill bf1e6f9] test.
+[2018.08.06-14.24.50:072][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ofen)
+[2018.08.06-14.24.51:087][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Grill3)
+[2018.08.06-14.24.52:380][293]Cmd: DELETE
+[2018.08.06-14.24.52:380][293]Cmd: ACTOR DELETE
+[2018.08.06-14.24.52:399][293]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.06-14.24.52:440][293]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2018.08.06-14.24.53:224][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Fryer)
+[2018.08.06-14.24.55:188][382]Cmd: DELETE
+[2018.08.06-14.24.55:188][382]Cmd: ACTOR DELETE
+[2018.08.06-14.24.55:211][382]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.06-14.24.55:251][382]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2018.08.06-14.25.01:774][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_hood)
+[2018.08.06-14.25.10:587][726]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-14.27.11:452][336]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-14.28.54:420][660]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (blockout_Table_kitchen_2)
+[2018.08.06-14.28.54:631][660]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-14.28.55:484][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Table_kitchen_2)
+[2018.08.06-14.31.56:928][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.06-14.32.00:828][490]LogSavePackage: Save=1425.78ms
+[2018.08.06-14.32.00:828][490]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap_Auto2A23E0FE4407CB605F1E0F68648C86705.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2018.08.06-14.32.00:831][490]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap
+[2018.08.06-14.32.00:834][490]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 1.690
+[2018.08.06-14.32.00:834][490]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.690
+[2018.08.06-14.32.48:335][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
