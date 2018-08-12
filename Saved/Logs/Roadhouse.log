@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 08/08/18 14:23:17
 =======
 ﻿Log file open, 08/08/18 14:23:03
@@ -10,6 +11,9 @@
 ﻿Log file open, 08/08/18 14:19:17
 >>>>>>> 2f0837a82300bb6f031e5f5bde83e981926f1cae
 >>>>>>> parent of 68cbbc5... 123
+=======
+﻿Log file open, 08/08/18 14:20:34
+>>>>>>> parent of 665a8e9... Merge branch 'Unreal-Engine' of https://github.com/Vanum-Chan/Bar-Hyena into Unreal-Engine
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -18,6 +22,7 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: Roadhouse
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 LogInit: Display: RandInit(-867512672) SRandInit(-867512672).
@@ -29,6 +34,8 @@ LogStats: Stats thread started at 0.184915
 =======
 LogInit: Display: RandInit(619635126) SRandInit(619635126).
 =======
+=======
+>>>>>>> parent of 665a8e9... Merge branch 'Unreal-Engine' of https://github.com/Vanum-Chan/Bar-Hyena into Unreal-Engine
 LogInit: Display: RandInit(300861234) SRandInit(300861234).
 >>>>>>> parent of 68cbbc5... 123
 LogInit: Read version file with build ID '3944462'
@@ -40,6 +47,7 @@ LogStats: Stats thread started at 0.313208
 >>>>>>> 68cbbc53039c9e8f2f61d6ef0d35454274d4f9cb
 =======
 LogStats: Stats thread started at 0.285886
+<<<<<<< HEAD
 =======
 LogInit: Display: RandInit(-1430273669) SRandInit(-1430273669).
 LogInit: Read version file with build ID '3944462'
@@ -49,6 +57,8 @@ LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 
 LogStats: Stats thread started at 0.182510
 >>>>>>> 2f0837a82300bb6f031e5f5bde83e981926f1cae
 >>>>>>> parent of 68cbbc5... 123
+=======
+>>>>>>> parent of 665a8e9... Merge branch 'Unreal-Engine' of https://github.com/Vanum-Chan/Bar-Hyena into Unreal-Engine
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
@@ -206,6 +216,7 @@ LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogStreaming: Display: Took  2.017s to configure plugins.
 =======
 LogStreaming: Display: Took  1.821s to configure plugins.
@@ -216,6 +227,9 @@ LogStreaming: Display: Took  1.575s to configure plugins.
 LogStreaming: Display: Took  2.005s to configure plugins.
 >>>>>>> 2f0837a82300bb6f031e5f5bde83e981926f1cae
 >>>>>>> parent of 68cbbc5... 123
+=======
+LogStreaming: Display: Took  1.575s to configure plugins.
+>>>>>>> parent of 665a8e9... Merge branch 'Unreal-Engine' of https://github.com/Vanum-Chan/Bar-Hyena into Unreal-Engine
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -237,6 +251,7 @@ LogInit:  - LocalHostAddr = Default
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogInit: WinSock: I am DESKTOP-5J6HU0I (10.2.5.69:0)
 =======
 LogInit: WinSock: I am VC-LP (10.2.5.37:0)
@@ -247,6 +262,9 @@ LogInit: WinSock: I am VC-LP (10.2.5.37:0)
 LogInit: WinSock: I am DESKTOP-5J6HU0I (10.2.5.69:0)
 >>>>>>> 2f0837a82300bb6f031e5f5bde83e981926f1cae
 >>>>>>> parent of 68cbbc5... 123
+=======
+LogInit: WinSock: I am VC-LP (10.2.5.37:0)
+>>>>>>> parent of 665a8e9... Merge branch 'Unreal-Engine' of https://github.com/Vanum-Chan/Bar-Hyena into Unreal-Engine
 LogInit: Build: ++UE4+Release-4.19-CL-4033788
 LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
 LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
@@ -274,6 +292,7 @@ LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
 LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.19
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogInit: Command Line:  
 <<<<<<< HEAD
@@ -3395,8 +3414,11 @@ LogInit: Base Directory: D:/UE4_engine/UE_4.19/Engine/Binaries/Win64/
 LogInit: Command Line: -EpicPortal 
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
 >>>>>>> parent of 68cbbc5... 123
+=======
+LogInit: Command Line:  
+LogInit: Base Directory: D:/UE4_engine/UE_4.19/Engine/Binaries/Win64/
+>>>>>>> parent of 665a8e9... Merge branch 'Unreal-Engine' of https://github.com/Vanum-Chan/Bar-Hyena into Unreal-Engine
 LogInit: Installed Engine Build: 1
-<<<<<<< HEAD
 LogStreaming: Display: Took  0.002s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
@@ -3992,6 +4014,7 @@ LogInit: Object subsystem initialized
 [2018.08.08-12.21.40:286][668]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.08.08-12.21.40:292][668]LogExit: Exiting.
 [2018.08.08-12.21.40:329][668]Log file closed, 08/08/18 14:21:40
+<<<<<<< HEAD
 =======
 LogStreaming: Display: Took  0.009s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
@@ -5238,3 +5261,5 @@ LogInit: Object subsystem initialized
 [2018.08.08-12.21.56:869][477]Log file closed, 08/08/18 14:21:56
 >>>>>>> 2f0837a82300bb6f031e5f5bde83e981926f1cae
 >>>>>>> parent of 68cbbc5... 123
+=======
+>>>>>>> parent of 665a8e9... Merge branch 'Unreal-Engine' of https://github.com/Vanum-Chan/Bar-Hyena into Unreal-Engine
