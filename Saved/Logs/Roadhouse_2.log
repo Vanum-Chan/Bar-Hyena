@@ -325,3 +325,78 @@ LogInit: Object subsystem initialized
 [2018.08.17-12.00.53:416][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
 [2018.08.17-12.00.56:585][  0]LogTcpMessaging: Initializing TcpMessaging bridge
 [2018.08.17-12.00.56:636][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.17-12.00.57:482][  0]SourceControl: Source control is disabled
+[2018.08.17-12.00.59:999][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.17-12.01.00:360][  0]LogOcInput: OculusInput pre-init called
+[2018.08.17-12.01.00:607][  0]LogEngine: Initializing Engine...
+[2018.08.17-12.01.00:610][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.17-12.01.00:613][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.17-12.01.00:613][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.17-12.01.01:158][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.17-12.01.01:173][  0]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.08.17-12.01.01:208][  0]LogInit: FAudioDevice initialized.
+[2018.08.17-12.01.01:311][  0]LogDerivedDataCache: Saved boot cache 0.10s 74MB C:/Users/usagi/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.17-12.01.01:331][  0]LogInit: Texture streaming: Enabled
+[2018.08.17-12.01.01:366][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.17-12.01.01:396][  0]LogInit: Transaction tracking system initialized
+[2018.08.17-12.01.01:450][  0]BlueprintLog: New page: Editor Load
+[2018.08.17-12.01.01:619][  0]LocalizationService: Localization service is disabled
+[2018.08.17-12.01.01:803][  0]LogConsoleResponse: Display: 
+[2018.08.17-12.01.02:093][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.17-12.01.02:093][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.17-12.01.02:093][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.17-12.01.02:093][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.17-12.01.02:093][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.17-12.01.02:211][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/' took 0.02s
+[2018.08.17-12.01.03:004][  0]Cmd: MAP LOAD FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.17-12.01.03:005][  0]LightingResults: New page: Lighting Build
+[2018.08.17-12.01.03:012][  0]MapCheck: New page: Map Check
+[2018.08.17-12.01.03:012][  0]LightingResults: New page: Lighting Build
+[2018.08.17-12.01.03:122][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002419d1def70, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.08.17-12.01.03:143][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002419d1def70, Size=72
+[2018.08.17-12.01.03:143][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002419d18b100, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.08.17-12.01.03:157][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002418a5df5b0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.08.17-12.01.03:186][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002418a5e9300, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.08.17-12.01.03:195][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002418a5e9300, Size=256
+[2018.08.17-12.01.03:195][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002418a5e9300, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_4:ExecuteUbergraph_FirstPersonProjectile
+[2018.08.17-12.01.03:201][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002418a5e8c00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.08.17-12.01.03:338][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002419d0ae200, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.08.17-12.01.03:359][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002419d0ae200, Size=688
+[2018.08.17-12.01.03:359][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024183c47700, Size=688, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_6:ExecuteUbergraph_FirstPersonCharacter
+[2018.08.17-12.01.03:373][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024183c45c00, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.08.17-12.01.03:541][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002418436bf90, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.08.17-12.01.03:546][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002418436bf90, Size=52
+[2018.08.17-12.01.03:546][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002418436bf90, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_10:ExecuteUbergraph_FirstPersonHUD
+[2018.08.17-12.01.03:550][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002418436b8c8, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.08.17-12.01.05:340][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [24.677568ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.08.17-12.01.05:414][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [7.999580ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.08.17-12.01.05:954][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.08.17-12.01.06:114][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.17-12.01.06:622][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002419d18b100, Size=72
+[2018.08.17-12.01.06:625][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002418a5e9300, Size=256
+[2018.08.17-12.01.06:625][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024183c47700, Size=688
+[2018.08.17-12.01.06:625][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002418436bf90, Size=52
+[2018.08.17-12.01.06:632][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.17-12.01.06:942][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 309,258ms to complete.
+[2018.08.17-12.01.06:942][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 3.938
+[2018.08.17-12.01.07:246][  0]LogCollectionManager: Loaded 0 collections in 0.004696 seconds
+[2018.08.17-12.01.07:345][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Collections/' took 0.03s
+[2018.08.17-12.01.07:345][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Developers/usagi/Collections/' took 0.03s
+[2018.08.17-12.01.07:345][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Collections/' took 0.02s
+[2018.08.17-12.01.07:345][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.08.17-12.01.07:369][  0]LogContentBrowser: Native class hierarchy populated in 0.0240 seconds. Added 2452 classes and 558 folders.
+[2018.08.17-12.01.07:385][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.08.17-12.01.07:728][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0027 seconds. Added 0 classes and 0 folders.
+[2018.08.17-12.01.07:741][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.08.17-12.01.07:887][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.08.17-12.01.07:887][  0]LogLoad: (Engine Initialization) Total time: 31.71 seconds
+[2018.08.17-12.01.07:887][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.17-12.01.08:287][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.17-12.01.08:289][  0]LogSlate: Took 0.000565 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.17-12.01.08:307][  0]LogSlate: Took 0.000332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.17-12.01.08:318][  0]LogSlate: Took 0.000331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.17-12.01.11:741][  0]LogRenderer: Reallocating scene render targets to support 908x616 Format 10 NumSamples 1 (Frame:1).
+[2018.08.17-12.01.11:741][  0]LogSlate: Took 0.001246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.17-12.01.17:721][  8]LogAssetRegistry: Asset discovery search completed in 26.1875 seconds
+[2018.08.17-12.01.17:737][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.08.17-12.01.17:737][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.012908 seconds (updated 0 objects)
