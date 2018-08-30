@@ -1,0 +1,1616 @@
+﻿Log file open, 08/20/18 20:46:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Roadhouse
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(231546180) SRandInit(231546180).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.325458
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.948s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am VC-LP (192.168.137.1:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/UE4_engine/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.20-18.46.28:660][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.20-18.46.28:660][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.20-18.46.28:671][  0]LogInit: Computer: VC-LP
+[2018.08.20-18.46.28:671][  0]LogInit: User: Administrator
+[2018.08.20-18.46.28:671][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.20-18.46.28:671][  0]LogInit: High frequency timer resolution =2.143477 MHz
+[2018.08.20-18.46.28:671][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.08.20-18.46.28:671][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.20-18.46.28:671][  0]LogMemory: Process Physical Memory: 273.71 MB used, 273.71 MB peak
+[2018.08.20-18.46.28:671][  0]LogMemory: Process Virtual Memory: 264.82 MB used, 264.82 MB peak
+[2018.08.20-18.46.28:671][  0]LogMemory: Physical Memory: 11328.03 MB used,  21320.24 MB free, 32648.27 MB total
+[2018.08.20-18.46.28:671][  0]LogMemory: Virtual Memory: 4781.05 MB used,  21320.24 MB free, 134217728.00 MB total
+[2018.08.20-18.46.28:703][  0]LogInit: Using OS detected language (de-DE).
+[2018.08.20-18.46.28:703][  0]LogInit: Using OS detected locale (de-DE).
+[2018.08.20-18.46.28:708][  0]LogTextLocalizationManager: No localization for 'de-DE' exists, so 'en' will be used for the language.
+[2018.08.20-18.46.29:454][  0]LogStreaming: Display: Took  0.751s to EndInitTextLocalization.
+[2018.08.20-18.46.29:454][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.20-18.46.29:535][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.20-18.46.29:535][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.20-18.46.30:005][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.20-18.46.30:030][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 760M' (Feature Level 11_0)
+[2018.08.20-18.46.30:030][  0]LogD3D11RHI:       2019/0/16324 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.08.20-18.46.30:038][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.08.20-18.46.30:038][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.08.20-18.46.30:041][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.20-18.46.30:041][  0]LogD3D11RHI:       0/0/16324 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.20-18.46.30:041][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.20-18.46.30:056][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.20-18.46.30:056][  0]LogD3D11RHI:     GPU DeviceId: 0x11e3 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.20-18.46.30:056][  0]LogWindows: EnumDisplayDevices:
+[2018.08.20-18.46.30:056][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.08.20-18.46.30:056][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2018.08.20-18.46.30:057][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.08.20-18.46.30:057][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.20-18.46.30:057][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 760M
+[2018.08.20-18.46.30:057][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.20-18.46.30:057][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.20-18.46.30:057][  0]LogRHI: Texture pool is 1413 MB (70% of 2019 MB)
+[2018.08.20-18.46.30:075][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.08.20-18.46.30:075][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.08.20-18.46.30:075][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.20-18.46.30:087][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.08.20-18.46.30:088][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Intermediate/Shaders/WorkingDirectory/14236/).
+[2018.08.20-18.46.30:089][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/8ACDEBBE413303C4FEA8CEBAA2A6E36F/'.
+[2018.08.20-18.46.30:548][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.20-18.46.30:567][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.20-18.46.30:584][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.20-18.46.30:603][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.20-18.46.30:624][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.20-18.46.30:643][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.20-18.46.30:661][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.20-18.46.30:680][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.20-18.46.30:689][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.20-18.46.30:707][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.20-18.46.30:724][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.20-18.46.30:740][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.20-18.46.30:754][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.08.20-18.46.30:770][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.20-18.46.30:791][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.20-18.46.30:830][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.20-18.46.30:830][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.20-18.46.30:848][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.20-18.46.30:850][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.20-18.46.30:895][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.20-18.46.30:910][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.20-18.46.30:928][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.20-18.46.30:945][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.20-18.46.30:961][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.20-18.46.30:980][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.20-18.46.30:980][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.20-18.46.31:156][  0]LogXGEController: Cleaning working directory: C:/Users/Administrator/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.08.20-18.46.31:157][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.20-18.46.31:157][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.20-18.46.31:157][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.20-18.46.32:302][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.20-18.46.32:414][  0]LogDerivedDataCache: Loaded boot cache 0.11s 74MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.20-18.46.32:414][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.08.20-18.46.32:414][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.20-18.46.32:415][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.20-18.46.32:415][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.20-18.46.32:415][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.20-18.46.32:442][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.20-18.46.32:457][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.20-18.46.32:457][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.20-18.46.32:457][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.20-18.46.32:488][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.20-18.46.32:488][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.20-18.46.32:490][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.20-18.46.32:490][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.20-18.46.32:694][  0]LogAssetRegistry: FAssetRegistry took 0.0283 seconds to start up
+[2018.08.20-18.46.33:168][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.20-18.46.33:301][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.20-18.46.33:305][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.20-18.46.33:305][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.20-18.46.33:305][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.20-18.46.33:305][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.20-18.46.33:305][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.20-18.46.33:517][  0]LogNetVersion: Roadhouse , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 487093703)
+[2018.08.20-18.46.34:226][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.063687 seconds
+[2018.08.20-18.46.34:235][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.08.20-18.46.34:235][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.08.20-18.46.34:235][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.20-18.46.37:195][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.20-18.46.37:245][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.20-18.46.37:787][  0]SourceControl: Source control is disabled
+[2018.08.20-18.46.37:788][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.37:788][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2018.08.20-18.46.37:788][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.37:788][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2018.08.20-18.46.37:788][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.37:788][  0]LogWindows: Warning: URL: C:\Users\Administrator\AppData\Local/Programs/Git/cmd/git.exe version
+[2018.08.20-18.46.37:789][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.37:789][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2018.08.20-18.46.37:789][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.37:789][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2018.08.20-18.46.37:789][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.37:789][  0]LogWindows: Warning: URL: C:\Users\Administrator\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2018.08.20-18.46.37:790][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.37:790][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2018.08.20-18.46.37:822][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.37:822][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2018.08.20-18.46.37:822][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.37:822][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2018.08.20-18.46.37:822][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.37:822][  0]LogWindows: Warning: URL: C:\Users\Administrator\AppData\Local/Programs/Git/cmd/git.exe version
+[2018.08.20-18.46.37:823][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.37:823][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2018.08.20-18.46.37:823][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.37:823][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2018.08.20-18.46.37:823][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.37:823][  0]LogWindows: Warning: URL: C:\Users\Administrator\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2018.08.20-18.46.37:824][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.37:824][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2018.08.20-18.46.37:859][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.37:859][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2018.08.20-18.46.37:859][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.37:859][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2018.08.20-18.46.37:860][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.37:860][  0]LogWindows: Warning: URL: C:\Users\Administrator\AppData\Local/Programs/Git/cmd/git.exe version
+[2018.08.20-18.46.37:860][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.37:860][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2018.08.20-18.46.37:860][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.37:860][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2018.08.20-18.46.37:861][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.37:861][  0]LogWindows: Warning: URL: C:\Users\Administrator\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2018.08.20-18.46.37:861][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.37:861][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2018.08.20-18.46.38:716][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.20-18.46.39:066][  0]LogOcInput: OculusInput pre-init called
+[2018.08.20-18.46.39:267][  0]LogEngine: Initializing Engine...
+[2018.08.20-18.46.39:273][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2018.08.20-18.46.39:274][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.20-18.46.39:275][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.20-18.46.39:550][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.20-18.46.39:575][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.20-18.46.39:623][  0]LogInit: FAudioDevice initialized.
+[2018.08.20-18.46.39:723][  0]LogDerivedDataCache: Saved boot cache 0.10s 74MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.20-18.46.39:742][  0]LogInit: Texture streaming: Enabled
+[2018.08.20-18.46.39:763][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.20-18.46.39:782][  0]LogInit: Transaction tracking system initialized
+[2018.08.20-18.46.39:828][  0]BlueprintLog: New page: Editor Load
+[2018.08.20-18.46.39:981][  0]LocalizationService: Localization service is disabled
+[2018.08.20-18.46.40:461][  0]LogConsoleResponse: Display: 
+[2018.08.20-18.46.40:678][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.20-18.46.40:679][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.20-18.46.40:679][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.20-18.46.40:679][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.20-18.46.40:679][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.20-18.46.40:913][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Administrator/Documents/GitHub/Bar-Hyena/Content/' took 0.03s
+[2018.08.20-18.46.41:581][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.41:581][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2018.08.20-18.46.41:582][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.41:582][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2018.08.20-18.46.41:582][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.41:582][  0]LogWindows: Warning: URL: C:\Users\Administrator\AppData\Local/Programs/Git/cmd/git.exe version
+[2018.08.20-18.46.41:582][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.41:582][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2018.08.20-18.46.41:582][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.41:582][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2018.08.20-18.46.41:583][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.41:583][  0]LogWindows: Warning: URL: C:\Users\Administrator\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2018.08.20-18.46.41:583][  0]LogWindows: Warning: CreateProc failed: Das System kann die angegebene Datei nicht finden. (0x00000002)
+[2018.08.20-18.46.41:583][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2018.08.20-18.46.41:583][  0]Cmd: MAP LOAD FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.20-18.46.41:584][  0]LightingResults: New page: Lighting Build
+[2018.08.20-18.46.41:587][  0]MapCheck: New page: Map Check
+[2018.08.20-18.46.41:587][  0]LightingResults: New page: Lighting Build
+[2018.08.20-18.46.41:654][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002231ea16160, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.08.20-18.46.41:666][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002231ea16160, Size=72
+[2018.08.20-18.46.41:667][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002231e993880, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.08.20-18.46.41:678][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002231e939ad0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.08.20-18.46.41:693][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002231e91e800, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.08.20-18.46.41:698][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002231e91e800, Size=256
+[2018.08.20-18.46.41:698][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002231e91e800, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_4:ExecuteUbergraph_FirstPersonProjectile
+[2018.08.20-18.46.41:701][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002231e91cd00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.08.20-18.46.41:777][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002231e58d000, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.08.20-18.46.41:792][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002231e58d000, Size=688
+[2018.08.20-18.46.41:792][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002231e20e500, Size=688, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_6:ExecuteUbergraph_FirstPersonCharacter
+[2018.08.20-18.46.41:808][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002231e20ca00, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.08.20-18.46.41:935][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002231f8f7f90, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.08.20-18.46.41:939][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002231f8f7f90, Size=52
+[2018.08.20-18.46.41:939][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002231f8f7f90, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_10:ExecuteUbergraph_FirstPersonHUD
+[2018.08.20-18.46.41:943][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002231f8f78c8, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.08.20-18.46.42:554][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [5.713614ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.08.20-18.46.42:576][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [8.618240ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.08.20-18.46.42:841][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.08.20-18.46.42:867][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.20-18.46.42:883][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002231e993880, Size=72
+[2018.08.20-18.46.42:883][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002231e91e800, Size=256
+[2018.08.20-18.46.42:883][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002231e20e500, Size=688
+[2018.08.20-18.46.42:883][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002231f8f7f90, Size=52
+[2018.08.20-18.46.42:884][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.20-18.46.42:989][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 104,975ms to complete.
+[2018.08.20-18.46.42:989][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.406
+[2018.08.20-18.46.43:177][  0]LogCollectionManager: Loaded 0 collections in 0.001990 seconds
+[2018.08.20-18.46.43:225][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Collections/' took 0.01s
+[2018.08.20-18.46.43:225][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Developers/Administrator/Collections/' took 0.01s
+[2018.08.20-18.46.43:225][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Collections/' took 0.01s
+[2018.08.20-18.46.43:225][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.20-18.46.43:236][  0]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2452 classes and 558 folders.
+[2018.08.20-18.46.43:245][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.08.20-18.46.43:338][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.20-18.46.43:347][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.08.20-18.46.43:378][  0]LogSlate: Took 0.000356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.20-18.46.43:381][  0]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.20-18.46.43:391][  0]LogSlate: Took 0.000533 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.20-18.46.43:600][  0]LogRenderer: Reallocating scene render targets to support 1208x564 Format 9 NumSamples 1 (Frame:1).
+[2018.08.20-18.46.43:796][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.20-18.46.43:796][  0]LogLoad: (Engine Initialization) Total time: 19.45 seconds
+[2018.08.20-18.46.43:796][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.20-18.46.43:814][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.20-18.46.43:834][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.08.20-18.46.43:898][  0]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.20-18.46.44:333][  2]LogAssetRegistry: Asset discovery search completed in 11.6608 seconds
+[2018.08.20-18.46.44:337][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.20-18.46.44:337][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000139 seconds (updated 0 objects)
+[2018.08.20-18.48.04:446][677]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.20-18.48.04:475][677]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 d:\Users\Administrator\Desktop\Assets\Wall\Paperwall\Wall_3x2_half.fbx)
+[2018.08.20-18.48.04:495][677]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.08.20-18.48.04:495][677]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.08.20-18.48.04:495][677]LogFbx: ItemName: Model, ItemCount : 1
+[2018.08.20-18.48.04:510][677]LogFbx: Loading FBX Scene from d:\Users\Administrator\Desktop\Assets\Wall\Paperwall\Wall_3x2_half.fbx
+[2018.08.20-18.48.04:528][677]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.20-18.48.04:576][677]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.20-18.48.06:101][677]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.20-18.48.06:141][677]LogFbx: Loading FBX Scene from d:\Users\Administrator\Desktop\Assets\Wall\Paperwall\Wall_3x2_half.fbx
+[2018.08.20-18.48.06:149][677]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.20-18.48.06:150][677]LogFbx: Warning: Triangulating static mesh Wall_3x2_half
+[2018.08.20-18.48.06:152][677]LogStaticMesh: Building static mesh Wall_3x2_half...
+[2018.08.20-18.48.06:153][677]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/Wall_3x2_half.Wall_3x2_half
+[2018.08.20-18.48.06:159][677]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.20-18.48.07:734][749]LogSlate: Window 'Message Log' being destroyed
+[2018.08.20-18.48.07:749][749]LogSlate: Window 'Message Log' being destroyed
+[2018.08.20-18.48.08:817][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v69)
+[2018.08.20-18.48.14:803][117]Cmd: DELETE
+[2018.08.20-18.48.14:803][117]Cmd: ACTOR DELETE
+[2018.08.20-18.48.14:818][117]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-18.48.14:838][117]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2018.08.20-18.48.15:408][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x17)
+[2018.08.20-18.48.17:267][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x17)
+[2018.08.20-18.48.29:963][735]Cmd: DELETE
+[2018.08.20-18.48.29:963][735]Cmd: ACTOR DELETE
+[2018.08.20-18.48.29:978][735]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-18.48.30:038][735]LogEditorActor: Deleted 1 Actors (0.074 secs)
+[2018.08.20-18.48.30:412][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.48.30:675][757]LogActorFactory: Actor Factory created Wall_3x2
+[2018.08.20-18.48.31:222][776]LogActorFactory: Actor Factory created Wall_3x2
+[2018.08.20-18.48.45:057][254]Cmd: DELETE
+[2018.08.20-18.48.45:057][254]Cmd: ACTOR DELETE
+[2018.08.20-18.48.45:074][254]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-18.48.45:133][254]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2018.08.20-18.48.45:582][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.48.45:886][281]LogActorFactory: Actor Factory created Wall_3x2_half
+[2018.08.20-18.48.46:326][302]LogActorFactory: Actor Factory created Wall_3x2_half
+[2018.08.20-18.48.57:538][616]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-18.48.58:200][632]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-18.49.13:344][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.49.15:078][832]LogEditorFactories: Performing atomic reimport of [D:/Users/Administrator/Desktop/Assets/Wall/Paperwall/Wall_3x2_half.fbx]
+[2018.08.20-18.49.15:237][832]LogFbx: Loading FBX Scene from D:/Users/Administrator/Desktop/Assets/Wall/Paperwall/Wall_3x2_half.fbx
+[2018.08.20-18.49.15:275][832]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.20-18.49.15:277][832]LogFbx: Warning: Triangulating static mesh Wall_3x2_half
+[2018.08.20-18.49.15:342][832]LogStaticMesh: Building static mesh Wall_3x2_half...
+[2018.08.20-18.49.15:345][832]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/Wall_3x2_half.Wall_3x2_half
+[2018.08.20-18.49.15:370][832]LogEditorFactories: -- imported successfully
+[2018.08.20-18.49.15:380][832]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.20-18.49.19:083][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.49.25:221][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.20-18.49.26:193][ 87]LogSavePackage: Save=718.60ms
+[2018.08.20-18.49.26:193][ 87]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap8C26AB9B48B34D16157BBABDB9C91EE1.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.08.20-18.49.26:202][ 87]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.08.20-18.49.32:733][ 87]LogSavePackage: Save=6453.97ms
+[2018.08.20-18.49.32:733][ 87]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap_BuiltDataD72B664D4C92CC7D420291A0F77ADE25.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.08.20-18.49.32:741][ 87]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.08.20-18.49.36:758][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_window_v8)
+[2018.08.20-18.49.37:440][247]Cmd: DELETE
+[2018.08.20-18.49.37:440][247]Cmd: ACTOR DELETE
+[2018.08.20-18.49.37:470][247]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-18.49.37:538][247]LogEditorActor: Deleted 1 Actors (0.097 secs)
+[2018.08.20-18.49.37:962][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2018.08.20-18.49.38:233][259]Cmd: DELETE
+[2018.08.20-18.49.38:233][259]Cmd: ACTOR DELETE
+[2018.08.20-18.49.38:249][259]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-18.49.38:278][259]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2018.08.20-18.49.40:862][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.49.42:548][405]LogActorFactory: Actor Factory created Wall_3x2
+[2018.08.20-18.49.43:722][445]LogActorFactory: Actor Factory created Wall_3x2
+[2018.08.20-18.49.59:766][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v67)
+[2018.08.20-18.50.00:617][829]Cmd: DELETE
+[2018.08.20-18.50.00:618][829]Cmd: ACTOR DELETE
+[2018.08.20-18.50.00:650][829]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-18.50.00:754][829]LogEditorActor: Deleted 1 Actors (0.136 secs)
+[2018.08.20-18.50.03:279][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v65)
+[2018.08.20-18.50.03:999][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v66)
+[2018.08.20-18.50.04:782][953]Cmd: DELETE
+[2018.08.20-18.50.04:782][953]Cmd: ACTOR DELETE
+[2018.08.20-18.50.04:805][953]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-18.50.04:861][953]LogEditorActor: Deleted 1 Actors (0.078 secs)
+[2018.08.20-18.50.05:338][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.50.05:549][967]LogActorFactory: Actor Factory created Wall_3x2
+[2018.08.20-18.50.06:446][996]LogActorFactory: Actor Factory created Wall_3x2
+[2018.08.20-18.51.01:247][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v65)
+[2018.08.20-18.51.03:629][208]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x18)
+[2018.08.20-18.51.07:800][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.51.19:242][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.51.24:495][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.51.26:425][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.52.03:221][696]LogRenderer: Reallocating scene render targets to support 1208x892 Format 9 NumSamples 1 (Frame:1).
+[2018.08.20-18.53.18:818][133]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 d:\Users\Administrator\Desktop\Assets\Wall\Brickwall\Toiletbrick_basecolor.png)
+[2018.08.20-18.53.19:394][133]LogTexture: Display: Building textures: Toiletbrick_basecolor (AutoDXT, 2048X2048)
+[2018.08.20-18.53.21:535][133]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 d:\Users\Administrator\Desktop\Assets\Wall\Brickwall\Toiletbrick_metallic.png)
+[2018.08.20-18.53.21:752][133]LogTexture: Display: Building textures: Toiletbrick_metallic (AutoDXT, 2048X2048)
+[2018.08.20-18.53.22:276][133]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 d:\Users\Administrator\Desktop\Assets\Wall\Brickwall\Toiletbrick_normal.png)
+[2018.08.20-18.53.23:104][133]LogTexture: Display: Building textures: Toiletbrick_normal (BC5, 2048X2048)
+[2018.08.20-18.53.23:791][133]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 d:\Users\Administrator\Desktop\Assets\Wall\Brickwall\Toiletbrick_roughness.png)
+[2018.08.20-18.53.24:554][133]LogTexture: Display: Building textures: Toiletbrick_roughness (AutoDXT, 2048X2048)
+[2018.08.20-18.53.31:016][174]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.20-18.53.42:605][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.53.42:810][547]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.08.20-18.53.45:707][633]LogSlate: Window 'Toiletbrick_roughness*' being destroyed
+[2018.08.20-18.53.45:719][633]LogSlate: Window 'Toiletbrick_roughness*' being destroyed
+[2018.08.20-18.53.45:875][633]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Brickwall_x, compiling. 
+[2018.08.20-18.53.47:085][633]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.20-18.53.47:089][633]TextureStreamingBuild: Display: Compiling optional shaders took 1.237 seconds.
+[2018.08.20-18.53.52:226][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.54.06:469][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.54.06:568][380]LogMaterial: Missing cached shader map for material Worldposition, compiling. 
+[2018.08.20-18.54.06:643][380]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.20-18.54.06:643][380]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.20-18.54.06:643][380]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.20-18.54.11:030][438]LogSlate: Window 'Brickwall_y*' being destroyed
+[2018.08.20-18.54.11:047][438]LogSlate: Window 'Brickwall_y*' being destroyed
+[2018.08.20-18.54.11:256][438]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Brickwall_y, compiling. 
+[2018.08.20-18.54.12:100][438]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.20-18.54.12:115][438]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Brickwall_x, compiling. 
+[2018.08.20-18.54.12:880][438]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.20-18.54.12:888][438]TextureStreamingBuild: Display: Compiling optional shaders took 1.648 seconds.
+[2018.08.20-18.54.15:361][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.54.19:860][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.54.23:470][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v52)
+[2018.08.20-18.54.24:139][806]Cmd: DELETE
+[2018.08.20-18.54.24:139][806]Cmd: ACTOR DELETE
+[2018.08.20-18.54.24:164][806]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-18.54.24:200][806]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2018.08.20-18.54.24:585][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v51)
+[2018.08.20-18.54.24:814][820]Cmd: DELETE
+[2018.08.20-18.54.24:814][820]Cmd: ACTOR DELETE
+[2018.08.20-18.54.24:833][820]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-18.54.24:868][820]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2018.08.20-18.54.26:245][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x19)
+[2018.08.20-18.54.42:516][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.54.44:581][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x21)
+[2018.08.20-18.54.45:847][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.54.47:328][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.54.48:663][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.54.58:044][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.55.03:454][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Brickwall_y" FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xtexture/Brickwall_y.uasset" SILENT=true
+[2018.08.20-18.55.03:525][908]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Brickwall_y, compiling. 
+[2018.08.20-18.55.05:036][908]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.20-18.55.05:048][908]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Brickwall_x, compiling. 
+[2018.08.20-18.55.05:621][908]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.20-18.55.05:623][908]TextureStreamingBuild: Display: Compiling optional shaders took 2.108 seconds.
+[2018.08.20-18.55.05:681][908]LogSavePackage: Save=26.75ms
+[2018.08.20-18.55.05:681][908]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Brickwall_yCAB5C2FB42E5799B8DB265ACC9BDBEA0.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xtexture/Brickwall_y.uasset'
+[2018.08.20-18.55.05:688][908]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xtexture/Brickwall_y.uasset
+[2018.08.20-18.55.06:178][922]LogSlate: Window 'Brickwall_y' being destroyed
+[2018.08.20-18.55.06:237][922]LogSlate: Window 'Brickwall_y' being destroyed
+[2018.08.20-18.55.23:139][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.55.26:203][429]LogActorFactory: Actor Factory created Wall_door
+[2018.08.20-18.55.28:315][482]LogActorFactory: Actor Factory created Wall_door
+[2018.08.20-18.55.34:972][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v33)
+[2018.08.20-18.55.36:505][729]Cmd: DELETE
+[2018.08.20-18.55.36:505][729]Cmd: ACTOR DELETE
+[2018.08.20-18.55.36:524][729]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-18.55.36:562][729]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2018.08.20-18.55.37:285][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v32)
+[2018.08.20-18.55.37:612][744]Cmd: DELETE
+[2018.08.20-18.55.37:613][744]Cmd: ACTOR DELETE
+[2018.08.20-18.55.37:680][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-18.55.37:811][744]LogEditorActor: Deleted 1 Actors (0.198 secs)
+[2018.08.20-18.55.39:148][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_door2)
+[2018.08.20-18.55.57:873][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.56.00:356][340]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.20-18.56.03:058][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.56.08:120][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.56.13:441][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Clock)
+[2018.08.20-18.56.14:718][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v31)
+[2018.08.20-18.56.17:082][686]Cmd: DELETE
+[2018.08.20-18.56.17:083][686]Cmd: ACTOR DELETE
+[2018.08.20-18.56.17:133][686]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-18.56.17:197][686]LogEditorActor: Deleted 1 Actors (0.113 secs)
+[2018.08.20-18.56.17:799][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v30)
+[2018.08.20-18.56.18:257][722]Cmd: DELETE
+[2018.08.20-18.56.18:257][722]Cmd: ACTOR DELETE
+[2018.08.20-18.56.18:272][722]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-18.56.18:303][722]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2018.08.20-18.56.19:019][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_door2)
+[2018.08.20-18.56.23:996][864]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_door3)
+[2018.08.20-18.56.33:189][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.56.35:833][138]Cmd: TRANSACTION UNDO
+[2018.08.20-18.56.35:833][138]LogEditorTransaction: Undo Create Actors
+[2018.08.20-18.56.36:568][144]Cmd: TRANSACTION UNDO
+[2018.08.20-18.56.36:568][144]LogEditorTransaction: Undo Create Actors
+[2018.08.20-18.56.37:651][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.56.48:667][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x22)
+[2018.08.20-18.56.50:891][454]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_3x23)
+[2018.08.20-18.57.08:057][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.57.09:958][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.57.11:309][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.57.16:298][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v36)
+[2018.08.20-18.57.17:207][ 66]Cmd: DELETE
+[2018.08.20-18.57.17:207][ 66]Cmd: ACTOR DELETE
+[2018.08.20-18.57.17:225][ 66]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-18.57.17:328][ 66]LogEditorActor: Deleted 1 Actors (0.121 secs)
+[2018.08.20-18.57.20:796][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_door5)
+[2018.08.20-18.57.25:816][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.57.32:264][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_door4)
+[2018.08.20-18.57.33:374][422]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Flor_E)
+[2018.08.20-18.57.37:148][476]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_door5)
+[2018.08.20-18.57.43:974][644]Cmd: TRANSACTION UNDO
+[2018.08.20-18.57.43:974][644]LogEditorTransaction: Undo Rotate Actors
+[2018.08.20-18.57.44:796][664]Cmd: TRANSACTION UNDO
+[2018.08.20-18.57.44:796][664]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.20-18.57.45:834][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_door5)
+[2018.08.20-18.57.48:848][761]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_door4)
+[2018.08.20-18.57.59:420][985]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-18.58.10:692][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.58.15:271][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.58.20:483][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v37)
+[2018.08.20-18.58.21:477][438]Cmd: DELETE
+[2018.08.20-18.58.21:477][438]Cmd: ACTOR DELETE
+[2018.08.20-18.58.21:499][438]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-18.58.21:538][438]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2018.08.20-18.58.28:796][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v65)
+[2018.08.20-18.58.29:704][635]Cmd: DELETE
+[2018.08.20-18.58.29:704][635]Cmd: ACTOR DELETE
+[2018.08.20-18.58.29:736][635]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-18.58.29:820][635]LogEditorActor: Deleted 1 Actors (0.115 secs)
+[2018.08.20-18.58.37:075][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_window_v7)
+[2018.08.20-18.58.37:830][795]Cmd: DELETE
+[2018.08.20-18.58.37:830][795]Cmd: ACTOR DELETE
+[2018.08.20-18.58.37:853][795]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-18.58.37:913][795]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2018.08.20-18.58.38:465][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
+[2018.08.20-18.58.39:237][819]Cmd: DELETE
+[2018.08.20-18.58.39:237][819]Cmd: ACTOR DELETE
+[2018.08.20-18.58.39:251][819]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-18.58.39:279][819]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2018.08.20-18.58.39:720][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v68)
+[2018.08.20-18.58.39:830][838]Cmd: DELETE
+[2018.08.20-18.58.39:830][838]Cmd: ACTOR DELETE
+[2018.08.20-18.58.39:844][838]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-18.58.39:875][838]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2018.08.20-18.58.41:436][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x19)
+[2018.08.20-18.58.47:644][ 23]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-18.58.52:629][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x21)
+[2018.08.20-18.59.04:352][405]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-18.59.04:904][413]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-18.59.09:567][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x26)
+[2018.08.20-18.59.18:800][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v61)
+[2018.08.20-18.59.19:481][708]Cmd: DELETE
+[2018.08.20-18.59.19:481][708]Cmd: ACTOR DELETE
+[2018.08.20-18.59.19:497][708]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-18.59.19:579][708]LogEditorActor: Deleted 1 Actors (0.098 secs)
+[2018.08.20-18.59.19:950][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v64)
+[2018.08.20-18.59.20:052][714]Cmd: DELETE
+[2018.08.20-18.59.20:052][714]Cmd: ACTOR DELETE
+[2018.08.20-18.59.20:122][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-18.59.20:223][714]LogEditorActor: Deleted 1 Actors (0.170 secs)
+[2018.08.20-18.59.20:787][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x28)
+[2018.08.20-18.59.22:176][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x21)
+[2018.08.20-18.59.51:239][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-18.59.53:015][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.00.31:863][809]LogSavePackage: Save=636.99ms
+[2018.08.20-19.00.31:863][809]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap_Auto19933A68F45F731FA58EFD0BB0DAB1551.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2018.08.20-19.00.31:869][809]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap
+[2018.08.20-19.00.31:872][809]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.684
+[2018.08.20-19.00.31:873][809]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.684
+[2018.08.20-19.00.31:878][809]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xmodular/Wall_3x2_half] ([1] browsable assets)...
+[2018.08.20-19.00.31:899][809]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Xmodular/Wall_3x2_half.Wall_3x2_half]
+[2018.08.20-19.00.31:900][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xmodular/Wall_3x2_half]
+[2018.08.20-19.00.31:919][809]LogSavePackage: Save=16.82ms
+[2018.08.20-19.00.31:919][809]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Wall_3x2_half_Auto1B10E7E1B43D5D89023E1C591B6488CEF.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/Assets/Xmodular/Wall_3x2_half_Auto1.uasset'
+[2018.08.20-19.00.31:922][809]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/Assets/Xmodular/Wall_3x2_half_Auto1.uasset
+[2018.08.20-19.00.31:925][809]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xtexture/Brickwall_x] ([1] browsable assets)...
+[2018.08.20-19.00.31:946][809]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Assets/Xtexture/Brickwall_x.Brickwall_x]
+[2018.08.20-19.00.31:946][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xtexture/Brickwall_x]
+[2018.08.20-19.00.32:016][809]LogSavePackage: Save=24.98ms
+[2018.08.20-19.00.32:016][809]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Brickwall_x_Auto1E1EEE66346803C58A7879B9EB1190980.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/Assets/Xtexture/Brickwall_x_Auto1.uasset'
+[2018.08.20-19.00.32:021][809]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/Assets/Xtexture/Brickwall_x_Auto1.uasset
+[2018.08.20-19.00.32:025][809]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xtexture/Toiletbrick_basecolor] ([1] browsable assets)...
+[2018.08.20-19.00.32:044][809]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Xtexture/Toiletbrick_basecolor.Toiletbrick_basecolor]
+[2018.08.20-19.00.32:044][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xtexture/Toiletbrick_basecolor]
+[2018.08.20-19.00.32:070][809]LogSavePackage: Save=22.94ms
+[2018.08.20-19.00.32:070][809]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Toiletbrick_basecolor_Auto1547E8CE646D46D6FE737CE80E7E9B034.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/Assets/Xtexture/Toiletbrick_basecolor_Auto1.uasset'
+[2018.08.20-19.00.32:074][809]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/Assets/Xtexture/Toiletbrick_basecolor_Auto1.uasset
+[2018.08.20-19.00.32:076][809]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xtexture/Toiletbrick_normal] ([1] browsable assets)...
+[2018.08.20-19.00.32:091][809]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Xtexture/Toiletbrick_normal.Toiletbrick_normal]
+[2018.08.20-19.00.32:091][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xtexture/Toiletbrick_normal]
+[2018.08.20-19.00.32:377][809]LogSavePackage: Save=282.22ms
+[2018.08.20-19.00.32:377][809]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Toiletbrick_normal_Auto10A8D8C0442750C345D4FDD937789E2DF.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/Assets/Xtexture/Toiletbrick_normal_Auto1.uasset'
+[2018.08.20-19.00.32:382][809]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/Assets/Xtexture/Toiletbrick_normal_Auto1.uasset
+[2018.08.20-19.00.32:385][809]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xtexture/Toiletbrick_roughness] ([1] browsable assets)...
+[2018.08.20-19.00.32:406][809]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Xtexture/Toiletbrick_roughness.Toiletbrick_roughness]
+[2018.08.20-19.00.32:406][809]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xtexture/Toiletbrick_roughness]
+[2018.08.20-19.00.32:802][809]LogSavePackage: Save=389.89ms
+[2018.08.20-19.00.32:802][809]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Toiletbrick_roughness_Auto1394C322A427EEE26E005F2962BAA158D.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/Assets/Xtexture/Toiletbrick_roughness_Auto1.uasset'
+[2018.08.20-19.00.32:826][809]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Autosaves/Game/Assets/Xtexture/Toiletbrick_roughness_Auto1.uasset
+[2018.08.20-19.00.32:827][809]LogFileHelpers: Auto-saving content packages took 0.952
+[2018.08.20-19.04.31:983][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v62)
+[2018.08.20-19.04.40:078][216]Cmd: DELETE
+[2018.08.20-19.04.40:078][216]Cmd: ACTOR DELETE
+[2018.08.20-19.04.40:092][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.04.40:092][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.04.40:093][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.04.40:093][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.04.40:093][216]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.04.40:126][216]LogEditorActor: Deleted 5 Actors (0.047 secs)
+[2018.08.20-19.04.40:703][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x6)
+[2018.08.20-19.04.46:701][544]Cmd: TRANSACTION UNDO
+[2018.08.20-19.04.46:701][544]LogEditorTransaction: Undo Move Actors
+[2018.08.20-19.04.51:402][775]Cmd: TRANSACTION UNDO
+[2018.08.20-19.04.51:402][775]LogEditorTransaction: Undo Move Actors
+[2018.08.20-19.05.05:929][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v58)
+[2018.08.20-19.05.06:470][486]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Wall_v59)
+[2018.08.20-19.05.06:932][505]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Wall_v56)
+[2018.08.20-19.05.07:362][524]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Wall_v53)
+[2018.08.20-19.05.07:853][543]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Wall_v54)
+[2018.08.20-19.05.08:442][563]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Wall_v55)
+[2018.08.20-19.05.08:913][576]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Wall_v23)
+[2018.08.20-19.05.09:783][616]Cmd: DELETE
+[2018.08.20-19.05.09:783][616]Cmd: ACTOR DELETE
+[2018.08.20-19.05.09:794][616]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.05.09:794][616]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.05.09:795][616]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.05.09:795][616]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.05.09:795][616]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.05.09:795][616]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.05.09:795][616]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.05.09:813][616]LogEditorActor: Deleted 7 Actors (0.030 secs)
+[2018.08.20-19.05.13:581][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x32)
+[2018.08.20-19.05.16:956][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x25)
+[2018.08.20-19.05.18:721][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x24)
+[2018.08.20-19.05.38:621][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v46)
+[2018.08.20-19.05.39:381][887]Cmd: DELETE
+[2018.08.20-19.05.39:381][887]Cmd: ACTOR DELETE
+[2018.08.20-19.05.39:396][887]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.05.39:428][887]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2018.08.20-19.05.41:147][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x8)
+[2018.08.20-19.05.48:188][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v48)
+[2018.08.20-19.05.50:176][303]Cmd: DELETE
+[2018.08.20-19.05.50:176][303]Cmd: ACTOR DELETE
+[2018.08.20-19.05.50:190][303]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.05.50:268][303]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2018.08.20-19.05.50:983][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.05.52:941][394]LogActorFactory: Actor Factory created Wall_3x2_half
+[2018.08.20-19.05.54:411][465]LogActorFactory: Actor Factory created Wall_3x2_half
+[2018.08.20-19.06.02:866][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.06.06:836][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.06.19:135][195]LogSlate: Took 0.001074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.20-19.06.24:723][308]LogSlate: Window 'Reference Viewer' being destroyed
+[2018.08.20-19.06.24:761][308]LogSlate: Window 'Reference Viewer' being destroyed
+[2018.08.20-19.06.28:960][404]LogSlate: Window 'Paperwall_y' being destroyed
+[2018.08.20-19.06.28:982][404]LogSlate: Window 'Paperwall_y' being destroyed
+[2018.08.20-19.07.20:232][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v47)
+[2018.08.20-19.07.21:145][333]Cmd: DELETE
+[2018.08.20-19.07.21:145][333]Cmd: ACTOR DELETE
+[2018.08.20-19.07.21:158][333]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.07.21:188][333]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2018.08.20-19.07.21:704][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x2_half2)
+[2018.08.20-19.07.31:786][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.07.33:612][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x2_half3)
+[2018.08.20-19.07.34:471][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.07.36:029][803]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.07.38:597][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.08.10:145][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x36)
+[2018.08.20-19.08.10:949][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x31)
+[2018.08.20-19.08.25:947][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v27)
+[2018.08.20-19.08.26:803][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v27)
+[2018.08.20-19.08.28:071][379]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Wall_v24)
+[2018.08.20-19.08.29:318][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v24)
+[2018.08.20-19.08.30:548][452]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Wall_v27)
+[2018.08.20-19.08.32:373][518]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Wall_v25)
+[2018.08.20-19.08.33:631][560]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-19.08.39:445][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v27)
+[2018.08.20-19.08.40:192][737]Cmd: DELETE
+[2018.08.20-19.08.40:192][737]Cmd: ACTOR DELETE
+[2018.08.20-19.08.40:271][737]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.08.40:344][737]LogEditorActor: Deleted 1 Actors (0.151 secs)
+[2018.08.20-19.08.40:779][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v24)
+[2018.08.20-19.08.40:845][752]Cmd: DELETE
+[2018.08.20-19.08.40:845][752]Cmd: ACTOR DELETE
+[2018.08.20-19.08.40:857][752]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.08.40:886][752]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2018.08.20-19.08.42:203][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v25)
+[2018.08.20-19.08.42:400][803]Cmd: DELETE
+[2018.08.20-19.08.42:401][803]Cmd: ACTOR DELETE
+[2018.08.20-19.08.42:429][803]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.08.42:493][803]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2018.08.20-19.08.43:217][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v26)
+[2018.08.20-19.08.43:343][837]Cmd: DELETE
+[2018.08.20-19.08.43:343][837]Cmd: ACTOR DELETE
+[2018.08.20-19.08.43:355][837]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.08.43:385][837]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2018.08.20-19.08.44:211][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x41)
+[2018.08.20-19.08.49:880][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v13)
+[2018.08.20-19.08.50:633][ 29]Cmd: DELETE
+[2018.08.20-19.08.50:634][ 29]Cmd: ACTOR DELETE
+[2018.08.20-19.08.50:675][ 29]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.08.50:717][ 29]LogEditorActor: Deleted 1 Actors (0.081 secs)
+[2018.08.20-19.08.51:114][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v14)
+[2018.08.20-19.08.51:265][ 40]Cmd: DELETE
+[2018.08.20-19.08.51:265][ 40]Cmd: ACTOR DELETE
+[2018.08.20-19.08.51:285][ 40]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.08.51:365][ 40]LogEditorActor: Deleted 1 Actors (0.100 secs)
+[2018.08.20-19.08.53:896][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.08.55:476][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.08.56:831][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.08.58:147][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x14)
+[2018.08.20-19.09.00:711][300]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.09.02:122][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.09.02:786][363]LogActorFactory: Actor Factory created Wall_door
+[2018.08.20-19.09.03:461][372]LogActorFactory: Actor Factory created Wall_door
+[2018.08.20-19.09.18:541][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Woodwall_low13)
+[2018.08.20-19.09.19:435][803]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_3x14)
+[2018.08.20-19.09.20:118][826]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Woodwall_low12)
+[2018.08.20-19.09.20:803][835]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_3x13)
+[2018.08.20-19.09.21:393][854]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Woodwall_low11)
+[2018.08.20-19.09.21:853][855]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_3x2)
+[2018.08.20-19.09.27:685][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v8)
+[2018.08.20-19.09.28:480][ 31]Cmd: DELETE
+[2018.08.20-19.09.28:480][ 31]Cmd: ACTOR DELETE
+[2018.08.20-19.09.28:495][ 31]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.09.28:536][ 31]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2018.08.20-19.09.28:988][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Woodwall_low11)
+[2018.08.20-19.09.35:729][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.09.39:130][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.09.55:399][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_door8)
+[2018.08.20-19.09.58:150][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x14)
+[2018.08.20-19.10.04:835][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_door8)
+[2018.08.20-19.10.06:204][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x14)
+[2018.08.20-19.10.08:340][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_door8)
+[2018.08.20-19.10.09:937][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x14)
+[2018.08.20-19.10.10:602][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_door8)
+[2018.08.20-19.10.11:519][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x14)
+[2018.08.20-19.10.17:263][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_door8)
+[2018.08.20-19.10.18:978][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.10.26:735][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.10.29:191][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_door8)
+[2018.08.20-19.10.29:814][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_export)
+[2018.08.20-19.10.32:239][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.10.34:224][638]LogActorFactory: Actor Factory created Woodwall_door
+[2018.08.20-19.10.34:749][644]LogActorFactory: Actor Factory created Woodwall_door
+[2018.08.20-19.10.44:908][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.10.48:117][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_shelf)
+[2018.08.20-19.10.51:880][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.10.52:229][126]LogActorFactory: Actor Factory created Woodwall_long
+[2018.08.20-19.10.52:259][126]LogActorFactory: Actor Factory created Woodwall_long
+[2018.08.20-19.10.52:854][138]LogActorFactory: Actor Factory created Woodwall_long
+[2018.08.20-19.11.03:710][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x41)
+[2018.08.20-19.11.04:788][413]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-19.11.05:391][425]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-19.11.08:542][480]Cmd: DELETE
+[2018.08.20-19.11.08:543][480]Cmd: ACTOR DELETE
+[2018.08.20-19.11.08:591][480]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.11.08:670][480]LogEditorActor: Deleted 1 Actors (0.126 secs)
+[2018.08.20-19.11.09:255][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Woodwall_long)
+[2018.08.20-19.11.12:211][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x45)
+[2018.08.20-19.11.12:744][578]Cmd: DELETE
+[2018.08.20-19.11.12:745][578]Cmd: ACTOR DELETE
+[2018.08.20-19.11.12:771][578]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.11.12:868][578]LogEditorActor: Deleted 1 Actors (0.123 secs)
+[2018.08.20-19.11.14:194][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x42)
+[2018.08.20-19.11.14:476][609]Cmd: DELETE
+[2018.08.20-19.11.14:476][609]Cmd: ACTOR DELETE
+[2018.08.20-19.11.14:503][609]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.11.14:535][609]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2018.08.20-19.11.15:289][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x43)
+[2018.08.20-19.11.15:359][635]Cmd: DELETE
+[2018.08.20-19.11.15:359][635]Cmd: ACTOR DELETE
+[2018.08.20-19.11.15:367][635]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.11.15:393][635]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.08.20-19.11.16:190][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x44)
+[2018.08.20-19.11.16:306][655]Cmd: DELETE
+[2018.08.20-19.11.16:306][655]Cmd: ACTOR DELETE
+[2018.08.20-19.11.16:321][655]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.11.16:347][655]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.08.20-19.11.17:880][696]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Woodwall_long)
+[2018.08.20-19.11.23:578][802]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-19.11.24:291][809]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-19.11.36:302][ 90]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-19.11.38:444][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_shelf)
+[2018.08.20-19.11.45:979][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.11.46:567][318]LogActorFactory: Actor Factory created Woodwall_door
+[2018.08.20-19.11.47:890][347]LogActorFactory: Actor Factory created Woodwall_door
+[2018.08.20-19.11.51:413][435]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.11.51:578][441]LogActorFactory: Actor Factory created Woodwall_door
+[2018.08.20-19.11.52:555][480]LogActorFactory: Actor Factory created Woodwall_door
+[2018.08.20-19.11.57:100][601]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.20-19.11.58:006][601]LogSavePackage: Save=730.44ms
+[2018.08.20-19.11.58:006][601]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap067890F442950205353CDD928C01C87F.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.08.20-19.11.58:017][601]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.08.20-19.12.03:599][601]LogSavePackage: Save=5401.92ms
+[2018.08.20-19.12.03:599][601]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap_BuiltData78262CAB417B6635A624D8BC0C612CAA.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.08.20-19.12.03:612][601]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.08.20-19.13.10:837][843]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 d:\Users\Administrator\Desktop\Assets\Wall\Woodwall\Woodwall_low_half.fbx)
+[2018.08.20-19.13.10:854][843]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.08.20-19.13.10:855][843]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.08.20-19.13.10:855][843]LogFbx: ItemName: Model, ItemCount : 1
+[2018.08.20-19.13.10:867][843]LogFbx: Loading FBX Scene from d:\Users\Administrator\Desktop\Assets\Wall\Woodwall\Woodwall_low_half.fbx
+[2018.08.20-19.13.10:881][843]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.20-19.13.14:296][843]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.20-19.13.14:356][843]LogFbx: Loading FBX Scene from d:\Users\Administrator\Desktop\Assets\Wall\Woodwall\Woodwall_low_half.fbx
+[2018.08.20-19.13.14:370][843]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.20-19.13.14:370][843]LogFbx: Warning: Triangulating static mesh Woodwall_low_half
+[2018.08.20-19.13.14:379][843]LogStaticMesh: Building static mesh Woodwall_low_half...
+[2018.08.20-19.13.14:387][843]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Xmodular/Woodwall_low_half.Woodwall_low_half
+[2018.08.20-19.13.14:464][843]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.20-19.13.15:650][884]LogSlate: Window 'Message Log' being destroyed
+[2018.08.20-19.13.15:662][884]LogSlate: Window 'Message Log' being destroyed
+[2018.08.20-19.13.16:866][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.13.16:991][953]LogActorFactory: Actor Factory created Woodwall_low_half
+[2018.08.20-19.13.17:808][  0]LogActorFactory: Actor Factory created Woodwall_low_half
+[2018.08.20-19.13.23:381][287]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-19.13.23:790][306]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-19.13.26:434][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.13.30:937][631]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.08.20-19.13.30:938][631]LogMaterial: Warning: /Engine/Transient.Material_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.08.20-19.13.30:938][631]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2018.08.20-19.13.34:179][745]LogEditorViewport: Clicking Background
+[2018.08.20-19.13.35:003][781]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Woodwall_low16)
+[2018.08.20-19.13.36:255][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.13.37:501][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Woodwall_low_half)
+[2018.08.20-19.13.40:731][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.13.41:520][997]LogRenderer: Reallocating scene render targets to support 1252x892 Format 9 NumSamples 1 (Frame:1).
+[2018.08.20-19.13.44:359][ 67]LogSlate: Window 'Woodwall_low_half*' being destroyed
+[2018.08.20-19.13.44:385][ 67]LogSlate: Window 'Woodwall_low_half*' being destroyed
+[2018.08.20-19.13.45:787][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.20-19.13.46:700][ 95]LogSavePackage: Save=785.55ms
+[2018.08.20-19.13.46:701][ 95]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap21269B844E798C0C7B60A89C42A384E3.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.08.20-19.13.46:710][ 95]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.08.20-19.13.49:897][ 95]LogSavePackage: Save=3135.14ms
+[2018.08.20-19.13.49:897][ 95]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap_BuiltDataCB649EC54B8B740CFF50409C7167CAC9.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.08.20-19.13.49:906][ 95]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.08.20-19.14.59:020][998]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.20-19.15.01:627][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_door5)
+[2018.08.20-19.15.11:901][246]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.20-19.15.26:306][629]LogEditorFactories: Performing atomic reimport of [D:/Users/Administrator/Desktop/Assets/Wall/Paperwall/Wall_door.fbx]
+[2018.08.20-19.15.26:395][629]LogFbx: Loading FBX Scene from D:/Users/Administrator/Desktop/Assets/Wall/Paperwall/Wall_door.fbx
+[2018.08.20-19.15.26:413][629]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.20-19.15.26:420][629]LogFbx: Warning: Triangulating static mesh Wall_door
+[2018.08.20-19.15.26:461][629]LogStaticMesh: Building static mesh Wall_door...
+[2018.08.20-19.15.26:461][629]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/Wall_door.Wall_door
+[2018.08.20-19.15.26:474][629]LogEditorFactories: -- imported successfully
+[2018.08.20-19.15.26:483][629]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.20-19.15.35:595][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.15.36:911][131]LogEditorFactories: Performing atomic reimport of [D:/Users/Administrator/Desktop/Assets/Wall/Paperwall/Wall_door.fbx]
+[2018.08.20-19.15.37:019][131]LogFbx: Loading FBX Scene from D:/Users/Administrator/Desktop/Assets/Wall/Paperwall/Wall_door.fbx
+[2018.08.20-19.15.37:045][131]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.20-19.15.37:046][131]LogFbx: Warning: Triangulating static mesh Wall_door
+[2018.08.20-19.15.37:099][131]LogStaticMesh: Building static mesh Wall_door...
+[2018.08.20-19.15.37:099][131]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/Wall_door.Wall_door
+[2018.08.20-19.15.37:111][131]LogEditorFactories: -- imported successfully
+[2018.08.20-19.15.37:122][131]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.20-19.15.46:502][288]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.20-19.15.58:478][379]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.20-19.16.01:062][488]LogEditorFactories: Performing atomic reimport of [D:/Users/Administrator/Desktop/Assets/Wall/Paperwall/Wall_door.fbx]
+[2018.08.20-19.16.01:129][488]LogFbx: Loading FBX Scene from D:/Users/Administrator/Desktop/Assets/Wall/Paperwall/Wall_door.fbx
+[2018.08.20-19.16.01:147][488]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.20-19.16.01:148][488]LogFbx: Warning: Triangulating static mesh Wall_door
+[2018.08.20-19.16.01:190][488]LogStaticMesh: Building static mesh Wall_door...
+[2018.08.20-19.16.01:190][488]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/Wall_door.Wall_door
+[2018.08.20-19.16.01:201][488]LogEditorFactories: -- imported successfully
+[2018.08.20-19.16.01:207][488]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.20-19.16.11:997][576]LogEditorFactories: Performing atomic reimport of [D:/Users/Administrator/Desktop/Assets/Wall/Wall_interrior/Wall_door.fbx]
+[2018.08.20-19.16.12:037][576]LogFbx: Loading FBX Scene from D:/Users/Administrator/Desktop/Assets/Wall/Wall_interrior/Wall_door.fbx
+[2018.08.20-19.16.12:048][576]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.20-19.16.12:049][576]LogFbx: Warning: Triangulating static mesh Wall_door
+[2018.08.20-19.16.12:079][576]LogStaticMesh: Building static mesh Wall_door...
+[2018.08.20-19.16.12:079][576]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/Wall_door.Wall_door
+[2018.08.20-19.16.12:094][576]LogEditorFactories: -- imported successfully
+[2018.08.20-19.16.12:098][576]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.20-19.16.15:554][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_door8)
+[2018.08.20-19.16.16:109][764]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-19.16.20:854][  5]Cmd: DELETE
+[2018.08.20-19.16.20:855][  5]Cmd: ACTOR DELETE
+[2018.08.20-19.16.20:865][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.16.20:885][  5]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.08.20-19.16.21:567][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.16.21:755][ 34]LogActorFactory: Actor Factory created Wall_door
+[2018.08.20-19.16.22:246][ 50]LogActorFactory: Actor Factory created Wall_door
+[2018.08.20-19.16.29:163][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.16.32:231][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_door8)
+[2018.08.20-19.16.32:475][481]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-19.16.35:779][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.16.37:223][642]LogActorFactory: Actor Factory created Wall_door
+[2018.08.20-19.16.37:969][668]LogActorFactory: Actor Factory created Wall_door
+[2018.08.20-19.16.46:666][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.16.47:264][969]LogActorFactory: Actor Factory created Wall_3x2
+[2018.08.20-19.16.47:853][992]LogActorFactory: Actor Factory created Wall_3x2
+[2018.08.20-19.17.02:740][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v15)
+[2018.08.20-19.17.03:286][442]Cmd: DELETE
+[2018.08.20-19.17.03:286][442]Cmd: ACTOR DELETE
+[2018.08.20-19.17.03:299][442]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.17.03:325][442]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.08.20-19.17.03:681][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_window_v4)
+[2018.08.20-19.17.03:863][460]Cmd: DELETE
+[2018.08.20-19.17.03:863][460]Cmd: ACTOR DELETE
+[2018.08.20-19.17.03:877][460]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.17.03:907][460]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2018.08.20-19.17.04:359][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v16)
+[2018.08.20-19.17.04:433][478]Cmd: DELETE
+[2018.08.20-19.17.04:434][478]Cmd: ACTOR DELETE
+[2018.08.20-19.17.04:445][478]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.17.04:471][478]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2018.08.20-19.17.05:318][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v17)
+[2018.08.20-19.17.05:481][517]Cmd: DELETE
+[2018.08.20-19.17.05:482][517]Cmd: ACTOR DELETE
+[2018.08.20-19.17.05:492][517]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.17.05:514][517]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.08.20-19.17.06:897][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x42)
+[2018.08.20-19.17.10:918][659]Cmd: TRANSACTION UNDO
+[2018.08.20-19.17.10:918][659]LogEditorTransaction: Undo Rotate Actors
+[2018.08.20-19.17.25:714][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x41)
+[2018.08.20-19.17.35:464][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.08.20-19.17.36:845][428]Cmd: TRANSACTION UNDO
+[2018.08.20-19.17.36:846][428]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.20-19.18.06:965][356]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-19.18.07:380][368]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-19.18.20:756][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v12)
+[2018.08.20-19.18.22:239][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_window_v5)
+[2018.08.20-19.18.22:847][819]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Wall_v12)
+[2018.08.20-19.18.23:641][832]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Wall_v18)
+[2018.08.20-19.18.24:357][849]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Wall_v19)
+[2018.08.20-19.18.25:938][863]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Wall_v19)
+[2018.08.20-19.18.26:370][867]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Wall_v20)
+[2018.08.20-19.18.28:076][918]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Wall_v21)
+[2018.08.20-19.18.28:762][932]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Wall_v22)
+[2018.08.20-19.18.29:908][967]Cmd: DELETE
+[2018.08.20-19.18.29:908][967]Cmd: ACTOR DELETE
+[2018.08.20-19.18.29:944][967]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.18.29:945][967]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.18.29:945][967]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.18.29:945][967]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.18.29:946][967]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.18.29:946][967]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.18.29:946][967]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.18.29:982][967]LogEditorActor: Deleted 7 Actors (0.074 secs)
+[2018.08.20-19.18.30:520][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2018.08.20-19.18.30:707][990]Cmd: DELETE
+[2018.08.20-19.18.30:707][990]Cmd: ACTOR DELETE
+[2018.08.20-19.18.30:722][990]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.18.30:752][990]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2018.08.20-19.18.36:648][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.18.36:933][150]LogActorFactory: Actor Factory created Wall_3x2
+[2018.08.20-19.18.37:325][162]LogActorFactory: Actor Factory created Wall_3x2
+[2018.08.20-19.18.41:348][299]Cmd: DELETE
+[2018.08.20-19.18.41:348][299]Cmd: ACTOR DELETE
+[2018.08.20-19.18.41:391][299]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.18.41:466][299]LogEditorActor: Deleted 1 Actors (0.118 secs)
+[2018.08.20-19.18.42:372][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v28)
+[2018.08.20-19.18.42:534][323]Cmd: DELETE
+[2018.08.20-19.18.42:534][323]Cmd: ACTOR DELETE
+[2018.08.20-19.18.42:567][323]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.18.42:634][323]LogEditorActor: Deleted 1 Actors (0.100 secs)
+[2018.08.20-19.18.43:110][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v29)
+[2018.08.20-19.18.43:288][343]Cmd: DELETE
+[2018.08.20-19.18.43:288][343]Cmd: ACTOR DELETE
+[2018.08.20-19.18.43:299][343]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.18.43:324][343]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.08.20-19.18.43:948][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.18.44:114][358]LogActorFactory: Actor Factory created Wall_door
+[2018.08.20-19.18.44:595][370]LogActorFactory: Actor Factory created Wall_door
+[2018.08.20-19.19.03:918][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.19.04:546][881]LogActorFactory: Actor Factory created Wall_3x2
+[2018.08.20-19.19.05:407][919]LogActorFactory: Actor Factory created Wall_3x2
+[2018.08.20-19.19.12:858][ 55]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-19.19.20:406][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.19.20:613][190]LogActorFactory: Actor Factory created Wall_3x2
+[2018.08.20-19.19.21:493][205]LogActorFactory: Actor Factory created Wall_3x2
+[2018.08.20-19.19.33:181][498]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-19.19.38:661][615]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-19.19.42:052][714]Cmd: DELETE
+[2018.08.20-19.19.42:052][714]Cmd: ACTOR DELETE
+[2018.08.20-19.19.42:067][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.19.42:097][714]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2018.08.20-19.19.43:652][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x59)
+[2018.08.20-19.19.46:215][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v73)
+[2018.08.20-19.19.46:912][831]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Wall_v74)
+[2018.08.20-19.19.47:931][835]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Wall_v72)
+[2018.08.20-19.19.49:252][848]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Wall_v41)
+[2018.08.20-19.19.50:512][893]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Wall_v38)
+[2018.08.20-19.19.51:103][912]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Wall_v39)
+[2018.08.20-19.19.51:699][931]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Wall_v40)
+[2018.08.20-19.19.53:163][983]Cmd: DELETE
+[2018.08.20-19.19.53:163][983]Cmd: ACTOR DELETE
+[2018.08.20-19.19.53:213][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.19.53:215][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.19.53:216][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.19.53:217][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.19.53:217][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.19.53:218][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.19.53:219][983]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.19.53:282][983]LogEditorActor: Deleted 7 Actors (0.119 secs)
+[2018.08.20-19.20.10:480][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.20.10:981][539]LogActorFactory: Actor Factory created Wall_3x2_half
+[2018.08.20-19.20.11:991][565]LogActorFactory: Actor Factory created Wall_3x2_half
+[2018.08.20-19.20.24:132][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v42)
+[2018.08.20-19.20.25:144][861]Cmd: DELETE
+[2018.08.20-19.20.25:144][861]Cmd: ACTOR DELETE
+[2018.08.20-19.20.25:172][861]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.20.25:217][861]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2018.08.20-19.20.25:516][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v43)
+[2018.08.20-19.20.25:724][873]Cmd: DELETE
+[2018.08.20-19.20.25:724][873]Cmd: ACTOR DELETE
+[2018.08.20-19.20.25:735][873]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.20.25:758][873]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.08.20-19.20.26:589][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v44)
+[2018.08.20-19.20.26:751][902]Cmd: DELETE
+[2018.08.20-19.20.26:751][902]Cmd: ACTOR DELETE
+[2018.08.20-19.20.26:767][902]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.20.26:801][902]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2018.08.20-19.20.27:247][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Wall_v45)
+[2018.08.20-19.20.27:334][922]Cmd: DELETE
+[2018.08.20-19.20.27:334][922]Cmd: ACTOR DELETE
+[2018.08.20-19.20.27:346][922]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.20-19.20.27:372][922]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2018.08.20-19.20.28:231][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.20.28:502][957]LogActorFactory: Actor Factory created Wall_3x2
+[2018.08.20-19.20.28:903][965]LogActorFactory: Actor Factory created Wall_3x2
+[2018.08.20-19.20.42:926][348]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_3x60)
+[2018.08.20-19.20.49:784][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x59)
+[2018.08.20-19.20.50:601][557]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_3x58)
+[2018.08.20-19.20.51:097][567]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_3x57)
+[2018.08.20-19.20.51:737][584]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_door11)
+[2018.08.20-19.20.55:957][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x57)
+[2018.08.20-19.21.25:636][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x69)
+[2018.08.20-19.21.31:466][604]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_export)
+[2018.08.20-19.21.31:644][605]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-19.21.32:932][655]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.08.20-19.21.37:039][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.21.38:694][743]LogSavePackage: Save=892.14ms
+[2018.08.20-19.21.38:694][743]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap3F92957D4D1FFAA4CB7DB0AC10269704.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.08.20-19.21.38:712][743]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.08.20-19.21.44:753][743]LogSavePackage: Save=5889.10ms
+[2018.08.20-19.21.44:753][743]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap_BuiltData729A251448AB3A65961C57A4788D55A1.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.08.20-19.21.44:775][743]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.08.20-19.24.15:868][197]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.20-19.24.15:868][197]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.20-19.24.40:855][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.27.06:636][188]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 d:\Users\Administrator\Desktop\Assets\Wall\Woodwall\Entrance.fbx)
+[2018.08.20-19.27.06:646][188]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.08.20-19.27.06:646][188]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.08.20-19.27.06:646][188]LogFbx: ItemName: Model, ItemCount : 1
+[2018.08.20-19.27.06:653][188]LogFbx: Loading FBX Scene from d:\Users\Administrator\Desktop\Assets\Wall\Woodwall\Entrance.fbx
+[2018.08.20-19.27.06:661][188]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.20-19.27.08:807][188]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.20-19.27.08:853][188]LogFbx: Loading FBX Scene from d:\Users\Administrator\Desktop\Assets\Wall\Woodwall\Entrance.fbx
+[2018.08.20-19.27.08:865][188]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.20-19.27.08:866][188]LogFbx: Warning: Triangulating static mesh Entrance
+[2018.08.20-19.27.08:871][188]LogStaticMesh: Building static mesh Entrance...
+[2018.08.20-19.27.08:879][188]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Xmodular/Entrance.Entrance
+[2018.08.20-19.27.08:898][188]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.20-19.27.10:232][241]LogSlate: Window 'Message Log' being destroyed
+[2018.08.20-19.27.10:240][241]LogSlate: Window 'Message Log' being destroyed
+[2018.08.20-19.27.18:287][334]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 d:\Users\Administrator\Desktop\Assets\Wall\Woodwall\Entrance_OcclusionRoughnessMetallic.png)
+[2018.08.20-19.27.18:393][334]LogTexture: Display: Building textures: Entrance_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.08.20-19.27.19:033][334]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 d:\Users\Administrator\Desktop\Assets\Wall\Woodwall\Entrance_BaseColor.png)
+[2018.08.20-19.27.19:140][334]LogTexture: Display: Building textures: Entrance_BaseColor (AutoDXT, 1024X1024)
+[2018.08.20-19.27.20:286][334]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 d:\Users\Administrator\Desktop\Assets\Wall\Woodwall\Entrance_Normal.png)
+[2018.08.20-19.27.20:392][334]LogTexture: Display: Building textures: Entrance_Normal (BC5, 1024X1024)
+[2018.08.20-19.27.27:563][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.27.45:921][650]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.20-19.27.45:921][650]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.20-19.27.58:317][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xmodular/Entrance_inst" FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Entrance_inst.uasset" SILENT=true
+[2018.08.20-19.27.58:344][183]LogSavePackage: Save=23.42ms
+[2018.08.20-19.27.58:345][183]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Entrance_inst4BC50AE34765E4395C5B7EAAAE0CE6A3.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Entrance_inst.uasset'
+[2018.08.20-19.27.58:354][183]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Entrance_inst.uasset
+[2018.08.20-19.28.16:539][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.28.28:996][844]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.20-19.28.31:003][877]LogTexture: Display: Building textures: Entrance_OcclusionRoughnessMetallic (AutoDXT, 1024X1024)
+[2018.08.20-19.28.32:496][877]LogMaterial: Missing cached shader map for material Basematerial_packed, compiling. 
+[2018.08.20-19.28.32:606][877]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.08.20-19.28.32:607][877]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.20-19.28.32:607][877]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.20-19.28.32:607][877]LogSlate: Window 'Entrance_OcclusionRoughnessMetallic*' being destroyed
+[2018.08.20-19.28.32:656][877]LogSlate: Window 'Entrance_OcclusionRoughnessMetallic*' being destroyed
+[2018.08.20-19.28.33:630][877]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Entrance_inst, compiling. 
+[2018.08.20-19.28.36:833][877]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.20-19.28.36:853][877]TextureStreamingBuild: Display: Compiling optional shaders took 3.237 seconds.
+[2018.08.20-19.28.39:246][891]LogSavePackage: Save=1368.79ms
+[2018.08.20-19.28.39:246][891]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap9C00EFE14F4C717F3D5616A377CF2A85.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.08.20-19.28.39:264][891]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.08.20-19.28.44:701][891]LogSavePackage: Save=5268.96ms
+[2018.08.20-19.28.44:701][891]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/FirstPersonExampleMap_BuiltData9CA0BD4C44575662C1A04588377C58AE.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.08.20-19.28.44:714][891]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.08.20-19.28.47:369][945]LogSlate: Window 'Save Content' being destroyed
+[2018.08.20-19.28.47:504][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xmodular/Entrance" FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Entrance.uasset" SILENT=true
+[2018.08.20-19.28.47:535][945]LogSavePackage: Save=25.55ms
+[2018.08.20-19.28.47:535][945]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/EntranceB779F9B64FFB7473C21C14B9C217F14A.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Entrance.uasset'
+[2018.08.20-19.28.47:544][945]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Entrance.uasset
+[2018.08.20-19.28.47:566][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xmodular/Entrance_BaseColor" FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Entrance_BaseColor.uasset" SILENT=true
+[2018.08.20-19.28.47:806][945]LogSavePackage: Save=236.07ms
+[2018.08.20-19.28.47:806][945]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Entrance_BaseColor0176C62A4D1BE4BDC0FFCC82D012E4EB.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Entrance_BaseColor.uasset'
+[2018.08.20-19.28.47:812][945]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Entrance_BaseColor.uasset
+[2018.08.20-19.28.47:833][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xmodular/Entrance_inst" FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Entrance_inst.uasset" SILENT=true
+[2018.08.20-19.28.47:862][945]LogSavePackage: Save=20.59ms
+[2018.08.20-19.28.47:862][945]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Entrance_instF522B6E84464BFCC1D1DD29D0CE8ADF4.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Entrance_inst.uasset'
+[2018.08.20-19.28.47:870][945]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Entrance_inst.uasset
+[2018.08.20-19.28.47:895][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xmodular/Entrance_Normal" FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Entrance_Normal.uasset" SILENT=true
+[2018.08.20-19.28.48:097][945]LogSavePackage: Save=198.51ms
+[2018.08.20-19.28.48:097][945]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Entrance_Normal35AF7725405C6F3A63F74BA9DAE28E5A.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Entrance_Normal.uasset'
+[2018.08.20-19.28.48:103][945]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Entrance_Normal.uasset
+[2018.08.20-19.28.48:310][945]LogSavePackage: Save=179.41ms
+[2018.08.20-19.28.48:310][945]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Entrance_OcclusionRoughnessMetalE09D24C348B6BAE60E6063AC4C6BC29F.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Entrance_OcclusionRoughnessMetallic.uasset'
+[2018.08.20-19.28.48:316][945]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Entrance_OcclusionRoughnessMetallic.uasset
+[2018.08.20-19.28.48:340][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xmodular/Wall_3x2_half" FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Wall_3x2_half.uasset" SILENT=true
+[2018.08.20-19.28.48:362][945]LogSavePackage: Save=18.37ms
+[2018.08.20-19.28.48:362][945]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Wall_3x2_half2A6231A243D4983827EA43A8183D5DAF.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Wall_3x2_half.uasset'
+[2018.08.20-19.28.48:369][945]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Wall_3x2_half.uasset
+[2018.08.20-19.28.48:392][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xmodular/Wall_door" FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Wall_door.uasset" SILENT=true
+[2018.08.20-19.28.48:420][945]LogSavePackage: Save=17.34ms
+[2018.08.20-19.28.48:420][945]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Wall_doorD7C45EA54070722E671356A054F0C0B9.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Wall_door.uasset'
+[2018.08.20-19.28.48:480][945]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Wall_door.uasset
+[2018.08.20-19.28.48:498][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xmodular/Woodwall_low_half" FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Woodwall_low_half.uasset" SILENT=true
+[2018.08.20-19.28.48:516][945]LogSavePackage: Save=16.53ms
+[2018.08.20-19.28.48:517][945]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Woodwall_low_halfDA5C3AA5489631C1F31B3AA11F700E9F.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Woodwall_low_half.uasset'
+[2018.08.20-19.28.48:524][945]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xmodular/Woodwall_low_half.uasset
+[2018.08.20-19.28.48:548][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Brickwall_x" FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xtexture/Brickwall_x.uasset" SILENT=true
+[2018.08.20-19.28.48:596][945]LogSavePackage: Save=15.96ms
+[2018.08.20-19.28.48:596][945]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Brickwall_x9C1525604AD0044C883538BA842E8276.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xtexture/Brickwall_x.uasset'
+[2018.08.20-19.28.48:601][945]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xtexture/Brickwall_x.uasset
+[2018.08.20-19.28.48:605][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Brickwall_y" FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xtexture/Brickwall_y.uasset" SILENT=true
+[2018.08.20-19.28.48:614][945]LogSavePackage: Save=2.72ms
+[2018.08.20-19.28.48:614][945]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Brickwall_y49B5D05140C6DF0E4410C494C4AE0763.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xtexture/Brickwall_y.uasset'
+[2018.08.20-19.28.48:619][945]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xtexture/Brickwall_y.uasset
+[2018.08.20-19.28.48:640][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Paperwall_x" FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xtexture/Paperwall_x.uasset" SILENT=true
+[2018.08.20-19.28.48:667][945]LogSavePackage: Save=19.73ms
+[2018.08.20-19.28.48:668][945]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Paperwall_x77F62A71448F42E3FAC8F4A4E24F8949.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xtexture/Paperwall_x.uasset'
+[2018.08.20-19.28.48:673][945]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xtexture/Paperwall_x.uasset
+[2018.08.20-19.28.48:693][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Paperwall_y" FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xtexture/Paperwall_y.uasset" SILENT=true
+[2018.08.20-19.28.48:723][945]LogSavePackage: Save=21.90ms
+[2018.08.20-19.28.48:723][945]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Paperwall_yD2F3B8DC47082D4CAD65B2A3D8FDD5E1.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xtexture/Paperwall_y.uasset'
+[2018.08.20-19.28.48:729][945]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xtexture/Paperwall_y.uasset
+[2018.08.20-19.28.49:884][945]LogSavePackage: Save=1134.58ms
+[2018.08.20-19.28.49:884][945]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Toiletbrick_basecolor6B2518374E2A81ADF3946D922DE4214C.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xtexture/Toiletbrick_basecolor.uasset'
+[2018.08.20-19.28.49:893][945]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xtexture/Toiletbrick_basecolor.uasset
+[2018.08.20-19.28.49:939][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Toiletbrick_normal" FILE="../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xtexture/Toiletbrick_normal.uasset" SILENT=true
+[2018.08.20-19.28.51:432][945]LogSavePackage: Save=1488.14ms
+[2018.08.20-19.28.51:432][945]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Toiletbrick_normal99EFD27340721588D6FF0B8B3FB08816.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xtexture/Toiletbrick_normal.uasset'
+[2018.08.20-19.28.51:437][945]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xtexture/Toiletbrick_normal.uasset
+[2018.08.20-19.28.53:830][945]LogSavePackage: Save=2375.77ms
+[2018.08.20-19.28.53:830][945]LogSavePackage: Moving '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Toiletbrick_roughnessEB2AA6094FC6F276083F75B75EC57B8C.tmp' to '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xtexture/Toiletbrick_roughness.uasset'
+[2018.08.20-19.28.53:841][945]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Assets/Xtexture/Toiletbrick_roughness.uasset
+[2018.08.20-19.28.54:006][945]LogSlate: Window 'Roadhouse - Unreal Editor' being destroyed
+[2018.08.20-19.28.54:007][945]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.20-19.28.54:338][946]Cmd: QUIT_EDITOR
+[2018.08.20-19.28.54:454][946]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.08.20-19.28.54:454][946]LogExit: Preparing to exit.
+[2018.08.20-19.28.55:148][946]LogDirectoryWatcher: A directory notification for 'D:/Users/Administrator/Documents/GitHub/Bar-Hyena/Content/' was aborted.
+[2018.08.20-19.28.55:179][946]LogExit: Editor shut down
+[2018.08.20-19.28.55:189][946]LogExit: Transaction tracking system shut down
+[2018.08.20-19.28.55:192][946]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002231e939ad0, Size=72
+[2018.08.20-19.28.55:192][946]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002231e91cd00, Size=256
+[2018.08.20-19.28.55:193][946]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002231e20ca00, Size=688
+[2018.08.20-19.28.55:236][946]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002231f8f78c8, Size=52
+[2018.08.20-19.28.55:316][946]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.08.20-19.28.55:316][946]LogDirectoryWatcher: A directory notification for '../../../../../Users/Administrator/Documents/GitHub/Bar-Hyena/Content/' was aborted.
+[2018.08.20-19.28.55:316][946]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.08.20-19.28.55:317][946]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.08.20-19.28.55:317][946]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.08.20-19.28.55:317][946]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.08.20-19.28.55:317][946]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.08.20-19.28.55:317][946]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.08.20-19.28.55:467][946]LogExit: Object subsystem successfully closed.
+[2018.08.20-19.28.55:609][946]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.08.20-19.28.55:617][946]LogD3D11RHI: Shutdown
+[2018.08.20-19.28.55:617][946]LogD3D11RHI: CleanupD3DDevice
+[2018.08.20-19.28.55:622][946]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.08.20-19.28.55:643][946]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (578)
+[2018.08.20-19.28.55:643][946]LogModuleManager: Shutting down and abandoning module TextureEditor (576)
+[2018.08.20-19.28.55:644][946]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.08.20-19.28.55:644][946]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.08.20-19.28.55:644][946]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.08.20-19.28.55:644][946]LogDirectoryWatcher: A directory notification for 'D:/UE4_engine/UE_4.19/FeaturePacks/' was aborted.
+[2018.08.20-19.28.55:645][946]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.08.20-19.28.55:646][946]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.08.20-19.28.55:646][946]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.08.20-19.28.55:646][946]LogDirectoryWatcher: A directory notification for 'D:/Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Collections/' was aborted.
+[2018.08.20-19.28.55:646][946]LogDirectoryWatcher: A directory notification for 'D:/Users/Administrator/Documents/GitHub/Bar-Hyena/Content/Developers/Administrator/Collections/' was aborted.
+[2018.08.20-19.28.55:646][946]LogDirectoryWatcher: A directory notification for 'D:/Users/Administrator/Documents/GitHub/Bar-Hyena/Saved/Collections/' was aborted.
+[2018.08.20-19.28.55:646][946]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.08.20-19.28.55:646][946]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.08.20-19.28.55:646][946]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.08.20-19.28.55:646][946]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.08.20-19.28.55:647][946]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.08.20-19.28.55:647][946]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.08.20-19.28.55:647][946]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.08.20-19.28.55:647][946]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.08.20-19.28.55:647][946]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.08.20-19.28.55:647][946]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.08.20-19.28.55:647][946]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.08.20-19.28.55:647][946]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.08.20-19.28.55:647][946]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.08.20-19.28.55:647][946]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.08.20-19.28.55:647][946]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.08.20-19.28.55:647][946]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.08.20-19.28.55:647][946]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.08.20-19.28.55:647][946]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.08.20-19.28.55:647][946]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.08.20-19.28.55:647][946]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.08.20-19.28.55:647][946]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.08.20-19.28.55:647][946]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.08.20-19.28.55:648][946]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.08.20-19.28.55:648][946]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.08.20-19.28.55:648][946]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.08.20-19.28.55:648][946]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.08.20-19.28.55:648][946]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.08.20-19.28.55:648][946]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.08.20-19.28.55:648][946]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.08.20-19.28.55:648][946]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.08.20-19.28.55:648][946]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.08.20-19.28.55:648][946]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.08.20-19.28.55:648][946]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.08.20-19.28.55:648][946]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.08.20-19.28.55:648][946]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.08.20-19.28.55:648][946]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.08.20-19.28.55:648][946]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.08.20-19.28.55:648][946]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.08.20-19.28.55:648][946]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.08.20-19.28.55:648][946]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.08.20-19.28.55:649][946]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.08.20-19.28.55:649][946]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.08.20-19.28.55:649][946]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.08.20-19.28.56:530][946]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.08.20-19.28.56:530][946]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.08.20-19.28.56:530][946]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.08.20-19.28.56:530][946]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.08.20-19.28.56:530][946]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.08.20-19.28.56:530][946]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.08.20-19.28.56:530][946]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.08.20-19.28.56:532][946]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.08.20-19.28.56:532][946]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.08.20-19.28.56:532][946]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.08.20-19.28.56:532][946]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.08.20-19.28.56:532][946]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.08.20-19.28.56:532][946]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.08.20-19.28.56:532][946]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.08.20-19.28.56:532][946]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.08.20-19.28.56:532][946]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.08.20-19.28.56:532][946]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.08.20-19.28.56:532][946]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.08.20-19.28.56:532][946]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.08.20-19.28.56:532][946]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.08.20-19.28.56:532][946]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.08.20-19.28.56:597][946]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.08.20-19.28.56:597][946]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.08.20-19.28.56:597][946]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.08.20-19.28.56:597][946]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.08.20-19.28.56:597][946]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.08.20-19.28.56:597][946]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.08.20-19.28.56:597][946]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.08.20-19.28.56:597][946]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.08.20-19.28.56:597][946]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.08.20-19.28.56:597][946]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.08.20-19.28.56:598][946]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.08.20-19.28.56:598][946]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.08.20-19.28.56:598][946]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.08.20-19.28.56:598][946]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.08.20-19.28.56:598][946]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.08.20-19.28.56:598][946]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.08.20-19.28.56:598][946]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.08.20-19.28.56:598][946]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.08.20-19.28.56:598][946]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.08.20-19.28.56:598][946]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.08.20-19.28.56:598][946]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.08.20-19.28.56:598][946]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.08.20-19.28.56:598][946]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.08.20-19.28.56:598][946]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.08.20-19.28.56:598][946]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.08.20-19.28.56:598][946]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.08.20-19.28.56:598][946]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.08.20-19.28.56:598][946]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.08.20-19.28.56:599][946]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.08.20-19.28.56:599][946]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.08.20-19.28.56:599][946]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.08.20-19.28.56:674][946]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.08.20-19.28.56:674][946]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.08.20-19.28.56:674][946]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.08.20-19.28.56:674][946]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.08.20-19.28.56:674][946]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.08.20-19.28.56:674][946]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.08.20-19.28.56:674][946]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.08.20-19.28.56:674][946]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.08.20-19.28.56:674][946]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.08.20-19.28.56:674][946]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.08.20-19.28.56:675][946]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.08.20-19.28.56:675][946]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.08.20-19.28.56:675][946]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.08.20-19.28.56:675][946]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.08.20-19.28.56:675][946]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.08.20-19.28.56:675][946]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.08.20-19.28.56:675][946]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.08.20-19.28.56:681][946]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.08.20-19.28.56:682][946]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.08.20-19.28.56:682][946]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.08.20-19.28.56:682][946]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.08.20-19.28.56:682][946]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.08.20-19.28.56:682][946]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.08.20-19.28.56:682][946]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.08.20-19.28.56:682][946]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.08.20-19.28.56:682][946]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.08.20-19.28.56:682][946]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.08.20-19.28.56:682][946]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.08.20-19.28.56:682][946]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.08.20-19.28.56:682][946]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.08.20-19.28.56:682][946]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.08.20-19.28.56:682][946]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.08.20-19.28.56:682][946]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.08.20-19.28.56:682][946]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.08.20-19.28.56:683][946]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.08.20-19.28.56:683][946]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.08.20-19.28.56:683][946]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.08.20-19.28.56:683][946]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.08.20-19.28.56:683][946]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.08.20-19.28.56:683][946]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.08.20-19.28.56:683][946]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.08.20-19.28.56:683][946]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.08.20-19.28.56:683][946]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.08.20-19.28.56:683][946]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.08.20-19.28.56:683][946]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.08.20-19.28.56:683][946]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.08.20-19.28.56:683][946]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.08.20-19.28.56:683][946]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.08.20-19.28.56:683][946]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.08.20-19.28.56:683][946]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.08.20-19.28.56:785][946]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.08.20-19.28.56:886][946]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.08.20-19.28.56:887][946]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.08.20-19.28.56:888][946]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.08.20-19.28.56:888][946]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.08.20-19.28.56:888][946]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.08.20-19.28.56:889][946]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.08.20-19.28.56:892][946]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.08.20-19.28.56:892][946]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.08.20-19.28.56:893][946]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.08.20-19.28.56:893][946]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.08.20-19.28.56:895][946]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.08.20-19.28.56:899][946]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.08.20-19.28.56:899][946]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.08.20-19.28.56:899][946]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.08.20-19.28.56:899][946]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.08.20-19.28.57:150][946]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.08.20-19.28.57:150][946]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.08.20-19.28.57:150][946]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.08.20-19.28.57:153][946]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.08.20-19.28.57:160][946]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.08.20-19.28.57:160][946]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.08.20-19.28.57:160][946]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.08.20-19.28.57:160][946]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.08.20-19.28.57:160][946]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.08.20-19.28.57:160][946]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.08.20-19.28.57:160][946]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.08.20-19.28.57:160][946]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.08.20-19.28.57:160][946]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.08.20-19.28.57:160][946]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.08.20-19.28.57:160][946]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.08.20-19.28.57:160][946]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.08.20-19.28.57:160][946]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.08.20-19.28.57:161][946]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.08.20-19.28.57:161][946]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.08.20-19.28.57:161][946]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.08.20-19.28.57:161][946]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.08.20-19.28.57:161][946]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.08.20-19.28.57:161][946]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.08.20-19.28.57:161][946]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.08.20-19.28.57:165][946]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.08.20-19.28.57:165][946]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.08.20-19.28.57:165][946]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.08.20-19.28.57:165][946]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.08.20-19.28.57:165][946]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.08.20-19.28.57:165][946]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.08.20-19.28.57:165][946]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.08.20-19.28.57:165][946]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.08.20-19.28.57:165][946]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.08.20-19.28.57:165][946]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.08.20-19.28.57:165][946]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.08.20-19.28.57:165][946]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.08.20-19.28.57:165][946]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.08.20-19.28.57:165][946]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.08.20-19.28.57:166][946]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.08.20-19.28.57:166][946]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.08.20-19.28.57:167][946]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.08.20-19.28.57:195][946]LogDerivedDataCache: Shutdown
+[2018.08.20-19.28.57:195][946]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.08.20-19.28.57:195][946]LogXGEController: Cleaning working directory: C:/Users/Administrator/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.08.20-19.28.57:195][946]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.08.20-19.28.57:195][946]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.08.20-19.28.57:196][946]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.08.20-19.28.57:196][946]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.08.20-19.28.57:196][946]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.08.20-19.28.57:196][946]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.08.20-19.28.57:196][946]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.08.20-19.28.57:196][946]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.08.20-19.28.57:196][946]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.08.20-19.28.57:196][946]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.08.20-19.28.57:196][946]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.08.20-19.28.57:196][946]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.08.20-19.28.57:196][946]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.08.20-19.28.57:196][946]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.08.20-19.28.57:196][946]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.08.20-19.28.57:196][946]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.08.20-19.28.57:196][946]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.08.20-19.28.57:196][946]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.08.20-19.28.57:197][946]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.08.20-19.28.57:197][946]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.08.20-19.28.57:197][946]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.08.20-19.28.57:197][946]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.08.20-19.28.57:197][946]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.08.20-19.28.57:197][946]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.08.20-19.28.57:197][946]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.08.20-19.28.57:197][946]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.08.20-19.28.57:197][946]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.08.20-19.28.57:197][946]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.08.20-19.28.57:197][946]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.08.20-19.28.57:197][946]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.08.20-19.28.57:197][946]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.08.20-19.28.57:197][946]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.08.20-19.28.57:197][946]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.08.20-19.28.57:197][946]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.08.20-19.28.57:197][946]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.08.20-19.28.57:197][946]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.08.20-19.28.57:197][946]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.08.20-19.28.57:197][946]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.08.20-19.28.57:197][946]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.08.20-19.28.57:197][946]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.08.20-19.28.57:198][946]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.08.20-19.28.57:198][946]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.08.20-19.28.57:198][946]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.08.20-19.28.57:198][946]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.08.20-19.28.57:198][946]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.08.20-19.28.57:198][946]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.08.20-19.28.57:198][946]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.08.20-19.28.57:198][946]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.08.20-19.28.57:198][946]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.08.20-19.28.57:198][946]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.08.20-19.28.57:198][946]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.08.20-19.28.57:198][946]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.08.20-19.28.57:198][946]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.08.20-19.28.57:198][946]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.08.20-19.28.57:198][946]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.08.20-19.28.57:198][946]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4F030188-4254-A571-30A4-30B6393CC68D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=d6ff1a5446fbae1276da95bbdf46b853%7C002534f943d94cfb99c8b9b206d54173%7Cabb0079e-60e5-4b04-b8d7-9c48458bd8a1&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.08.20-19.28.57:232][946]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.08.20-19.28.57:236][946]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.08.20-19.28.57:236][946]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.08.20-19.28.57:236][946]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.08.20-19.28.57:236][946]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.08.20-19.28.57:236][946]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.08.20-19.28.57:236][946]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.08.20-19.28.57:236][946]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.08.20-19.28.57:239][946]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.08.20-19.28.57:239][946]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.08.20-19.28.57:239][946]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.08.20-19.28.57:239][946]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.08.20-19.28.57:239][946]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.08.20-19.28.57:239][946]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.08.20-19.28.57:239][946]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.08.20-19.28.57:239][946]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.08.20-19.28.57:239][946]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.08.20-19.28.57:239][946]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.08.20-19.28.57:239][946]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.08.20-19.28.57:253][946]LogExit: Exiting.
+[2018.08.20-19.28.57:282][946]Log file closed, 08/20/18 21:28:57
