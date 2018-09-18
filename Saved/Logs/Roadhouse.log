@@ -1,4 +1,4 @@
-﻿Log file open, 09/18/18 23:57:36
+﻿Log file open, 09/19/18 00:44:55
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: Roadhouse
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(251489766) SRandInit(251489766).
+LogInit: Display: RandInit(-1683555616) SRandInit(-1683555616).
 LogInit: Read version file with build ID '3944462'
 LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
 LogInit: Registered custom module enumerator with build ID '3944462'
 LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.188692
+LogStats: Stats thread started at 0.183230
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
@@ -168,7 +168,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  2.137s to configure plugins.
+LogStreaming: Display: Took  2.072s to configure plugins.
 LogInit: Using libcurl 7.47.1
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2g
@@ -222,185 +222,617 @@ LogInit: Installed Engine Build: 1
 LogStreaming: Display: Took  0.007s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.09.18-21.57.38:710][  0]LogInit: Selected Device Profile: [Windows]
-[2018.09.18-21.57.38:710][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.09.18-21.57.38:724][  0]LogInit: Computer: DESKTOP-5J6HU0I
-[2018.09.18-21.57.38:724][  0]LogInit: User: usagi
-[2018.09.18-21.57.38:724][  0]LogInit: CPU Page size=4096, Cores=2
-[2018.09.18-21.57.38:724][  0]LogInit: High frequency timer resolution =2.343752 MHz
-[2018.09.18-21.57.38:725][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2018.09.18-21.57.38:725][  0]LogMemory: Platform Memory Stats for Windows
-[2018.09.18-21.57.38:725][  0]LogMemory: Process Physical Memory: 272.77 MB used, 272.77 MB peak
-[2018.09.18-21.57.38:725][  0]LogMemory: Process Virtual Memory: 265.94 MB used, 265.94 MB peak
-[2018.09.18-21.57.38:725][  0]LogMemory: Physical Memory: 8333.45 MB used,  7964.49 MB free, 16297.94 MB total
-[2018.09.18-21.57.38:725][  0]LogMemory: Virtual Memory: 4762.94 MB used,  7964.49 MB free, 134217728.00 MB total
-[2018.09.18-21.57.38:760][  0]LogInit: Using OS detected language (de-DE).
-[2018.09.18-21.57.38:760][  0]LogInit: Using OS detected locale (de-DE).
-[2018.09.18-21.57.38:766][  0]LogTextLocalizationManager: No localization for 'de-DE' exists, so 'en' will be used for the language.
-[2018.09.18-21.57.39:341][  0]LogStreaming: Display: Took  0.581s to EndInitTextLocalization.
-[2018.09.18-21.57.39:341][  0]LogInit: Setting process to per monitor DPI aware
-[2018.09.18-21.57.39:383][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.09.18-21.57.39:383][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.09.18-21.57.39:770][  0]LogD3D11RHI: D3D11 adapters:
-[2018.09.18-21.57.39:880][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
-[2018.09.18-21.57.39:880][  0]LogD3D11RHI:       2010/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.09.18-21.57.39:890][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
-[2018.09.18-21.57.39:890][  0]LogD3D11RHI:       128/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2018.09.18-21.57.39:894][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.09.18-21.57.39:894][  0]LogD3D11RHI:       0/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.09.18-21.57.39:894][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.09.18-21.57.39:916][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.09.18-21.57.39:916][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
-[2018.09.18-21.57.39:916][  0]LogWindows: EnumDisplayDevices:
-[2018.09.18-21.57.39:917][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
-[2018.09.18-21.57.39:917][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
-[2018.09.18-21.57.39:917][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
-[2018.09.18-21.57.39:917][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.09.18-21.57.39:917][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
-[2018.09.18-21.57.39:917][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.09.18-21.57.39:918][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.09.18-21.57.39:918][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
-[2018.09.18-21.57.39:983][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2018.09.18-21.57.39:983][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2018.09.18-21.57.39:983][  0]LogD3D11RHI: Async texture creation enabled
-[2018.09.18-21.57.40:005][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2018.09.18-21.57.40:006][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Intermediate/Shaders/WorkingDirectory/7332/).
-[2018.09.18-21.57.40:006][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/usagi/AppData/Local/Temp/UnrealShaderWorkingDir/24776F9A40ABFC6A834B12A5155D252E/'.
-[2018.09.18-21.57.40:358][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.09.18-21.57.40:379][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.09.18-21.57.40:397][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.09.18-21.57.40:426][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.09.18-21.57.40:448][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.09.18-21.57.40:469][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.09.18-21.57.40:490][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.09.18-21.57.40:526][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.09.18-21.57.40:541][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.09.18-21.57.40:567][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.09.18-21.57.40:591][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.09.18-21.57.40:615][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.09.18-21.57.40:639][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
-[2018.09.18-21.57.40:662][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.09.18-21.57.40:684][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.09.18-21.57.40:729][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.09.18-21.57.40:730][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.09.18-21.57.40:753][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.09.18-21.57.40:756][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.09.18-21.57.40:805][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.09.18-21.57.40:826][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.09.18-21.57.40:844][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.09.18-21.57.40:859][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.09.18-21.57.40:877][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.09.18-21.57.40:894][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.09.18-21.57.40:894][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.09.18-21.57.41:101][  0]LogXGEController: Cleaning working directory: C:/Users/usagi/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2018.09.18-21.57.41:102][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.09.18-21.57.41:102][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.09.18-21.57.41:102][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.09.18-21.57.42:443][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.09.18-21.57.42:533][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/usagi/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.09.18-21.57.42:533][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/usagi/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
-[2018.09.18-21.57.42:533][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.09.18-21.57.42:533][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.09.18-21.57.42:533][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.09.18-21.57.42:533][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.09.18-21.57.42:558][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.09.18-21.57.42:572][  0]LogDerivedDataCache: Using Local data cache path C:/Users/usagi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.09.18-21.57.42:572][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.09.18-21.57.42:572][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.09.18-21.57.42:588][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.09.18-21.57.42:589][  0]LogSlate: Using Freetype 2.6.0
-[2018.09.18-21.57.42:589][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.09.18-21.57.42:590][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.09.18-21.57.42:804][  0]LogAssetRegistry: FAssetRegistry took 0.0284 seconds to start up
-[2018.09.18-21.57.43:326][  0]LogInit: Selected Device Profile: [Windows]
-[2018.09.18-21.57.43:579][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.09.18-21.57.43:585][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.09.18-21.57.43:585][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.09.18-21.57.43:585][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.09.18-21.57.43:585][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.09.18-21.57.43:585][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.09.18-21.57.43:636][  0]LogNetVersion: Roadhouse , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 487093703)
-[2018.09.18-21.57.44:264][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.082979 seconds
-[2018.09.18-21.57.44:273][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
-[2018.09.18-21.57.44:273][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
-[2018.09.18-21.57.44:274][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.09.18-21.57.47:092][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.09.18-21.57.47:137][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.09.18-21.57.47:771][  0]SourceControl: Source control is disabled
-[2018.09.18-21.57.49:389][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.09.18-21.57.49:658][  0]LogOcInput: OculusInput pre-init called
-[2018.09.18-21.57.49:839][  0]LogEngine: Initializing Engine...
-[2018.09.18-21.57.49:841][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.09.18-21.57.49:843][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.09.18-21.57.49:843][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.09.18-21.57.50:151][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.09.18-21.57.50:171][  0]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.09.18-21.57.50:227][  0]LogInit: FAudioDevice initialized.
-[2018.09.18-21.57.50:315][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/usagi/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.09.18-21.57.50:324][  0]LogInit: Texture streaming: Enabled
-[2018.09.18-21.57.50:351][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.09.18-21.57.50:374][  0]LogInit: Transaction tracking system initialized
-[2018.09.18-21.57.50:413][  0]BlueprintLog: New page: Editor Load
-[2018.09.18-21.57.50:547][  0]LocalizationService: Localization service is disabled
-[2018.09.18-21.57.50:713][  0]LogConsoleResponse: Display: 
-[2018.09.18-21.57.50:984][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.09.18-21.57.50:984][  0]LogCook: Display: Mobile HDR setting 1
-[2018.09.18-21.57.50:984][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.09.18-21.57.50:984][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.09.18-21.57.50:984][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.09.18-21.57.51:746][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/' took 0.02s
-[2018.09.18-21.57.51:832][  0]Cmd: MAP LOAD FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.09.18-21.57.51:832][  0]LightingResults: New page: Lighting Build
-[2018.09.18-21.57.51:836][  0]MapCheck: New page: Map Check
-[2018.09.18-21.57.51:836][  0]LightingResults: New page: Lighting Build
-[2018.09.18-21.57.51:923][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee3b1c6f20, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
-[2018.09.18-21.57.51:935][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee3b1c6f20, Size=72
-[2018.09.18-21.57.51:936][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee3b1a3060, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
-[2018.09.18-21.57.51:948][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee3bf13510, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
-[2018.09.18-21.57.51:966][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee3bf0d300, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
-[2018.09.18-21.57.51:972][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee3bf0d300, Size=256
-[2018.09.18-21.57.51:972][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee3bf0d300, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_4:ExecuteUbergraph_FirstPersonProjectile
-[2018.09.18-21.57.51:976][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee3bf0cc00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
-[2018.09.18-21.57.52:080][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee3bb26500, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
-[2018.09.18-21.57.52:099][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee3bb26500, Size=688
-[2018.09.18-21.57.52:099][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee3b757700, Size=688, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_6:ExecuteUbergraph_FirstPersonCharacter
-[2018.09.18-21.57.52:114][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee3b755c00, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
-[2018.09.18-21.57.52:228][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee406f3f90, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
-[2018.09.18-21.57.52:232][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee406f3f90, Size=52
-[2018.09.18-21.57.52:232][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee406f3f90, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_10:ExecuteUbergraph_FirstPersonHUD
-[2018.09.18-21.57.52:235][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001ee406f38c8, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
-[2018.09.18-21.57.52:856][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [4.916049ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
-[2018.09.18-21.57.52:876][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [7.781113ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
-[2018.09.18-21.57.53:133][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
-[2018.09.18-21.57.53:164][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.09.18-21.57.53:188][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee3b1a3060, Size=72
-[2018.09.18-21.57.53:188][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee3bf0d300, Size=256
-[2018.09.18-21.57.53:188][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee3b757700, Size=688
-[2018.09.18-21.57.53:189][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001ee406f3f90, Size=52
-[2018.09.18-21.57.53:190][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.09.18-21.57.53:365][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 174,63ms to complete.
-[2018.09.18-21.57.53:365][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.533
-[2018.09.18-21.57.53:549][  0]LogCollectionManager: Loaded 0 collections in 0.003756 seconds
-[2018.09.18-21.57.53:604][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Collections/' took 0.01s
-[2018.09.18-21.57.53:604][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Developers/usagi/Collections/' took 0.01s
-[2018.09.18-21.57.53:604][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Collections/' took 0.01s
-[2018.09.18-21.57.53:604][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2018.09.18-21.57.53:621][  0]LogContentBrowser: Native class hierarchy populated in 0.0167 seconds. Added 2452 classes and 558 folders.
-[2018.09.18-21.57.53:635][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2018.09.18-21.57.53:740][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2018.09.18-21.57.53:748][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
-[2018.09.18-21.57.53:776][  0]LogSlate: Took 0.000382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.09.18-21.57.53:779][  0]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.09.18-21.57.53:788][  0]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.09.18-21.57.53:972][  0]LogRenderer: Reallocating scene render targets to support 1204x648 Format 10 NumSamples 1 (Frame:1).
-[2018.09.18-21.57.54:303][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2018.09.18-21.57.54:303][  0]LogLoad: (Engine Initialization) Total time: 19.85 seconds
-[2018.09.18-21.57.54:303][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.09.18-21.57.54:663][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.09.18-21.57.54:688][  0]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.09.18-21.57.55:322][  2]LogAssetRegistry: Asset discovery search completed in 12.5402 seconds
-[2018.09.18-21.57.55:325][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.09.18-21.57.55:325][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000105 seconds (updated 0 objects)
-[2018.09.18-21.59.11:833][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dach)
-[2018.09.18-21.59.13:002][361]Cmd: ACTOR HIDE SELECTED
-[2018.09.18-21.59.15:254][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-22.44.57:828][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.18-22.44.57:828][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.18-22.44.57:845][  0]LogInit: Computer: DESKTOP-5J6HU0I
+[2018.09.18-22.44.57:845][  0]LogInit: User: usagi
+[2018.09.18-22.44.57:845][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.09.18-22.44.57:845][  0]LogInit: High frequency timer resolution =2.343752 MHz
+[2018.09.18-22.44.57:846][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.18-22.44.57:846][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.18-22.44.57:846][  0]LogMemory: Process Physical Memory: 272.77 MB used, 272.77 MB peak
+[2018.09.18-22.44.57:846][  0]LogMemory: Process Virtual Memory: 265.93 MB used, 265.93 MB peak
+[2018.09.18-22.44.57:846][  0]LogMemory: Physical Memory: 8626.61 MB used,  7671.33 MB free, 16297.94 MB total
+[2018.09.18-22.44.57:846][  0]LogMemory: Virtual Memory: 4762.94 MB used,  7671.33 MB free, 134217728.00 MB total
+[2018.09.18-22.44.57:878][  0]LogInit: Using OS detected language (de-DE).
+[2018.09.18-22.44.57:878][  0]LogInit: Using OS detected locale (de-DE).
+[2018.09.18-22.44.57:885][  0]LogTextLocalizationManager: No localization for 'de-DE' exists, so 'en' will be used for the language.
+[2018.09.18-22.44.58:490][  0]LogStreaming: Display: Took  0.611s to EndInitTextLocalization.
+[2018.09.18-22.44.58:490][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.18-22.44.58:525][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.18-22.44.58:525][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.18-22.44.58:906][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.18-22.44.58:992][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2018.09.18-22.44.58:992][  0]LogD3D11RHI:       2010/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.18-22.44.59:002][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2018.09.18-22.44.59:002][  0]LogD3D11RHI:       128/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.09.18-22.44.59:006][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.18-22.44.59:006][  0]LogD3D11RHI:       0/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.18-22.44.59:006][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.18-22.44.59:025][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.18-22.44.59:026][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2018.09.18-22.44.59:026][  0]LogWindows: EnumDisplayDevices:
+[2018.09.18-22.44.59:026][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2018.09.18-22.44.59:026][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.09.18-22.44.59:026][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.09.18-22.44.59:026][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.09.18-22.44.59:026][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2018.09.18-22.44.59:026][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.09.18-22.44.59:026][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.09.18-22.44.59:026][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2018.09.18-22.44.59:088][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.18-22.44.59:088][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.18-22.44.59:088][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.18-22.44.59:108][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.18-22.44.59:108][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Intermediate/Shaders/WorkingDirectory/12648/).
+[2018.09.18-22.44.59:109][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/usagi/AppData/Local/Temp/UnrealShaderWorkingDir/453649834C34863B1F2D75B9C1C1AC06/'.
+[2018.09.18-22.44.59:476][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.18-22.44.59:493][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.18-22.44.59:513][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.18-22.44.59:533][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.18-22.44.59:554][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.18-22.44.59:574][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.18-22.44.59:594][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.18-22.44.59:616][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.18-22.44.59:625][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.18-22.44.59:641][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.09.18-22.44.59:661][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.09.18-22.44.59:683][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.09.18-22.44.59:702][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.09.18-22.44.59:719][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.09.18-22.44.59:735][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.09.18-22.44.59:770][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.09.18-22.44.59:770][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.09.18-22.44.59:790][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.18-22.44.59:792][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.18-22.44.59:836][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.18-22.44.59:853][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.18-22.44.59:868][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.18-22.44.59:886][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.18-22.44.59:907][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.18-22.44.59:924][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.18-22.44.59:924][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.18-22.45.00:140][  0]LogXGEController: Cleaning working directory: C:/Users/usagi/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.18-22.45.00:140][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.18-22.45.00:140][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.18-22.45.00:140][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.18-22.45.01:235][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.18-22.45.01:314][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/usagi/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.18-22.45.01:314][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/usagi/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.09.18-22.45.01:315][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.18-22.45.01:315][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.18-22.45.01:315][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.18-22.45.01:315][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.18-22.45.01:339][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.18-22.45.01:353][  0]LogDerivedDataCache: Using Local data cache path C:/Users/usagi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.18-22.45.01:353][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.18-22.45.01:353][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.18-22.45.01:366][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.18-22.45.01:367][  0]LogSlate: Using Freetype 2.6.0
+[2018.09.18-22.45.01:368][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.18-22.45.01:368][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.18-22.45.01:579][  0]LogAssetRegistry: FAssetRegistry took 0.0303 seconds to start up
+[2018.09.18-22.45.02:064][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.18-22.45.02:356][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.18-22.45.02:361][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.18-22.45.02:361][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.18-22.45.02:361][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.18-22.45.02:361][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.09.18-22.45.02:361][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.09.18-22.45.02:423][  0]LogNetVersion: Roadhouse , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 487093703)
+[2018.09.18-22.45.03:159][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.078874 seconds
+[2018.09.18-22.45.03:169][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.09.18-22.45.03:169][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.09.18-22.45.03:170][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.18-22.45.05:805][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.18-22.45.05:852][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.18-22.45.06:468][  0]SourceControl: Source control is disabled
+[2018.09.18-22.45.08:127][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.18-22.45.08:401][  0]LogOcInput: OculusInput pre-init called
+[2018.09.18-22.45.08:593][  0]LogEngine: Initializing Engine...
+[2018.09.18-22.45.08:596][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.18-22.45.08:597][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.18-22.45.08:597][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.18-22.45.08:910][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.18-22.45.08:931][  0]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.18-22.45.09:056][  0]LogInit: FAudioDevice initialized.
+[2018.09.18-22.45.09:147][  0]LogDerivedDataCache: Saved boot cache 0.09s 74MB C:/Users/usagi/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.18-22.45.09:159][  0]LogInit: Texture streaming: Enabled
+[2018.09.18-22.45.09:188][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.18-22.45.09:208][  0]LogInit: Transaction tracking system initialized
+[2018.09.18-22.45.09:249][  0]BlueprintLog: New page: Editor Load
+[2018.09.18-22.45.09:377][  0]LocalizationService: Localization service is disabled
+[2018.09.18-22.45.09:554][  0]LogConsoleResponse: Display: 
+[2018.09.18-22.45.09:812][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.18-22.45.09:812][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.18-22.45.09:812][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.18-22.45.09:812][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.18-22.45.09:812][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.18-22.45.10:541][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/' took 0.02s
+[2018.09.18-22.45.10:541][  0]Cmd: MAP LOAD FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.18-22.45.10:542][  0]LightingResults: New page: Lighting Build
+[2018.09.18-22.45.10:546][  0]MapCheck: New page: Map Check
+[2018.09.18-22.45.10:546][  0]LightingResults: New page: Lighting Build
+[2018.09.18-22.45.10:626][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c3d53f5b0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.09.18-22.45.10:641][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c3d53f5b0, Size=72
+[2018.09.18-22.45.10:641][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c3d4df790, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.09.18-22.45.10:654][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c3e1e4db0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.09.18-22.45.10:672][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c3e1c1300, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.09.18-22.45.10:681][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c3e1c1300, Size=256
+[2018.09.18-22.45.10:681][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c3e1c1300, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_4:ExecuteUbergraph_FirstPersonProjectile
+[2018.09.18-22.45.10:684][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c3e1c0c00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.09.18-22.45.10:781][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c3ddfe500, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.09.18-22.45.10:797][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c3ddfe500, Size=688
+[2018.09.18-22.45.10:797][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c3dd8f700, Size=688, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_6:ExecuteUbergraph_FirstPersonCharacter
+[2018.09.18-22.45.10:812][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c3dd8dc00, Size=688, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.09.18-22.45.10:934][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c42a5bf90, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.09.18-22.45.10:939][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c42a5bf90, Size=52
+[2018.09.18-22.45.10:939][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c42a5bf90, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_10:ExecuteUbergraph_FirstPersonHUD
+[2018.09.18-22.45.10:942][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019c42a5b8c8, Size=52, Default__FirstPersonHUD_C Function /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2018.09.18-22.45.11:568][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [7.400100ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.09.18-22.45.11:701][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [5.853862ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.09.18-22.45.11:807][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.18-22.45.11:832][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.18-22.45.11:850][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c3d4df790, Size=72
+[2018.09.18-22.45.11:850][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c3e1c1300, Size=256
+[2018.09.18-22.45.11:850][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c3dd8f700, Size=688
+[2018.09.18-22.45.11:850][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019c42a5bf90, Size=52
+[2018.09.18-22.45.11:852][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.18-22.45.12:021][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 168,228ms to complete.
+[2018.09.18-22.45.12:021][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 1.480
+[2018.09.18-22.45.12:217][  0]LogCollectionManager: Loaded 0 collections in 0.003860 seconds
+[2018.09.18-22.45.12:272][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Collections/' took 0.01s
+[2018.09.18-22.45.12:272][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Developers/usagi/Collections/' took 0.01s
+[2018.09.18-22.45.12:272][  0]LogFileCache: Scanning file cache for directory 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Collections/' took 0.01s
+[2018.09.18-22.45.12:273][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.18-22.45.12:289][  0]LogContentBrowser: Native class hierarchy populated in 0.0165 seconds. Added 2452 classes and 558 folders.
+[2018.09.18-22.45.12:303][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.18-22.45.12:413][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.18-22.45.12:421][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.09.18-22.45.12:451][  0]LogSlate: Took 0.000353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.18-22.45.12:454][  0]LogSlate: Took 0.000337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.18-22.45.12:462][  0]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.18-22.45.12:654][  0]LogRenderer: Reallocating scene render targets to support 1204x648 Format 10 NumSamples 1 (Frame:1).
+[2018.09.18-22.45.12:901][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.09.18-22.45.12:901][  0]LogLoad: (Engine Initialization) Total time: 19.02 seconds
+[2018.09.18-22.45.12:901][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.18-22.45.12:920][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.18-22.45.12:939][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.18-22.45.12:969][  0]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.18-22.45.13:061][  2]LogAssetRegistry: Asset discovery search completed in 11.5036 seconds
+[2018.09.18-22.45.13:063][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.18-22.45.13:063][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000130 seconds (updated 0 objects)
+[2018.09.18-22.45.14:197][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dach)
+[2018.09.18-22.45.15:185][107]Cmd: ACTOR HIDE SELECTED
+[2018.09.18-22.45.46:301][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-22.47.31:107][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Jukebox1)
+[2018.09.18-22.47.34:250][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-22.47.35:734][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v2_4)
+[2018.09.18-22.47.36:477][755]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Table_v2_6)
+[2018.09.18-22.47.37:303][798]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Table_v2_5)
+[2018.09.18-22.47.37:920][829]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Table_v1_10)
+[2018.09.18-22.47.38:722][871]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Table_v1_9)
+[2018.09.18-22.47.40:428][964]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Table_v1_4)
+[2018.09.18-22.47.41:321][ 11]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Table_v2_7)
+[2018.09.18-22.47.43:480][123]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar_export)
+[2018.09.18-22.47.45:752][234]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Barstool)
+[2018.09.18-22.47.46:957][292]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Barstool2)
+[2018.09.18-22.47.48:087][346]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Barstool3)
+[2018.09.18-22.47.49:216][400]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Barstool4)
+[2018.09.18-22.47.50:057][439]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Barstool5)
+[2018.09.18-22.47.50:786][472]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Barstool6)
+[2018.09.18-22.47.52:001][531]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Barstool7)
+[2018.09.18-22.47.55:764][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-22.48.06:934][262]Cmd: TRANSACTION UNDO
+[2018.09.18-22.48.06:934][262]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.18-22.48.06:979][262]LogSlate: Took 0.000358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.18-22.48.07:765][294]Cmd: TRANSACTION UNDO
+[2018.09.18-22.48.07:765][294]LogEditorTransaction: Undo Create Folder
+[2018.09.18-22.48.07:796][294]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Table_v1_10.StaticMeshComponent0) Component already registered.
+[2018.09.18-22.48.07:796][294]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Table_v2_7.StaticMeshComponent0) Component already registered.
+[2018.09.18-22.48.07:797][294]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Barstool7.StaticMeshComponent0) Component already registered.
+[2018.09.18-22.48.21:117][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Table_kitchen2_)
+[2018.09.18-22.48.22:348][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sink2)
+[2018.09.18-22.48.23:485][ 94]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.48.26:850][257]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Shelf3)
+[2018.09.18-22.48.27:694][295]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ofen)
+[2018.09.18-22.48.28:864][350]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (airvent2)
+[2018.09.18-22.48.34:109][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-22.48.57:870][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (shelf)
+[2018.09.18-22.48.58:736][897]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.49.00:708][991]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (lamp)
+[2018.09.18-22.49.01:615][ 29]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (piano)
+[2018.09.18-22.49.02:697][ 76]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (tv)
+[2018.09.18-22.49.04:355][150]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (desk_office)
+[2018.09.18-22.49.05:446][197]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (grammofon)
+[2018.09.18-22.49.07:370][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-22.49.26:083][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (toilet2)
+[2018.09.18-22.49.26:872][195]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (toilet)
+[2018.09.18-22.49.29:485][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-22.50.09:201][294]LogActorFactory: Actor Factory created Wall_Basic
+[2018.09.18-22.50.09:215][294]LogActorFactory: Actor Factory created Wall_Door
+[2018.09.18-22.50.09:216][294]LogActorFactory: Actor Factory created Wall_Entrance
+[2018.09.18-22.50.09:217][294]LogActorFactory: Actor Factory created Wall_Inside
+[2018.09.18-22.50.09:218][294]LogActorFactory: Actor Factory created Wall_Inside_Smal
+[2018.09.18-22.50.09:219][294]LogActorFactory: Actor Factory created Wall_Smal
+[2018.09.18-22.50.09:220][294]LogActorFactory: Actor Factory created Wall_Window
+[2018.09.18-22.50.09:221][294]LogActorFactory: Actor Factory created Wall_Window_Smal
+[2018.09.18-22.50.10:478][359]LogActorFactory: Actor Factory created Wall_Basic
+[2018.09.18-22.50.10:508][359]LogActorFactory: Actor Factory created Wall_Door
+[2018.09.18-22.50.10:535][359]LogActorFactory: Actor Factory created Wall_Entrance
+[2018.09.18-22.50.10:568][359]LogActorFactory: Actor Factory created Wall_Inside
+[2018.09.18-22.50.10:597][359]LogActorFactory: Actor Factory created Wall_Inside_Smal
+[2018.09.18-22.50.10:630][359]LogActorFactory: Actor Factory created Wall_Smal
+[2018.09.18-22.50.10:663][359]LogActorFactory: Actor Factory created Wall_Window
+[2018.09.18-22.50.10:694][359]LogActorFactory: Actor Factory created Wall_Window_Smal
+[2018.09.18-22.50.13:180][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-22.50.22:498][ 46]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.50.26:722][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_Smal)
+[2018.09.18-22.50.29:023][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window)
+[2018.09.18-22.50.36:634][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door)
+[2018.09.18-22.50.41:954][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-22.50.44:571][263]Cmd: TRANSACTION UNDO
+[2018.09.18-22.50.44:571][263]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.18-22.50.44:942][274]Cmd: TRANSACTION UNDO
+[2018.09.18-22.50.44:943][274]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.18-22.50.45:266][287]Cmd: TRANSACTION UNDO
+[2018.09.18-22.50.45:267][287]LogEditorTransaction: Undo Move Actors
+[2018.09.18-22.50.45:683][309]Cmd: TRANSACTION UNDO
+[2018.09.18-22.50.45:683][309]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.18-22.50.46:127][329]Cmd: TRANSACTION UNDO
+[2018.09.18-22.50.46:127][329]LogEditorTransaction: Undo Move Actors
+[2018.09.18-22.51.00:844][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_Smal)
+[2018.09.18-22.51.03:296][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Smal)
+[2018.09.18-22.51.05:971][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window)
+[2018.09.18-22.51.10:692][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside_Smal)
+[2018.09.18-22.51.14:338][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Smal)
+[2018.09.18-22.51.15:536][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside)
+[2018.09.18-22.51.18:407][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door)
+[2018.09.18-22.51.21:951][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Entrance)
+[2018.09.18-22.51.25:235][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic)
+[2018.09.18-22.51.29:352][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside)
+[2018.09.18-22.51.32:239][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Entrance)
+[2018.09.18-22.51.33:156][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Entrance)
+[2018.09.18-22.51.40:686][318]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.51.48:044][744]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.51.57:541][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door)
+[2018.09.18-22.51.59:213][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window)
+[2018.09.18-22.52.00:026][397]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.52.03:419][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside)
+[2018.09.18-22.52.09:109][900]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.52.27:083][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.18-22.52.27:160][796]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.52.31:575][ 28]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside)
+[2018.09.18-22.52.33:008][103]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.52.48:054][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside)
+[2018.09.18-22.52.49:658][908]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window)
+[2018.09.18-22.52.52:826][ 63]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.53.02:741][552]Cmd: DELETE
+[2018.09.18-22.53.02:741][552]Cmd: ACTOR DELETE
+[2018.09.18-22.53.02:750][552]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-22.53.02:775][552]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.09.18-22.53.03:229][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window)
+[2018.09.18-22.53.08:182][816]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside)
+[2018.09.18-22.53.15:465][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside3)
+[2018.09.18-22.53.16:475][239]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.53.19:502][394]Cmd: TRANSACTION UNDO
+[2018.09.18-22.53.19:502][394]LogEditorTransaction: Undo Move Actors
+[2018.09.18-22.53.23:257][544]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Window)
+[2018.09.18-22.53.32:965][ 35]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.53.37:884][282]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.53.44:283][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside5)
+[2018.09.18-22.53.45:524][694]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.53.53:056][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Entrance)
+[2018.09.18-22.54.04:342][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside2)
+[2018.09.18-22.54.05:502][804]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.54.06:674][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside)
+[2018.09.18-22.54.10:138][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window)
+[2018.09.18-22.54.11:379][ 80]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.54.14:916][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside3)
+[2018.09.18-22.54.18:475][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window2)
+[2018.09.18-22.54.18:948][431]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.54.22:598][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside4)
+[2018.09.18-22.54.27:047][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window3)
+[2018.09.18-22.54.27:625][874]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.54.31:367][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside5)
+[2018.09.18-22.54.31:929][ 92]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.54.34:612][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside6)
+[2018.09.18-22.54.37:721][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Entrance)
+[2018.09.18-22.54.40:040][522]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.55.01:617][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside5)
+[2018.09.18-22.55.02:472][826]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Window3)
+[2018.09.18-22.55.03:443][873]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Inside4)
+[2018.09.18-22.55.40:318][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside7)
+[2018.09.18-22.55.44:330][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside7)
+[2018.09.18-22.55.47:276][338]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Window4)
+[2018.09.18-22.55.47:437][339]Cmd: TRANSACTION UNDO
+[2018.09.18-22.55.47:437][339]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.18-22.55.47:998][356]Cmd: TRANSACTION UNDO
+[2018.09.18-22.55.47:998][356]LogEditorTransaction: Undo Move Actors
+[2018.09.18-22.55.49:415][415]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Window4)
+[2018.09.18-22.55.50:687][463]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Inside8)
+[2018.09.18-22.55.57:540][843]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Entrance)
+[2018.09.18-22.55.58:128][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside9)
+[2018.09.18-22.55.59:500][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside7)
+[2018.09.18-22.56.02:191][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside8)
+[2018.09.18-22.56.15:326][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_Smal)
+[2018.09.18-22.56.20:199][129]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic)
+[2018.09.18-22.56.21:242][182]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.56.26:170][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door)
+[2018.09.18-22.56.34:766][947]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.56.49:879][616]Cmd: TRANSACTION UNDO
+[2018.09.18-22.56.49:879][616]LogEditorTransaction: Undo Move Actors
+[2018.09.18-22.56.56:239][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic)
+[2018.09.18-22.56.59:147][ 26]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Smal)
+[2018.09.18-22.57.13:360][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Smal)
+[2018.09.18-22.57.21:892][120]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.57.29:650][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic)
+[2018.09.18-22.57.34:129][628]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.57.46:630][147]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Basic)
+[2018.09.18-22.57.58:445][675]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic4)
+[2018.09.18-22.57.59:660][727]Cmd: DELETE
+[2018.09.18-22.57.59:660][727]Cmd: ACTOR DELETE
+[2018.09.18-22.57.59:667][727]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-22.57.59:693][727]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.09.18-22.58.00:680][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Smal)
+[2018.09.18-22.58.07:064][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside2)
+[2018.09.18-22.58.10:583][218]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Inside)
+[2018.09.18-22.58.17:278][523]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.18-22.58.23:821][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall4)
+[2018.09.18-22.58.24:862][870]Cmd: DELETE
+[2018.09.18-22.58.24:862][870]Cmd: ACTOR DELETE
+[2018.09.18-22.58.24:870][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-22.58.24:897][870]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2018.09.18-22.58.25:402][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.18-22.58.35:978][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside11)
+[2018.09.18-22.58.39:819][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic)
+[2018.09.18-22.58.58:599][557]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.59.06:275][863]Cmd: DELETE
+[2018.09.18-22.59.06:275][863]Cmd: ACTOR DELETE
+[2018.09.18-22.59.06:285][863]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-22.59.06:309][863]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.09.18-22.59.07:197][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic4)
+[2018.09.18-22.59.37:944][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door)
+[2018.09.18-22.59.51:211][718]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-22.59.55:354][886]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.00.09:782][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic4)
+[2018.09.18-23.00.24:273][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic4)
+[2018.09.18-23.00.28:975][343]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.00.46:808][ 34]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.00.49:300][124]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Basic4)
+[2018.09.18-23.01.02:573][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door2)
+[2018.09.18-23.01.09:830][932]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.01.21:489][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic7)
+[2018.09.18-23.01.31:224][843]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.01.52:962][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside11)
+[2018.09.18-23.02.24:002][268]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.02.34:694][806]Cmd: DELETE
+[2018.09.18-23.02.34:694][806]Cmd: ACTOR DELETE
+[2018.09.18-23.02.34:702][806]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-23.02.34:727][806]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.09.18-23.02.35:538][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside12)
+[2018.09.18-23.02.38:764][ 19]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.02.46:750][409]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.02.55:886][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_Smal)
+[2018.09.18-23.03.00:765][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside_Smal)
+[2018.09.18-23.03.03:455][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_Smal)
+[2018.09.18-23.03.14:067][878]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.03.21:062][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside13)
+[2018.09.18-23.03.22:262][288]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Inside12)
+[2018.09.18-23.03.27:305][537]Cmd: TRANSACTION UNDO
+[2018.09.18-23.03.27:305][537]LogEditorTransaction: Undo Move Actors
+[2018.09.18-23.03.41:166][200]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.03.48:817][557]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Inside17)
+[2018.09.18-23.03.49:513][585]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Inside16)
+[2018.09.18-23.04.12:303][707]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.04.34:208][975]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.04.48:816][739]Cmd: DELETE
+[2018.09.18-23.04.48:816][739]Cmd: ACTOR DELETE
+[2018.09.18-23.04.48:828][739]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-23.04.48:829][739]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-23.04.48:829][739]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-23.04.48:829][739]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-23.04.48:849][739]LogEditorActor: Deleted 4 Actors (0.033 secs)
+[2018.09.18-23.04.49:391][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside19)
+[2018.09.18-23.04.49:856][787]Cmd: DELETE
+[2018.09.18-23.04.49:856][787]Cmd: ACTOR DELETE
+[2018.09.18-23.04.49:864][787]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-23.04.49:888][787]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.09.18-23.05.02:346][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside22)
+[2018.09.18-23.05.03:339][483]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.05.08:575][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside23)
+[2018.09.18-23.05.17:908][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Fridge3)
+[2018.09.18-23.05.21:549][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-23.05.24:496][471]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside23)
+[2018.09.18-23.05.33:061][859]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Frezzer2)
+[2018.09.18-23.05.34:505][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-23.05.37:759][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside24)
+[2018.09.18-23.05.47:148][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.18-23.05.48:298][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside4)
+[2018.09.18-23.05.49:011][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window2)
+[2018.09.18-23.05.52:438][839]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.05.55:906][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside25)
+[2018.09.18-23.05.57:901][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.18-23.05.58:720][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window5)
+[2018.09.18-23.06.14:416][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside25)
+[2018.09.18-23.06.20:550][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic9)
+[2018.09.18-23.06.26:021][390]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.06.45:413][201]Cmd: DELETE
+[2018.09.18-23.06.45:413][201]Cmd: ACTOR DELETE
+[2018.09.18-23.06.45:423][201]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-23.06.45:450][201]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2018.09.18-23.06.46:244][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door3)
+[2018.09.18-23.07.01:792][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.18-23.07.06:744][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door2)
+[2018.09.18-23.07.07:497][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Smal)
+[2018.09.18-23.07.16:367][634]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.07.24:148][994]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.07.30:181][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door4)
+[2018.09.18-23.07.33:383][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Smal3)
+[2018.09.18-23.07.40:739][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside_Smal)
+[2018.09.18-23.07.54:976][478]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.08.17:639][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside_Smal)
+[2018.09.18-23.08.18:286][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Smal4)
+[2018.09.18-23.08.23:531][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door4)
+[2018.09.18-23.08.25:850][981]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Basic12)
+[2018.09.18-23.08.29:444][158]Cmd: TRANSACTION UNDO
+[2018.09.18-23.08.29:445][158]LogEditorTransaction: Undo Move Actors
+[2018.09.18-23.08.31:048][228]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Smal3)
+[2018.09.18-23.08.37:687][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.18-23.08.42:711][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside_Smal)
+[2018.09.18-23.08.44:302][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside25)
+[2018.09.18-23.09.03:957][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Sink)
+[2018.09.18-23.09.14:866][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside27)
+[2018.09.18-23.09.43:023][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door3)
+[2018.09.18-23.09.46:170][936]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Smal)
+[2018.09.18-23.09.50:339][146]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.10.00:372][585]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.10.08:725][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door3)
+[2018.09.18-23.10.09:708][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Woodwall_long4)
+[2018.09.18-23.10.09:792][952]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.09.18-23.10.12:183][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic8)
+[2018.09.18-23.10.22:364][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside28)
+[2018.09.18-23.10.24:309][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.18-23.10.26:018][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic13)
+[2018.09.18-23.10.26:964][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside8)
+[2018.09.18-23.10.39:995][211]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.10.52:316][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside19)
+[2018.09.18-23.10.55:275][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic13)
+[2018.09.18-23.11.05:869][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door2)
+[2018.09.18-23.11.07:306][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic5)
+[2018.09.18-23.11.08:185][534]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.11.13:076][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door2)
+[2018.09.18-23.11.16:734][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic4)
+[2018.09.18-23.11.17:851][949]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.11.21:256][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic6)
+[2018.09.18-23.11.26:472][259]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.11.29:849][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic7)
+[2018.09.18-23.11.34:023][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic8)
+[2018.09.18-23.11.35:089][547]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.11.39:006][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door3)
+[2018.09.18-23.11.43:119][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Smal5)
+[2018.09.18-23.11.44:080][858]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.11.48:191][ 21]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Smal6)
+[2018.09.18-23.11.49:257][ 62]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Basic13)
+[2018.09.18-23.11.56:780][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Smal6)
+[2018.09.18-23.12.01:790][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.18-23.12.07:209][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Smal6)
+[2018.09.18-23.12.18:660][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic13)
+[2018.09.18-23.12.24:519][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside19)
+[2018.09.18-23.12.30:904][792]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.18-23.12.31:760][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_Smal)
+[2018.09.18-23.12.35:321][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside11)
+[2018.09.18-23.12.36:716][ 74]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.12.38:260][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside10)
+[2018.09.18-23.12.38:894][174]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Inside11)
+[2018.09.18-23.12.42:122][354]Cmd: DELETE
+[2018.09.18-23.12.42:122][354]Cmd: ACTOR DELETE
+[2018.09.18-23.12.42:131][354]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-23.12.42:131][354]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-23.12.42:151][354]LogEditorActor: Deleted 2 Actors (0.029 secs)
+[2018.09.18-23.12.42:944][400]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_Smal)
+[2018.09.18-23.12.55:110][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.18-23.12.57:921][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside9)
+[2018.09.18-23.13.03:167][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-23.13.05:456][526]LogActorFactory: Actor Factory created Wall_Smal
+[2018.09.18-23.13.07:321][627]LogActorFactory: Actor Factory created Wall_Smal
+[2018.09.18-23.13.11:718][876]Cmd: TRANSACTION UNDO
+[2018.09.18-23.13.11:720][876]LogEditorTransaction: Undo Move Actors
+[2018.09.18-23.13.12:594][914]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.13.15:907][ 74]Cmd: DELETE
+[2018.09.18-23.13.15:907][ 74]Cmd: ACTOR DELETE
+[2018.09.18-23.13.15:918][ 74]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-23.13.15:944][ 74]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.09.18-23.13.17:719][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-23.13.17:865][139]LogActorFactory: Actor Factory created Wall_Inside_Smal
+[2018.09.18-23.13.19:573][223]LogActorFactory: Actor Factory created Wall_Inside_Smal
+[2018.09.18-23.13.21:618][332]LogActorFactory: Actor Factory created Wall_Inside_Smal
+[2018.09.18-23.13.23:649][438]LogActorFactory: Actor Factory created Wall_Inside_Smal
+[2018.09.18-23.13.41:570][349]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Window_Smal2)
+[2018.09.18-23.13.59:713][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside_Smal2)
+[2018.09.18-23.14.07:859][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside8)
+[2018.09.18-23.14.11:340][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_Smal2)
+[2018.09.18-23.14.15:647][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside8)
+[2018.09.18-23.14.16:717][ 62]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.14.20:297][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside28)
+[2018.09.18-23.14.21:275][284]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.14.26:011][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Smal3)
+[2018.09.18-23.14.27:394][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic12)
+[2018.09.18-23.14.39:487][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-23.14.43:800][372]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Smal3)
+[2018.09.18-23.14.52:556][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic14)
+[2018.09.18-23.14.54:703][920]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.15.12:529][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Sink2)
+[2018.09.18-23.15.12:984][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Smal3)
+[2018.09.18-23.15.21:426][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic14)
+[2018.09.18-23.15.32:156][597]Cmd: DELETE
+[2018.09.18-23.15.32:156][597]Cmd: ACTOR DELETE
+[2018.09.18-23.15.32:165][597]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-23.15.32:192][597]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.09.18-23.15.33:946][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-23.15.34:101][670]LogActorFactory: Actor Factory created Wall_Smal
+[2018.09.18-23.15.35:139][716]LogActorFactory: Actor Factory created Wall_Smal
+[2018.09.18-23.15.40:250][932]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.15.51:011][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.18-23.15.51:648][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic14)
+[2018.09.18-23.15.53:804][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Smal7)
+[2018.09.18-23.16.02:129][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside28)
+[2018.09.18-23.16.03:497][943]Cmd: DELETE
+[2018.09.18-23.16.03:497][943]Cmd: ACTOR DELETE
+[2018.09.18-23.16.03:506][943]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-23.16.03:542][943]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2018.09.18-23.16.05:155][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-23.16.05:277][  4]LogActorFactory: Actor Factory created Wall_Window_Smal
+[2018.09.18-23.16.06:865][ 82]LogActorFactory: Actor Factory created Wall_Window_Smal
+[2018.09.18-23.16.16:025][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-23.16.16:162][458]LogActorFactory: Actor Factory created Wall_Smal
+[2018.09.18-23.16.17:130][500]LogActorFactory: Actor Factory created Wall_Smal
+[2018.09.18-23.16.20:432][643]Cmd: DELETE
+[2018.09.18-23.16.20:432][643]Cmd: ACTOR DELETE
+[2018.09.18-23.16.20:443][643]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-23.16.20:465][643]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.09.18-23.16.21:376][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-23.16.21:514][683]LogActorFactory: Actor Factory created Wall_Inside_Smal
+[2018.09.18-23.16.22:120][710]LogActorFactory: Actor Factory created Wall_Inside_Smal
+[2018.09.18-23.16.43:269][644]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Window_Smal3)
+[2018.09.18-23.16.44:104][677]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Inside_Smal4)
+[2018.09.18-23.16.51:151][979]Cmd: TRANSACTION UNDO
+[2018.09.18-23.16.51:152][979]LogEditorTransaction: Undo Move Actors
+[2018.09.18-23.17.20:160][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_Smal3)
+[2018.09.18-23.17.33:875][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside27)
+[2018.09.18-23.17.38:021][199]Cmd: DELETE
+[2018.09.18-23.17.38:021][199]Cmd: ACTOR DELETE
+[2018.09.18-23.17.38:030][199]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-23.17.38:054][199]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.09.18-23.17.41:872][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Smal7)
+[2018.09.18-23.17.46:092][618]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-23.17.52:968][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Smal7)
+[2018.09.18-23.17.59:079][242]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Basic14)
+[2018.09.18-23.18.06:102][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_Smal3)
+[2018.09.18-23.18.06:951][616]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Inside_Smal4)
+[2018.09.18-23.18.07:754][650]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Inside_Smal5)
+[2018.09.18-23.18.08:360][675]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Window_Smal4)
+[2018.09.18-23.18.10:427][763]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Window_Smal4)
+[2018.09.18-23.18.20:078][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basic14)
+[2018.09.18-23.18.21:207][273]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wall_Smal7)
+[2018.09.18-23.18.33:093][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.18-23.18.42:310][299]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.18-23.18.42:489][299]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.18-23.18.42:980][299]LogSavePackage: Save=413.77ms
+[2018.09.18-23.18.42:980][299]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMapEE96F6514D27D8E748B9D5BEE2FA5C09.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.18-23.18.42:991][299]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.18-23.18.47:661][299]LogSavePackage: Save=4444.98ms
+[2018.09.18-23.18.47:661][299]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltData9E4508AA49B38BC98679B1A29DC1E366.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.18-23.18.47:668][299]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.18-23.18.54:707][619]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.09.18-23.19.06:541][619]LogSlate: Window 'Submit Files' being destroyed
+[2018.09.18-23.19.09:919][619]LogSourceControl: commit successful: [Test ac415ad] new walls
+[2018.09.18-23.19.10:029][619]SourceControl: [Test ac415ad] new walls
+[2018.09.18-23.19.10:029][619]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.09.18-23.19.10:037][619]SourceControl: Commited [Test ac415ad] new walls.
+[2018.09.18-23.19.14:382][777]LogSavePackage: Save=321.03ms
+[2018.09.18-23.19.14:382][777]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap11AF1F324BCCBE22EA6753AF910F80B4.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.18-23.19.14:391][777]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.18-23.19.18:297][777]LogSavePackage: Save=3730.53ms
+[2018.09.18-23.19.18:297][777]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltData1EF599E545AF725453E785A58F7173BC.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.18-23.19.18:304][777]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
