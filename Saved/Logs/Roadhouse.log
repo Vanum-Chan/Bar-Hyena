@@ -726,3 +726,355 @@ LogInit: Object subsystem initialized
 [2018.09.18-21.34.09:622][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dach)
 [2018.09.18-21.34.10:814][315]Cmd: ACTOR HIDE SELECTED
 [2018.09.18-21.34.14:242][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-21.37.08:591][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.18-21.37.16:168][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x19)
+[2018.09.18-21.37.25:555][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Woodwall_door2)
+[2018.09.18-21.37.27:864][348]Cmd: DELETE
+[2018.09.18-21.37.27:864][348]Cmd: ACTOR DELETE
+[2018.09.18-21.37.27:878][348]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.37.27:906][348]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.09.18-21.37.28:771][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Woodwall_door2)
+[2018.09.18-21.37.29:690][455]Cmd: DELETE
+[2018.09.18-21.37.29:690][455]Cmd: ACTOR DELETE
+[2018.09.18-21.37.29:700][455]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.37.29:718][455]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.09.18-21.37.33:435][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-21.38.17:182][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-21.39.01:072][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x19)
+[2018.09.18-21.39.02:465][140]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-21.39.10:377][647]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-21.39.22:626][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x19)
+[2018.09.18-21.39.23:534][540]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.18-21.39.24:494][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x19)
+[2018.09.18-21.39.27:005][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x20)
+[2018.09.18-21.39.32:433][112]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.18-21.39.39:490][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x19)
+[2018.09.18-21.39.42:698][754]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.18-21.39.44:328][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_3x16)
+[2018.09.18-21.39.52:273][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_export)
+[2018.09.18-21.39.52:502][352]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-21.44.03:023][193]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.18-21.44.03:677][193]LogSavePackage: Save=514.55ms
+[2018.09.18-21.44.03:677][193]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_Auto13B1F4B964B075BBC9ACFFEB9D2C7715D.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2018.09.18-21.44.03:682][193]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap
+[2018.09.18-21.44.03:686][193]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.612
+[2018.09.18-21.44.03:686][193]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.612
+[2018.09.18-21.47.05:780][465]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-21.47.12:577][747]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.18-21.48.17:810][  4]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.18-21.48.17:938][  4]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\Wall_Window_Smal.fbx)
+[2018.09.18-21.48.17:971][  4]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.09.18-21.48.17:971][  4]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.09.18-21.48.17:971][  4]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.09.18-21.48.17:971][  4]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.09.18-21.48.17:971][  4]LogFbx: ItemName: Model, ItemCount : 2
+[2018.09.18-21.48.17:971][  4]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.09.18-21.48.17:971][  4]LogFbx: ItemName: Material, ItemCount : 1
+[2018.09.18-21.48.17:982][  4]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\Wall_Window_Smal.fbx
+[2018.09.18-21.48.17:995][  4]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.18-21.48.21:876][  4]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.18-21.48.21:921][  4]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\Wall_Window_Smal.fbx
+[2018.09.18-21.48.21:929][  4]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.18-21.48.21:932][  4]LogFbx: Warning: Triangulating static mesh Wall_Window_Smal
+[2018.09.18-21.48.21:936][  4]LogStaticMesh: Building static mesh Wall_Window_Smal...
+[2018.09.18-21.48.21:940][  4]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Xmodular/Wall_Window_Smal.Wall_Window_Smal
+[2018.09.18-21.48.22:099][  4]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\Wall_Basic.fbx)
+[2018.09.18-21.48.22:113][  4]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\Wall_Basic.fbx
+[2018.09.18-21.48.22:121][  4]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.18-21.48.22:121][  4]LogFbx: Warning: Triangulating static mesh Wall_Basic
+[2018.09.18-21.48.22:123][  4]LogStaticMesh: Building static mesh Wall_Basic...
+[2018.09.18-21.48.22:124][  4]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/Wall_Basic.Wall_Basic
+[2018.09.18-21.48.22:275][  4]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\Wall_Door.fbx)
+[2018.09.18-21.48.22:290][  4]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\Wall_Door.fbx
+[2018.09.18-21.48.22:300][  4]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.18-21.48.22:301][  4]LogFbx: Warning: Triangulating static mesh Wall_Door
+[2018.09.18-21.48.22:302][  4]LogStaticMesh: Building static mesh Wall_Door...
+[2018.09.18-21.48.22:305][  4]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/Wall_Door.Wall_Door
+[2018.09.18-21.48.22:456][  4]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\Wall_Entrance.fbx)
+[2018.09.18-21.48.22:471][  4]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\Wall_Entrance.fbx
+[2018.09.18-21.48.22:478][  4]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.18-21.48.22:479][  4]LogFbx: Warning: Triangulating static mesh Wall_Entrance
+[2018.09.18-21.48.22:481][  4]LogStaticMesh: Building static mesh Wall_Entrance...
+[2018.09.18-21.48.22:485][  4]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/Wall_Entrance.Wall_Entrance
+[2018.09.18-21.48.22:633][  4]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\Wall_Inside.fbx)
+[2018.09.18-21.48.22:647][  4]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\Wall_Inside.fbx
+[2018.09.18-21.48.22:654][  4]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.18-21.48.22:655][  4]LogFbx: Warning: Triangulating static mesh Wall_Inside
+[2018.09.18-21.48.22:656][  4]LogStaticMesh: Building static mesh Wall_Inside...
+[2018.09.18-21.48.22:657][  4]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/Wall_Inside.Wall_Inside
+[2018.09.18-21.48.22:804][  4]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\Wall_Inside_Smal.fbx)
+[2018.09.18-21.48.22:818][  4]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\Wall_Inside_Smal.fbx
+[2018.09.18-21.48.22:826][  4]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.18-21.48.22:826][  4]LogFbx: Warning: Triangulating static mesh Wall_Inside_Smal
+[2018.09.18-21.48.22:827][  4]LogStaticMesh: Building static mesh Wall_Inside_Smal...
+[2018.09.18-21.48.22:828][  4]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/Wall_Inside_Smal.Wall_Inside_Smal
+[2018.09.18-21.48.22:995][  4]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\Wall_Smal.fbx)
+[2018.09.18-21.48.23:011][  4]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\Wall_Smal.fbx
+[2018.09.18-21.48.23:020][  4]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.18-21.48.23:020][  4]LogFbx: Warning: Triangulating static mesh Wall_Smal
+[2018.09.18-21.48.23:021][  4]LogStaticMesh: Building static mesh Wall_Smal...
+[2018.09.18-21.48.23:024][  4]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/Wall_Smal.Wall_Smal
+[2018.09.18-21.48.23:182][  4]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\Wall_Window.fbx)
+[2018.09.18-21.48.23:197][  4]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\Wall_Window.fbx
+[2018.09.18-21.48.23:206][  4]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.18-21.48.23:206][  4]LogFbx: Warning: Triangulating static mesh Wall_Window
+[2018.09.18-21.48.23:208][  4]LogStaticMesh: Building static mesh Wall_Window...
+[2018.09.18-21.48.23:211][  4]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/Wall_Window.Wall_Window
+[2018.09.18-21.48.50:104][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:105][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:105][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:105][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:105][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:105][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:105][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:105][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:105][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:105][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:105][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:106][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:106][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:106][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:106][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:106][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:106][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:106][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:106][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:106][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:106][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:106][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:107][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:107][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:107][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:107][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:107][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:107][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:107][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:107][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:107][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:107][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:108][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:108][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:108][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:108][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:108][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:108][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:108][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:108][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:108][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:108][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:109][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:109][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:109][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:109][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:109][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:109][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:110][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:110][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:110][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:110][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:110][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:110][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:110][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:110][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:110][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:110][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:111][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:111][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:111][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:111][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:111][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:111][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:111][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:111][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:112][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:112][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.48.50:126][612]LogEditorActor: Deleted 68 Actors (0.058 secs)
+[2018.09.18-21.48.56:299][ 62]Cmd: TRANSACTION UNDO
+[2018.09.18-21.48.56:299][ 62]LogEditorTransaction: Undo Set Actor Visibility
+[2018.09.18-21.48.57:224][120]Cmd: TRANSACTION UNDO
+[2018.09.18-21.48.57:224][120]LogEditorTransaction: Undo Set Actor Visibility
+[2018.09.18-21.49.00:807][377]Cmd: TRANSACTION UNDO
+[2018.09.18-21.49.00:807][377]LogEditorTransaction: Undo Set Actor Visibility
+[2018.09.18-21.49.01:199][399]Cmd: TRANSACTION UNDO
+[2018.09.18-21.49.01:199][399]LogEditorTransaction: Undo Delete selection
+[2018.09.18-21.49.09:676][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:676][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:676][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:676][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:676][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:676][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:676][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:676][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:676][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:677][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:677][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:677][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:677][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:677][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:677][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:677][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:677][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:677][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:677][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:677][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:678][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:678][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:678][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:678][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:678][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:678][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:678][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:678][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:678][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:678][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:679][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:679][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:679][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:679][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:679][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:679][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:679][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:679][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:679][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:679][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:679][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:679][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:680][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:680][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:680][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:680][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:680][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:680][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:680][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:681][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:681][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:681][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:681][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:681][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:681][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:682][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:682][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:682][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:682][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:682][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:682][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:683][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:683][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:683][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:683][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:683][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:684][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:684][917]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.09:698][917]LogEditorActor: Deleted 68 Actors (0.056 secs)
+[2018.09.18-21.49.13:082][153]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.49.13:102][153]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.09.18-21.49.32:046][504]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-21.50.17:484][635]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.50.17:501][635]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.09.18-21.50.18:739][729]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.50.18:755][729]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.09.18-21.50.53:847][222]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.50.53:864][222]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.09.18-21.51.13:415][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:415][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:415][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:416][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:416][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:416][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:416][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:416][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:416][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:416][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:416][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:416][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:417][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:417][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:417][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:417][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:417][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:417][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:417][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:417][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:417][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:418][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:418][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:418][636]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.13:434][636]LogEditorActor: Deleted 24 Actors (0.036 secs)
+[2018.09.18-21.51.24:836][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.24:853][518]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.09.18-21.51.26:024][605]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.26:044][605]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.09.18-21.51.58:540][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-21.51.59:783][108]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.51.59:799][108]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.09.18-21.52.22:463][644]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.52.22:464][644]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.52.22:480][644]LogEditorActor: Deleted 2 Actors (0.025 secs)
+[2018.09.18-21.52.33:546][378]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.52.33:546][378]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.52.33:564][378]LogEditorActor: Deleted 2 Actors (0.025 secs)
+[2018.09.18-21.52.47:593][343]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-21.52.54:302][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-21.52.59:577][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.52.59:595][987]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.09.18-21.53.06:059][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-21.53.19:521][307]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.53.19:521][307]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.53.19:522][307]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.53.19:540][307]LogEditorActor: Deleted 3 Actors (0.027 secs)
+[2018.09.18-21.53.38:802][570]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Woodwall_low6)
+[2018.09.18-21.53.44:574][933]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-21.53.52:942][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-21.54.09:620][400]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-21.54.21:845][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.54.21:846][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.54.21:846][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.54.21:846][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.54.21:846][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.54.21:847][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.54.21:847][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.54.21:847][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.54.21:847][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.54.21:847][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.54.21:848][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.54.21:848][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.54.21:848][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.54.21:848][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.54.21:848][ 98]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.18-21.54.21:866][ 98]LogEditorActor: Deleted 15 Actors (0.039 secs)
+[2018.09.18-21.54.26:417][448]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.18-21.54.26:573][448]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.18-21.54.26:918][448]LogSavePackage: Save=279.84ms
+[2018.09.18-21.54.26:918][448]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMapCA503A1B443E1CE75D5DE98B3039BF87.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.18-21.54.26:929][448]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.18-21.54.31:516][448]LogSavePackage: Save=4378.00ms
+[2018.09.18-21.54.31:516][448]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltData0B5795C0453C915C0804819D42140972.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.18-21.54.31:523][448]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.18-21.54.34:186][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_export)
+[2018.09.18-21.54.35:152][668]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.18-21.54.37:425][807]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.18-21.54.39:927][943]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.18-21.54.43:062][151]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.09.18-21.54.43:293][151]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.18-21.54.50:735][151]LogSlate: Window 'Submit Files' being destroyed
+[2018.09.18-21.54.50:755][151]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.18-21.54.51:040][151]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.18-21.54.53:961][151]LogSourceControl: commit successful: [Test 066b3c4] clening
+[2018.09.18-21.54.54:071][151]SourceControl: [Test 066b3c4] clening
+[2018.09.18-21.54.54:071][151]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.09.18-21.54.54:079][151]SourceControl: Commited [Test 066b3c4] clening.
+[2018.09.18-21.54.57:656][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.18-21.54.57:870][379]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.18-21.54.58:153][379]LogSavePackage: Save=233.59ms
+[2018.09.18-21.54.58:153][379]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap0E6CB1194533BA353D327EAF710D2540.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.18-21.54.58:163][379]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.18-21.55.01:731][379]LogSavePackage: Save=3395.92ms
+[2018.09.18-21.55.01:731][379]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltData67A2E2B84F350223419BDCB134D0D48F.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.18-21.55.01:740][379]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.18-21.55.20:047][473]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.09.18-21.55.29:683][473]LogSlate: Window 'Submit Files' being destroyed
+[2018.09.18-21.55.33:021][473]LogSourceControl: commit successful: [Test fbd5a78] cleen
+[2018.09.18-21.55.33:130][473]SourceControl: [Test fbd5a78] cleen
+[2018.09.18-21.55.33:130][473]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.09.18-21.55.33:138][473]SourceControl: Commited [Test fbd5a78] cleen.
+[2018.09.18-21.55.34:516][533]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
