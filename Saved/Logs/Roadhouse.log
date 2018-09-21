@@ -2661,3 +2661,226 @@ LogInit: Object subsystem initialized
 [2018.09.21-22.11.45:073][426]SourceControl:  create mode 100644 Content/Assets/Bar/Table/Table_Mat1.uasset
 [2018.09.21-22.11.45:073][426]SourceControl:  create mode 100644 Content/Assets/Bar/Table/Table_OcclusionRoughnessMetallic.uasset
 [2018.09.21-22.11.45:086][426]SourceControl: Commited [Test 698e47a] Bar stuff.
+[2018.09.21-22.17.26:243][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.21-22.17.51:746][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.21-22.17.51:829][169]MapCheck: New page: Map Check
+[2018.09.21-22.17.51:857][169]Cmd: MAP REBUILD ALLVISIBLE
+[2018.09.21-22.17.51:858][169]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.09.21-22.17.51:990][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.09.21-22.17.52:000][169]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.21-22.17.52:000][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy AntiAliasedTextMaterialTranslucent, compiling. 
+[2018.09.21-22.17.52:007][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_3, compiling. 
+[2018.09.21-22.17.52:015][169]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.21-22.17.52:015][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterialOverride, compiling. 
+[2018.09.21-22.17.52:027][169]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.21-22.17.52:027][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CubeMaterial, compiling. 
+[2018.09.21-22.17.52:038][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Flor, compiling. 
+[2018.09.21-22.17.52:048][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Dartboard_T, compiling. 
+[2018.09.21-22.17.52:058][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Botle_oval_Mat, compiling. 
+[2018.09.21-22.17.52:068][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Botle_round_Mat, compiling. 
+[2018.09.21-22.17.52:077][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Botle_square_Mat, compiling. 
+[2018.09.21-22.17.52:086][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Cash_register_Mat, compiling. 
+[2018.09.21-22.17.52:096][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Clock_Mat, compiling. 
+[2018.09.21-22.17.52:106][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Jukebox_Mat, compiling. 
+[2018.09.21-22.17.52:115][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Notice_board_T, compiling. 
+[2018.09.21-22.17.52:126][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Oven_T, compiling. 
+[2018.09.21-22.17.52:136][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Peg_system_T, compiling. 
+[2018.09.21-22.17.52:145][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wood_T, compiling. 
+[2018.09.21-22.17.52:154][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shelf_T, compiling. 
+[2018.09.21-22.17.52:164][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bad_wc, compiling. 
+[2018.09.21-22.17.52:174][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Table_kitchen2_Mat, compiling. 
+[2018.09.21-22.17.52:184][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shelf_Kitchen_T, compiling. 
+[2018.09.21-22.17.52:195][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Fridge_T, compiling. 
+[2018.09.21-22.17.52:204][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Freezer_T, compiling. 
+[2018.09.21-22.17.52:214][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Ofen_inst, compiling. 
+[2018.09.21-22.17.52:224][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Table_Mat1, compiling. 
+[2018.09.21-22.17.52:231][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bar_Mat, compiling. 
+[2018.09.21-22.17.52:239][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Panorama_mat_Inst, compiling. 
+[2018.09.21-22.17.52:245][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.09.21-22.17.52:251][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wallpaper_Bar_x, compiling. 
+[2018.09.21-22.17.52:260][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wallpaper_Bar_y, compiling. 
+[2018.09.21-22.17.52:279][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Chair_Mat, compiling. 
+[2018.09.21-22.17.52:303][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2018.09.21-22.17.52:318][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2018.09.21-22.17.52:329][169]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2018.09.21-22.17.57:193][169]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.21-22.17.57:193][169]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.21-22.17.57:193][169]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.21-22.17.57:193][169]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.21-22.17.57:193][169]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.21-22.17.57:193][169]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.21-22.17.57:193][169]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.21-22.17.57:193][169]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.21-22.17.57:193][169]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.21-22.17.57:193][169]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.21-22.17.57:193][169]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.21-22.17.57:193][169]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.21-22.17.57:193][169]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.21-22.17.57:193][169]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.21-22.17.57:193][169]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.21-22.17.57:193][169]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.21-22.17.57:193][169]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.21-22.17.57:194][169]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.21-22.17.57:194][169]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.21-22.17.57:194][169]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.21-22.17.57:194][169]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.21-22.17.57:194][169]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.21-22.17.57:194][169]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.21-22.17.57:194][169]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.21-22.17.57:194][169]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.21-22.17.57:194][169]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.21-22.17.57:194][169]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.21-22.17.57:194][169]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.21-22.17.57:194][169]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.21-22.17.57:194][169]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.21-22.17.57:194][169]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.21-22.17.57:194][169]TextureStreamingBuild: Display: Compiling optional shaders took 5.242 seconds.
+[2018.09.21-22.17.57:270][169]LogLevel: Display: Export Material TexCoord Scales took 0.076 seconds.
+[2018.09.21-22.17.57:335][169]TextureStreamingBuild: Display: Build Texture Streaming took 0.065 seconds.
+[2018.09.21-22.17.57:356][169]LightingResults: New page: Lighting Build - 22.09.2018 02:17:57
+[2018.09.21-22.17.57:367][169]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.09.21-22.17.57:370][169]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.09.21-22.17.57:370][169]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.09.21-22.17.57:371][169]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.09.21-22.17.57:371][169]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10296
+[2018.09.21-22.18.01:896][169]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.09.21-22.18.01:896][169]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.09.21-22.18.01:896][169]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.09.21-22.18.01:896][169]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.09.21-22.18.01:896][169]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.09.21-22.18.02:224][169]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.09.21-22.18.02:224][169]MapCheck: New page: FirstPersonExampleMap - 22.09.2018 02:18:02
+[2018.09.21-22.18.02:225][169]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2018.09.21-22.18.02:433][169]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 209,371ms to complete.
+[2018.09.21-22.18.02:457][169]LogEditorBuildUtils: Build time 0:10
+[2018.09.21-22.18.02:654][170]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Table_Mat1, compiling. 
+[2018.09.21-22.18.02:666][170]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Table_Mat1, compiling. 
+[2018.09.21-22.18.02:685][170]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.21-22.18.02:690][170]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.21-22.18.02:775][171]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Bar_Mat, compiling. 
+[2018.09.21-22.18.02:785][171]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.21-22.18.02:785][171]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Bar_Mat, compiling. 
+[2018.09.21-22.18.02:867][172]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Chair_Mat, compiling. 
+[2018.09.21-22.18.02:880][172]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer Chair_Mat, compiling. 
+[2018.09.21-22.18.04:867][174]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.21-22.19.53:375][503]LightingResults: Warning: tv Object has overlapping UVs.
+[2018.09.21-22.19.53:376][503]LightingResults: tv Lightmap UV are overlapping by 21.9%. Please adjust content - Enable Error Coloring to visualize.
+[2018.09.21-22.19.54:036][505]LightingResults: Warning: Sink Object has overlapping UVs.
+[2018.09.21-22.19.54:036][505]LightingResults: Sink Lightmap UV are overlapping by 33.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.09.21-22.19.54:702][507]LightingResults: Warning: piano Object has overlapping UVs.
+[2018.09.21-22.19.54:702][507]LightingResults: piano Lightmap UV are overlapping by 3.9%. Please adjust content - Enable Error Coloring to visualize.
+[2018.09.21-22.20.05:437][539]Job is a success!
+[2018.09.21-22.20.05:918][540]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.022s
+[2018.09.21-22.20.05:918][540]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.09.21-22.20.05:918][540]LogVolumetricLightmapImport:      BrickData 335x5x5 = 0.3Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2018.09.21-22.20.05:918][540]LogVolumetricLightmapImport:      Bricks at Level
+[2018.09.21-22.20.05:918][540]LogVolumetricLightmapImport:          0: 1.5% covering 100.0% of volume
+[2018.09.21-22.20.05:918][540]LogVolumetricLightmapImport:          1: 6.0% covering 6.3% of volume
+[2018.09.21-22.20.05:918][540]LogVolumetricLightmapImport:          2: 92.5% covering 1.5% of volume
+[2018.09.21-22.20.19:933][540]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2018.09.21-22.20.19:933][540]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2018.09.21-22.20.19:933][540]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2018.09.21-22.20.19:933][540]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2018.09.21-22.20.19:933][540]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2018.09.21-22.20.19:933][540]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2018.09.21-22.20.19:933][540]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2018.09.21-22.20.19:933][540]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2018.09.21-22.20.19:933][540]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2018.09.21-22.20.19:934][540]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2018.09.21-22.20.19:934][540]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2018.09.21-22.20.19:934][540]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2018.09.21-22.20.19:934][540]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2018.09.21-22.20.19:934][540]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2018.09.21-22.20.19:934][540]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2018.09.21-22.20.19:934][540]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 1024X512)
+[2018.09.21-22.20.19:934][540]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2018.09.21-22.20.19:934][540]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2018.09.21-22.20.19:934][540]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 64X32)
+[2018.09.21-22.20.19:934][540]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 64X64)
+[2018.09.21-22.20.19:934][540]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 64X64)
+[2018.09.21-22.20.20:336][540]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 1024X1024)
+[2018.09.21-22.20.20:336][540]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 1024X1024)
+[2018.09.21-22.20.20:736][540]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 1024X1024)
+[2018.09.21-22.20.20:736][540]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 1024X1024)
+[2018.09.21-22.20.20:936][540]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 1024X1024)
+[2018.09.21-22.20.21:136][540]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 1024X1024)
+[2018.09.21-22.20.21:336][540]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 1024X1024)
+[2018.09.21-22.20.21:336][540]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 1024X1024)
+[2018.09.21-22.20.21:336][540]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 32X32)
+[2018.09.21-22.20.21:373][540]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (BGRA8, 1024X256)
+[2018.09.21-22.20.21:432][540]Lightmass on DESKTOP-5J6HU0I: 2:15 min total, 348 ms importing, 80 ms setup, 13.7 sec photons, 2:01 min processing, 0 ms extra exporting [176/176 mappings]. Threads: 8:04 min total, 5:12 min processing.
+[2018.09.21-22.20.21:495][540]LogStaticLightingSystem: Illumination: 2:23 min (13.4 sec encoding lightmaps, 1.43 sec encoding shadowmaps)
+[2018.09.21-22.20.21:496][540]LogStaticLightingSystem: Lightmap texture memory:  48.0 MB (48.0 MB streaming, 0.0 MB non-streaming), 14 textures
+[2018.09.21-22.20.21:496][540]LogStaticLightingSystem: Shadowmap texture memory: 12.0 MB (12.0 MB streaming, 0.0 MB non-streaming), 10 textures
+[2018.09.21-22.20.21:981][540]DumpUnbuiltLightIteractions
+[2018.09.21-22.20.21:981][540]Lights with unbuilt interactions: 0
+[2018.09.21-22.20.21:981][540]
+[2018.09.21-22.20.21:981][540]Primitives with unbuilt interactions: 0
+[2018.09.21-22.20.22:225][541]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.09.21-22.20.22:225][541]MapCheck: New page: FirstPersonExampleMap - 22.09.2018 02:20:22
+[2018.09.21-22.20.22:416][541]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 190,465ms to complete.
+[2018.09.21-22.21.32:846][751]LogSavePackage: Save=316.15ms
+[2018.09.21-22.21.32:846][751]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_Auto4F8805EF747C8B106E8FA0EBD089CB8DC.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2018.09.21-22.21.32:851][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap
+[2018.09.21-22.21.32:854][751]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.381
+[2018.09.21-22.21.32:854][751]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.381
+[2018.09.21-22.21.32:861][751]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData] ([1] browsable assets)...
+[2018.09.21-22.21.32:861][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData]
+[2018.09.21-22.21.33:187][751]LogSavePackage: Save=291.29ms
+[2018.09.21-22.21.33:187][751]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltData_B132982F4EAA687815746A81158250D5.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData_Auto4.uasset'
+[2018.09.21-22.21.33:191][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData_Auto4.uasset
+[2018.09.21-22.21.33:194][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Bar/Chair/Chaire_BaseColor] ([1] browsable assets)...
+[2018.09.21-22.21.33:205][751]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Bar/Chair/Chaire_BaseColor.Chaire_BaseColor]
+[2018.09.21-22.21.33:205][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Bar/Chair/Chaire_BaseColor]
+[2018.09.21-22.21.33:222][751]LogSavePackage: Save=13.92ms
+[2018.09.21-22.21.33:222][751]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Chaire_BaseColor_Auto41A967B1F45D7D6C520F595B2E960F48C.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Bar/Chair/Chaire_BaseColor_Auto4.uasset'
+[2018.09.21-22.21.33:226][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Bar/Chair/Chaire_BaseColor_Auto4.uasset
+[2018.09.21-22.21.33:229][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Bar/Chair/Chaire_Normal] ([1] browsable assets)...
+[2018.09.21-22.21.33:240][751]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Bar/Chair/Chaire_Normal.Chaire_Normal]
+[2018.09.21-22.21.33:240][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Bar/Chair/Chaire_Normal]
+[2018.09.21-22.21.33:259][751]LogSavePackage: Save=15.58ms
+[2018.09.21-22.21.33:259][751]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Chaire_Normal_Auto45F85250A40B3AB2FBEA0E7AC0247DA62.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Bar/Chair/Chaire_Normal_Auto4.uasset'
+[2018.09.21-22.21.33:263][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Bar/Chair/Chaire_Normal_Auto4.uasset
+[2018.09.21-22.21.33:267][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Bar/Chair/Chaire0] ([1] browsable assets)...
+[2018.09.21-22.21.33:321][751]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Bar/Chair/Chaire0.Chaire0]
+[2018.09.21-22.21.33:321][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Bar/Chair/Chaire0]
+[2018.09.21-22.21.33:343][751]LogSavePackage: Save=17.07ms
+[2018.09.21-22.21.33:343][751]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Chaire0_Auto4B08448AC4335AAA5967AAEBE82223DBF.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Bar/Chair/Chaire0_Auto4.uasset'
+[2018.09.21-22.21.33:349][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Bar/Chair/Chaire0_Auto4.uasset
+[2018.09.21-22.21.33:351][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Bar/Chair/Chaire1] ([1] browsable assets)...
+[2018.09.21-22.21.33:391][751]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Bar/Chair/Chaire1.Chaire1]
+[2018.09.21-22.21.33:391][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Bar/Chair/Chaire1]
+[2018.09.21-22.21.33:411][751]LogSavePackage: Save=16.54ms
+[2018.09.21-22.21.33:411][751]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Chaire1_Auto4F521739444729E62412E82AA7C2770D0.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Bar/Chair/Chaire1_Auto4.uasset'
+[2018.09.21-22.21.33:415][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Bar/Chair/Chaire1_Auto4.uasset
+[2018.09.21-22.21.33:418][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Bar/Chair/Chaire2] ([1] browsable assets)...
+[2018.09.21-22.21.33:460][751]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Bar/Chair/Chaire2.Chaire2]
+[2018.09.21-22.21.33:461][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Bar/Chair/Chaire2]
+[2018.09.21-22.21.33:489][751]LogSavePackage: Save=21.58ms
+[2018.09.21-22.21.33:489][751]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Chaire2_Auto43E70485C44D837CD7795F485A0BB12D8.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Bar/Chair/Chaire2_Auto4.uasset'
+[2018.09.21-22.21.33:495][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Bar/Chair/Chaire2_Auto4.uasset
+[2018.09.21-22.21.33:500][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Bar/Chair/Chaire3] ([1] browsable assets)...
+[2018.09.21-22.21.33:542][751]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Bar/Chair/Chaire3.Chaire3]
+[2018.09.21-22.21.33:542][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Bar/Chair/Chaire3]
+[2018.09.21-22.21.33:570][751]LogSavePackage: Save=20.90ms
+[2018.09.21-22.21.33:571][751]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Chaire3_Auto42989E49F4B8F9CBB80B4BCB5E2269D56.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Bar/Chair/Chaire3_Auto4.uasset'
+[2018.09.21-22.21.33:577][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Bar/Chair/Chaire3_Auto4.uasset
+[2018.09.21-22.21.33:583][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Bar/Chair/Chaire4] ([1] browsable assets)...
+[2018.09.21-22.21.33:624][751]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Bar/Chair/Chaire4.Chaire4]
+[2018.09.21-22.21.33:624][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Bar/Chair/Chaire4]
+[2018.09.21-22.21.33:645][751]LogSavePackage: Save=17.58ms
+[2018.09.21-22.21.33:645][751]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Chaire4_Auto4461ECA2A43C67DDB49CCA8A1ACE37158.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Bar/Chair/Chaire4_Auto4.uasset'
+[2018.09.21-22.21.33:650][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Bar/Chair/Chaire4_Auto4.uasset
+[2018.09.21-22.21.33:650][751]LogFileHelpers: Auto-saving content packages took 0.793
+[2018.09.21-22.22.18:805][697]LogSlate: Window 'Message Log' being destroyed
+[2018.09.21-22.22.18:810][697]LogSlate: Window 'Message Log' being destroyed
+[2018.09.21-22.22.21:703][858]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.09.21-22.22.21:894][858]EditorErrors: Warning: No assets to check in!
+[2018.09.21-22.22.30:189][343]LogSlate: Window 'Message Log' being destroyed
+[2018.09.21-22.22.30:197][343]LogSlate: Window 'Message Log' being destroyed
+[2018.09.21-22.22.31:431][386]LogSavePackage: Save=317.13ms
+[2018.09.21-22.22.31:431][386]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap7426A88044CB298E9D5330A45994C1EF.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.21-22.22.31:440][386]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.21-22.22.36:231][386]LogSavePackage: Save=4613.64ms
+[2018.09.21-22.22.36:231][386]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltData94057F694D3F02954FCAA7A91015D739.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.21-22.22.36:244][386]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
