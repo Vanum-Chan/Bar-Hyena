@@ -2995,3 +2995,8 @@ LogInit: Object subsystem initialized
 [2018.09.21-22.38.52:296][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_1)
 [2018.09.21-22.38.55:813][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
 [2018.09.21-22.38.57:830][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.21-22.43.34:970][779]LogSavePackage: Save=423.13ms
+[2018.09.21-22.43.34:970][779]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_Auto6D286DF154F901EE0DD5B15ACC9CB53A4.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap'
+[2018.09.21-22.43.34:974][779]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap
+[2018.09.21-22.43.34:980][779]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.482
+[2018.09.21-22.43.34:981][779]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.482
