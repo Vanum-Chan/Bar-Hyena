@@ -2884,3 +2884,56 @@ LogInit: Object subsystem initialized
 [2018.09.21-22.22.36:231][386]LogSavePackage: Save=4613.64ms
 [2018.09.21-22.22.36:231][386]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltData94057F694D3F02954FCAA7A91015D739.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
 [2018.09.21-22.22.36:244][386]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.21-22.30.08:086][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_2)
+[2018.09.21-22.30.15:833][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.21-22.30.15:916][425]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.21-22.30.15:936][425]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.21-22.30.15:937][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.21-22.30.15:937][425]PIE: New page: PIE session: FirstPersonExampleMap (22.09.2018 02:30:15)
+[2018.09.21-22.30.15:937][425]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.21-22.30.15:972][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034552s)
+[2018.09.21-22.30.15:973][425]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.21-22.30.15:973][425]LogPlayLevel: PIE: World Init took: (0.001470s)
+[2018.09.21-22.30.15:974][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.036388s)
+[2018.09.21-22.30.16:003][425]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.21-22.30.16:029][425]LogInit: FAudioDevice initialized.
+[2018.09.21-22.30.16:066][425]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.21-22.30.16:074][425]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.09.22-00.30.16
+[2018.09.21-22.30.16:075][425]LogWorld: Bringing up level for play took: 0.008860
+[2018.09.21-22.30.16:077][425]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0,132
+[2018.09.21-22.30.16:078][425]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.21-22.30.45:070][161]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1266.549 Y=-3516.973 Z=818.901] for [FirstPersonProjectile_C]
+[2018.09.21-22.30.56:053][820]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.21-22.30.56:094][820]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.21-22.30.58:866][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_2)
+[2018.09.21-22.31.01:884][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.21-22.31.03:416][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_2)
+[2018.09.21-22.31.23:647][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.21-22.31.24:483][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chaire3)
+[2018.09.21-22.31.30:656][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.21-22.31.34:381][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chaire3)
+[2018.09.21-22.31.53:528][584]Cmd: TRANSACTION UNDO
+[2018.09.21-22.31.53:528][584]LogEditorTransaction: Undo Move Actors
+[2018.09.21-22.32.02:067][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_9)
+[2018.09.21-22.32.02:883][  2]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.21-22.32.09:146][365]Cmd: DELETE
+[2018.09.21-22.32.09:146][365]Cmd: ACTOR DELETE
+[2018.09.21-22.32.09:153][365]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.21-22.32.09:172][365]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.09.21-22.32.10:510][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.21-22.32.14:814][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_4)
+[2018.09.21-22.32.16:056][752]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Table_v1_2)
+[2018.09.21-22.32.16:831][793]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Table_v1_9)
+[2018.09.21-22.32.17:828][848]Cmd: DELETE
+[2018.09.21-22.32.17:828][848]Cmd: ACTOR DELETE
+[2018.09.21-22.32.17:835][848]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.21-22.32.17:835][848]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.21-22.32.17:836][848]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.21-22.32.17:852][848]LogEditorActor: Deleted 3 Actors (0.024 secs)
+[2018.09.21-22.32.21:652][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.21-22.32.56:959][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.21-22.33.34:169][386]LogSavePackage: Save=338.76ms
+[2018.09.21-22.33.34:169][386]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_Auto5B05E5E1D46FF8B7F3D14A19CA4CA6F51.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2018.09.21-22.33.34:174][386]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap
+[2018.09.21-22.33.34:178][386]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.386
+[2018.09.21-22.33.34:178][386]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.386
