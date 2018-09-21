@@ -3000,3 +3000,391 @@ LogInit: Object subsystem initialized
 [2018.09.21-22.43.34:974][779]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap
 [2018.09.21-22.43.34:980][779]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.482
 [2018.09.21-22.43.34:981][779]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.482
+[2018.09.21-23.12.39:899][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.21-23.12.40:646][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.21-23.12.42:883][220]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.09.21-23.12.43:086][220]EditorErrors: Warning: No assets to check in!
+[2018.09.21-23.12.46:800][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.21-23.12.47:083][445]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.21-23.12.47:479][445]LogSavePackage: Save=343.17ms
+[2018.09.21-23.12.47:479][445]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMapDB9718CE485F258027D49F9C4B60FB14.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.21-23.12.47:487][445]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.21-23.12.52:519][445]LogSavePackage: Save=4815.95ms
+[2018.09.21-23.12.52:519][445]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataE54A89DD4D80C7CD2BDFAA9493602937.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.21-23.12.52:528][445]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.21-23.13.48:436][902]LogSlate: Window 'Save Content' being destroyed
+[2018.09.21-23.13.48:464][902]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.21-23.13.48:989][902]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.21-23.13.49:016][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Bar/Bar_BaseColor" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Bar/Bar_BaseColor.uasset" SILENT=true
+[2018.09.21-23.13.51:781][902]LogSavePackage: Save=2759.46ms
+[2018.09.21-23.13.51:781][902]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Bar_BaseColor64BF67F942B829CBA8DF8EB2AB8A7E23.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Bar/Bar_BaseColor.uasset'
+[2018.09.21-23.13.51:790][902]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Bar/Bar_BaseColor.uasset
+[2018.09.21-23.13.53:762][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Bar/Bar_Normal" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Bar/Bar_Normal.uasset" SILENT=true
+[2018.09.21-23.13.56:882][902]LogSavePackage: Save=3116.03ms
+[2018.09.21-23.13.56:882][902]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Bar_NormalEE66BAC443D8F7C28315BE8B6CC8D6D4.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Bar/Bar_Normal.uasset'
+[2018.09.21-23.13.56:892][902]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Bar/Bar_Normal.uasset
+[2018.09.21-23.13.58:862][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Chair/Chaire0" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Chair/Chaire0.uasset" SILENT=true
+[2018.09.21-23.13.58:882][902]LogSavePackage: Save=16.62ms
+[2018.09.21-23.13.58:883][902]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Chaire055507F52496EFE940A96A1B32E78618C.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Chair/Chaire0.uasset'
+[2018.09.21-23.13.58:893][902]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Chair/Chaire0.uasset
+[2018.09.21-23.13.59:234][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Chair/Chaire1" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Chair/Chaire1.uasset" SILENT=true
+[2018.09.21-23.13.59:258][902]LogSavePackage: Save=20.39ms
+[2018.09.21-23.13.59:259][902]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Chaire1C273D7A642CF174D18D38D803F8AF646.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Chair/Chaire1.uasset'
+[2018.09.21-23.13.59:267][902]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Chair/Chaire1.uasset
+[2018.09.21-23.13.59:605][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Chair/Chaire2" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Chair/Chaire2.uasset" SILENT=true
+[2018.09.21-23.13.59:627][902]LogSavePackage: Save=17.96ms
+[2018.09.21-23.13.59:627][902]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Chaire261B1B2D54A9EB9E2595FA1A9FEB0784E.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Chair/Chaire2.uasset'
+[2018.09.21-23.13.59:635][902]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Chair/Chaire2.uasset
+[2018.09.21-23.13.59:985][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Chair/Chaire3" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Chair/Chaire3.uasset" SILENT=true
+[2018.09.21-23.14.00:021][902]LogSavePackage: Save=30.56ms
+[2018.09.21-23.14.00:021][902]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Chaire396E9ECC047FCB80F1847F682F13A2E68.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Chair/Chaire3.uasset'
+[2018.09.21-23.14.00:030][902]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Chair/Chaire3.uasset
+[2018.09.21-23.14.00:372][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Chair/Chaire4" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Chair/Chaire4.uasset" SILENT=true
+[2018.09.21-23.14.00:396][902]LogSavePackage: Save=19.72ms
+[2018.09.21-23.14.00:396][902]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Chaire4923805324C14663E9C72128049E64952.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Chair/Chaire4.uasset'
+[2018.09.21-23.14.00:406][902]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Chair/Chaire4.uasset
+[2018.09.21-23.14.00:717][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Chair/Chaire_BaseColor" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Chair/Chaire_BaseColor.uasset" SILENT=true
+[2018.09.21-23.14.00:914][902]LogSavePackage: Save=194.46ms
+[2018.09.21-23.14.00:914][902]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Chaire_BaseColor257ED5B0466AA9A9DE612D8FED027963.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Chair/Chaire_BaseColor.uasset'
+[2018.09.21-23.14.00:924][902]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Chair/Chaire_BaseColor.uasset
+[2018.09.21-23.14.01:326][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Chair/Chaire_Normal" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Chair/Chaire_Normal.uasset" SILENT=true
+[2018.09.21-23.14.01:535][902]LogSavePackage: Save=207.04ms
+[2018.09.21-23.14.01:535][902]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Chaire_NormalAAC6FACB42F109DC12F392842FFF2AE2.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Chair/Chaire_Normal.uasset'
+[2018.09.21-23.14.01:545][902]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Chair/Chaire_Normal.uasset
+[2018.09.21-23.14.01:955][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Table/Table_BaseColor" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table/Table_BaseColor.uasset" SILENT=true
+[2018.09.21-23.14.02:676][902]LogSavePackage: Save=716.15ms
+[2018.09.21-23.14.02:676][902]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_BaseColor5BD1F349469C2EFE9C4DF886E76383DD.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table/Table_BaseColor.uasset'
+[2018.09.21-23.14.02:684][902]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table/Table_BaseColor.uasset
+[2018.09.21-23.14.03:406][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Bar/Table/Table_Normal" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table/Table_Normal.uasset" SILENT=true
+[2018.09.21-23.14.04:019][902]LogSavePackage: Save=608.31ms
+[2018.09.21-23.14.04:019][902]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Table_Normal7FF2321A45C0480E418E62A4E522100E.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table/Table_Normal.uasset'
+[2018.09.21-23.14.04:030][902]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Bar/Table/Table_Normal.uasset
+[2018.09.21-23.14.05:295][902]LogSavePackage: Save=630.04ms
+[2018.09.21-23.14.05:296][902]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_simpel_basecolorDB375B054524F37B9B3FEBA677471D9D.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_simpel_basecolor.uasset'
+[2018.09.21-23.14.05:303][902]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_simpel_basecolor.uasset
+[2018.09.21-23.14.06:719][902]LogSavePackage: Save=779.29ms
+[2018.09.21-23.14.06:719][902]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_simpel_normalACAE3421447B40D1571EAEBDDED2D156.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_simpel_normal.uasset'
+[2018.09.21-23.14.06:728][902]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_simpel_normal.uasset
+[2018.09.21-23.14.07:586][902]LogSavePackage: Save=232.41ms
+[2018.09.21-23.14.07:586][902]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_simpel_roughness4C724D114E6EE8F335B8278D58D8A65D.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_simpel_roughness.uasset'
+[2018.09.21-23.14.07:596][902]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_simpel_roughness.uasset
+[2018.09.21-23.14.08:033][902]LogSlate: Window 'Roadhouse - Unreal Editor' being destroyed
+[2018.09.21-23.14.08:397][903]Cmd: QUIT_EDITOR
+[2018.09.21-23.14.09:560][903]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.21-23.14.09:579][903]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.21-23.14.09:579][903]LogExit: Preparing to exit.
+[2018.09.21-23.14.10:648][903]LogDirectoryWatcher: A directory notification for 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/' was aborted.
+[2018.09.21-23.14.10:745][903]LogExit: Editor shut down
+[2018.09.21-23.14.10:763][903]LogExit: Transaction tracking system shut down
+[2018.09.21-23.14.10:765][903]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000208854ace50, Size=72
+[2018.09.21-23.14.10:765][903]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020885488c00, Size=256
+[2018.09.21-23.14.10:766][903]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020885cacd00, Size=688
+[2018.09.21-23.14.10:830][903]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020889c438c8, Size=52
+[2018.09.21-23.14.10:961][903]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.09.21-23.14.10:961][903]LogDirectoryWatcher: A directory notification for '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/' was aborted.
+[2018.09.21-23.14.10:961][903]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.09.21-23.14.10:961][903]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.09.21-23.14.10:961][903]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.09.21-23.14.10:961][903]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.09.21-23.14.10:961][903]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.09.21-23.14.10:961][903]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.09.21-23.14.11:369][903]LogExit: Object subsystem successfully closed.
+[2018.09.21-23.14.11:404][903]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.21-23.14.11:422][903]LogD3D11RHI: Shutdown
+[2018.09.21-23.14.11:423][903]LogD3D11RHI: CleanupD3DDevice
+[2018.09.21-23.14.11:436][903]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.21-23.14.11:485][903]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (580)
+[2018.09.21-23.14.11:486][903]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (578)
+[2018.09.21-23.14.11:486][903]LogModuleManager: Shutting down and abandoning module TextureEditor (576)
+[2018.09.21-23.14.11:488][903]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.09.21-23.14.11:488][903]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.09.21-23.14.11:488][903]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.09.21-23.14.11:488][903]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.09.21-23.14.11:495][903]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.09.21-23.14.11:495][903]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.09.21-23.14.11:495][903]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.09.21-23.14.11:495][903]LogDirectoryWatcher: A directory notification for 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Collections/' was aborted.
+[2018.09.21-23.14.11:495][903]LogDirectoryWatcher: A directory notification for 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Developers/usagi/Collections/' was aborted.
+[2018.09.21-23.14.11:495][903]LogDirectoryWatcher: A directory notification for 'C:/Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Collections/' was aborted.
+[2018.09.21-23.14.11:495][903]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.09.21-23.14.11:495][903]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.09.21-23.14.11:495][903]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.09.21-23.14.11:495][903]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.09.21-23.14.11:495][903]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.09.21-23.14.11:495][903]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.09.21-23.14.11:495][903]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.09.21-23.14.11:495][903]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.09.21-23.14.11:496][903]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.09.21-23.14.11:497][903]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.09.21-23.14.11:497][903]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.09.21-23.14.11:497][903]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.09.21-23.14.11:497][903]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.09.21-23.14.11:497][903]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.09.21-23.14.11:497][903]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.09.21-23.14.11:497][903]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.09.21-23.14.12:441][903]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.09.21-23.14.12:441][903]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.09.21-23.14.12:441][903]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.09.21-23.14.12:441][903]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.09.21-23.14.12:442][903]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.09.21-23.14.12:442][903]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.09.21-23.14.12:442][903]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.09.21-23.14.12:442][903]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.09.21-23.14.12:442][903]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.09.21-23.14.12:442][903]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.09.21-23.14.12:442][903]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.09.21-23.14.12:442][903]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.09.21-23.14.12:442][903]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.09.21-23.14.12:442][903]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.09.21-23.14.12:442][903]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.09.21-23.14.12:442][903]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.09.21-23.14.12:443][903]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.09.21-23.14.12:443][903]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.09.21-23.14.12:443][903]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.09.21-23.14.12:443][903]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.09.21-23.14.12:443][903]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.09.21-23.14.12:499][903]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.09.21-23.14.12:499][903]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.09.21-23.14.12:499][903]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.09.21-23.14.12:499][903]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.09.21-23.14.12:499][903]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.09.21-23.14.12:499][903]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.09.21-23.14.12:499][903]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.09.21-23.14.12:499][903]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.09.21-23.14.12:499][903]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.09.21-23.14.12:499][903]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.09.21-23.14.12:500][903]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.09.21-23.14.12:500][903]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.09.21-23.14.12:500][903]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.09.21-23.14.12:500][903]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.09.21-23.14.12:500][903]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.09.21-23.14.12:500][903]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.09.21-23.14.12:500][903]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.09.21-23.14.12:500][903]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.09.21-23.14.12:500][903]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.09.21-23.14.12:500][903]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.09.21-23.14.12:500][903]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.09.21-23.14.12:500][903]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.09.21-23.14.12:500][903]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.09.21-23.14.12:500][903]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.09.21-23.14.12:500][903]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.09.21-23.14.12:500][903]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.09.21-23.14.12:500][903]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.09.21-23.14.12:501][903]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.09.21-23.14.12:501][903]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.09.21-23.14.12:501][903]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.09.21-23.14.12:501][903]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.09.21-23.14.12:700][903]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.09.21-23.14.12:700][903]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.09.21-23.14.12:700][903]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.09.21-23.14.12:701][903]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.09.21-23.14.12:701][903]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.09.21-23.14.12:701][903]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.09.21-23.14.12:701][903]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.09.21-23.14.12:701][903]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.09.21-23.14.12:701][903]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.09.21-23.14.12:701][903]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.09.21-23.14.12:701][903]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.09.21-23.14.12:701][903]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.09.21-23.14.12:701][903]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.09.21-23.14.12:701][903]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.09.21-23.14.12:701][903]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.09.21-23.14.12:701][903]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.09.21-23.14.12:701][903]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.09.21-23.14.12:709][903]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.09.21-23.14.12:709][903]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.09.21-23.14.12:709][903]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.09.21-23.14.12:709][903]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.09.21-23.14.12:709][903]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.09.21-23.14.12:709][903]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.09.21-23.14.12:709][903]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.09.21-23.14.12:709][903]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.09.21-23.14.12:709][903]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.09.21-23.14.12:709][903]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.09.21-23.14.12:709][903]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.09.21-23.14.12:709][903]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.09.21-23.14.12:709][903]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.09.21-23.14.12:709][903]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.09.21-23.14.12:710][903]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.09.21-23.14.12:710][903]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.09.21-23.14.12:710][903]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.09.21-23.14.12:710][903]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.09.21-23.14.12:710][903]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.09.21-23.14.12:710][903]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.09.21-23.14.12:710][903]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.09.21-23.14.12:710][903]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.09.21-23.14.12:710][903]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.09.21-23.14.12:710][903]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.09.21-23.14.12:710][903]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.09.21-23.14.12:710][903]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.09.21-23.14.12:710][903]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.09.21-23.14.12:710][903]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.09.21-23.14.12:710][903]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.09.21-23.14.12:710][903]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.09.21-23.14.12:710][903]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.09.21-23.14.12:710][903]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.09.21-23.14.12:710][903]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.09.21-23.14.12:812][903]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.09.21-23.14.12:913][903]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.09.21-23.14.12:913][903]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.09.21-23.14.12:913][903]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.09.21-23.14.12:913][903]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.09.21-23.14.12:913][903]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.09.21-23.14.12:913][903]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.09.21-23.14.12:914][903]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.09.21-23.14.12:914][903]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.09.21-23.14.12:915][903]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.09.21-23.14.12:915][903]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.09.21-23.14.12:915][903]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.09.21-23.14.12:918][903]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.09.21-23.14.12:918][903]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.09.21-23.14.12:918][903]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.09.21-23.14.12:918][903]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.09.21-23.14.13:306][903]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.09.21-23.14.13:306][903]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.09.21-23.14.13:306][903]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.09.21-23.14.13:309][903]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.09.21-23.14.13:315][903]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.09.21-23.14.13:315][903]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.09.21-23.14.13:316][903]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.09.21-23.14.13:316][903]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.09.21-23.14.13:316][903]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.09.21-23.14.13:316][903]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.09.21-23.14.13:316][903]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.09.21-23.14.13:316][903]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.09.21-23.14.13:316][903]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.09.21-23.14.13:316][903]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.09.21-23.14.13:316][903]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.09.21-23.14.13:316][903]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.09.21-23.14.13:316][903]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.09.21-23.14.13:316][903]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.09.21-23.14.13:316][903]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.09.21-23.14.13:316][903]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.09.21-23.14.13:316][903]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.09.21-23.14.13:316][903]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.09.21-23.14.13:316][903]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.09.21-23.14.13:316][903]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.09.21-23.14.13:319][903]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.09.21-23.14.13:319][903]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.09.21-23.14.13:319][903]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.09.21-23.14.13:319][903]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.09.21-23.14.13:319][903]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.09.21-23.14.13:319][903]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.09.21-23.14.13:319][903]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.09.21-23.14.13:319][903]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.09.21-23.14.13:319][903]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.09.21-23.14.13:319][903]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.09.21-23.14.13:319][903]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.09.21-23.14.13:319][903]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.09.21-23.14.13:319][903]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.09.21-23.14.13:320][903]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.09.21-23.14.13:320][903]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.09.21-23.14.13:320][903]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.09.21-23.14.13:329][903]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.09.21-23.14.13:358][903]LogDerivedDataCache: Shutdown
+[2018.09.21-23.14.13:358][903]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.09.21-23.14.13:358][903]LogXGEController: Cleaning working directory: C:/Users/usagi/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.21-23.14.13:359][903]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.09.21-23.14.13:359][903]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.09.21-23.14.13:359][903]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.09.21-23.14.13:359][903]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.09.21-23.14.13:359][903]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.09.21-23.14.13:359][903]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.09.21-23.14.13:359][903]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.09.21-23.14.13:359][903]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.09.21-23.14.13:359][903]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.09.21-23.14.13:359][903]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.09.21-23.14.13:359][903]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.09.21-23.14.13:359][903]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.09.21-23.14.13:359][903]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.09.21-23.14.13:359][903]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.09.21-23.14.13:359][903]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.09.21-23.14.13:360][903]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.09.21-23.14.13:361][903]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.09.21-23.14.13:361][903]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.09.21-23.14.13:361][903]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.09.21-23.14.13:361][903]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.09.21-23.14.13:361][903]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.09.21-23.14.13:361][903]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.09.21-23.14.13:361][903]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.09.21-23.14.13:361][903]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.09.21-23.14.13:361][903]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.09.21-23.14.13:361][903]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.09.21-23.14.13:361][903]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.09.21-23.14.13:361][903]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.09.21-23.14.13:361][903]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.09.21-23.14.13:361][903]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.09.21-23.14.13:361][903]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.09.21-23.14.13:361][903]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.09.21-23.14.13:361][903]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.09.21-23.14.13:361][903]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAB94694D-4268-A56E-16E3-64B2845DF8E3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=45133d5643d4d745c18ea3b09ad971ca%7C0a2c2f5bbc5f41cebf178ebfc7d33677%7C2debc7a1-8005-4312-91dc-e5f743cc7aa2&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.09.21-23.14.13:392][903]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.09.21-23.14.13:394][903]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.21-23.14.13:394][903]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.21-23.14.13:394][903]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.21-23.14.13:394][903]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.21-23.14.13:394][903]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.21-23.14.13:394][903]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.21-23.14.13:394][903]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.21-23.14.13:398][903]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.21-23.14.13:398][903]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.21-23.14.13:398][903]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.21-23.14.13:398][903]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.21-23.14.13:398][903]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.21-23.14.13:398][903]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.21-23.14.13:398][903]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.21-23.14.13:398][903]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.21-23.14.13:398][903]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.21-23.14.13:398][903]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.21-23.14.13:398][903]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.21-23.14.13:402][903]LogExit: Exiting.
+[2018.09.21-23.14.13:423][903]Log file closed, 09/22/18 01:14:13
