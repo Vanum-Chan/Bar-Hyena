@@ -2937,3 +2937,61 @@ LogInit: Object subsystem initialized
 [2018.09.21-22.33.34:174][386]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap
 [2018.09.21-22.33.34:178][386]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.386
 [2018.09.21-22.33.34:178][386]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.386
+[2018.09.21-22.37.00:441][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.21-22.37.01:218][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.21-22.37.01:379][630]LogActorFactory: Actor Factory created Table_v1_2
+[2018.09.21-22.37.01:380][630]LogActorFactory: Actor Factory created Table_v1_1
+[2018.09.21-22.37.02:362][687]LogActorFactory: Actor Factory created Table_v1_2
+[2018.09.21-22.37.02:388][687]LogActorFactory: Actor Factory created Table_v1_1
+[2018.09.21-22.37.18:126][602]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.21-22.37.26:719][110]Cmd: TRANSACTION UNDO
+[2018.09.21-22.37.26:719][110]LogEditorTransaction: Undo Move Actors
+[2018.09.21-22.37.33:273][493]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.21-22.37.36:595][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.21-22.37.37:497][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_2)
+[2018.09.21-22.37.40:817][924]Cmd: TRANSACTION UNDO
+[2018.09.21-22.37.40:817][924]LogEditorTransaction: Undo Move Actors
+[2018.09.21-22.37.41:129][940]Cmd: TRANSACTION UNDO
+[2018.09.21-22.37.41:129][940]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.21-22.37.41:437][953]Cmd: TRANSACTION UNDO
+[2018.09.21-22.37.41:437][953]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.21-22.37.41:846][974]Cmd: TRANSACTION UNDO
+[2018.09.21-22.37.41:846][974]LogEditorTransaction: Undo Create Actors
+[2018.09.21-22.37.43:270][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.21-22.37.44:213][ 89]LogActorFactory: Actor Factory created Table_v1_2
+[2018.09.21-22.37.45:059][138]LogActorFactory: Actor Factory created Table_v1_2
+[2018.09.21-22.37.45:711][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.21-22.37.45:859][171]LogActorFactory: Actor Factory created Table_v1_1
+[2018.09.21-22.37.48:370][319]LogActorFactory: Actor Factory created Table_v1_1
+[2018.09.21-22.37.49:221][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.21-22.37.49:361][364]LogActorFactory: Actor Factory created Table_v1_2
+[2018.09.21-22.37.50:130][409]LogActorFactory: Actor Factory created Table_v1_2
+[2018.09.21-22.37.50:514][427]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.21-22.37.57:069][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_1)
+[2018.09.21-22.37.59:227][929]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_2)
+[2018.09.21-22.38.00:127][977]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.21-22.38.05:049][261]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.21-22.38.07:788][419]Cmd: TRANSACTION UNDO
+[2018.09.21-22.38.07:788][419]LogEditorTransaction: Undo Move Actors
+[2018.09.21-22.38.14:999][550]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.21-22.38.17:275][667]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.21-22.38.18:860][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.21-22.38.20:648][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.21-22.38.22:497][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_3)
+[2018.09.21-22.38.25:230][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_2)
+[2018.09.21-22.38.30:527][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.21-22.38.30:674][368]LogActorFactory: Actor Factory created Table_v1_1
+[2018.09.21-22.38.31:378][408]LogActorFactory: Actor Factory created Table_v1_1
+[2018.09.21-22.38.32:383][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.21-22.38.33:987][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.21-22.38.34:759][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_2)
+[2018.09.21-22.38.36:009][649]Cmd: DELETE
+[2018.09.21-22.38.36:009][649]Cmd: ACTOR DELETE
+[2018.09.21-22.38.36:016][649]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.21-22.38.36:033][649]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.09.21-22.38.37:665][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_1)
+[2018.09.21-22.38.40:527][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_3)
+[2018.09.21-22.38.44:378][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_4)
+[2018.09.21-22.38.52:296][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_1)
+[2018.09.21-22.38.55:813][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.21-22.38.57:830][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
