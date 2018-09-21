@@ -3000,3 +3000,15 @@ LogInit: Object subsystem initialized
 [2018.09.21-22.43.34:974][779]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap
 [2018.09.21-22.43.34:980][779]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.482
 [2018.09.21-22.43.34:981][779]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.482
+[2018.09.21-23.12.39:899][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.21-23.12.40:646][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.21-23.12.42:883][220]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.09.21-23.12.43:086][220]EditorErrors: Warning: No assets to check in!
+[2018.09.21-23.12.46:800][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.21-23.12.47:083][445]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.21-23.12.47:479][445]LogSavePackage: Save=343.17ms
+[2018.09.21-23.12.47:479][445]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMapDB9718CE485F258027D49F9C4B60FB14.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.21-23.12.47:487][445]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.21-23.12.52:519][445]LogSavePackage: Save=4815.95ms
+[2018.09.21-23.12.52:519][445]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataE54A89DD4D80C7CD2BDFAA9493602937.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.21-23.12.52:528][445]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
