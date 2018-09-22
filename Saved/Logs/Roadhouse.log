@@ -634,3 +634,305 @@ LogInit: Object subsystem initialized
 [2018.09.22-16.43.31:477][611]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2018.09.22-16.43.39:557][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
 [2018.09.22-16.43.42:685][260]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.44.24:325][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.22-16.44.27:647][373]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.09.22-16.44.28:710][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.22-16.44.31:345][575]Cmd: DELETE
+[2018.09.22-16.44.31:345][575]Cmd: ACTOR DELETE
+[2018.09.22-16.44.31:357][575]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.22-16.44.31:374][575]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2018.09.22-16.44.32:164][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.22-16.44.35:645][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.45.19:674][386]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-16.45.28:540][899]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.45.51:240][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar)
+[2018.09.22-16.45.52:640][293]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.22-16.45.54:569][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar)
+[2018.09.22-16.45.55:573][450]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.45.57:384][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door)
+[2018.09.22-16.45.58:292][602]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.46.00:702][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar2)
+[2018.09.22-16.46.05:487][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar)
+[2018.09.22-16.46.06:286][ 57]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door)
+[2018.09.22-16.46.08:604][180]Cmd: TRANSACTION UNDO
+[2018.09.22-16.46.08:604][180]LogEditorTransaction: Undo Move Actors
+[2018.09.22-16.46.09:624][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar2)
+[2018.09.22-16.46.10:462][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door)
+[2018.09.22-16.46.11:306][314]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.46.14:805][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar2)
+[2018.09.22-16.46.21:039][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.46.27:743][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door)
+[2018.09.22-16.46.29:025][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar2)
+[2018.09.22-16.46.31:990][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door)
+[2018.09.22-16.46.33:099][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar2)
+[2018.09.22-16.46.34:266][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.46.40:242][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.46.51:600][643]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.47.00:031][124]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.47.15:033][990]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.22-16.47.15:802][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ktichen2)
+[2018.09.22-16.47.18:082][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ktichen2)
+[2018.09.22-16.47.18:568][183]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.22-16.47.19:834][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ktichen2)
+[2018.09.22-16.47.27:549][686]Cmd: TRANSACTION UNDO
+[2018.09.22-16.47.27:549][686]LogEditorTransaction: Undo Move Actors
+[2018.09.22-16.47.51:932][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.48.05:404][871]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.48.31:866][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.49.10:661][700]Cmd: TRANSACTION UNDO
+[2018.09.22-16.49.10:661][700]LogEditorTransaction: Undo Move Actors
+[2018.09.22-16.49.20:317][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_shelf2)
+[2018.09.22-16.49.24:435][500]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WC)
+[2018.09.22-16.49.31:143][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (office)
+[2018.09.22-16.49.32:183][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WC)
+[2018.09.22-16.49.44:443][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (office)
+[2018.09.22-16.49.45:494][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WC)
+[2018.09.22-16.49.47:537][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door4)
+[2018.09.22-16.49.52:474][120]Cmd: TRANSACTION UNDO
+[2018.09.22-16.49.52:474][120]LogEditorTransaction: Undo Scale Actors
+[2018.09.22-16.49.53:706][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WC)
+[2018.09.22-16.50.04:560][818]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.22-16.50.15:963][488]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-16.50.16:491][488]LogSavePackage: Save=341.37ms
+[2018.09.22-16.50.16:491][488]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMapF91F9C654D59B52571341DA1FCB702DB.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.22-16.50.16:500][488]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.22-16.50.21:592][488]LogSavePackage: Save=4888.81ms
+[2018.09.22-16.50.21:592][488]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataC907098048028F40A03CBCA7503F41E2.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.22-16.50.21:598][488]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.22-16.50.28:056][862]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.22-16.50.28:071][862]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.09.22-16.50.34:088][191]LogSavePackage: Save=336.14ms
+[2018.09.22-16.50.34:088][191]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap09172BEC43B0A6B3F52C5BAC9CD024BD.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.22-16.50.34:097][191]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.22-16.50.39:348][191]LogSavePackage: Save=4831.38ms
+[2018.09.22-16.50.39:348][191]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltData1F46CF88488BF6C05CE33A97D60624E8.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.22-16.50.39:358][191]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.22-16.50.43:429][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v1_3)
+[2018.09.22-16.50.56:961][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar)
+[2018.09.22-16.51.01:344][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall3)
+[2018.09.22-16.51.03:462][830]Cmd: TRANSACTION UNDO
+[2018.09.22-16.51.03:462][830]LogEditorTransaction: Undo Move Actors
+[2018.09.22-16.51.07:028][992]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.51.28:448][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2018.09.22-16.51.29:373][276]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.51.35:788][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar)
+[2018.09.22-16.51.36:662][701]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.51.38:770][824]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.22-16.51.46:058][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.51.46:140][250]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.22-16.51.46:159][250]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.22-16.51.46:159][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.22-16.51.46:162][250]PIE: New page: PIE session: FirstPersonExampleMap (22.09.2018 20:51:46)
+[2018.09.22-16.51.46:162][250]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.09.22-16.51.46:195][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033317s)
+[2018.09.22-16.51.46:197][250]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.09.22-16.51.46:197][250]LogPlayLevel: PIE: World Init took: (0.001817s)
+[2018.09.22-16.51.46:197][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.035485s)
+[2018.09.22-16.51.46:231][250]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.22-16.51.46:252][250]LogInit: FAudioDevice initialized.
+[2018.09.22-16.51.46:299][250]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.09.22-16.51.46:312][250]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.09.22-18.51.46
+[2018.09.22-16.51.46:314][250]LogWorld: Bringing up level for play took: 0.010007
+[2018.09.22-16.51.46:327][250]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.09.22-16.51.46:328][250]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0,601
+[2018.09.22-16.51.46:328][250]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.22-16.52.37:540][310]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.22-16.52.37:584][310]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.09.22-16.52.38:126][340]Cmd: SELECT NONE
+[2018.09.22-16.52.44:904][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v2_6)
+[2018.09.22-16.52.47:259][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.53.28:306][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Storage)
+[2018.09.22-16.53.35:591][757]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (office)
+[2018.09.22-16.53.38:506][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WC)
+[2018.09.22-16.53.40:369][ 27]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (office)
+[2018.09.22-16.53.41:837][108]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Storage)
+[2018.09.22-16.53.42:692][153]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ktichen)
+[2018.09.22-16.53.43:377][188]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Bar)
+[2018.09.22-16.53.50:205][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.54.15:149][ 64]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.55.03:538][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar2)
+[2018.09.22-16.55.05:651][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.55.25:966][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall3)
+[2018.09.22-16.55.30:113][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.56.08:655][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Walls/base_color" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/base_color.uasset" SILENT=true
+[2018.09.22-16.56.08:667][ 62]LogSavePackage: Save=7.14ms
+[2018.09.22-16.56.08:667][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/base_color823883BC418A87BB404F4086BE7762E8.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/base_color.uasset'
+[2018.09.22-16.56.08:678][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/base_color.uasset
+[2018.09.22-16.56.08:942][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/base_color" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/base_color.uasset" SILENT=true
+[2018.09.22-16.56.08:955][ 62]LogSavePackage: Save=2.75ms
+[2018.09.22-16.56.08:956][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/base_color1BED0B824B5A52C9E3E2FCBFDACE0326.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/base_color.uasset'
+[2018.09.22-16.56.08:965][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/base_color.uasset
+[2018.09.22-16.56.09:012][ 62]LogSavePackage: Save=16.46ms
+[2018.09.22-16.56.09:012][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Brickwall_big_xDD623CF64BC60506C5F3878A1029A36D.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Brickwall_big_x.uasset'
+[2018.09.22-16.56.09:019][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Brickwall_big_x.uasset
+[2018.09.22-16.56.09:290][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Brickwall_Big_x" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Brickwall_Big_x.uasset" SILENT=true
+[2018.09.22-16.56.09:304][ 62]LogSavePackage: Save=2.52ms
+[2018.09.22-16.56.09:304][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Brickwall_Big_x3CCA8ACD4ADD592ABFADC4AEFCE8A196.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Brickwall_Big_x.uasset'
+[2018.09.22-16.56.09:314][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Brickwall_Big_x.uasset
+[2018.09.22-16.56.09:360][ 62]LogSavePackage: Save=16.13ms
+[2018.09.22-16.56.09:360][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Brickwall_big_y75487C314AB9A6C49A671C94B15EACA6.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Brickwall_big_y.uasset'
+[2018.09.22-16.56.09:368][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Brickwall_big_y.uasset
+[2018.09.22-16.56.09:631][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Brickwall_big_y" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Brickwall_big_y.uasset" SILENT=true
+[2018.09.22-16.56.09:647][ 62]LogSavePackage: Save=2.45ms
+[2018.09.22-16.56.09:647][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Brickwall_big_y6C744BCD4892158E32724886E0FD95F7.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Brickwall_big_y.uasset'
+[2018.09.22-16.56.09:655][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Brickwall_big_y.uasset
+[2018.09.22-16.56.09:701][ 62]LogSavePackage: Save=17.63ms
+[2018.09.22-16.56.09:701][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Brickwall_smal_x404D3EC84CC70A6B429122AAD384975A.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Brickwall_smal_x.uasset'
+[2018.09.22-16.56.09:712][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Brickwall_smal_x.uasset
+[2018.09.22-16.56.09:998][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Brickwall_Smal_x" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Brickwall_Smal_x.uasset" SILENT=true
+[2018.09.22-16.56.10:014][ 62]LogSavePackage: Save=2.41ms
+[2018.09.22-16.56.10:014][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Brickwall_Smal_x08F8CE204F06D25A2D36E7A615B5FE20.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Brickwall_Smal_x.uasset'
+[2018.09.22-16.56.10:021][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Brickwall_Smal_x.uasset
+[2018.09.22-16.56.10:066][ 62]LogSavePackage: Save=17.06ms
+[2018.09.22-16.56.10:066][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Brickwall_smal_y33C481D742C1867589D996AF50272341.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Brickwall_smal_y.uasset'
+[2018.09.22-16.56.10:077][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Brickwall_smal_y.uasset
+[2018.09.22-16.56.10:350][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Brickwall_smal_y" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Brickwall_smal_y.uasset" SILENT=true
+[2018.09.22-16.56.10:367][ 62]LogSavePackage: Save=3.12ms
+[2018.09.22-16.56.10:367][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Brickwall_smal_yF47E411F4621E254AB0068BF7AA1B5DF.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Brickwall_smal_y.uasset'
+[2018.09.22-16.56.10:378][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Brickwall_smal_y.uasset
+[2018.09.22-16.56.10:422][ 62]LogSavePackage: Save=16.64ms
+[2018.09.22-16.56.10:422][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Paperwall_inst514F9A7347F08EAE8DBA24A3D14BB14E.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Paperwall_inst.uasset'
+[2018.09.22-16.56.10:430][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Paperwall_inst.uasset
+[2018.09.22-16.56.10:701][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Paperwall_inst" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Paperwall_inst.uasset" SILENT=true
+[2018.09.22-16.56.10:717][ 62]LogSavePackage: Save=2.49ms
+[2018.09.22-16.56.10:718][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Paperwall_instB61B5C8442AECD33FF60978CF4936998.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Paperwall_inst.uasset'
+[2018.09.22-16.56.10:726][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Paperwall_inst.uasset
+[2018.09.22-16.56.10:749][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Walls/Paperwall_x" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Paperwall_x.uasset" SILENT=true
+[2018.09.22-16.56.10:768][ 62]LogSavePackage: Save=16.50ms
+[2018.09.22-16.56.10:768][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Paperwall_x210F85B34BCAD84336DCC083917DCAC2.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Paperwall_x.uasset'
+[2018.09.22-16.56.10:778][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Paperwall_x.uasset
+[2018.09.22-16.56.11:052][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Paperwall_x" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Paperwall_x.uasset" SILENT=true
+[2018.09.22-16.56.11:069][ 62]LogSavePackage: Save=3.08ms
+[2018.09.22-16.56.11:069][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Paperwall_xB22DA9FB4B85FB793CE3068F7F9E37E0.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Paperwall_x.uasset'
+[2018.09.22-16.56.11:082][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Paperwall_x.uasset
+[2018.09.22-16.56.11:311][ 62]LogSavePackage: Save=210.39ms
+[2018.09.22-16.56.11:311][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Plaster_basecolor870DED1549D4948D02DFDCBFA8D375BF.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Plaster_basecolor.uasset'
+[2018.09.22-16.56.11:319][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Plaster_basecolor.uasset
+[2018.09.22-16.56.12:956][ 62]LogSavePackage: Save=1358.46ms
+[2018.09.22-16.56.12:956][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Plaster_normal3ABB30C349D7D427085F54A6D5BEC16F.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Plaster_normal.uasset'
+[2018.09.22-16.56.12:965][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Plaster_normal.uasset
+[2018.09.22-16.56.14:314][ 62]LogSavePackage: Save=313.15ms
+[2018.09.22-16.56.14:314][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Plaster_roughnessEA1F635F4C64918EE580A99A602B6E77.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Plaster_roughness.uasset'
+[2018.09.22-16.56.14:322][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Plaster_roughness.uasset
+[2018.09.22-16.56.14:801][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Walls/Plaster_x" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Plaster_x.uasset" SILENT=true
+[2018.09.22-16.56.14:820][ 62]LogSavePackage: Save=15.66ms
+[2018.09.22-16.56.14:820][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Plaster_x7F497ACD40523791A02EDDB7DF62950B.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Plaster_x.uasset'
+[2018.09.22-16.56.14:831][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Plaster_x.uasset
+[2018.09.22-16.56.15:150][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Plaster_x" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Plaster_x.uasset" SILENT=true
+[2018.09.22-16.56.15:166][ 62]LogSavePackage: Save=2.66ms
+[2018.09.22-16.56.15:166][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Plaster_xE66D008C4A047750D6A2C9896F4274EB.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Plaster_x.uasset'
+[2018.09.22-16.56.15:176][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Plaster_x.uasset
+[2018.09.22-16.56.15:202][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Walls/Plaster_y" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Plaster_y.uasset" SILENT=true
+[2018.09.22-16.56.15:223][ 62]LogSavePackage: Save=15.51ms
+[2018.09.22-16.56.15:224][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Plaster_yE42723A04A6EFF3B4B20C9A77751D112.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Plaster_y.uasset'
+[2018.09.22-16.56.15:232][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Plaster_y.uasset
+[2018.09.22-16.56.15:509][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Plaster_y" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Plaster_y.uasset" SILENT=true
+[2018.09.22-16.56.15:523][ 62]LogSavePackage: Save=3.18ms
+[2018.09.22-16.56.15:523][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Plaster_y436B4EC340A3173BC74959A05DB68440.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Plaster_y.uasset'
+[2018.09.22-16.56.15:531][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Plaster_y.uasset
+[2018.09.22-16.56.15:786][ 62]LogSavePackage: Save=236.15ms
+[2018.09.22-16.56.15:786][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Toiletbrick_basecolor754081654A7B991A787E27A0898944AC.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Toiletbrick_basecolor.uasset'
+[2018.09.22-16.56.15:796][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Toiletbrick_basecolor.uasset
+[2018.09.22-16.56.16:365][ 62]LogSavePackage: Save=3.24ms
+[2018.09.22-16.56.16:365][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Toiletbrick_basecolor984CC810433698617B664E8CDD4F92A0.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Toiletbrick_basecolor.uasset'
+[2018.09.22-16.56.16:375][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Toiletbrick_basecolor.uasset
+[2018.09.22-16.56.16:567][ 62]LogSavePackage: Save=173.49ms
+[2018.09.22-16.56.16:567][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Toiletbrick_normal631CDAA542CCC568A7454BA2F8D63923.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Toiletbrick_normal.uasset'
+[2018.09.22-16.56.16:577][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Toiletbrick_normal.uasset
+[2018.09.22-16.56.17:129][ 62]LogSavePackage: Save=2.49ms
+[2018.09.22-16.56.17:129][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Toiletbrick_normal7D7FF2854AAF2FCFD1499EB2C1932FE1.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Toiletbrick_normal.uasset'
+[2018.09.22-16.56.17:137][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Toiletbrick_normal.uasset
+[2018.09.22-16.56.17:878][ 62]LogSavePackage: Save=712.86ms
+[2018.09.22-16.56.17:878][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Toiletbrick_roughnessFA7152234E9DC93B75536A97321EB85E.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Toiletbrick_roughness.uasset'
+[2018.09.22-16.56.17:886][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Toiletbrick_roughness.uasset
+[2018.09.22-16.56.19:013][ 62]LogSavePackage: Save=2.46ms
+[2018.09.22-16.56.19:013][ 62]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Toiletbrick_roughness20EAEAF84803A57F1BCE15AD6D266AB4.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Toiletbrick_roughness.uasset'
+[2018.09.22-16.56.19:021][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Toiletbrick_roughness.uasset
+[2018.09.22-16.56.26:419][254]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.09.22-16.56.32:455][554]LogSlate: Window 'Wall_simple_DefaultMaterial_Normal' being destroyed
+[2018.09.22-16.56.32:463][554]LogSlate: Window 'Wall_simple_DefaultMaterial_Normal' being destroyed
+[2018.09.22-16.56.56:938][810]LogSavePackage: Save=16.83ms
+[2018.09.22-16.56.56:938][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_Bar_xE727CE1F48FA7EF5449EC6AA740BE449.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_Bar_x.uasset'
+[2018.09.22-16.56.56:947][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_Bar_x.uasset
+[2018.09.22-16.56.57:210][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Wallpaper_Bar_x" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_Bar_x.uasset" SILENT=true
+[2018.09.22-16.56.57:226][810]LogSavePackage: Save=3.15ms
+[2018.09.22-16.56.57:226][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_Bar_xFD982805478F446BDA15D4AE0AF63A56.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_Bar_x.uasset'
+[2018.09.22-16.56.57:233][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_Bar_x.uasset
+[2018.09.22-16.56.57:280][810]LogSavePackage: Save=15.69ms
+[2018.09.22-16.56.57:280][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_Bar_y740F3D204F1767E72EB6589887F13B64.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_Bar_y.uasset'
+[2018.09.22-16.56.57:288][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_Bar_y.uasset
+[2018.09.22-16.56.57:550][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Wallpaper_Bar_y" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_Bar_y.uasset" SILENT=true
+[2018.09.22-16.56.57:570][810]LogSavePackage: Save=3.06ms
+[2018.09.22-16.56.57:570][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_Bar_y4F81F7904566B980A10892AC8C2488EB.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_Bar_y.uasset'
+[2018.09.22-16.56.57:583][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_Bar_y.uasset
+[2018.09.22-16.56.57:811][810]LogSavePackage: Save=206.50ms
+[2018.09.22-16.56.57:811][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_basecolorBAF882CB496B894A3C6EE7A0760DC61B.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_basecolor.uasset'
+[2018.09.22-16.56.57:819][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_basecolor.uasset
+[2018.09.22-16.56.58:098][810]LogSavePackage: Save=2.59ms
+[2018.09.22-16.56.58:098][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_basecolorFF03F704408759E35878209E48149FDA.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_basecolor.uasset'
+[2018.09.22-16.56.58:108][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_basecolor.uasset
+[2018.09.22-16.56.58:508][810]LogSavePackage: Save=378.09ms
+[2018.09.22-16.56.58:508][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_normal62DE51C44AF065857A2F1F8A132AC424.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_normal.uasset'
+[2018.09.22-16.56.58:514][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_normal.uasset
+[2018.09.22-16.56.58:922][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Wallpaper_normal" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_normal.uasset" SILENT=true
+[2018.09.22-16.56.58:941][810]LogSavePackage: Save=4.89ms
+[2018.09.22-16.56.58:941][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_normal62A4AEDE40A869E443CC918BF0770CCE.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_normal.uasset'
+[2018.09.22-16.56.58:948][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_normal.uasset
+[2018.09.22-16.56.59:557][810]LogSavePackage: Save=581.22ms
+[2018.09.22-16.56.59:557][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_office_basecolor255CAED9409CCE45B27FAD9CAAA9BC8F.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_office_basecolor.uasset'
+[2018.09.22-16.56.59:565][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_office_basecolor.uasset
+[2018.09.22-16.57.00:891][810]LogSavePackage: Save=725.54ms
+[2018.09.22-16.57.00:891][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_Office_normal1862F67F440C978C66BC75A286168A98.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_Office_normal.uasset'
+[2018.09.22-16.57.00:899][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_Office_normal.uasset
+[2018.09.22-16.57.01:720][810]LogSavePackage: Save=221.06ms
+[2018.09.22-16.57.01:720][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_Office_roughnessC37A45C6418F48E6B69CF989468D9535.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_Office_roughness.uasset'
+[2018.09.22-16.57.01:731][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_Office_roughness.uasset
+[2018.09.22-16.57.02:189][810]LogSavePackage: Save=25.02ms
+[2018.09.22-16.57.02:189][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_Office_x61B54F814F189E5102CB97A6F174EFCC.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_Office_x.uasset'
+[2018.09.22-16.57.02:199][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_Office_x.uasset
+[2018.09.22-16.57.02:509][810]LogSavePackage: Save=2.51ms
+[2018.09.22-16.57.02:509][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_Office_x386B0A3B4B310E20498F7DA69E3C3842.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_Office_x.uasset'
+[2018.09.22-16.57.02:517][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_Office_x.uasset
+[2018.09.22-16.57.02:577][810]LogSavePackage: Save=18.96ms
+[2018.09.22-16.57.02:577][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_office_y7461FAA44273550121D5C799E5F412A3.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_office_y.uasset'
+[2018.09.22-16.57.02:585][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_office_y.uasset
+[2018.09.22-16.57.02:886][810]LogSavePackage: Save=2.39ms
+[2018.09.22-16.57.02:886][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_office_y9D9A971D4C08452FB0EE6994614A2C87.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_office_y.uasset'
+[2018.09.22-16.57.02:897][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_office_y.uasset
+[2018.09.22-16.57.03:106][810]LogSavePackage: Save=187.86ms
+[2018.09.22-16.57.03:107][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_roughness5145DB0845FCCFE936F86D82E56556D9.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_roughness.uasset'
+[2018.09.22-16.57.03:115][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_roughness.uasset
+[2018.09.22-16.57.03:485][810]LogSavePackage: Save=2.66ms
+[2018.09.22-16.57.03:485][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_roughnessD8BE0A524EAB80736AE03B9D488FB17F.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_roughness.uasset'
+[2018.09.22-16.57.03:496][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_roughness.uasset
+[2018.09.22-16.57.03:750][810]LogSavePackage: Save=232.26ms
+[2018.09.22-16.57.03:750][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_simpel_basecolorFEAEDC994883B07540E3F5A4D4774D46.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_simpel_basecolor.uasset'
+[2018.09.22-16.57.03:769][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_simpel_basecolor.uasset
+[2018.09.22-16.57.04:835][810]LogSavePackage: Save=3.23ms
+[2018.09.22-16.57.04:835][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_simpel_basecolor4378379943050F379E7E5C9183768CD0.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_simpel_basecolor.uasset'
+[2018.09.22-16.57.04:847][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_simpel_basecolor.uasset
+[2018.09.22-16.57.05:231][810]LogSavePackage: Save=355.07ms
+[2018.09.22-16.57.05:232][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_simpel_normal25A026EF40AC2E82B0AD6D99E46FFD41.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_simpel_normal.uasset'
+[2018.09.22-16.57.05:245][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_simpel_normal.uasset
+[2018.09.22-16.57.06:102][810]LogSavePackage: Save=3.10ms
+[2018.09.22-16.57.06:103][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_simpel_normal0F2FF53D4E0BAE5BCEA7D381DDC27ADD.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_simpel_normal.uasset'
+[2018.09.22-16.57.06:115][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_simpel_normal.uasset
+[2018.09.22-16.57.06:215][810]LogSavePackage: Save=74.88ms
+[2018.09.22-16.57.06:215][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_simpel_roughness2AE709FC43EED827940E8FA755D49B50.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_simpel_roughness.uasset'
+[2018.09.22-16.57.06:225][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Wallpaper_simpel_roughness.uasset
+[2018.09.22-16.57.06:718][810]LogSavePackage: Save=3.94ms
+[2018.09.22-16.57.06:718][810]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_simpel_roughnessF059EBD44547E467F985E784D9FEAAEE.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_simpel_roughness.uasset'
+[2018.09.22-16.57.06:730][810]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_simpel_roughness.uasset
+[2018.09.22-16.57.22:099][129]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.22-16.57.24:939][129]SourceControl: rm 'Content/Assets/Xtexture/Walls/base_color.uasset'
+[2018.09.22-16.57.49:713][163]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.22-16.57.50:531][163]SourceControl: rm 'Content/Assets/Xtexture/Walls/Wallpaper_simpel_basecolor.uasset'
+[2018.09.22-16.57.50:531][163]SourceControl: rm 'Content/Assets/Xtexture/Walls/Wallpaper_simpel_normal.uasset'
+[2018.09.22-16.57.50:531][163]SourceControl: rm 'Content/Assets/Xtexture/Walls/Wallpaper_simpel_roughness.uasset'
+[2018.09.22-16.57.58:099][563]LogSavePackage: Save=343.90ms
+[2018.09.22-16.57.58:099][563]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMapA03DEF514CF2C1E13B8231967DA82A9E.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.22-16.57.58:109][563]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.22-16.58.03:475][563]LogSavePackage: Save=5166.05ms
+[2018.09.22-16.58.03:476][563]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltData68B1249A448455D1D9829D8B8FB696F4.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.22-16.58.03:484][563]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.22-16.58.11:905][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Smal5)
