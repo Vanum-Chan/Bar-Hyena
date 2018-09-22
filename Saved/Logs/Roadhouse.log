@@ -1577,3 +1577,26 @@ LogInit: Object subsystem initialized
 [2018.09.22-18.20.00:572][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Office)
 [2018.09.22-18.20.05:173][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Storage)
 [2018.09.22-18.20.09:370][560]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-18.20.28:481][ 90]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Storage)
+[2018.09.22-18.20.35:373][448]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-18.20.38:893][653]Cmd: TRANSACTION UNDO
+[2018.09.22-18.20.38:893][653]LogEditorTransaction: Undo Move Actors
+[2018.09.22-18.20.47:616][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_WC)
+[2018.09.22-18.20.48:473][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Storage)
+[2018.09.22-18.20.52:015][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Office)
+[2018.09.22-18.20.55:416][598]Cmd: TRANSACTION UNDO
+[2018.09.22-18.20.55:416][598]LogEditorTransaction: Undo Move Actors
+[2018.09.22-18.21.01:954][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Fridge3)
+[2018.09.22-18.21.02:897][ 30]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-18.21.07:661][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-18.21.08:177][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Office)
+[2018.09.22-18.21.18:511][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-18.21.53:622][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Kitchen)
+[2018.09.22-18.21.57:688][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-18.22.51:952][856]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-18.22.53:244][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door2)
+[2018.09.22-18.22.54:140][977]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-18.22.58:629][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Office)
+[2018.09.22-18.23.02:294][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Kitchen)
+[2018.09.22-18.23.15:958][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside_Smal3)
+[2018.09.22-18.23.16:674][253]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
