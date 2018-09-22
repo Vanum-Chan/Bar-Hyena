@@ -1446,3 +1446,97 @@ LogInit: Object subsystem initialized
 [2018.09.22-17.55.58:201][347]Cmd: ACTOR DELETE
 [2018.09.22-17.55.58:208][347]LogEditorActor: Deleted Actor: StaticMeshActor
 [2018.09.22-17.55.58:225][347]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.09.22-17.58.44:614][666]LogSavePackage: Save=482.98ms
+[2018.09.22-17.58.44:614][666]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_Auto3E0EC8F0F4C3E863DE3680D9175F1F5B9.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2018.09.22-17.58.44:618][666]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap
+[2018.09.22-17.58.44:621][666]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.558
+[2018.09.22-17.58.44:621][666]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.558
+[2018.09.22-17.58.44:630][666]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xmodular/Ground] ([1] browsable assets)...
+[2018.09.22-17.58.44:665][666]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Xmodular/Ground.Ground]
+[2018.09.22-17.58.44:665][666]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xmodular/Ground]
+[2018.09.22-17.58.44:688][666]LogSavePackage: Save=18.77ms
+[2018.09.22-17.58.44:688][666]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Ground_Auto34808E6924D6DA6C0079F9B9AF02B5DCF.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/Ground_Auto3.uasset'
+[2018.09.22-17.58.44:693][666]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/Ground_Auto3.uasset
+[2018.09.22-17.58.44:693][666]LogFileHelpers: Auto-saving content packages took 0.068
+[2018.09.22-18.11.19:177][923]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.22-18.11.19:801][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-18.11.23:470][  7]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.22-18.11.23:491][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-18.11.23:541][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-18.12.18:156][346]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.22-18.12.23:302][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-18.12.23:556][625]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-18.12.23:990][625]LogSavePackage: Save=373.73ms
+[2018.09.22-18.12.23:990][625]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap27557F334D434F9CDCEF95915056327E.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.22-18.12.24:001][625]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.22-18.12.29:257][625]LogSavePackage: Save=5034.72ms
+[2018.09.22-18.12.29:257][625]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltData765900224B130C799EEF3485B32B9AA6.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.22-18.12.29:268][625]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.22-18.12.33:851][838]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.09.22-18.12.37:948][838]LogSlate: Window 'Submit Files' being destroyed
+[2018.09.22-18.12.43:308][838]LogSourceControl: commit successful: [Test f363074] xcv
+[2018.09.22-18.12.43:430][838]SourceControl: [Test f363074] xcv
+[2018.09.22-18.12.43:430][838]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.09.22-18.12.43:439][838]SourceControl: Commited [Test f363074] xcv.
+[2018.09.22-18.13.22:148][524]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Ground_Roof\Ground.fbx)
+[2018.09.22-18.13.22:161][524]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.09.22-18.13.22:161][524]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.09.22-18.13.22:161][524]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.09.22-18.13.22:161][524]LogFbx: ItemName: Geometry, ItemCount : 5
+[2018.09.22-18.13.22:162][524]LogFbx: ItemName: Material, ItemCount : 1
+[2018.09.22-18.13.22:162][524]LogFbx: ItemName: Model, ItemCount : 5
+[2018.09.22-18.13.22:168][524]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Ground_Roof\Ground.fbx
+[2018.09.22-18.13.22:181][524]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.22-18.13.32:810][524]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.22-18.13.32:878][524]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Ground_Roof\Ground.fbx
+[2018.09.22-18.13.32:893][524]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.22-18.13.32:894][524]LogFbx: Warning: Triangulating static mesh Bar
+[2018.09.22-18.13.32:895][524]LogStaticMesh: Building static mesh Ground_Bar...
+[2018.09.22-18.13.32:899][524]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/Ground_Bar.Ground_Bar
+[2018.09.22-18.13.32:910][524]LogFbx: Warning: Triangulating static mesh Kitchen
+[2018.09.22-18.13.32:912][524]LogStaticMesh: Building static mesh Ground_Kitchen...
+[2018.09.22-18.13.32:916][524]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/Ground_Kitchen.Ground_Kitchen
+[2018.09.22-18.13.32:926][524]LogFbx: Warning: Triangulating static mesh Storage
+[2018.09.22-18.13.32:929][524]LogStaticMesh: Building static mesh Ground_Storage...
+[2018.09.22-18.13.32:932][524]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/Ground_Storage.Ground_Storage
+[2018.09.22-18.13.32:942][524]LogFbx: Warning: Triangulating static mesh Office
+[2018.09.22-18.13.32:944][524]LogStaticMesh: Building static mesh Ground_Office...
+[2018.09.22-18.13.32:948][524]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/Ground_Office.Ground_Office
+[2018.09.22-18.13.32:959][524]LogFbx: Warning: Triangulating static mesh WC
+[2018.09.22-18.13.32:961][524]LogStaticMesh: Building static mesh Ground_WC...
+[2018.09.22-18.13.32:965][524]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/Ground_WC.Ground_WC
+[2018.09.22-18.15.37:779][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar)
+[2018.09.22-18.15.40:557][213]Cmd: DELETE
+[2018.09.22-18.15.40:557][213]Cmd: ACTOR DELETE
+[2018.09.22-18.15.40:565][213]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.22-18.15.40:583][213]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.09.22-18.15.41:345][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ktichen)
+[2018.09.22-18.15.41:625][267]Cmd: DELETE
+[2018.09.22-18.15.41:625][267]Cmd: ACTOR DELETE
+[2018.09.22-18.15.41:635][267]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.22-18.15.41:656][267]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.09.22-18.15.42:260][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door2)
+[2018.09.22-18.15.42:675][321]Cmd: DELETE
+[2018.09.22-18.15.42:675][321]Cmd: ACTOR DELETE
+[2018.09.22-18.15.42:680][321]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.22-18.15.42:697][321]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.09.22-18.15.44:645][436]Cmd: TRANSACTION UNDO
+[2018.09.22-18.15.44:645][436]LogEditorTransaction: Undo Delete Actors
+[2018.09.22-18.15.45:739][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Storage)
+[2018.09.22-18.15.46:759][546]Cmd: DELETE
+[2018.09.22-18.15.46:760][546]Cmd: ACTOR DELETE
+[2018.09.22-18.15.46:765][546]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.22-18.15.46:781][546]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.09.22-18.15.47:665][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Office)
+[2018.09.22-18.15.47:994][612]Cmd: DELETE
+[2018.09.22-18.15.47:995][612]Cmd: ACTOR DELETE
+[2018.09.22-18.15.48:001][612]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.22-18.15.48:016][612]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.09.22-18.15.48:749][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basics)
+[2018.09.22-18.15.51:590][810]Cmd: TRANSACTION UNDO
+[2018.09.22-18.15.51:590][810]LogEditorTransaction: Undo Move Actors
+[2018.09.22-18.15.54:262][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WC)
+[2018.09.22-18.15.55:337][ 15]Cmd: DELETE
+[2018.09.22-18.15.55:338][ 15]Cmd: ACTOR DELETE
+[2018.09.22-18.15.55:343][ 15]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.22-18.15.55:360][ 15]LogEditorActor: Deleted 1 Actors (0.022 secs)
