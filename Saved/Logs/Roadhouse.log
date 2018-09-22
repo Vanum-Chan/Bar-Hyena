@@ -956,3 +956,188 @@ LogInit: Object subsystem initialized
 [2018.09.22-17.00.35:917][380]LogShaderCompilers: Display: Shaders left to compile 11
 [2018.09.22-17.00.38:370][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.09.22-17.00.38:589][484]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-17.01.45:955][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-17.01.46:191][ 63]LogMaterial: Missing cached shader map for material Worldposition, compiling. 
+[2018.09.22-17.01.46:329][ 63]LogMaterial: Missing cached shader map for material Worldposition, compiling. 
+[2018.09.22-17.01.46:347][ 63]LogMaterial: Missing cached shader map for material Worldposition, compiling. 
+[2018.09.22-17.01.46:372][ 63]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.22-17.01.46:372][ 63]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.22-17.01.46:372][ 63]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.22-17.01.46:386][ 63]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.09.22-17.01.46:393][ 63]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2018.09.22-17.01.46:399][ 63]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.09.22-17.01.46:420][ 63]LogSlate: Took 0.003459 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.22-17.01.48:220][118]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.22-17.01.48:501][128]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.22-17.01.48:970][145]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.22-17.01.49:307][157]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.22-17.01.50:229][192]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.22-17.01.50:633][208]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.22-17.01.50:971][221]LogSlate: Window 'Worldposition' being destroyed
+[2018.09.22-17.01.50:981][221]LogSlate: Window 'Worldposition' being destroyed
+[2018.09.22-17.01.51:034][221]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Brickwall_smal_z, compiling. 
+[2018.09.22-17.01.53:927][221]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.22-17.01.53:928][221]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.22-17.01.53:928][221]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.22-17.01.53:928][221]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.22-17.01.53:928][221]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.22-17.01.53:928][221]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.22-17.01.53:928][221]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.22-17.01.53:928][221]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.22-17.01.53:928][221]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.22-17.01.53:928][221]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.22-17.01.53:928][221]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.22-17.01.53:928][221]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.22-17.01.53:928][221]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.22-17.01.53:928][221]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.22-17.01.53:928][221]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.22-17.01.53:928][221]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-17.01.53:934][221]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Paperwall_x, compiling. 
+[2018.09.22-17.01.54:213][221]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-17.01.54:215][221]TextureStreamingBuild: Display: Compiling optional shaders took 3.190 seconds.
+[2018.09.22-17.02.00:754][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-17.02.57:609][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-17.03.03:449][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-17.03.05:768][ 16]LogSlate: Window 'Brickwall_smal_z*' being destroyed
+[2018.09.22-17.03.05:777][ 16]LogSlate: Window 'Brickwall_smal_z*' being destroyed
+[2018.09.22-17.03.05:832][ 16]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Brickwall_smal_z, compiling. 
+[2018.09.22-17.03.06:419][ 16]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-17.03.06:426][ 16]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Paperwall_x, compiling. 
+[2018.09.22-17.03.06:715][ 16]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-17.03.06:717][ 16]TextureStreamingBuild: Display: Compiling optional shaders took 0.890 seconds.
+[2018.09.22-17.03.17:604][532]LogSavePackage: Save=16.16ms
+[2018.09.22-17.03.17:604][532]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Paperwall_inst1E15115CB45AF4F1E9282ADB08147E405.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Paperwall_inst1.uasset'
+[2018.09.22-17.03.17:611][532]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Paperwall_inst1.uasset
+[2018.09.22-17.03.40:029][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-17.03.59:642][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-17.04.23:181][806]LogMaterial: Missing cached shader map for material Worldposition, compiling. 
+[2018.09.22-17.04.23:306][806]LogMaterial: Missing cached shader map for material Worldposition, compiling. 
+[2018.09.22-17.04.23:319][806]LogMaterial: Missing cached shader map for material Worldposition, compiling. 
+[2018.09.22-17.04.23:351][806]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.22-17.04.23:351][806]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.22-17.04.23:351][806]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.22-17.04.23:365][806]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.09.22-17.04.23:376][806]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2018.09.22-17.04.23:382][806]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.09.22-17.04.26:674][916]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.22-17.04.26:873][923]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.22-17.04.26:901][924]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.22-17.04.28:121][965]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.22-17.04.28:233][969]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.22-17.04.28:316][972]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.22-17.04.29:611][ 16]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.22-17.04.30:938][ 63]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.22-17.04.31:381][ 79]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.22-17.04.32:401][115]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.22-17.04.33:110][140]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.22-17.04.33:947][169]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.22-17.04.35:299][216]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.22-17.04.35:677][228]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.22-17.04.36:497][257]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.22-17.04.37:914][308]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.22-17.04.38:200][318]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.22-17.04.38:454][327]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.22-17.04.38:487][328]MaterialEditorStats: Base pass shader: 113 instructions
+[2018.09.22-17.04.38:487][328]MaterialEditorStats: Base pass shader with Surface Lightmap: 130 instructions
+[2018.09.22-17.04.38:487][328]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 186 instructions
+[2018.09.22-17.04.38:487][328]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.09.22-17.04.38:487][328]MaterialEditorStats: Texture samplers: 6/16
+[2018.09.22-17.04.40:064][383]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.22-17.04.40:257][390]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.22-17.04.40:711][406]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-17.04.46:610][669]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2018.09.22-17.04.46:615][669]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2018.09.22-17.04.46:622][669]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2018.09.22-17.04.46:638][669]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.22-17.04.46:638][669]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.22-17.04.46:638][669]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.22-17.04.48:129][722]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.22-17.04.48:553][737]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.22-17.04.48:783][745]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-17.05.17:658][ 43]LogMaterial: Missing cached shader map for material Worldposition, compiling. 
+[2018.09.22-17.05.17:699][ 43]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.22-17.05.17:699][ 43]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.22-17.05.17:700][ 43]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.22-17.05.20:634][148]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.22-17.05.20:770][153]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.22-17.05.21:820][190]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.22-17.05.21:844][191]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.22-17.05.23:888][264]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.22-17.05.23:975][267]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.22-17.05.24:669][292]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.22-17.05.26:921][373]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.22-17.05.27:112][380]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.22-17.05.27:660][399]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.22-17.05.28:625][433]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.22-17.05.30:599][502]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.22-17.05.31:272][525]LogMaterial: Missing cached shader map for material Worldposition, compiling. 
+[2018.09.22-17.05.31:320][526]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.22-17.05.32:128][552]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.22-17.05.32:330][559]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.22-17.05.33:506][600]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.22-17.05.33:873][613]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.22-17.05.34:327][629]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.22-17.05.35:143][658]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.22-17.05.35:225][661]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.22-17.05.36:028][690]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.22-17.05.36:883][720]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.22-17.05.38:190][767]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.22-17.05.38:991][795]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.22-17.05.39:995][831]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.22-17.05.40:572][851]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.22-17.05.41:412][881]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.22-17.05.43:371][951]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.22-17.05.43:486][955]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.22-17.05.43:679][962]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-17.05.46:275][ 61]MaterialEditorStats: Base pass shader: 113 instructions
+[2018.09.22-17.05.46:275][ 61]MaterialEditorStats: Base pass shader with Surface Lightmap: 130 instructions
+[2018.09.22-17.05.46:275][ 61]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 186 instructions
+[2018.09.22-17.05.46:275][ 61]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.09.22-17.05.46:275][ 61]MaterialEditorStats: Texture samplers: 6/16
+[2018.09.22-17.06.05:497][980]LogMaterial: Missing cached shader map for material Worldposition, compiling. 
+[2018.09.22-17.06.05:538][980]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.22-17.06.05:539][980]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.22-17.06.05:539][980]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.22-17.06.07:560][ 53]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.22-17.06.07:730][ 59]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.22-17.06.07:840][ 63]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.22-17.06.09:274][115]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.22-17.06.09:398][119]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.22-17.06.09:573][125]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.22-17.06.10:695][167]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.22-17.06.12:230][223]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.22-17.06.12:890][248]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.22-17.06.13:653][276]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.22-17.06.14:379][303]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.22-17.06.15:094][330]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.22-17.06.16:304][366]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.22-17.06.16:355][366]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.22-17.06.16:609][366]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-17.06.17:498][366]LogSlate: Window 'Message' being destroyed
+[2018.09.22-17.06.17:507][366]LogSlate: Window 'Worldposition' being destroyed
+[2018.09.22-17.06.17:509][366]LogSlate: Window 'Worldposition' being destroyed
+[2018.09.22-17.06.17:557][366]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Paperwall_inst1, compiling. 
+[2018.09.22-17.06.17:846][366]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-17.06.17:848][366]TextureStreamingBuild: Display: Compiling optional shaders took 0.295 seconds.
+[2018.09.22-17.06.26:643][625]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.22-17.06.27:606][625]SourceControl: rm 'Content/Assets/Xtexture/Walls/Brickwall_smal_z.uasset'
+[2018.09.22-17.06.34:369][849]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.22-17.06.34:885][849]SourceControl: rm 'Content/Assets/Xtexture/Walls/Paperwall_inst1.uasset'
+[2018.09.22-17.06.40:171][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WC)
+[2018.09.22-17.06.41:542][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-17.06.43:335][287]LogMaterial: Missing cached shader map for material Toiletbrick_basecolor_Mat, compiling. 
+[2018.09.22-17.06.43:351][287]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.22-17.06.43:352][287]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.22-17.06.43:352][287]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.22-17.07.00:657][244]Cmd: TRANSACTION UNDO
+[2018.09.22-17.07.00:657][244]LogEditorTransaction: Undo Create Actors
+[2018.09.22-17.07.03:035][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-17.07.09:224][640]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.22-17.07.18:383][175]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-17.07.18:532][175]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-17.07.18:938][175]LogSavePackage: Save=353.80ms
+[2018.09.22-17.07.18:938][175]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMapBDF2DBCB484A62025781A8AD55E86BEA.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.22-17.07.18:948][175]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.22-17.07.23:997][175]LogSavePackage: Save=4842.72ms
+[2018.09.22-17.07.23:997][175]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltData7340C19543FC3215C4363B97E121DDFF.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.22-17.07.24:005][175]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
