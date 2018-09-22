@@ -1600,3 +1600,50 @@ LogInit: Object subsystem initialized
 [2018.09.22-18.23.02:294][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Kitchen)
 [2018.09.22-18.23.15:958][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside_Smal3)
 [2018.09.22-18.23.16:674][253]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-18.23.38:415][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Office)
+[2018.09.22-18.23.38:837][ 50]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Office)
+[2018.09.22-18.23.40:155][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-18.23.45:218][342]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-18.24.02:634][340]Cmd: TRANSACTION UNDO
+[2018.09.22-18.24.02:634][340]LogEditorTransaction: Undo Move Actors
+[2018.09.22-18.24.03:016][358]Cmd: TRANSACTION UNDO
+[2018.09.22-18.24.03:016][358]LogEditorTransaction: Undo Move Actors
+[2018.09.22-18.24.03:443][381]Cmd: TRANSACTION UNDO
+[2018.09.22-18.24.03:443][381]LogEditorTransaction: Undo Move Actors
+[2018.09.22-18.24.07:250][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Office)
+[2018.09.22-18.24.39:328][881]LogSavePackage: Save=475.50ms
+[2018.09.22-18.24.39:328][881]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_Auto4936C45AD447A635D450CEE927FEEB56C.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2018.09.22-18.24.39:334][881]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap
+[2018.09.22-18.24.39:337][881]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.545
+[2018.09.22-18.24.39:337][881]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.545
+[2018.09.22-18.24.39:344][881]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xmodular/Ground_Office] ([1] browsable assets)...
+[2018.09.22-18.24.39:369][881]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Xmodular/Ground_Office.Ground_Office]
+[2018.09.22-18.24.39:369][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xmodular/Ground_Office]
+[2018.09.22-18.24.39:393][881]LogSavePackage: Save=18.73ms
+[2018.09.22-18.24.39:393][881]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Ground_Office_Auto4807BBB424AE40A8664DD579DBE252A5B.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/Ground_Office_Auto4.uasset'
+[2018.09.22-18.24.39:398][881]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/Ground_Office_Auto4.uasset
+[2018.09.22-18.24.39:401][881]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xmodular/Ground_WC] ([1] browsable assets)...
+[2018.09.22-18.24.39:421][881]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Xmodular/Ground_WC.Ground_WC]
+[2018.09.22-18.24.39:421][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xmodular/Ground_WC]
+[2018.09.22-18.24.39:439][881]LogSavePackage: Save=15.16ms
+[2018.09.22-18.24.39:439][881]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Ground_WC_Auto441B8C82E4A56B13E9C5AABBC57BF6CA3.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/Ground_WC_Auto4.uasset'
+[2018.09.22-18.24.39:443][881]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/Ground_WC_Auto4.uasset
+[2018.09.22-18.24.39:446][881]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xmodular/Ground_Storage] ([1] browsable assets)...
+[2018.09.22-18.24.39:467][881]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Xmodular/Ground_Storage.Ground_Storage]
+[2018.09.22-18.24.39:467][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xmodular/Ground_Storage]
+[2018.09.22-18.24.39:485][881]LogSavePackage: Save=14.74ms
+[2018.09.22-18.24.39:485][881]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Ground_Storage_Auto4D9381A60456C4A4D1678489B1C9ABC42.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/Ground_Storage_Auto4.uasset'
+[2018.09.22-18.24.39:488][881]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/Ground_Storage_Auto4.uasset
+[2018.09.22-18.24.39:490][881]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xmodular/Ground_Bar] ([1] browsable assets)...
+[2018.09.22-18.24.39:510][881]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Xmodular/Ground_Bar.Ground_Bar]
+[2018.09.22-18.24.39:510][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xmodular/Ground_Bar]
+[2018.09.22-18.24.39:528][881]LogSavePackage: Save=14.67ms
+[2018.09.22-18.24.39:528][881]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Ground_Bar_Auto4856013464B288DC4CD1E1BA6EBB3D5F6.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/Ground_Bar_Auto4.uasset'
+[2018.09.22-18.24.39:532][881]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/Ground_Bar_Auto4.uasset
+[2018.09.22-18.24.39:535][881]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xmodular/Ground_Kitchen] ([1] browsable assets)...
+[2018.09.22-18.24.39:556][881]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Xmodular/Ground_Kitchen.Ground_Kitchen]
+[2018.09.22-18.24.39:556][881]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xmodular/Ground_Kitchen]
+[2018.09.22-18.24.39:576][881]LogSavePackage: Save=15.13ms
+[2018.09.22-18.24.39:576][881]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Ground_Kitchen_Auto4AB3FCCA24C49B022F34E1A91A2BDEC6F.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/Ground_Kitchen_Auto4.uasset'
+[2018.09.22-18.24.39:580][881]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/Ground_Kitchen_Auto4.uasset
+[2018.09.22-18.24.39:580][881]LogFileHelpers: Auto-saving content packages took 0.240
