@@ -1540,3 +1540,40 @@ LogInit: Object subsystem initialized
 [2018.09.22-18.15.55:338][ 15]Cmd: ACTOR DELETE
 [2018.09.22-18.15.55:343][ 15]LogEditorActor: Deleted Actor: StaticMeshActor
 [2018.09.22-18.15.55:360][ 15]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2018.09.22-18.17.32:778][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-18.17.32:995][574]LogActorFactory: Actor Factory created Ground_Bar
+[2018.09.22-18.17.33:359][595]LogActorFactory: Actor Factory created Ground_Bar
+[2018.09.22-18.17.35:667][725]Cmd: TRANSACTION UNDO
+[2018.09.22-18.17.35:667][725]LogEditorTransaction: Undo Create Actors
+[2018.09.22-18.17.37:239][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-18.17.40:849][908]LogActorFactory: Actor Factory created Ground_Bar
+[2018.09.22-18.17.40:850][908]LogActorFactory: Actor Factory created Ground_Kitchen
+[2018.09.22-18.17.40:851][908]LogActorFactory: Actor Factory created Ground_Office
+[2018.09.22-18.17.40:852][908]LogActorFactory: Actor Factory created Ground_Storage
+[2018.09.22-18.17.40:853][908]LogActorFactory: Actor Factory created Ground_WC
+[2018.09.22-18.17.42:407][  0]LogActorFactory: Actor Factory created Ground_Bar
+[2018.09.22-18.17.42:408][  0]LogActorFactory: Actor Factory created Ground_Kitchen
+[2018.09.22-18.17.42:409][  0]LogActorFactory: Actor Factory created Ground_Office
+[2018.09.22-18.17.42:411][  0]LogActorFactory: Actor Factory created Ground_Storage
+[2018.09.22-18.17.42:414][  0]LogActorFactory: Actor Factory created Ground_WC
+[2018.09.22-18.17.44:878][146]LogActorFactory: Actor Factory created Ground_Bar
+[2018.09.22-18.17.44:903][146]LogActorFactory: Actor Factory created Ground_Kitchen
+[2018.09.22-18.17.44:931][146]LogActorFactory: Actor Factory created Ground_Office
+[2018.09.22-18.17.44:957][146]LogActorFactory: Actor Factory created Ground_Storage
+[2018.09.22-18.17.44:985][146]LogActorFactory: Actor Factory created Ground_WC
+[2018.09.22-18.17.48:025][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-18.18.30:609][884]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-18.18.36:005][197]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-18.18.41:658][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2018.09.22-18.18.43:421][624]Cmd: TRANSACTION UNDO
+[2018.09.22-18.18.43:421][624]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.22-18.18.45:797][753]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-18.19.25:211][ 53]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.22-18.19.26:632][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Smal)
+[2018.09.22-18.19.27:579][182]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-18.19.42:987][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Storage)
+[2018.09.22-18.19.44:587][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-18.19.59:468][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Storage)
+[2018.09.22-18.20.00:572][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Office)
+[2018.09.22-18.20.05:173][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Storage)
+[2018.09.22-18.20.09:370][560]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
