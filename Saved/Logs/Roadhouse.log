@@ -1371,3 +1371,12 @@ LogInit: Object subsystem initialized
 [2018.09.22-17.38.36:768][728]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap
 [2018.09.22-17.38.36:771][728]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.373
 [2018.09.22-17.38.36:771][728]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.373
+[2018.09.22-17.47.48:586][294]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Ground_Roof\Ground.fbx)
+[2018.09.22-17.47.48:621][294]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.09.22-17.47.48:621][294]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.09.22-17.47.48:621][294]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.09.22-17.47.48:621][294]LogFbx: ItemName: Geometry, ItemCount : 5
+[2018.09.22-17.47.48:621][294]LogFbx: ItemName: Material, ItemCount : 1
+[2018.09.22-17.47.48:621][294]LogFbx: ItemName: Model, ItemCount : 5
+[2018.09.22-17.47.48:631][294]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Ground_Roof\Ground.fbx
+[2018.09.22-17.47.48:644][294]LogFbx: FBX Scene Loaded Succesfully
