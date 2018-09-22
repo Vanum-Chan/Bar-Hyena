@@ -1380,3 +1380,69 @@ LogInit: Object subsystem initialized
 [2018.09.22-17.47.48:621][294]LogFbx: ItemName: Model, ItemCount : 5
 [2018.09.22-17.47.48:631][294]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Ground_Roof\Ground.fbx
 [2018.09.22-17.47.48:644][294]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.22-17.48.14:920][294]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.22-17.48.14:964][294]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Ground_Roof\Ground.fbx
+[2018.09.22-17.48.14:974][294]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.22-17.48.14:978][294]LogFbx: Warning: Triangulating static mesh Bar
+[2018.09.22-17.48.14:981][294]LogFbx: Warning: Triangulating static mesh Kitchen
+[2018.09.22-17.48.14:982][294]LogFbx: Warning: Triangulating static mesh Storage
+[2018.09.22-17.48.14:983][294]LogFbx: Warning: Triangulating static mesh Office
+[2018.09.22-17.48.14:984][294]LogFbx: Warning: Triangulating static mesh WC
+[2018.09.22-17.48.14:986][294]LogStaticMesh: Building static mesh Ground...
+[2018.09.22-17.48.14:990][294]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/Ground.Ground
+[2018.09.22-17.48.22:623][472]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.22-17.48.27:656][742]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.22-17.48.28:299][775]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-17.48.30:820][914]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.09.22-17.48.31:049][914]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-17.48.33:055][914]LogSlate: Window 'Save Content' being destroyed
+[2018.09.22-17.48.33:074][914]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-17.48.33:314][914]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-17.48.33:877][914]LogSavePackage: Save=325.10ms
+[2018.09.22-17.48.33:877][914]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap8D4604B74913C60C07089C8BF3995982.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.22-17.48.33:887][914]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.22-17.48.33:913][914]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.586
+[2018.09.22-17.48.33:948][914]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-17.48.36:969][914]LogSlate: Window 'Submit Files' being destroyed
+[2018.09.22-17.48.37:001][914]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-17.48.37:563][914]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-17.48.40:441][914]LogSourceControl: commit successful: [Test 5f36f86] ysdf
+[2018.09.22-17.48.40:539][914]SourceControl: [Test 5f36f86] ysdf
+[2018.09.22-17.48.40:539][914]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.09.22-17.48.40:551][914]SourceControl: Commited [Test 5f36f86] ysdf.
+[2018.09.22-17.48.43:188][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-17.48.43:395][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-17.48.43:768][ 60]LogSavePackage: Save=329.14ms
+[2018.09.22-17.48.43:768][ 60]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMapAB93E72447C1A695D9F4B6A927D327DF.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.22-17.48.43:776][ 60]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.22-17.48.48:681][ 60]LogSavePackage: Save=4708.79ms
+[2018.09.22-17.48.48:681][ 60]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataD8CBF58147B8A2DA87299B9DCED34A46.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.22-17.48.48:688][ 60]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.22-17.55.31:155][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-17.55.42:043][590]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.22-17.55.42:182][590]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Ground_Roof\Ground.fbx)
+[2018.09.22-17.55.42:193][590]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.09.22-17.55.42:193][590]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.09.22-17.55.42:193][590]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.09.22-17.55.42:193][590]LogFbx: ItemName: Geometry, ItemCount : 5
+[2018.09.22-17.55.42:193][590]LogFbx: ItemName: Material, ItemCount : 1
+[2018.09.22-17.55.42:193][590]LogFbx: ItemName: Model, ItemCount : 5
+[2018.09.22-17.55.42:199][590]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Ground_Roof\Ground.fbx
+[2018.09.22-17.55.42:208][590]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.22-17.55.44:455][590]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.22-17.55.44:499][590]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Ground_Roof\Ground.fbx
+[2018.09.22-17.55.44:509][590]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.22-17.55.44:510][590]LogFbx: Warning: Triangulating static mesh Bar
+[2018.09.22-17.55.44:511][590]LogFbx: Warning: Triangulating static mesh Kitchen
+[2018.09.22-17.55.44:511][590]LogFbx: Warning: Triangulating static mesh Storage
+[2018.09.22-17.55.44:512][590]LogFbx: Warning: Triangulating static mesh Office
+[2018.09.22-17.55.44:513][590]LogFbx: Warning: Triangulating static mesh WC
+[2018.09.22-17.55.44:515][590]LogStaticMesh: Building static mesh Ground...
+[2018.09.22-17.55.44:519][590]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Xmodular/Ground.Ground
+[2018.09.22-17.55.45:727][618]LogActorFactory: Actor Factory created Ground
+[2018.09.22-17.55.47:510][718]LogActorFactory: Actor Factory created Ground
+[2018.09.22-17.55.48:647][779]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-17.55.58:201][347]Cmd: DELETE
+[2018.09.22-17.55.58:201][347]Cmd: ACTOR DELETE
+[2018.09.22-17.55.58:208][347]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.22-17.55.58:225][347]LogEditorActor: Deleted 1 Actors (0.024 secs)
