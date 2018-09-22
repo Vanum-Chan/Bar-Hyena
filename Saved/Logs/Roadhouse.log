@@ -936,3 +936,23 @@ LogInit: Object subsystem initialized
 [2018.09.22-16.58.03:476][563]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltData68B1249A448455D1D9829D8B8FB696F4.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
 [2018.09.22-16.58.03:484][563]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
 [2018.09.22-16.58.11:905][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Smal5)
+[2018.09.22-16.58.28:194][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.58.50:416][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar)
+[2018.09.22-16.58.57:914][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WC)
+[2018.09.22-16.58.59:004][ 53]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.59.05:311][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.59.27:504][489]LogSavePackage: Save=18.04ms
+[2018.09.22-16.59.27:504][489]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Brickwall_smal_zB9DD08EB4F8AD8D0218824ABD1C8D2D7.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Brickwall_smal_z.uasset'
+[2018.09.22-16.59.27:512][489]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Walls/Brickwall_smal_z.uasset
+[2018.09.22-16.59.34:224][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.59.41:324][ 94]LogMaterial: Missing cached shader map for material Worldposition, compiling. 
+[2018.09.22-16.59.41:416][ 94]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.22-16.59.41:416][ 94]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.22-16.59.41:416][ 94]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.22-17.00.11:174][337]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-17.00.11:446][348]LogMaterial: Missing cached shader map for material Worldposition, compiling. 
+[2018.09.22-17.00.13:241][417]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.22-17.00.25:003][916]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.22-17.00.35:917][380]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.22-17.00.38:370][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-17.00.38:589][484]LogShaderCompilers: Display: Shaders left to compile 1
