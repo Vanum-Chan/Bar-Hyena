@@ -450,3 +450,187 @@ LogInit: Object subsystem initialized
 [2018.09.22-16.30.02:954][984]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
 [2018.09.22-16.30.02:963][984]SourceControl: Commited [Test ebde643] sd.
 [2018.09.22-16.30.04:642][ 72]LogSlate: Took 0.006841 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.22-16.30.17:373][425]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.22-16.30.26:373][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.30.41:469][512]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wallpaper_Office_x, compiling. 
+[2018.09.22-16.30.42:220][512]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-16.30.42:222][512]TextureStreamingBuild: Display: Compiling optional shaders took 0.762 seconds.
+[2018.09.22-16.30.42:274][512]LogSavePackage: Save=20.23ms
+[2018.09.22-16.30.42:274][512]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_Office_x6B658DD540CE0AE41ED4C99B87A8441E.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_Office_x.uasset'
+[2018.09.22-16.30.42:282][512]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_Office_x.uasset
+[2018.09.22-16.30.47:198][771]LogSlate: Window 'Wallpaper_Office_x' being destroyed
+[2018.09.22-16.30.47:210][771]LogSlate: Window 'Wallpaper_Office_x' being destroyed
+[2018.09.22-16.30.59:572][353]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wallpaper_office_y, compiling. 
+[2018.09.22-16.30.59:886][353]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-16.30.59:891][353]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Paperwall_x, compiling. 
+[2018.09.22-16.31.00:238][353]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-16.31.00:240][353]TextureStreamingBuild: Display: Compiling optional shaders took 0.676 seconds.
+[2018.09.22-16.31.00:289][353]LogSavePackage: Save=17.70ms
+[2018.09.22-16.31.00:289][353]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_office_y9C12A7C245C3FCF79F7E6BBA7CEFBAE3.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_office_y.uasset'
+[2018.09.22-16.31.00:298][353]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_office_y.uasset
+[2018.09.22-16.31.04:142][548]LogSlate: Window 'Wallpaper_office_y' being destroyed
+[2018.09.22-16.31.04:151][548]LogSlate: Window 'Wallpaper_office_y' being destroyed
+[2018.09.22-16.31.09:638][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door3)
+[2018.09.22-16.31.17:405][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.31.54:494][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Wallpaper_Bar_x" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_Bar_x.uasset" SILENT=true
+[2018.09.22-16.31.54:521][985]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wallpaper_Bar_x, compiling. 
+[2018.09.22-16.31.55:140][985]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-16.31.55:142][985]TextureStreamingBuild: Display: Compiling optional shaders took 0.625 seconds.
+[2018.09.22-16.31.55:187][985]LogSavePackage: Save=15.97ms
+[2018.09.22-16.31.55:187][985]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_Bar_x20E56A234B19F763F50822BA9D818365.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_Bar_x.uasset'
+[2018.09.22-16.31.55:195][985]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_Bar_x.uasset
+[2018.09.22-16.31.59:146][173]LogSlate: Window 'Wallpaper_Bar_x' being destroyed
+[2018.09.22-16.31.59:157][173]LogSlate: Window 'Wallpaper_Bar_x' being destroyed
+[2018.09.22-16.32.29:020][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.32.29:293][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Wallpaper_Bar_y" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_Bar_y.uasset" SILENT=true
+[2018.09.22-16.32.29:320][591]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wallpaper_Bar_y, compiling. 
+[2018.09.22-16.32.29:998][591]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-16.32.30:004][591]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Paperwall_x, compiling. 
+[2018.09.22-16.32.30:328][591]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-16.32.30:334][591]TextureStreamingBuild: Display: Compiling optional shaders took 1.017 seconds.
+[2018.09.22-16.32.30:381][591]LogSavePackage: Save=19.93ms
+[2018.09.22-16.32.30:381][591]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_Bar_y69A8105148FA30257A8734B4C263B30C.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_Bar_y.uasset'
+[2018.09.22-16.32.30:390][591]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_Bar_y.uasset
+[2018.09.22-16.32.37:981][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Wallpaper_Bar_y" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_Bar_y.uasset" SILENT=true
+[2018.09.22-16.32.38:009][730]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Wallpaper_Bar_y, compiling. 
+[2018.09.22-16.32.38:355][730]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-16.32.38:360][730]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Paperwall_x, compiling. 
+[2018.09.22-16.32.38:775][730]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-16.32.38:777][730]TextureStreamingBuild: Display: Compiling optional shaders took 0.773 seconds.
+[2018.09.22-16.32.38:810][730]LogSavePackage: Save=4.25ms
+[2018.09.22-16.32.38:810][730]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_Bar_y3882227E474B758EA524B1BD5C7E2E10.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_Bar_y.uasset'
+[2018.09.22-16.32.38:818][730]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_Bar_y.uasset
+[2018.09.22-16.32.45:044][  7]LogSlate: Window 'Wallpaper_Bar_y' being destroyed
+[2018.09.22-16.32.45:057][  7]LogSlate: Window 'Wallpaper_Bar_y' being destroyed
+[2018.09.22-16.32.48:311][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Smal6)
+[2018.09.22-16.32.48:716][193]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.33.30:600][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside19)
+[2018.09.22-16.33.36:141][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside21)
+[2018.09.22-16.33.37:232][113]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.33.43:271][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.33.46:453][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Brickwall_big_x_2" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Brickwall_big_x_2.uasset" SILENT=true
+[2018.09.22-16.33.46:475][594]LogSavePackage: Save=19.09ms
+[2018.09.22-16.33.46:475][594]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Brickwall_big_x_258E94B1E41AB86BEEFF4E5BD2C54855D.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Brickwall_big_x_2.uasset'
+[2018.09.22-16.33.46:485][594]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Brickwall_big_x_2.uasset
+[2018.09.22-16.33.46:804][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Brickwall_big_y_2" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Brickwall_big_y_2.uasset" SILENT=true
+[2018.09.22-16.33.46:829][594]LogSavePackage: Save=21.65ms
+[2018.09.22-16.33.46:829][594]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Brickwall_big_y_223EC56824C8673FC933BE981594DBF2B.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Brickwall_big_y_2.uasset'
+[2018.09.22-16.33.46:837][594]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Brickwall_big_y_2.uasset
+[2018.09.22-16.33.55:138][929]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.22-16.33.55:704][929]SourceControl: rm 'Content/Assets/Xtexture/Brickwall_big_x_2.uasset'
+[2018.09.22-16.33.57:986][978]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.22-16.33.58:534][978]SourceControl: rm 'Content/Assets/Xtexture/Brickwall_big_y_2.uasset'
+[2018.09.22-16.34.04:412][297]LogSavePackage: Save=21.73ms
+[2018.09.22-16.34.04:413][297]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_office_y_22E3829DD4D9778848C67BCBC970984CD.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_office_y_2.uasset'
+[2018.09.22-16.34.04:420][297]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_office_y_2.uasset
+[2018.09.22-16.34.04:738][297]LogSavePackage: Save=18.30ms
+[2018.09.22-16.34.04:738][297]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallpaper_Office_x_2BE9C786941F9C48046167A8DBF7D81F4.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_Office_x_2.uasset'
+[2018.09.22-16.34.04:749][297]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Wallpaper_Office_x_2.uasset
+[2018.09.22-16.34.20:838][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/P_x_2" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/P_x_2.uasset" SILENT=true
+[2018.09.22-16.34.20:864][110]LogSavePackage: Save=19.15ms
+[2018.09.22-16.34.20:864][110]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/P_x_2C1F83E4A4B5E28C8373B43A36B052BB2.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/P_x_2.uasset'
+[2018.09.22-16.34.20:871][110]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/P_x_2.uasset
+[2018.09.22-16.34.22:295][110]SourceControl: rm 'Content/Assets/Xtexture/Wallpaper_Office_x_2.uasset'
+[2018.09.22-16.34.51:126][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Plaster_x" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Plaster_x.uasset" SILENT=true
+[2018.09.22-16.34.51:150][558]LogSavePackage: Save=20.20ms
+[2018.09.22-16.34.51:150][558]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Plaster_xBF0AC2AE486421184D56E1A845C8A01B.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Plaster_x.uasset'
+[2018.09.22-16.34.51:161][558]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Plaster_x.uasset
+[2018.09.22-16.34.52:325][558]SourceControl: rm 'Content/Assets/Xtexture/P_x_2.uasset'
+[2018.09.22-16.35.00:053][945]LogSlate: Window 'Wallpaper_office_y_2' being destroyed
+[2018.09.22-16.35.00:065][945]LogSlate: Window 'Wallpaper_office_y_2' being destroyed
+[2018.09.22-16.35.14:616][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Plaster_y" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Plaster_y.uasset" SILENT=true
+[2018.09.22-16.35.14:641][698]LogSavePackage: Save=21.85ms
+[2018.09.22-16.35.14:641][698]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Plaster_yF9CE1F104936873F01169DA97FC99DE9.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Plaster_y.uasset'
+[2018.09.22-16.35.14:650][698]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Plaster_y.uasset
+[2018.09.22-16.35.15:798][698]SourceControl: rm 'Content/Assets/Xtexture/Wallpaper_office_y_2.uasset'
+[2018.09.22-16.35.33:683][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Plaster_x" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Plaster_x.uasset" SILENT=true
+[2018.09.22-16.35.33:711][504]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Plaster_x, compiling. 
+[2018.09.22-16.35.34:343][504]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-16.35.34:344][504]TextureStreamingBuild: Display: Compiling optional shaders took 0.642 seconds.
+[2018.09.22-16.35.34:391][504]LogSavePackage: Save=16.00ms
+[2018.09.22-16.35.34:391][504]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Plaster_x2FF1918F41502ECBD47174B541A0DF82.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Plaster_x.uasset'
+[2018.09.22-16.35.34:399][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Plaster_x.uasset
+[2018.09.22-16.35.41:699][885]LogSlate: Window 'Plaster_x' being destroyed
+[2018.09.22-16.35.41:711][885]LogSlate: Window 'Plaster_x' being destroyed
+[2018.09.22-16.35.57:814][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.35.57:899][642]LogSlate: Window 'Plaster_y*' being destroyed
+[2018.09.22-16.35.57:910][642]LogSlate: Window 'Plaster_y*' being destroyed
+[2018.09.22-16.35.57:968][642]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Plaster_y, compiling. 
+[2018.09.22-16.35.58:614][642]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-16.35.58:619][642]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Paperwall_x, compiling. 
+[2018.09.22-16.35.58:933][642]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-16.35.58:936][642]TextureStreamingBuild: Display: Compiling optional shaders took 0.973 seconds.
+[2018.09.22-16.36.04:786][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Xtexture/Plaster_y" FILE="../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Plaster_y.uasset" SILENT=true
+[2018.09.22-16.36.04:816][910]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Plaster_y, compiling. 
+[2018.09.22-16.36.05:206][910]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-16.36.05:212][910]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Paperwall_x, compiling. 
+[2018.09.22-16.36.05:526][910]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.22-16.36.05:528][910]TextureStreamingBuild: Display: Compiling optional shaders took 0.717 seconds.
+[2018.09.22-16.36.05:575][910]LogSavePackage: Save=16.22ms
+[2018.09.22-16.36.05:575][910]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Plaster_yF8A8FC9249840524D22144990A00F5A0.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Plaster_y.uasset'
+[2018.09.22-16.36.05:583][910]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/Plaster_y.uasset
+[2018.09.22-16.36.08:431][ 51]LogSlate: Window 'Plaster_y' being destroyed
+[2018.09.22-16.36.08:442][ 51]LogSlate: Window 'Plaster_y' being destroyed
+[2018.09.22-16.36.15:760][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside20)
+[2018.09.22-16.36.17:909][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.36.20:780][749]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.36.26:524][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Fridge3)
+[2018.09.22-16.36.28:864][217]Cmd: ACTOR HIDE SELECTED
+[2018.09.22-16.36.32:779][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.36.34:691][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.36.36:647][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.36.39:640][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.36.41:480][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.36.45:415][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basics12)
+[2018.09.22-16.36.52:214][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.36.53:665][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.36.55:693][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.36.58:389][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.36.59:913][932]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.37.02:741][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.37.04:409][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.37.05:729][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.37.10:372][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.22-16.37.18:010][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.37.18:629][681]LogSavePackage: Save=374.00ms
+[2018.09.22-16.37.18:629][681]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMapFB00439148C7AABA49CC4DA160789206.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.22-16.37.18:639][681]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.22-16.37.24:732][681]LogSavePackage: Save=5863.98ms
+[2018.09.22-16.37.24:733][681]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltData1C1EFA1844EC0DA33A1C8E8CFA92EDF0.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.22-16.37.24:742][681]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.22-16.37.57:131][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.22-16.37.59:994][750]Cmd: ACTOR HIDE SELECTED
+[2018.09.22-16.38.00:445][777]Cmd: ACTOR HIDE SELECTED
+[2018.09.22-16.38.01:057][813]Cmd: ACTOR HIDE SELECTED
+[2018.09.22-16.38.02:542][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.38.05:285][ 65]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.22-16.38.11:953][456]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.22-16.38.21:359][ 10]Cmd: TRANSACTION UNDO
+[2018.09.22-16.38.21:359][ 10]LogEditorTransaction: Undo Move Actors
+[2018.09.22-16.38.22:706][ 83]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.22-16.38.26:003][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Flor_E)
+[2018.09.22-16.38.38:929][ 27]Cmd: TRANSACTION UNDO
+[2018.09.22-16.38.38:929][ 27]LogEditorTransaction: Undo Scale Actors
+[2018.09.22-16.38.45:627][414]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.22-16.38.48:253][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.38.58:262][150]LogActorFactory: Actor Factory created Cube
+[2018.09.22-16.38.58:968][190]LogActorFactory: Actor Factory created Cube
+[2018.09.22-16.39.02:637][402]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.39.09:326][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.39.19:532][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.22-16.39.26:615][620]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.22-16.39.27:848][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.22-16.39.33:860][ 37]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.40.32:531][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.22-16.40.56:633][887]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.41.09:808][653]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.41.47:086][828]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.42.25:035][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.22-16.43.23:090][138]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.43.24:274][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside9)
+[2018.09.22-16.43.24:544][216]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.43.29:097][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.22-16.43.31:181][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door5)
+[2018.09.22-16.43.31:477][611]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.22-16.43.39:557][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2018.09.22-16.43.42:685][260]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
