@@ -2098,3 +2098,1210 @@ LogInit: Object subsystem initialized
 [2018.09.24-14.16.00:018][105]LogFbx: Warning: Triangulating static mesh WallCorner
 [2018.09.24-14.16.00:020][105]LogStaticMesh: Building static mesh WallCorner...
 [2018.09.24-14.16.00:022][105]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallCorner.WallCorner
+[2018.09.24-14.16.38:722][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.16.38:944][382]LogActorFactory: Actor Factory created WallCorner
+[2018.09.24-14.16.38:945][382]LogActorFactory: Actor Factory created WallDoor
+[2018.09.24-14.16.38:947][382]LogActorFactory: Actor Factory created WallEntrance
+[2018.09.24-14.16.38:948][382]LogActorFactory: Actor Factory created WallInside
+[2018.09.24-14.16.38:950][382]LogActorFactory: Actor Factory created WallOutside
+[2018.09.24-14.16.38:951][382]LogActorFactory: Actor Factory created WallSmalInside
+[2018.09.24-14.16.38:952][382]LogActorFactory: Actor Factory created WallSmalOutside
+[2018.09.24-14.16.38:954][382]LogActorFactory: Actor Factory created WallWindow
+[2018.09.24-14.16.38:955][382]LogActorFactory: Actor Factory created WallWindowSmal
+[2018.09.24-14.16.39:777][427]LogActorFactory: Actor Factory created WallCorner
+[2018.09.24-14.16.39:806][427]LogActorFactory: Actor Factory created WallDoor
+[2018.09.24-14.16.39:835][427]LogActorFactory: Actor Factory created WallEntrance
+[2018.09.24-14.16.39:863][427]LogActorFactory: Actor Factory created WallInside
+[2018.09.24-14.16.39:893][427]LogActorFactory: Actor Factory created WallOutside
+[2018.09.24-14.16.39:922][427]LogActorFactory: Actor Factory created WallSmalInside
+[2018.09.24-14.16.39:953][427]LogActorFactory: Actor Factory created WallSmalOutside
+[2018.09.24-14.16.39:982][427]LogActorFactory: Actor Factory created WallWindow
+[2018.09.24-14.16.40:010][427]LogActorFactory: Actor Factory created WallWindowSmal
+[2018.09.24-14.16.43:654][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.16.54:009][236]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.16.54:025][236]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.09.24-14.17.24:071][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner3)
+[2018.09.24-14.17.29:928][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.17.42:854][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallEntrance2)
+[2018.09.24-14.17.45:056][252]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-14.17.49:131][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner3)
+[2018.09.24-14.17.58:095][994]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.18.03:200][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.18.12:134][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner3)
+[2018.09.24-14.18.15:529][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWindowSmal)
+[2018.09.24-14.18.17:525][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.18.27:151][683]Cmd: TRANSACTION UNDO
+[2018.09.24-14.18.27:151][683]LogEditorTransaction: Undo Move Actors
+[2018.09.24-14.18.32:606][998]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.18.43:618][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2018.09.24-14.19.03:962][831]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner3)
+[2018.09.24-14.19.05:964][942]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.19.09:822][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside2)
+[2018.09.24-14.19.10:862][215]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner3)
+[2018.09.24-14.19.12:120][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner3)
+[2018.09.24-14.19.23:116][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.19.29:045][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside2)
+[2018.09.24-14.19.33:143][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner3)
+[2018.09.24-14.19.34:533][456]Cmd: TRANSACTION UNDO
+[2018.09.24-14.19.34:533][456]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.24-14.19.35:720][516]Cmd: TRANSACTION UNDO
+[2018.09.24-14.19.35:720][516]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.24-14.19.37:107][594]Cmd: TRANSACTION UNDO
+[2018.09.24-14.19.37:107][594]LogEditorTransaction: Undo Set Location
+[2018.09.24-14.19.38:375][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner3)
+[2018.09.24-14.19.40:776][808]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-14.19.49:667][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner3)
+[2018.09.24-14.19.53:402][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside2)
+[2018.09.24-14.19.58:503][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.20.10:174][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.20.12:456][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner3)
+[2018.09.24-14.20.13:395][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside2)
+[2018.09.24-14.21.09:290][786]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-14.21.10:199][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner3)
+[2018.09.24-14.21.12:007][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.21.13:045][999]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.21.13:062][999]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.09.24-14.21.18:249][277]LogSavePackage: Save=356.78ms
+[2018.09.24-14.21.18:250][277]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap30C6C6174F0AB2D521D829A599AC748C.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.24-14.21.18:258][277]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.24-14.21.23:220][277]LogSavePackage: Save=4760.48ms
+[2018.09.24-14.21.23:220][277]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataC075030C4A76D90018DCCD8439D8D672.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.24-14.21.23:228][277]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.24-14.21.26:641][335]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.24-14.21.28:400][394]LogSavePackage: Save=361.71ms
+[2018.09.24-14.21.28:400][394]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap55674C0243841974C279CF8BF327080B.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.24-14.21.28:409][394]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.24-14.21.33:589][394]LogSavePackage: Save=4713.76ms
+[2018.09.24-14.21.33:589][394]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltData3A03828D4EB14E2DDFC266B44A4E925E.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.24-14.21.33:597][394]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.24-14.25.38:847][488]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.24-14.25.44:037][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.25.44:037][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.25.44:037][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.25.44:038][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.25.44:038][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.25.44:038][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.25.44:038][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.25.44:038][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.25.44:053][745]LogEditorActor: Deleted 8 Actors (0.024 secs)
+[2018.09.24-14.25.48:297][967]LogSavePackage: Save=346.38ms
+[2018.09.24-14.25.48:297][967]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap2CB7F9014A163E715DC75398C9B5E643.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.24-14.25.48:307][967]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.24-14.25.53:762][967]LogSavePackage: Save=4993.91ms
+[2018.09.24-14.25.53:762][967]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataCFA25A754F0C00ECFC2945B292BFCC7B.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.24-14.25.53:770][967]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.24-14.27.43:210][508]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallDoor.fbx)
+[2018.09.24-14.27.43:229][508]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.09.24-14.27.43:229][508]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.09.24-14.27.43:229][508]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.09.24-14.27.43:229][508]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.09.24-14.27.43:229][508]LogFbx: ItemName: Model, ItemCount : 2
+[2018.09.24-14.27.43:229][508]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.09.24-14.27.43:229][508]LogFbx: ItemName: Material, ItemCount : 1
+[2018.09.24-14.27.43:239][508]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallDoor.fbx
+[2018.09.24-14.27.43:248][508]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.27.45:792][508]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.24-14.27.45:842][508]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallDoor.fbx
+[2018.09.24-14.27.45:853][508]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.27.45:853][508]LogFbx: Warning: Triangulating static mesh WallDoor
+[2018.09.24-14.27.45:855][508]LogStaticMesh: Building static mesh WallDoor...
+[2018.09.24-14.27.45:858][508]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallDoor.WallDoor
+[2018.09.24-14.27.46:006][508]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallEntrance.fbx)
+[2018.09.24-14.27.46:019][508]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallEntrance.fbx
+[2018.09.24-14.27.46:027][508]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.27.46:027][508]LogFbx: Warning: Triangulating static mesh WallEntrance
+[2018.09.24-14.27.46:028][508]LogStaticMesh: Building static mesh WallEntrance...
+[2018.09.24-14.27.46:029][508]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallEntrance.WallEntrance
+[2018.09.24-14.27.46:166][508]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallInside.fbx)
+[2018.09.24-14.27.46:180][508]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallInside.fbx
+[2018.09.24-14.27.46:190][508]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.27.46:190][508]LogFbx: Warning: Triangulating static mesh WallInside
+[2018.09.24-14.27.46:191][508]LogStaticMesh: Building static mesh WallInside...
+[2018.09.24-14.27.46:192][508]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallInside.WallInside
+[2018.09.24-14.27.46:337][508]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallOutside.fbx)
+[2018.09.24-14.27.46:348][508]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallOutside.fbx
+[2018.09.24-14.27.46:356][508]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.27.46:356][508]LogFbx: Warning: Triangulating static mesh WallOutside
+[2018.09.24-14.27.46:357][508]LogStaticMesh: Building static mesh WallOutside...
+[2018.09.24-14.27.46:358][508]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallOutside.WallOutside
+[2018.09.24-14.27.46:496][508]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallSmalInside.fbx)
+[2018.09.24-14.27.46:508][508]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallSmalInside.fbx
+[2018.09.24-14.27.46:516][508]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.27.46:516][508]LogFbx: Warning: Triangulating static mesh WallSmalInside
+[2018.09.24-14.27.46:517][508]LogStaticMesh: Building static mesh WallSmalInside...
+[2018.09.24-14.27.46:519][508]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallSmalInside.WallSmalInside
+[2018.09.24-14.27.46:652][508]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallSmalOutside.fbx)
+[2018.09.24-14.27.46:664][508]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallSmalOutside.fbx
+[2018.09.24-14.27.46:672][508]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.27.46:672][508]LogFbx: Warning: Triangulating static mesh WallSmalOutside
+[2018.09.24-14.27.46:673][508]LogStaticMesh: Building static mesh WallSmalOutside...
+[2018.09.24-14.27.46:674][508]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallSmalOutside.WallSmalOutside
+[2018.09.24-14.27.46:812][508]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallWindow.fbx)
+[2018.09.24-14.27.46:826][508]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallWindow.fbx
+[2018.09.24-14.27.46:835][508]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.27.46:835][508]LogFbx: Warning: Triangulating static mesh WallWindow
+[2018.09.24-14.27.46:838][508]LogStaticMesh: Building static mesh WallWindow...
+[2018.09.24-14.27.46:840][508]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallWindow.WallWindow
+[2018.09.24-14.27.46:984][508]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallWindowSmal.fbx)
+[2018.09.24-14.27.46:997][508]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallWindowSmal.fbx
+[2018.09.24-14.27.47:007][508]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.27.47:008][508]LogFbx: Warning: Triangulating static mesh WallWindowSmal
+[2018.09.24-14.27.47:009][508]LogStaticMesh: Building static mesh WallWindowSmal...
+[2018.09.24-14.27.47:012][508]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallWindowSmal.WallWindowSmal
+[2018.09.24-14.27.47:155][508]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallCorner.fbx)
+[2018.09.24-14.27.47:168][508]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallCorner.fbx
+[2018.09.24-14.27.47:176][508]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.27.47:177][508]LogFbx: Warning: Triangulating static mesh WallCorner
+[2018.09.24-14.27.47:178][508]LogStaticMesh: Building static mesh WallCorner...
+[2018.09.24-14.27.47:179][508]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallCorner.WallCorner
+[2018.09.24-14.27.53:275][677]LogActorFactory: Actor Factory created WallCorner
+[2018.09.24-14.27.53:276][677]LogActorFactory: Actor Factory created WallDoor
+[2018.09.24-14.27.53:277][677]LogActorFactory: Actor Factory created WallEntrance
+[2018.09.24-14.27.53:278][677]LogActorFactory: Actor Factory created WallInside
+[2018.09.24-14.27.53:279][677]LogActorFactory: Actor Factory created WallOutside
+[2018.09.24-14.27.53:280][677]LogActorFactory: Actor Factory created WallSmalInside
+[2018.09.24-14.27.53:281][677]LogActorFactory: Actor Factory created WallSmalOutside
+[2018.09.24-14.27.53:282][677]LogActorFactory: Actor Factory created WallWindow
+[2018.09.24-14.27.53:283][677]LogActorFactory: Actor Factory created WallWindowSmal
+[2018.09.24-14.27.57:374][919]LogActorFactory: Actor Factory created WallCorner
+[2018.09.24-14.27.57:401][919]LogActorFactory: Actor Factory created WallDoor
+[2018.09.24-14.27.57:425][919]LogActorFactory: Actor Factory created WallEntrance
+[2018.09.24-14.27.57:451][919]LogActorFactory: Actor Factory created WallInside
+[2018.09.24-14.27.57:476][919]LogActorFactory: Actor Factory created WallOutside
+[2018.09.24-14.27.57:499][919]LogActorFactory: Actor Factory created WallSmalInside
+[2018.09.24-14.27.57:524][919]LogActorFactory: Actor Factory created WallSmalOutside
+[2018.09.24-14.27.57:550][919]LogActorFactory: Actor Factory created WallWindow
+[2018.09.24-14.27.57:576][919]LogActorFactory: Actor Factory created WallWindowSmal
+[2018.09.24-14.28.00:097][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall3)
+[2018.09.24-14.28.01:055][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-14.28.04:890][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.28.20:787][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall3)
+[2018.09.24-14.28.21:888][290]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-14.28.26:641][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside2)
+[2018.09.24-14.28.30:184][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.28.39:424][309]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.28.46:577][732]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-14.28.54:356][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside2)
+[2018.09.24-14.28.57:886][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-14.29.11:648][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside2)
+[2018.09.24-14.29.12:560][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-14.29.13:454][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside2)
+[2018.09.24-14.29.20:296][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.29.24:827][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside2)
+[2018.09.24-14.29.25:687][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-14.29.27:364][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside2)
+[2018.09.24-14.29.40:562][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-14.29.45:429][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall3)
+[2018.09.24-14.29.54:318][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside2)
+[2018.09.24-14.29.54:961][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-14.29.55:782][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside2)
+[2018.09.24-14.30.15:297][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-14.30.21:067][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside2)
+[2018.09.24-14.30.24:453][240]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-14.30.52:910][405]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-14.30.54:778][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor2)
+[2018.09.24-14.30.56:508][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside2)
+[2018.09.24-14.31.01:814][907]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.31.10:143][390]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.31.14:699][658]Cmd: DELETE
+[2018.09.24-14.31.14:700][658]Cmd: ACTOR DELETE
+[2018.09.24-14.31.14:710][658]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.31.14:732][658]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.09.24-14.31.16:181][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside2)
+[2018.09.24-14.31.17:379][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-14.31.17:805][825]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.31.43:758][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside2)
+[2018.09.24-14.31.44:915][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-14.31.45:873][467]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.31.59:850][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside2)
+[2018.09.24-14.32.01:145][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-14.34.50:571][990]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-14.34.51:698][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-14.34.52:603][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.34.55:657][231]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.34.55:676][231]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2018.09.24-14.34.59:209][313]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.24-14.35.01:023][374]LogSavePackage: Save=392.32ms
+[2018.09.24-14.35.01:024][374]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMapD9F522EF42382D2A31FF4BBC4776138A.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.24-14.35.01:033][374]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.24-14.35.06:853][374]LogSavePackage: Save=5316.13ms
+[2018.09.24-14.35.06:853][374]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataB62D997F43FAD7D91DFB32B71D22B386.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.24-14.35.06:861][374]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.24-14.35.29:565][860]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallCorner.fbx)
+[2018.09.24-14.35.29:576][860]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.09.24-14.35.29:576][860]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.09.24-14.35.29:577][860]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.09.24-14.35.29:577][860]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.09.24-14.35.29:577][860]LogFbx: ItemName: Model, ItemCount : 2
+[2018.09.24-14.35.29:577][860]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.09.24-14.35.29:577][860]LogFbx: ItemName: Material, ItemCount : 1
+[2018.09.24-14.35.29:584][860]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallCorner.fbx
+[2018.09.24-14.35.29:591][860]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.35.31:058][860]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.24-14.35.31:106][860]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallCorner.fbx
+[2018.09.24-14.35.31:117][860]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.35.31:117][860]LogFbx: Warning: Triangulating static mesh WallCorner
+[2018.09.24-14.35.31:119][860]LogStaticMesh: Building static mesh WallCorner...
+[2018.09.24-14.35.31:121][860]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallCorner.WallCorner
+[2018.09.24-14.35.32:461][914]LogActorFactory: Actor Factory created WallCorner
+[2018.09.24-14.35.33:490][971]LogActorFactory: Actor Factory created WallCorner
+[2018.09.24-14.35.34:394][ 24]LogActorFactory: Actor Factory created WallCorner
+[2018.09.24-14.35.52:436][ 77]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.36.11:151][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside2)
+[2018.09.24-14.36.15:977][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Bar)
+[2018.09.24-14.36.20:963][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-14.36.25:395][985]Cmd: TRANSACTION UNDO
+[2018.09.24-14.36.25:395][985]LogEditorTransaction: Undo Move Actors
+[2018.09.24-14.36.29:894][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2018.09.24-14.36.40:432][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.37.16:718][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.37.16:718][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.37.16:718][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.37.16:718][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.37.16:718][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.37.16:718][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.37.16:719][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.37.16:719][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.37.16:719][  3]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.37.16:738][  3]LogEditorActor: Deleted 9 Actors (0.030 secs)
+[2018.09.24-14.37.23:940][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-14.37.25:394][505]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallOutside2)
+[2018.09.24-14.37.36:456][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube10)
+[2018.09.24-14.37.41:190][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalInside2)
+[2018.09.24-14.37.43:904][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside2)
+[2018.09.24-14.37.53:594][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.38.04:043][763]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.38.12:533][261]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallOutside3)
+[2018.09.24-14.38.17:522][548]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.38.23:623][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside5)
+[2018.09.24-14.38.30:504][257]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside2)
+[2018.09.24-14.38.43:673][  6]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.39.00:323][984]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-14.39.10:574][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside3)
+[2018.09.24-14.39.11:425][608]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallWindow2)
+[2018.09.24-14.39.12:115][643]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallOutside4)
+[2018.09.24-14.39.18:719][ 24]Cmd: TRANSACTION UNDO
+[2018.09.24-14.39.18:719][ 24]LogEditorTransaction: Undo Move Actors
+[2018.09.24-14.39.19:914][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2018.09.24-14.39.20:841][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside7)
+[2018.09.24-14.39.21:942][192]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.39.33:263][847]Cmd: DELETE
+[2018.09.24-14.39.33:263][847]Cmd: ACTOR DELETE
+[2018.09.24-14.39.33:271][847]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.39.33:287][847]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.09.24-14.39.34:185][900]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWindow2)
+[2018.09.24-14.39.42:907][398]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.39.51:007][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside8)
+[2018.09.24-14.39.57:211][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-14.40.09:771][932]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-14.40.12:629][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside9)
+[2018.09.24-14.40.27:978][989]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.40.38:177][585]Cmd: TRANSACTION UNDO
+[2018.09.24-14.40.38:177][585]LogEditorTransaction: Undo Move Actors
+[2018.09.24-14.41.10:468][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalInside2)
+[2018.09.24-14.41.16:919][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.41.21:001][ 90]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.41.28:484][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner3)
+[2018.09.24-14.41.31:185][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner3)
+[2018.09.24-14.41.51:967][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside2)
+[2018.09.24-14.41.53:057][965]Cmd: DELETE
+[2018.09.24-14.41.53:057][965]Cmd: ACTOR DELETE
+[2018.09.24-14.41.53:064][965]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.41.53:081][965]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.09.24-14.41.53:630][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside10)
+[2018.09.24-14.42.07:489][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.42.12:588][102]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.42.22:644][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner4)
+[2018.09.24-14.42.53:843][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Entrance)
+[2018.09.24-14.42.59:099][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner4)
+[2018.09.24-14.43.11:345][509]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.43.15:952][774]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallDoor2)
+[2018.09.24-14.43.16:848][821]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallCorner4)
+[2018.09.24-14.43.26:792][400]Cmd: TRANSACTION UNDO
+[2018.09.24-14.43.26:792][400]LogEditorTransaction: Undo Move Actors
+[2018.09.24-14.44.09:751][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside11)
+[2018.09.24-14.44.13:694][174]Cmd: DELETE
+[2018.09.24-14.44.13:694][174]Cmd: ACTOR DELETE
+[2018.09.24-14.44.13:703][174]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.44.13:725][174]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.09.24-14.44.21:121][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.44.36:678][460]LogActorFactory: Actor Factory created WallSmalInside
+[2018.09.24-14.44.39:122][600]LogActorFactory: Actor Factory created WallSmalInside
+[2018.09.24-14.44.42:023][764]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.44.46:050][  1]Cmd: DELETE
+[2018.09.24-14.44.46:050][  1]Cmd: ACTOR DELETE
+[2018.09.24-14.44.46:058][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.44.46:077][  1]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.09.24-14.44.47:211][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.44.47:360][ 53]LogActorFactory: Actor Factory created WallSmalOutside
+[2018.09.24-14.44.50:873][257]LogActorFactory: Actor Factory created WallSmalOutside
+[2018.09.24-14.44.51:492][289]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.45.08:088][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor2)
+[2018.09.24-14.45.12:587][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner4)
+[2018.09.24-14.45.13:357][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner5)
+[2018.09.24-14.45.15:257][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor2)
+[2018.09.24-14.45.15:875][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner4)
+[2018.09.24-14.45.23:926][160]Cmd: TRANSACTION UNDO
+[2018.09.24-14.45.23:927][160]LogEditorTransaction: Undo Move Actors
+[2018.09.24-14.45.25:402][237]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallDoor2)
+[2018.09.24-14.45.26:382][289]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallCorner5)
+[2018.09.24-14.45.32:255][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside)
+[2018.09.24-14.45.33:246][682]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.46.07:622][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside9)
+[2018.09.24-14.46.11:379][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.46.19:648][419]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.46.32:877][191]Cmd: DELETE
+[2018.09.24-14.46.32:877][191]Cmd: ACTOR DELETE
+[2018.09.24-14.46.32:885][191]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.46.32:903][191]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.09.24-14.46.33:682][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner4)
+[2018.09.24-14.46.40:801][644]Cmd: TRANSACTION UNDO
+[2018.09.24-14.46.40:801][644]LogEditorTransaction: Undo Move Actors
+[2018.09.24-14.46.57:592][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside9)
+[2018.09.24-14.47.02:101][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside)
+[2018.09.24-14.47.12:509][471]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.47.20:004][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner7)
+[2018.09.24-14.47.23:748][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner6)
+[2018.09.24-14.47.29:416][453]Cmd: DELETE
+[2018.09.24-14.47.29:416][453]Cmd: ACTOR DELETE
+[2018.09.24-14.47.29:428][453]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.47.29:452][453]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.09.24-14.47.30:425][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside2)
+[2018.09.24-14.47.30:978][536]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallCorner4)
+[2018.09.24-14.47.31:945][587]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallCorner7)
+[2018.09.24-14.47.52:015][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalInside2)
+[2018.09.24-14.48.12:962][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner5)
+[2018.09.24-14.48.17:991][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.48.18:749][259]LogActorFactory: Actor Factory created WallInside
+[2018.09.24-14.48.20:158][334]LogActorFactory: Actor Factory created WallInside
+[2018.09.24-14.48.21:807][425]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.48.34:714][178]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.48.53:512][283]Cmd: TRANSACTION UNDO
+[2018.09.24-14.48.53:512][283]LogEditorTransaction: Undo Move Actors
+[2018.09.24-14.48.57:248][486]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.49.15:003][515]Cmd: TRANSACTION UNDO
+[2018.09.24-14.49.15:003][515]LogEditorTransaction: Undo Move Actors
+[2018.09.24-14.49.31:711][460]Cmd: TRANSACTION UNDO
+[2018.09.24-14.49.31:711][460]LogEditorTransaction: Undo Move Actors
+[2018.09.24-14.49.32:565][498]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.49.42:476][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner5)
+[2018.09.24-14.49.47:959][377]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.49.58:805][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.50.00:100][ 79]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.50.00:130][ 79]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.09.24-14.50.01:768][173]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner9)
+[2018.09.24-14.50.12:138][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside2)
+[2018.09.24-14.50.18:759][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside2)
+[2018.09.24-14.50.19:301][168]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallCorner4)
+[2018.09.24-14.51.11:078][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-14.51.11:618][159]LogSavePackage: Save=452.74ms
+[2018.09.24-14.51.11:618][159]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_Auto05A6B0B8046E04F1F907378A2670ED6A9.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto0.umap'
+[2018.09.24-14.51.11:622][159]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto0.umap
+[2018.09.24-14.51.11:626][159]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.506
+[2018.09.24-14.51.11:626][159]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.506
+[2018.09.24-14.51.11:631][159]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xmodular/WallSmalOutside] ([1] browsable assets)...
+[2018.09.24-14.51.11:654][159]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Xmodular/WallSmalOutside.WallSmalOutside]
+[2018.09.24-14.51.11:654][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xmodular/WallSmalOutside]
+[2018.09.24-14.51.11:674][159]LogSavePackage: Save=17.35ms
+[2018.09.24-14.51.11:675][159]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/WallSmalOutside_Auto00EE52CAA4CC6E19ED54D689E88D507C1.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/WallSmalOutside_Auto0.uasset'
+[2018.09.24-14.51.11:679][159]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/WallSmalOutside_Auto0.uasset
+[2018.09.24-14.51.11:682][159]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xmodular/WallWindow] ([1] browsable assets)...
+[2018.09.24-14.51.11:704][159]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Xmodular/WallWindow.WallWindow]
+[2018.09.24-14.51.11:704][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xmodular/WallWindow]
+[2018.09.24-14.51.11:731][159]LogSavePackage: Save=21.48ms
+[2018.09.24-14.51.11:731][159]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/WallWindow_Auto04DE6B576459AC07FEDCDA4829B0D5604.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/WallWindow_Auto0.uasset'
+[2018.09.24-14.51.11:737][159]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/WallWindow_Auto0.uasset
+[2018.09.24-14.51.11:741][159]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xmodular/WallSmalInside] ([1] browsable assets)...
+[2018.09.24-14.51.11:766][159]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Xmodular/WallSmalInside.WallSmalInside]
+[2018.09.24-14.51.11:766][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xmodular/WallSmalInside]
+[2018.09.24-14.51.11:795][159]LogSavePackage: Save=23.58ms
+[2018.09.24-14.51.11:795][159]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/WallSmalInside_Auto0782AF2C34661D1CAEDACE7A8A21DEA45.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/WallSmalInside_Auto0.uasset'
+[2018.09.24-14.51.11:801][159]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/WallSmalInside_Auto0.uasset
+[2018.09.24-14.51.11:805][159]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xmodular/WallOutside] ([1] browsable assets)...
+[2018.09.24-14.51.11:830][159]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Xmodular/WallOutside.WallOutside]
+[2018.09.24-14.51.11:830][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xmodular/WallOutside]
+[2018.09.24-14.51.11:859][159]LogSavePackage: Save=22.36ms
+[2018.09.24-14.51.11:859][159]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/WallOutside_Auto05BBD9C19474F5977820C71BBCFDF7316.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/WallOutside_Auto0.uasset'
+[2018.09.24-14.51.11:866][159]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/WallOutside_Auto0.uasset
+[2018.09.24-14.51.11:870][159]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xmodular/WallInside] ([1] browsable assets)...
+[2018.09.24-14.51.11:895][159]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Xmodular/WallInside.WallInside]
+[2018.09.24-14.51.11:895][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xmodular/WallInside]
+[2018.09.24-14.51.11:924][159]LogSavePackage: Save=24.18ms
+[2018.09.24-14.51.11:924][159]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/WallInside_Auto03DE9154B4F50091E928D8B9907A472FD.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/WallInside_Auto0.uasset'
+[2018.09.24-14.51.11:930][159]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/WallInside_Auto0.uasset
+[2018.09.24-14.51.11:934][159]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xmodular/WallWindowSmal] ([1] browsable assets)...
+[2018.09.24-14.51.11:960][159]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Xmodular/WallWindowSmal.WallWindowSmal]
+[2018.09.24-14.51.11:960][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xmodular/WallWindowSmal]
+[2018.09.24-14.51.11:988][159]LogSavePackage: Save=21.79ms
+[2018.09.24-14.51.11:988][159]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/WallWindowSmal_Auto07613B452408401129D87E493E6FBF0CB.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/WallWindowSmal_Auto0.uasset'
+[2018.09.24-14.51.11:993][159]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/WallWindowSmal_Auto0.uasset
+[2018.09.24-14.51.11:998][159]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xmodular/WallCorner] ([1] browsable assets)...
+[2018.09.24-14.51.12:021][159]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Xmodular/WallCorner.WallCorner]
+[2018.09.24-14.51.12:021][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xmodular/WallCorner]
+[2018.09.24-14.51.12:045][159]LogSavePackage: Save=21.27ms
+[2018.09.24-14.51.12:045][159]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/WallCorner_Auto04AFDE4F44408794515D0AEB2260A71F1.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/WallCorner_Auto0.uasset'
+[2018.09.24-14.51.12:050][159]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/WallCorner_Auto0.uasset
+[2018.09.24-14.51.12:053][159]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xmodular/WallDoor] ([1] browsable assets)...
+[2018.09.24-14.51.12:075][159]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Xmodular/WallDoor.WallDoor]
+[2018.09.24-14.51.12:075][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xmodular/WallDoor]
+[2018.09.24-14.51.12:096][159]LogSavePackage: Save=17.68ms
+[2018.09.24-14.51.12:096][159]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/WallDoor_Auto08E9DBFCF4BDC2070DE35EEA037E03B97.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/WallDoor_Auto0.uasset'
+[2018.09.24-14.51.12:101][159]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/WallDoor_Auto0.uasset
+[2018.09.24-14.51.12:103][159]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xmodular/WallEntrance] ([1] browsable assets)...
+[2018.09.24-14.51.12:124][159]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Xmodular/WallEntrance.WallEntrance]
+[2018.09.24-14.51.12:124][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xmodular/WallEntrance]
+[2018.09.24-14.51.12:148][159]LogSavePackage: Save=19.38ms
+[2018.09.24-14.51.12:148][159]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/WallEntrance_Auto0976C56E348AB33FCF0D762A67F26619B.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/WallEntrance_Auto0.uasset'
+[2018.09.24-14.51.12:152][159]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/WallEntrance_Auto0.uasset
+[2018.09.24-14.51.12:152][159]LogFileHelpers: Auto-saving content packages took 0.524
+[2018.09.24-14.51.13:720][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside)
+[2018.09.24-14.51.14:940][318]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.51.23:477][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner6)
+[2018.09.24-14.51.24:330][864]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallSmalOutside3)
+[2018.09.24-14.51.24:743][881]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallCorner8)
+[2018.09.24-14.51.34:486][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube10)
+[2018.09.24-14.51.35:343][492]Cmd: DELETE
+[2018.09.24-14.51.35:343][492]Cmd: ACTOR DELETE
+[2018.09.24-14.51.35:353][492]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.51.35:378][492]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.09.24-14.51.36:229][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2018.09.24-14.51.36:470][550]Cmd: DELETE
+[2018.09.24-14.51.36:470][550]Cmd: ACTOR DELETE
+[2018.09.24-14.51.36:479][550]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.51.36:502][550]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.09.24-14.51.38:511][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalInside2)
+[2018.09.24-14.51.42:748][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner6)
+[2018.09.24-14.51.43:444][945]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallSmalOutside3)
+[2018.09.24-14.51.43:766][957]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallCorner8)
+[2018.09.24-14.51.56:138][665]Cmd: TRANSACTION UNDO
+[2018.09.24-14.51.56:138][665]LogEditorTransaction: Undo Move Actors
+[2018.09.24-14.52.11:273][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.52.11:447][475]LogActorFactory: Actor Factory created WallWindowSmal
+[2018.09.24-14.52.15:563][707]LogActorFactory: Actor Factory created WallWindowSmal
+[2018.09.24-14.52.16:566][762]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.52.29:532][520]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-14.52.38:538][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside5)
+[2018.09.24-14.52.55:320][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside3)
+[2018.09.24-14.52.56:821][123]Cmd: DELETE
+[2018.09.24-14.52.56:821][123]Cmd: ACTOR DELETE
+[2018.09.24-14.52.56:831][123]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.52.56:853][123]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.09.24-14.52.57:351][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWindowSmal)
+[2018.09.24-14.53.01:588][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside9)
+[2018.09.24-14.53.20:637][515]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.53.35:568][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner8)
+[2018.09.24-14.53.37:010][472]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallWindowSmal)
+[2018.09.24-14.53.37:821][514]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallCorner11)
+[2018.09.24-14.53.45:150][939]Cmd: TRANSACTION UNDO
+[2018.09.24-14.53.45:150][939]LogEditorTransaction: Undo Move Actors
+[2018.09.24-14.53.54:735][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWindowSmal)
+[2018.09.24-14.54.05:363][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside11)
+[2018.09.24-14.54.06:661][182]Cmd: DELETE
+[2018.09.24-14.54.06:661][182]Cmd: ACTOR DELETE
+[2018.09.24-14.54.06:670][182]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.54.06:691][182]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.09.24-14.54.07:400][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWindowSmal2)
+[2018.09.24-14.54.18:837][890]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.54.27:264][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner5)
+[2018.09.24-14.54.37:550][992]Cmd: TRANSACTION UNDO
+[2018.09.24-14.54.37:550][992]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.24-14.54.37:800][  0]Cmd: TRANSACTION UNDO
+[2018.09.24-14.54.37:801][  0]LogEditorTransaction: Undo Move Actors
+[2018.09.24-14.54.38:047][  9]Cmd: TRANSACTION UNDO
+[2018.09.24-14.54.38:047][  9]LogEditorTransaction: Undo Move Actors
+[2018.09.24-14.54.38:265][ 19]Cmd: TRANSACTION UNDO
+[2018.09.24-14.54.38:265][ 19]LogEditorTransaction: Undo Move Actors
+[2018.09.24-14.54.38:543][ 35]Cmd: TRANSACTION UNDO
+[2018.09.24-14.54.38:543][ 35]LogEditorTransaction: Undo Rotate Actors
+[2018.09.24-14.54.38:826][ 49]Cmd: TRANSACTION UNDO
+[2018.09.24-14.54.38:826][ 49]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.24-14.54.39:081][ 62]Cmd: TRANSACTION UNDO
+[2018.09.24-14.54.39:081][ 62]LogEditorTransaction: Undo Delete Actors
+[2018.09.24-14.54.39:310][ 70]Cmd: TRANSACTION UNDO
+[2018.09.24-14.54.39:310][ 70]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.24-14.54.40:614][141]Cmd: DELETE
+[2018.09.24-14.54.40:614][141]Cmd: ACTOR DELETE
+[2018.09.24-14.54.40:622][141]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.54.40:646][141]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.09.24-14.54.47:585][555]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-14.54.48:111][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside5)
+[2018.09.24-14.54.49:507][658]Cmd: DELETE
+[2018.09.24-14.54.49:507][658]Cmd: ACTOR DELETE
+[2018.09.24-14.54.49:516][658]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.54.49:534][658]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.09.24-14.54.52:088][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor2)
+[2018.09.24-14.54.54:979][968]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.55.09:362][791]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.55.22:408][550]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-14.55.26:407][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalInside2)
+[2018.09.24-14.55.34:632][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside2)
+[2018.09.24-14.55.44:247][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside8)
+[2018.09.24-14.55.53:242][281]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.56.25:279][156]Cmd: DELETE
+[2018.09.24-14.56.25:279][156]Cmd: ACTOR DELETE
+[2018.09.24-14.56.25:288][156]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.56.25:309][156]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2018.09.24-14.56.33:629][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside2)
+[2018.09.24-15.01.13:616][132]LogSavePackage: Save=644.06ms
+[2018.09.24-15.01.13:616][132]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_Auto1C3BE3213406F96596173809D904FB351.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2018.09.24-15.01.13:626][132]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap
+[2018.09.24-15.01.13:632][132]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.714
+[2018.09.24-15.01.13:632][132]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.714
+[2018.09.24-15.03.38:040][566]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-15.03.48:754][702]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\Wallfill.fbx)
+[2018.09.24-15.03.48:762][702]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.09.24-15.03.48:762][702]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.09.24-15.03.48:762][702]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.09.24-15.03.48:762][702]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.09.24-15.03.48:762][702]LogFbx: ItemName: Model, ItemCount : 2
+[2018.09.24-15.03.48:762][702]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.09.24-15.03.48:762][702]LogFbx: ItemName: Material, ItemCount : 1
+[2018.09.24-15.03.48:769][702]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\Wallfill.fbx
+[2018.09.24-15.03.48:778][702]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-15.03.49:980][702]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.24-15.03.50:027][702]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\Wallfill.fbx
+[2018.09.24-15.03.50:036][702]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-15.03.50:037][702]LogFbx: Warning: Triangulating static mesh Wallfill
+[2018.09.24-15.03.50:038][702]LogStaticMesh: Building static mesh Wallfill...
+[2018.09.24-15.03.50:039][702]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/Wallfill.Wallfill
+[2018.09.24-15.03.51:097][728]LogActorFactory: Actor Factory created Wallfill
+[2018.09.24-15.03.53:808][878]LogActorFactory: Actor Factory created Wallfill
+[2018.09.24-15.04.06:126][539]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-15.04.09:206][698]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.04.12:647][899]Cmd: TRANSACTION UNDO
+[2018.09.24-15.04.12:647][899]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.24-15.04.13:661][948]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill)
+[2018.09.24-15.04.14:711][  8]Cmd: DELETE
+[2018.09.24-15.04.14:712][  8]Cmd: ACTOR DELETE
+[2018.09.24-15.04.14:721][  8]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.04.14:738][  8]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.09.24-15.04.15:867][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside3)
+[2018.09.24-15.04.17:098][143]Cmd: TRANSACTION UNDO
+[2018.09.24-15.04.17:098][143]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.24-15.04.17:508][162]Cmd: TRANSACTION UNDO
+[2018.09.24-15.04.17:508][162]LogEditorTransaction: Undo Delete Actors
+[2018.09.24-15.04.17:920][181]Cmd: TRANSACTION UNDO
+[2018.09.24-15.04.17:920][181]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.24-15.04.18:285][200]Cmd: TRANSACTION UNDO
+[2018.09.24-15.04.18:285][200]LogEditorTransaction: Undo Create Actors
+[2018.09.24-15.04.20:983][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside3)
+[2018.09.24-15.04.23:081][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-15.04.23:806][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.04.23:827][518]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2018.09.24-15.04.24:786][575]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill)
+[2018.09.24-15.04.52:713][203]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-15.04.53:649][252]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill)
+[2018.09.24-15.05.02:120][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-15.05.03:500][826]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.05.21:251][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor3)
+[2018.09.24-15.05.21:960][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill)
+[2018.09.24-15.05.38:647][899]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.05.41:342][ 58]Cmd: TRANSACTION UNDO
+[2018.09.24-15.05.41:342][ 58]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.06.04:253][220]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-15.06.07:393][401]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.06.07:409][401]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.09.24-15.06.50:721][ 55]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.24-15.06.52:857][133]LogSavePackage: Save=394.98ms
+[2018.09.24-15.06.52:857][133]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMapC100500340320611D868C5A8750DE34C.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.24-15.06.52:867][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.24-15.06.58:270][133]LogSavePackage: Save=4909.05ms
+[2018.09.24-15.06.58:270][133]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataD394D24544537E0F1EF62CB8183BE163.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.24-15.06.58:279][133]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.24-15.07.31:654][852]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\Wallfill.fbx)
+[2018.09.24-15.07.31:666][852]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.09.24-15.07.31:666][852]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.09.24-15.07.31:666][852]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.09.24-15.07.31:666][852]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.09.24-15.07.31:666][852]LogFbx: ItemName: Model, ItemCount : 2
+[2018.09.24-15.07.31:666][852]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.09.24-15.07.31:666][852]LogFbx: ItemName: Material, ItemCount : 1
+[2018.09.24-15.07.31:675][852]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\Wallfill.fbx
+[2018.09.24-15.07.31:687][852]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-15.07.32:942][852]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.24-15.07.32:987][852]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\Wallfill.fbx
+[2018.09.24-15.07.32:996][852]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-15.07.32:997][852]LogFbx: Warning: Triangulating static mesh Wallfill
+[2018.09.24-15.07.32:997][852]LogStaticMesh: Building static mesh Wallfill...
+[2018.09.24-15.07.32:998][852]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/Wallfill.Wallfill
+[2018.09.24-15.07.34:095][878]LogActorFactory: Actor Factory created Wallfill
+[2018.09.24-15.07.34:105][878]LogActorFactory: Actor Factory created Wallfill
+[2018.09.24-15.07.35:838][924]LogActorFactory: Actor Factory created Wallfill
+[2018.09.24-15.07.44:867][161]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.07.51:031][318]Cmd: TRANSACTION UNDO
+[2018.09.24-15.07.51:032][318]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.07.57:050][472]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.11.06:910][657]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-15.11.10:816][873]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.11.10:836][873]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.09.24-15.11.13:459][921]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.24-15.11.16:560][ 54]LogSavePackage: Save=380.41ms
+[2018.09.24-15.11.16:560][ 54]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap2DA6A1774A716E58693E89B6E93F3EE5.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.24-15.11.16:569][ 54]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.24-15.11.21:866][ 54]LogSavePackage: Save=4829.62ms
+[2018.09.24-15.11.21:866][ 54]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataD9E3D49243A018ACC66395B3C31511B7.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.24-15.11.21:875][ 54]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.24-15.11.43:040][628]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\Wallfill.fbx)
+[2018.09.24-15.11.43:051][628]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.09.24-15.11.43:051][628]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.09.24-15.11.43:051][628]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.09.24-15.11.43:051][628]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.09.24-15.11.43:051][628]LogFbx: ItemName: Model, ItemCount : 2
+[2018.09.24-15.11.43:051][628]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.09.24-15.11.43:051][628]LogFbx: ItemName: Material, ItemCount : 1
+[2018.09.24-15.11.43:057][628]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\Wallfill.fbx
+[2018.09.24-15.11.43:066][628]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-15.11.45:020][628]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.24-15.11.45:061][628]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\Wallfill.fbx
+[2018.09.24-15.11.45:069][628]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-15.11.45:069][628]LogFbx: Warning: Triangulating static mesh Wallfill
+[2018.09.24-15.11.45:070][628]LogStaticMesh: Building static mesh Wallfill...
+[2018.09.24-15.11.45:071][628]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/Wallfill.Wallfill
+[2018.09.24-15.11.46:459][660]LogActorFactory: Actor Factory created Wallfill
+[2018.09.24-15.11.47:351][712]LogActorFactory: Actor Factory created Wallfill
+[2018.09.24-15.11.48:700][791]LogActorFactory: Actor Factory created Wallfill
+[2018.09.24-15.11.58:092][337]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.12.01:812][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside26)
+[2018.09.24-15.12.02:472][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill)
+[2018.09.24-15.12.04:522][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-15.12.15:203][248]Cmd: TRANSACTION UNDO
+[2018.09.24-15.12.15:203][248]LogEditorTransaction: Undo Create Actors
+[2018.09.24-15.12.27:416][962]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-15.12.56:609][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-15.14.13:301][217]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-15.14.28:207][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-15.14.33:697][417]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.14.42:048][896]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.14.50:530][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-15.15.14:806][792]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.15.14:829][792]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.09.24-15.15.15:950][856]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.15.15:967][856]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.09.24-15.15.16:409][879]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.15.16:426][879]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.09.24-15.15.17:482][939]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.15.17:500][939]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.09.24-15.15.18:572][  0]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.15.18:589][  0]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.09.24-15.16.05:973][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor2)
+[2018.09.24-15.16.07:230][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner12)
+[2018.09.24-15.16.08:182][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside)
+[2018.09.24-15.16.18:089][535]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside10)
+[2018.09.24-15.16.19:232][597]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.16.28:593][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside12)
+[2018.09.24-15.16.30:496][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside)
+[2018.09.24-15.16.35:264][510]Cmd: TRANSACTION UNDO
+[2018.09.24-15.16.35:265][510]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.16.39:790][760]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.16.49:575][325]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.16.55:782][684]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.17.01:668][ 14]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.17.25:944][381]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.17.42:272][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor2)
+[2018.09.24-15.17.45:172][483]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.17.54:545][ 17]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.17.59:656][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner13)
+[2018.09.24-15.18.03:223][506]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.18.20:788][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside5)
+[2018.09.24-15.18.31:355][103]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.18.43:916][797]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.18.46:521][938]Cmd: TRANSACTION UNDO
+[2018.09.24-15.18.46:521][938]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.18.56:567][484]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.19.02:614][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor2)
+[2018.09.24-15.19.39:292][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside8)
+[2018.09.24-15.19.56:803][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside7)
+[2018.09.24-15.19.58:064][ 72]Cmd: DELETE
+[2018.09.24-15.19.58:064][ 72]Cmd: ACTOR DELETE
+[2018.09.24-15.19.58:073][ 72]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.19.58:092][ 72]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.09.24-15.20.04:276][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner9)
+[2018.09.24-15.20.09:795][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Basics4)
+[2018.09.24-15.20.12:351][881]Cmd: TRANSACTION UNDO
+[2018.09.24-15.20.12:351][881]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.24-15.20.31:029][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside2)
+[2018.09.24-15.20.33:339][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalInside2)
+[2018.09.24-15.20.35:483][184]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.20.39:118][387]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.20.44:083][668]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.21.09:055][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Office)
+[2018.09.24-15.21.11:802][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalInside2)
+[2018.09.24-15.21.20:456][698]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-15.21.24:862][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalInside2)
+[2018.09.24-15.21.38:747][717]Cmd: TRANSACTION UNDO
+[2018.09.24-15.21.38:747][717]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.21.38:998][728]Cmd: TRANSACTION UNDO
+[2018.09.24-15.21.38:998][728]LogEditorTransaction: Undo Rotate Actors
+[2018.09.24-15.21.40:753][824]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-15.21.41:403][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner15)
+[2018.09.24-15.21.47:449][193]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.21.54:174][577]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill)
+[2018.09.24-15.21.54:821][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside12)
+[2018.09.24-15.21.55:704][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside)
+[2018.09.24-15.21.56:433][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside8)
+[2018.09.24-15.22.09:709][451]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.22.31:092][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner15)
+[2018.09.24-15.22.41:498][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside6)
+[2018.09.24-15.22.46:123][539]Cmd: DELETE
+[2018.09.24-15.22.46:123][539]Cmd: ACTOR DELETE
+[2018.09.24-15.22.46:134][539]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.22.46:156][539]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.09.24-15.22.51:233][841]Cmd: TRANSACTION UNDO
+[2018.09.24-15.22.51:233][841]LogEditorTransaction: Undo Delete Actors
+[2018.09.24-15.22.53:362][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner16)
+[2018.09.24-15.22.56:359][113]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.23.01:218][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside6)
+[2018.09.24-15.23.03:350][496]Cmd: DELETE
+[2018.09.24-15.23.03:351][496]Cmd: ACTOR DELETE
+[2018.09.24-15.23.03:361][496]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.23.03:384][496]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.09.24-15.23.10:086][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside2)
+[2018.09.24-15.23.12:326][ 19]Cmd: DELETE
+[2018.09.24-15.23.12:326][ 19]Cmd: ACTOR DELETE
+[2018.09.24-15.23.12:335][ 19]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.23.12:361][ 19]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2018.09.24-15.23.13:735][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside)
+[2018.09.24-15.23.16:628][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside8)
+[2018.09.24-15.23.18:200][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalInside2)
+[2018.09.24-15.23.21:718][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside9)
+[2018.09.24-15.23.25:540][742]Cmd: TRANSACTION UNDO
+[2018.09.24-15.23.25:540][742]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.23.28:716][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside)
+[2018.09.24-15.23.29:790][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner3)
+[2018.09.24-15.23.30:672][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside10)
+[2018.09.24-15.23.34:136][213]Cmd: TRANSACTION UNDO
+[2018.09.24-15.23.34:136][213]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.23.37:783][412]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.23.46:621][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-15.24.01:480][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill)
+[2018.09.24-15.24.11:186][271]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.24.21:029][823]Cmd: DELETE
+[2018.09.24-15.24.21:029][823]Cmd: ACTOR DELETE
+[2018.09.24-15.24.21:042][823]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.24.21:061][823]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.09.24-15.24.21:505][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside13)
+[2018.09.24-15.24.26:804][128]Cmd: TRANSACTION UNDO
+[2018.09.24-15.24.26:804][128]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.24.41:299][946]Cmd: DELETE
+[2018.09.24-15.24.41:299][946]Cmd: ACTOR DELETE
+[2018.09.24-15.24.41:310][946]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.24.41:331][946]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.09.24-15.24.43:955][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside13)
+[2018.09.24-15.24.54:950][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor5)
+[2018.09.24-15.24.55:585][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside8)
+[2018.09.24-15.24.56:573][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalInside2)
+[2018.09.24-15.25.02:841][179]Cmd: DELETE
+[2018.09.24-15.25.02:841][179]Cmd: ACTOR DELETE
+[2018.09.24-15.25.02:855][179]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.25.02:881][179]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2018.09.24-15.25.07:809][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside13)
+[2018.09.24-15.25.10:210][602]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.25.15:914][905]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.25.19:951][124]Cmd: DELETE
+[2018.09.24-15.25.19:951][124]Cmd: ACTOR DELETE
+[2018.09.24-15.25.19:963][124]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.25.19:984][124]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.09.24-15.25.22:246][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill)
+[2018.09.24-15.25.31:601][786]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.25.41:520][334]Cmd: DELETE
+[2018.09.24-15.25.41:520][334]Cmd: ACTOR DELETE
+[2018.09.24-15.25.41:529][334]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.25.41:548][334]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.09.24-15.25.42:830][410]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill2)
+[2018.09.24-15.25.43:448][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner14)
+[2018.09.24-15.25.44:215][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill2)
+[2018.09.24-15.25.45:702][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside13)
+[2018.09.24-15.25.46:630][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside8)
+[2018.09.24-15.25.53:423][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside13)
+[2018.09.24-15.25.56:648][178]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.26.09:602][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill2)
+[2018.09.24-15.26.10:510][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside14)
+[2018.09.24-15.26.11:528][ 32]Cmd: DELETE
+[2018.09.24-15.26.11:528][ 32]Cmd: ACTOR DELETE
+[2018.09.24-15.26.11:538][ 32]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.26.11:560][ 32]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.09.24-15.26.13:049][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill2)
+[2018.09.24-15.26.15:394][250]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.26.23:254][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside13)
+[2018.09.24-15.26.24:063][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside8)
+[2018.09.24-15.26.27:131][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner9)
+[2018.09.24-15.26.27:934][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside12)
+[2018.09.24-15.26.28:504][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill)
+[2018.09.24-15.26.29:490][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner10)
+[2018.09.24-15.26.30:573][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner7)
+[2018.09.24-15.26.31:067][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside2)
+[2018.09.24-15.26.40:568][662]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.27.00:317][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill2)
+[2018.09.24-15.27.03:649][  0]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.27.06:430][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Holzplanke14)
+[2018.09.24-15.27.10:721][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside13)
+[2018.09.24-15.27.11:688][445]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.27.27:151][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside3)
+[2018.09.24-15.27.28:421][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill2)
+[2018.09.24-15.27.32:781][655]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.27.37:248][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside3)
+[2018.09.24-15.27.42:455][191]Cmd: DELETE
+[2018.09.24-15.27.42:455][191]Cmd: ACTOR DELETE
+[2018.09.24-15.27.42:466][191]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.27.42:486][191]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.09.24-15.27.42:843][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill3)
+[2018.09.24-15.27.48:660][545]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.28.02:821][334]Cmd: DELETE
+[2018.09.24-15.28.02:821][334]Cmd: ACTOR DELETE
+[2018.09.24-15.28.02:833][334]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.28.02:851][334]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2018.09.24-15.28.05:549][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside8)
+[2018.09.24-15.28.07:385][596]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.28.10:510][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside13)
+[2018.09.24-15.28.13:806][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill3)
+[2018.09.24-15.28.15:313][ 28]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.28.23:714][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside13)
+[2018.09.24-15.28.27:080][693]Cmd: TRANSACTION UNDO
+[2018.09.24-15.28.27:080][693]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.28.37:263][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside14)
+[2018.09.24-15.28.37:678][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill3)
+[2018.09.24-15.28.51:268][ 63]Cmd: TRANSACTION UNDO
+[2018.09.24-15.28.51:268][ 63]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.28.56:489][358]Cmd: DELETE
+[2018.09.24-15.28.56:489][358]Cmd: ACTOR DELETE
+[2018.09.24-15.28.56:501][358]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.28.56:521][358]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.09.24-15.28.57:014][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside14)
+[2018.09.24-15.29.00:653][594]Cmd: TRANSACTION UNDO
+[2018.09.24-15.29.00:653][594]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.24-15.29.01:041][611]Cmd: TRANSACTION UNDO
+[2018.09.24-15.29.01:041][611]LogEditorTransaction: Undo Delete Actors
+[2018.09.24-15.29.01:956][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside14)
+[2018.09.24-15.29.03:330][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-15.29.04:144][776]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.29.04:167][776]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.09.24-15.29.08:297][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill3)
+[2018.09.24-15.29.24:753][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner14)
+[2018.09.24-15.29.34:746][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill4)
+[2018.09.24-15.29.35:839][606]Cmd: DELETE
+[2018.09.24-15.29.35:839][606]Cmd: ACTOR DELETE
+[2018.09.24-15.29.35:849][606]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.29.35:876][606]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2018.09.24-15.29.36:772][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner3)
+[2018.09.24-15.29.37:909][720]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.29.42:316][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside10)
+[2018.09.24-15.29.43:298][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside)
+[2018.09.24-15.29.44:256][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor2)
+[2018.09.24-15.29.46:479][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside)
+[2018.09.24-15.29.47:377][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside10)
+[2018.09.24-15.29.49:607][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside3)
+[2018.09.24-15.29.50:437][416]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.29.55:713][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside8)
+[2018.09.24-15.29.56:610][771]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.30.03:564][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner15)
+[2018.09.24-15.30.04:478][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner16)
+[2018.09.24-15.30.08:546][411]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner9)
+[2018.09.24-15.30.10:122][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside2)
+[2018.09.24-15.30.18:500][964]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.30.29:325][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside8)
+[2018.09.24-15.30.31:217][667]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside13)
+[2018.09.24-15.30.32:429][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill3)
+[2018.09.24-15.30.33:574][793]Cmd: DELETE
+[2018.09.24-15.30.33:574][793]Cmd: ACTOR DELETE
+[2018.09.24-15.30.33:584][793]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.30.33:605][793]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.09.24-15.30.33:877][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside13)
+[2018.09.24-15.30.34:063][812]Cmd: DELETE
+[2018.09.24-15.30.34:063][812]Cmd: ACTOR DELETE
+[2018.09.24-15.30.34:074][812]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.30.34:094][812]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.09.24-15.30.34:447][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside8)
+[2018.09.24-15.30.34:721][841]Cmd: DELETE
+[2018.09.24-15.30.34:722][841]Cmd: ACTOR DELETE
+[2018.09.24-15.30.34:733][841]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.30.34:752][841]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.09.24-15.30.38:389][ 56]Cmd: TRANSACTION UNDO
+[2018.09.24-15.30.38:389][ 56]LogEditorTransaction: Undo Delete Actors
+[2018.09.24-15.30.39:973][135]Cmd: DELETE
+[2018.09.24-15.30.39:974][135]Cmd: ACTOR DELETE
+[2018.09.24-15.30.39:984][135]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.30.40:005][135]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.09.24-15.30.40:855][184]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside5)
+[2018.09.24-15.30.42:137][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner9)
+[2018.09.24-15.30.43:544][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor2)
+[2018.09.24-15.30.44:149][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner12)
+[2018.09.24-15.30.44:801][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner5)
+[2018.09.24-15.30.45:567][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner15)
+[2018.09.24-15.30.46:258][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside9)
+[2018.09.24-15.30.47:950][551]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside5)
+[2018.09.24-15.30.56:046][ 13]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.31.24:643][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Bar)
+[2018.09.24-15.31.30:617][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside3)
+[2018.09.24-15.31.42:361][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside9)
+[2018.09.24-15.31.46:598][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner15)
+[2018.09.24-15.31.54:760][331]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.32.04:865][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner11)
+[2018.09.24-15.32.06:517][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner8)
+[2018.09.24-15.32.09:490][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside6)
+[2018.09.24-15.32.12:443][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside4)
+[2018.09.24-15.32.13:168][373]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallWindow3)
+[2018.09.24-15.32.13:676][396]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallOutside5)
+[2018.09.24-15.32.19:499][706]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.32.34:741][583]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.32.39:733][862]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner17)
+[2018.09.24-15.32.46:652][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside14)
+[2018.09.24-15.32.48:107][342]Cmd: DELETE
+[2018.09.24-15.32.48:107][342]Cmd: ACTOR DELETE
+[2018.09.24-15.32.48:117][342]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.32.48:135][342]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2018.09.24-15.32.49:745][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner17)
+[2018.09.24-15.33.00:225][ 39]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.33.02:362][159]Cmd: TRANSACTION UNDO
+[2018.09.24-15.33.02:363][159]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.33.03:476][213]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.33.13:641][808]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-15.33.22:211][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner17)
+[2018.09.24-15.33.27:861][616]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.33.43:867][556]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill)
+[2018.09.24-15.33.46:176][685]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.33.49:888][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside13)
+[2018.09.24-15.33.50:522][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside5)
+[2018.09.24-15.33.51:192][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner15)
+[2018.09.24-15.33.52:701][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner5)
+[2018.09.24-15.33.54:757][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside)
+[2018.09.24-15.34.08:087][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-15.34.14:619][113]LogActorFactory: Actor Factory created WallInside
+[2018.09.24-15.34.15:965][185]LogActorFactory: Actor Factory created WallInside
+[2018.09.24-15.34.17:407][264]Cmd: TRANSACTION UNDO
+[2018.09.24-15.34.17:407][264]LogEditorTransaction: Undo Create Actors
+[2018.09.24-15.34.19:983][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-15.34.20:147][376]LogActorFactory: Actor Factory created WallSmalInside
+[2018.09.24-15.34.20:950][412]LogActorFactory: Actor Factory created WallSmalInside
+[2018.09.24-15.34.23:333][543]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.34.25:647][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-15.34.55:374][399]Cmd: DELETE
+[2018.09.24-15.34.55:374][399]Cmd: ACTOR DELETE
+[2018.09.24-15.34.55:384][399]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.34.55:407][399]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.09.24-15.34.58:394][560]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner12)
+[2018.09.24-15.35.00:761][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill)
+[2018.09.24-15.35.12:191][321]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.35.17:946][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner17)
+[2018.09.24-15.35.29:150][302]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.35.38:396][842]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside15)
+[2018.09.24-15.35.42:454][ 74]Cmd: TRANSACTION UNDO
+[2018.09.24-15.35.42:454][ 74]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.35.44:108][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWindow6)
+[2018.09.24-15.35.46:005][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside15)
+[2018.09.24-15.35.49:232][446]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.35.50:538][523]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-15.35.52:443][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWindow6)
+[2018.09.24-15.35.58:788][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside15)
+[2018.09.24-15.36.03:727][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill3)
+[2018.09.24-15.36.11:581][705]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-15.36.13:059][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWindowSmal)
+[2018.09.24-15.36.13:457][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner8)
+[2018.09.24-15.36.14:640][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside11)
+[2018.09.24-15.36.16:490][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside2)
+[2018.09.24-15.36.25:010][449]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.36.37:605][180]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-15.36.44:471][577]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-15.36.44:623][577]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-15.36.45:156][577]LogSavePackage: Save=475.74ms
+[2018.09.24-15.36.45:156][577]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMapF4DF684E480066C3214496BA6F68A14B.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.24-15.36.45:167][577]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.24-15.36.51:080][577]LogSavePackage: Save=5291.24ms
+[2018.09.24-15.36.51:080][577]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltData1231EE394B737FEFFD5FF8BF06510278.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.24-15.36.51:089][577]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.24-15.37.06:167][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner17)
+[2018.09.24-15.37.21:532][336]Cmd: TRANSACTION UNDO
+[2018.09.24-15.37.21:532][336]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.37.23:351][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_export)
+[2018.09.24-15.37.24:576][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside5)
+[2018.09.24-15.37.25:468][533]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.37.29:190][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside6)
+[2018.09.24-15.37.29:996][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner13)
+[2018.09.24-15.37.37:242][192]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.37.52:545][ 58]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-15.37.53:391][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWindowSmal)
+[2018.09.24-15.37.59:798][457]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.38.10:699][ 90]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.38.14:287][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner19)
+[2018.09.24-15.38.28:176][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside6)
+[2018.09.24-15.38.37:091][490]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.38.46:468][ 11]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.38.55:926][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner20)
+[2018.09.24-15.39.04:500][ 33]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.39.14:949][633]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.39.18:811][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor4)
+[2018.09.24-15.39.31:242][511]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.39.36:955][814]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.39.42:714][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner21)
+[2018.09.24-15.39.45:400][286]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.39.47:307][388]Cmd: TRANSACTION UNDO
+[2018.09.24-15.39.47:307][388]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.39.53:086][706]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.39.57:235][940]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.40.13:156][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside17)
+[2018.09.24-15.40.14:380][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside16)
+[2018.09.24-15.40.17:250][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside17)
+[2018.09.24-15.40.19:816][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside16)
+[2018.09.24-15.40.21:021][155]Cmd: DELETE
+[2018.09.24-15.40.21:021][155]Cmd: ACTOR DELETE
+[2018.09.24-15.40.21:031][155]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.40.21:051][155]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2018.09.24-15.40.22:160][219]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner20)
+[2018.09.24-15.40.22:991][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWindowSmal2)
+[2018.09.24-15.40.32:749][814]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.40.47:417][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside17)
+[2018.09.24-15.40.50:528][813]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.40.58:969][295]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-15.40.59:797][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner24)
+[2018.09.24-15.41.09:576][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor6)
+[2018.09.24-15.41.10:491][928]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.41.15:672][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside19)
+[2018.09.24-15.41.24:465][723]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.41.32:707][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside21)
+[2018.09.24-15.41.40:225][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner15)
+[2018.09.24-15.41.40:972][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside5)
+[2018.09.24-15.41.43:476][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill2)
+[2018.09.24-15.41.44:221][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside12)
+[2018.09.24-15.41.46:530][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill)
+[2018.09.24-15.41.56:290][402]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.42.15:675][509]Cmd: DELETE
+[2018.09.24-15.42.15:675][509]Cmd: ACTOR DELETE
+[2018.09.24-15.42.15:688][509]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.42.15:713][509]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2018.09.24-15.42.22:952][936]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside21)
+[2018.09.24-15.42.25:851][ 92]Cmd: TRANSACTION UNDO
+[2018.09.24-15.42.25:852][ 92]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.24-15.42.26:251][106]Cmd: TRANSACTION UNDO
+[2018.09.24-15.42.26:251][106]LogEditorTransaction: Undo Delete Actors
+[2018.09.24-15.42.31:215][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside21)
+[2018.09.24-15.42.38:705][774]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside21)
+[2018.09.24-15.42.39:420][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside22)
+[2018.09.24-15.42.43:396][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside21)
+[2018.09.24-15.42.44:273][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside22)
+[2018.09.24-15.42.46:622][181]Cmd: TRANSACTION UNDO
+[2018.09.24-15.42.46:622][181]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.24-15.42.46:966][191]Cmd: TRANSACTION UNDO
+[2018.09.24-15.42.46:966][191]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.24-15.42.47:455][212]Cmd: TRANSACTION UNDO
+[2018.09.24-15.42.47:455][212]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.42.47:994][238]Cmd: TRANSACTION UNDO
+[2018.09.24-15.42.47:994][238]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.24-15.42.48:930][284]Cmd: TRANSACTION UNDO
+[2018.09.24-15.42.48:930][284]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.24-15.42.49:304][301]Cmd: TRANSACTION UNDO
+[2018.09.24-15.42.49:305][301]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.42.54:312][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner16)
+[2018.09.24-15.42.57:148][715]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallInside9)
+[2018.09.24-15.42.58:698][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill4)
+[2018.09.24-15.43.04:827][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside21)
+[2018.09.24-15.43.10:764][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill4)
+[2018.09.24-15.43.16:781][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside21)
+[2018.09.24-15.43.19:944][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill5)
+[2018.09.24-15.44.31:569][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside13)
+[2018.09.24-15.44.32:270][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside5)
+[2018.09.24-15.44.36:843][406]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.44.41:163][633]Cmd: DELETE
+[2018.09.24-15.44.41:163][633]Cmd: ACTOR DELETE
+[2018.09.24-15.44.41:180][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.44.41:199][633]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.09.24-15.44.42:015][677]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill4)
+[2018.09.24-15.44.48:823][ 27]Cmd: TRANSACTION UNDO
+[2018.09.24-15.44.48:823][ 27]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.44.50:942][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner15)
+[2018.09.24-15.44.55:076][350]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.44.59:531][583]Cmd: TRANSACTION UNDO
+[2018.09.24-15.44.59:531][583]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.45.02:734][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside5)
+[2018.09.24-15.45.05:894][905]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.45.08:906][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill4)
+[2018.09.24-15.45.09:583][ 91]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallCorner16)
+[2018.09.24-15.45.11:255][177]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallInside9)
+[2018.09.24-15.45.11:800][202]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallInside10)
+[2018.09.24-15.45.13:628][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill4)
+[2018.09.24-15.45.47:147][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside5)
+[2018.09.24-15.45.47:970][272]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner15)
+[2018.09.24-15.45.48:915][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside13)
+[2018.09.24-15.45.49:750][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside5)
+[2018.09.24-15.45.58:092][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside19)
+[2018.09.24-15.45.59:322][892]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallOutside20)
+[2018.09.24-15.46.07:591][352]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.46.24:555][332]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallCorner24)
+[2018.09.24-15.46.57:688][112]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.46.58:737][173]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-15.46.59:216][173]LogSavePackage: Save=419.39ms
+[2018.09.24-15.46.59:216][173]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_Auto23328E62D4100180F9ACFFF93B5D54B8C.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2018.09.24-15.46.59:223][173]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap
+[2018.09.24-15.46.59:227][173]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.468
+[2018.09.24-15.46.59:227][173]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.468
+[2018.09.24-15.46.59:232][173]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xmodular/Wallfill] ([1] browsable assets)...
+[2018.09.24-15.46.59:253][173]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Xmodular/Wallfill.Wallfill]
+[2018.09.24-15.46.59:253][173]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xmodular/Wallfill]
+[2018.09.24-15.46.59:271][173]LogSavePackage: Save=15.69ms
+[2018.09.24-15.46.59:271][173]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Wallfill_Auto2ECD3506847645295233D63AB0EB4A932.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/Wallfill_Auto2.uasset'
+[2018.09.24-15.46.59:275][173]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/Wallfill_Auto2.uasset
+[2018.09.24-15.46.59:276][173]LogFileHelpers: Auto-saving content packages took 0.048
+[2018.09.24-15.47.08:899][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside9)
+[2018.09.24-15.47.09:558][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside10)
+[2018.09.24-15.47.10:066][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill3)
+[2018.09.24-15.47.13:926][  9]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.47.17:285][200]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.47.19:634][336]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-15.47.30:545][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner24)
+[2018.09.24-15.47.39:481][472]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.47.54:361][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside23)
+[2018.09.24-15.48.00:051][663]Cmd: TRANSACTION UNDO
+[2018.09.24-15.48.00:051][663]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.48.07:144][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-15.48.29:989][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill4)
+[2018.09.24-15.48.30:940][403]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.48.34:856][632]Cmd: DELETE
+[2018.09.24-15.48.34:856][632]Cmd: ACTOR DELETE
+[2018.09.24-15.48.34:868][632]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.48.34:888][632]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.09.24-15.48.36:072][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside5)
+[2018.09.24-15.48.41:549][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner16)
+[2018.09.24-15.48.51:589][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner25)
+[2018.09.24-15.48.54:826][712]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.48.59:269][957]Cmd: TRANSACTION UNDO
+[2018.09.24-15.48.59:269][957]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.48.59:879][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside10)
+[2018.09.24-15.49.01:287][ 56]Cmd: DELETE
+[2018.09.24-15.49.01:287][ 56]Cmd: ACTOR DELETE
+[2018.09.24-15.49.01:300][ 56]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.49.01:320][ 56]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.09.24-15.49.01:655][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside9)
+[2018.09.24-15.49.02:032][ 89]Cmd: DELETE
+[2018.09.24-15.49.02:032][ 89]Cmd: ACTOR DELETE
+[2018.09.24-15.49.02:046][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.49.02:065][ 89]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2018.09.24-15.49.04:688][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside12)
+[2018.09.24-15.49.09:929][540]Cmd: TRANSACTION UNDO
+[2018.09.24-15.49.09:929][540]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.49.14:094][766]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.49.37:363][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner16)
+[2018.09.24-15.49.39:718][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside9)
+[2018.09.24-15.49.49:000][700]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.50.06:937][695]Cmd: DELETE
+[2018.09.24-15.50.06:938][695]Cmd: ACTOR DELETE
+[2018.09.24-15.50.06:949][695]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.50.06:969][695]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.09.24-15.50.08:285][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside12)
+[2018.09.24-15.50.14:380][116]Cmd: TRANSACTION UNDO
+[2018.09.24-15.50.14:380][116]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.50.19:198][376]Cmd: TRANSACTION UNDO
+[2018.09.24-15.50.19:198][376]LogEditorTransaction: Undo Move Actors
+[2018.09.24-15.50.24:374][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside24)
+[2018.09.24-15.50.25:420][718]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill)
+[2018.09.24-15.50.33:516][180]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-15.50.38:535][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside21)
+[2018.09.24-15.50.39:654][500]Cmd: DELETE
+[2018.09.24-15.50.39:654][500]Cmd: ACTOR DELETE
+[2018.09.24-15.50.39:667][500]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.50.39:689][500]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.09.24-15.50.40:934][571]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-15.50.41:108][571]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-15.50.41:697][571]LogSavePackage: Save=544.24ms
+[2018.09.24-15.50.41:697][571]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap6B5297DB41775E23152D7F879E03C43F.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.24-15.50.41:709][571]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.24-15.50.48:084][571]LogSavePackage: Save=5735.99ms
+[2018.09.24-15.50.48:084][571]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataADFEF252485638FD48ADC69990028788.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.24-15.50.48:099][571]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
