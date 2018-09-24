@@ -1731,3 +1731,370 @@ LogInit: Object subsystem initialized
 [2018.09.24-13.27.26:805][ 69]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataE915467A4EE79A59958942B2A5214892.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
 [2018.09.24-13.27.26:812][ 69]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
 [2018.09.24-13.27.39:874][111]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-13.27.51:479][321]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-13.27.51:593][321]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallCorner.fbx)
+[2018.09.24-13.27.51:603][321]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.09.24-13.27.51:603][321]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.09.24-13.27.51:603][321]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.09.24-13.27.51:603][321]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.09.24-13.27.51:603][321]LogFbx: ItemName: Model, ItemCount : 2
+[2018.09.24-13.27.51:603][321]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.09.24-13.27.51:603][321]LogFbx: ItemName: Material, ItemCount : 1
+[2018.09.24-13.27.51:609][321]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallCorner.fbx
+[2018.09.24-13.27.51:618][321]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-13.27.53:063][321]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.24-13.27.53:106][321]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallCorner.fbx
+[2018.09.24-13.27.53:115][321]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-13.27.53:116][321]LogFbx: Warning: Triangulating static mesh WallCorner
+[2018.09.24-13.27.53:117][321]LogStaticMesh: Building static mesh WallCorner...
+[2018.09.24-13.27.53:118][321]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallCorner.WallCorner
+[2018.09.24-13.27.54:541][355]LogActorFactory: Actor Factory created WallCorner
+[2018.09.24-13.27.56:514][460]LogActorFactory: Actor Factory created WallCorner
+[2018.09.24-13.27.57:455][510]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-13.28.03:738][880]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-13.28.19:977][826]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-13.28.23:322][ 15]Cmd: TRANSACTION UNDO
+[2018.09.24-13.28.23:322][ 15]LogEditorTransaction: Undo Move Actors
+[2018.09.24-13.28.25:079][111]Cmd: TRANSACTION UNDO
+[2018.09.24-13.28.25:080][111]LogEditorTransaction: Undo Move Actors
+[2018.09.24-13.28.27:690][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-13.28.49:602][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-13.29.01:062][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside_g1)
+[2018.09.24-13.29.02:124][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside)
+[2018.09.24-13.29.04:727][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-13.29.05:378][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside_g1)
+[2018.09.24-13.29.12:781][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-13.29.13:265][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside_g1)
+[2018.09.24-13.29.14:491][678]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-13.30.07:385][720]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-13.30.08:525][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-13.30.09:739][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-13.30.11:385][943]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.30.11:402][943]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.09.24-13.30.14:611][  1]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.24-13.30.18:594][ 48]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-13.30.20:303][137]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-13.30.21:047][141]LogSavePackage: Save=475.42ms
+[2018.09.24-13.30.21:047][141]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMapEEA70FF54CA624EC69BB7C874F7F18DF.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.24-13.30.21:057][141]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.24-13.30.26:762][141]LogSavePackage: Save=5511.98ms
+[2018.09.24-13.30.26:762][141]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltData95DC988844943946A87A0B96E44B088C.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.24-13.30.26:770][141]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.24-13.30.34:439][240]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallCorner.fbx)
+[2018.09.24-13.30.34:450][240]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.09.24-13.30.34:450][240]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.09.24-13.30.34:450][240]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.09.24-13.30.34:450][240]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.09.24-13.30.34:450][240]LogFbx: ItemName: Model, ItemCount : 2
+[2018.09.24-13.30.34:450][240]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.09.24-13.30.34:450][240]LogFbx: ItemName: Material, ItemCount : 1
+[2018.09.24-13.30.34:456][240]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallCorner.fbx
+[2018.09.24-13.30.34:467][240]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-13.30.48:347][240]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.24-13.30.48:388][240]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallCorner.fbx
+[2018.09.24-13.30.48:397][240]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-13.30.48:397][240]LogFbx: Warning: Triangulating static mesh WallCorner
+[2018.09.24-13.30.48:398][240]LogStaticMesh: Building static mesh WallCorner...
+[2018.09.24-13.30.48:400][240]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallCorner.WallCorner
+[2018.09.24-13.31.53:494][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-13.31.53:658][339]LogActorFactory: Actor Factory created WallCorner
+[2018.09.24-13.31.55:478][438]LogActorFactory: Actor Factory created WallCorner
+[2018.09.24-13.32.23:386][ 65]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-13.33.06:964][540]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-13.33.07:663][540]LogSavePackage: Save=406.99ms
+[2018.09.24-13.33.07:663][540]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap061F3E4D4B7244C7D20041897FA26F36.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.24-13.33.07:675][540]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.24-13.33.13:136][540]LogSavePackage: Save=4915.91ms
+[2018.09.24-13.33.13:136][540]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltData963420A34809B5C7E5798E9613174989.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.24-13.33.13:143][540]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.24-13.33.17:311][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-13.33.21:324][  7]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-13.33.23:966][158]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-13.33.42:896][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside_g1)
+[2018.09.24-13.33.48:468][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-13.34.03:251][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-13.34.10:053][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside_g5)
+[2018.09.24-13.34.11:011][562]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (WallCorner2)
+[2018.09.24-13.34.11:105][562]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-13.34.13:522][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside_g1)
+[2018.09.24-13.34.27:176][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-13.34.43:474][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-13.34.44:295][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2018.09.24-13.34.46:109][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside_g1)
+[2018.09.24-13.34.47:958][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-13.34.54:838][534]Cmd: TRANSACTION UNDO
+[2018.09.24-13.34.54:838][534]LogEditorTransaction: Undo Set Location
+[2018.09.24-13.34.55:266][546]Cmd: TRANSACTION UNDO
+[2018.09.24-13.34.55:266][546]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.24-13.34.55:843][565]Cmd: TRANSACTION UNDO
+[2018.09.24-13.34.55:843][565]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.24-13.34.56:208][577]Cmd: TRANSACTION UNDO
+[2018.09.24-13.34.56:208][577]LogEditorTransaction: Undo Set Location
+[2018.09.24-13.34.57:417][617]Cmd: TRANSACTION UNDO
+[2018.09.24-13.34.57:417][617]LogEditorTransaction: Undo Set Location
+[2018.09.24-13.35.06:790][996]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-13.43.07:020][316]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-13.43.07:499][316]LogSavePackage: Save=400.30ms
+[2018.09.24-13.43.07:500][316]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_Auto85A528A624EF52E368E580EBBE70DCA15.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto8.umap'
+[2018.09.24-13.43.07:503][316]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto8.umap
+[2018.09.24-13.43.07:506][316]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.445
+[2018.09.24-13.43.07:506][316]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.445
+[2018.09.24-13.43.07:512][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xmodular/WallCorner] ([1] browsable assets)...
+[2018.09.24-13.43.07:533][316]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Xmodular/WallCorner.WallCorner]
+[2018.09.24-13.43.07:533][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xmodular/WallCorner]
+[2018.09.24-13.43.07:552][316]LogSavePackage: Save=16.11ms
+[2018.09.24-13.43.07:552][316]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/WallCorner_Auto8DCF309CD448C3278B13990B3A285D85A.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/WallCorner_Auto8.uasset'
+[2018.09.24-13.43.07:556][316]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/WallCorner_Auto8.uasset
+[2018.09.24-13.43.07:559][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xmodular/WallDoor] ([1] browsable assets)...
+[2018.09.24-13.43.07:581][316]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Xmodular/WallDoor.WallDoor]
+[2018.09.24-13.43.07:581][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xmodular/WallDoor]
+[2018.09.24-13.43.07:606][316]LogSavePackage: Save=20.42ms
+[2018.09.24-13.43.07:606][316]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/WallDoor_Auto8C74E475548445AF904BAC0AA42CB953B.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/WallDoor_Auto8.uasset'
+[2018.09.24-13.43.07:611][316]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xmodular/WallDoor_Auto8.uasset
+[2018.09.24-13.43.07:611][316]LogFileHelpers: Auto-saving content packages took 0.102
+[2018.09.24-13.45.37:236][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-13.45.50:882][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-13.45.52:621][324]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2018.09.24-13.45.53:716][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2018.09.24-13.45.59:635][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside_g1)
+[2018.09.24-13.46.05:485][ 75]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-13.46.11:258][410]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-13.46.29:894][501]Cmd: TRANSACTION UNDO
+[2018.09.24-13.46.29:894][501]LogEditorTransaction: Undo Move Actors
+[2018.09.24-13.46.32:696][656]Cmd: TRANSACTION UNDO
+[2018.09.24-13.46.32:697][656]LogEditorTransaction: Undo Move Actors
+[2018.09.24-13.46.43:373][281]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-13.46.49:897][661]Cmd: TRANSACTION UNDO
+[2018.09.24-13.46.49:897][661]LogEditorTransaction: Undo Move Actors
+[2018.09.24-13.46.55:093][958]Cmd: DELETE
+[2018.09.24-13.46.55:093][958]Cmd: ACTOR DELETE
+[2018.09.24-13.46.55:101][958]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.46.55:123][958]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.09.24-13.46.56:946][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-13.46.59:264][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-13.47.01:746][343]Cmd: TRANSACTION UNDO
+[2018.09.24-13.47.01:746][343]LogEditorTransaction: Undo Delete selection
+[2018.09.24-13.47.01:751][343]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.WallOutside_g2.StaticMeshComponent0) Component already registered.
+[2018.09.24-13.47.01:753][343]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.WallDoor_g2_42.StaticMeshComponent0) Component already registered.
+[2018.09.24-13.47.03:808][456]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.47.03:826][456]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.09.24-13.52.16:699][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalInside_g1)
+[2018.09.24-13.52.19:461][362]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallOutside_g1)
+[2018.09.24-13.52.19:947][385]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallOutside_g2)
+[2018.09.24-13.52.20:442][409]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallWindow_g1)
+[2018.09.24-13.52.20:926][432]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallOutside_g3)
+[2018.09.24-13.52.21:375][452]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallWindow_g2)
+[2018.09.24-13.52.21:809][472]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallOutside_g4)
+[2018.09.24-13.52.23:688][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-13.52.28:714][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.52.28:715][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.52.28:715][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.52.28:715][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.52.28:715][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.52.28:715][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.52.28:715][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.52.28:716][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.52.28:716][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.52.28:716][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.52.28:716][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.52.28:716][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.52.28:717][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.52.28:717][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.52.28:717][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.52.28:717][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.52.28:717][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.52.28:717][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.52.28:717][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.52.28:718][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.52.28:718][870]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-13.52.28:734][870]LogEditorActor: Deleted 21 Actors (0.039 secs)
+[2018.09.24-13.52.30:704][978]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-13.52.31:140][978]LogSavePackage: Save=386.93ms
+[2018.09.24-13.52.31:140][978]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMapB535CAA04C2C9E04B252008693B841EA.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.24-13.52.31:148][978]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.24-13.52.36:631][978]LogSavePackage: Save=4918.79ms
+[2018.09.24-13.52.36:631][978]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltData8B1D6B074572F27F64D20C93D3D4E2ED.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.24-13.52.36:639][978]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.24-13.52.48:406][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-13.52.54:092][751]LogActorFactory: Actor Factory created WallCorner
+[2018.09.24-13.52.54:093][751]LogActorFactory: Actor Factory created WallDoor
+[2018.09.24-13.52.54:094][751]LogActorFactory: Actor Factory created WallEntrance_g1
+[2018.09.24-13.52.54:095][751]LogActorFactory: Actor Factory created WallInside_g1
+[2018.09.24-13.52.54:096][751]LogActorFactory: Actor Factory created WallOutside_g1
+[2018.09.24-13.52.54:097][751]LogActorFactory: Actor Factory created WallSmalInside_g1
+[2018.09.24-13.52.54:098][751]LogActorFactory: Actor Factory created WallSmalOutside_g1
+[2018.09.24-13.52.54:099][751]LogActorFactory: Actor Factory created WallWindowSmal_g2
+[2018.09.24-13.52.54:100][751]LogActorFactory: Actor Factory created WallWindow_g1
+[2018.09.24-13.52.56:212][811]LogActorFactory: Actor Factory created WallCorner
+[2018.09.24-13.52.56:239][811]LogActorFactory: Actor Factory created WallDoor
+[2018.09.24-13.52.56:266][811]LogActorFactory: Actor Factory created WallEntrance_g1
+[2018.09.24-13.52.56:292][811]LogActorFactory: Actor Factory created WallInside_g1
+[2018.09.24-13.52.56:319][811]LogActorFactory: Actor Factory created WallOutside_g1
+[2018.09.24-13.52.56:344][811]LogActorFactory: Actor Factory created WallSmalInside_g1
+[2018.09.24-13.52.56:373][811]LogActorFactory: Actor Factory created WallSmalOutside_g1
+[2018.09.24-13.52.56:399][811]LogActorFactory: Actor Factory created WallWindowSmal_g2
+[2018.09.24-13.52.56:424][811]LogActorFactory: Actor Factory created WallWindow_g1
+[2018.09.24-13.53.01:021][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-13.59.16:438][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor2)
+[2018.09.24-13.59.20:733][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-13.59.22:583][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor2)
+[2018.09.24-13.59.24:642][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-13.59.45:276][435]LogHttp: Warning: 000001BFF18D7280: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.24-13.59.45:276][435]LogHttp: Warning: 000001BFF18D7280: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1bfac70bfb8 [can pipeline])
+[2018.09.24-13.59.45:276][435]LogHttp: Warning: 000001BFF18D7280: libcurl info message cache 1 (Re-using existing connection! (#47) with host datarouter.ol.epicgames.com)
+[2018.09.24-13.59.45:276][435]LogHttp: Warning: 000001BFF18D7280: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.237.41.97) port 443 (#47))
+[2018.09.24-13.59.45:276][435]LogHttp: Warning: 000001BFF18D7280: libcurl info message cache 3 (upload completely sent off: 358 out of 358 bytes)
+[2018.09.24-13.59.45:276][435]LogHttp: Warning: 000001BFF18D7280: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2018.09.24-13.59.45:276][435]LogHttp: Warning: 000001BFF18D7280: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.09.24-13.59.45:276][435]LogHttp: Warning: 000001BFF18D7280: libcurl info message cache 6 (Closing connection 47)
+[2018.09.24-13.59.45:276][435]LogHttp: Warning: 000001BFF18D7280: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E491605-484B-FE47-CCB1-73A4FEFBB51D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=45133d5643d4d745c18ea3b09ad971ca%7C0a2c2f5bbc5f41cebf178ebfc7d33677%7C2debc7a1-8005-4312-91dc-e5f743cc7aa2&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.09.24-13.59.45:276][435]LogHttp: Warning: 000001BFF18D7280: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.24-13.59.45:276][435]LogHttp: Warning: 000001BFF18D7280: libcurl info message cache 9 (Closing connection 48)
+[2018.09.24-13.59.47:502][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Entrance)
+[2018.09.24-14.00.59:105][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-14.01.07:436][762]Cmd: TRANSACTION UNDO
+[2018.09.24-14.01.07:436][762]LogEditorTransaction: Undo Move Actors
+[2018.09.24-14.01.45:329][844]LogHttp: Warning: 000001BFAB8E5A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.09.24-14.01.45:329][844]LogHttp: Warning: 000001BFAB8E5A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.09.24-14.01.45:329][844]LogHttp: Warning: 000001BFAB8E5A80: libcurl info message cache 1 (Closing connection 49)
+[2018.09.24-14.01.57:781][201]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.02.03:506][360]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.02.12:475][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalInside_g1)
+[2018.09.24-14.02.13:481][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallDoor2)
+[2018.09.24-14.02.14:758][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside_g1)
+[2018.09.24-14.02.17:406][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.02.32:995][165]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-14.02.40:587][374]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-14.02.47:888][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Bar)
+[2018.09.24-14.02.48:487][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside_g1)
+[2018.09.24-14.02.55:106][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-14.03.07:595][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside_g1)
+[2018.09.24-14.03.09:354][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-14.03.10:776][200]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside_g1)
+[2018.09.24-14.03.11:620][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-14.03.14:087][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.03.20:717][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside_g1)
+[2018.09.24-14.03.23:218][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner2)
+[2018.09.24-14.03.29:634][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside_g1)
+[2018.09.24-14.03.40:666][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.03.43:908][ 51]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.24-14.03.43:921][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-14.03.48:382][289]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.03.48:399][289]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.09.24-14.03.54:457][622]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-14.03.54:925][622]LogSavePackage: Save=411.93ms
+[2018.09.24-14.03.54:925][622]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap284FACE946689157A0F428AEEDAE6154.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.24-14.03.54:935][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.24-14.04.01:081][622]LogSavePackage: Save=5602.13ms
+[2018.09.24-14.04.01:082][622]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltData8344133643B98CE0D2FEBAA2BFCB0557.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.24-14.04.01:090][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.24-14.04.36:638][788]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-14.04.36:756][788]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallCorner.fbx)
+[2018.09.24-14.04.36:766][788]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.09.24-14.04.36:766][788]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.09.24-14.04.36:766][788]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.09.24-14.04.36:766][788]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.09.24-14.04.36:766][788]LogFbx: ItemName: Model, ItemCount : 2
+[2018.09.24-14.04.36:766][788]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.09.24-14.04.36:766][788]LogFbx: ItemName: Material, ItemCount : 1
+[2018.09.24-14.04.36:772][788]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallCorner.fbx
+[2018.09.24-14.04.36:781][788]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.04.38:720][788]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.24-14.04.38:768][788]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallCorner.fbx
+[2018.09.24-14.04.38:776][788]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.04.38:777][788]LogFbx: Warning: Triangulating static mesh WallCorner
+[2018.09.24-14.04.38:778][788]LogStaticMesh: Building static mesh WallCorner...
+[2018.09.24-14.04.38:779][788]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallCorner.WallCorner
+[2018.09.24-14.04.40:425][832]LogActorFactory: Actor Factory created WallCorner
+[2018.09.24-14.04.41:307][884]LogActorFactory: Actor Factory created WallCorner
+[2018.09.24-14.05.37:109][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside_g1)
+[2018.09.24-14.06.09:543][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Inside5)
+[2018.09.24-14.08.25:473][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-14.08.32:704][554]LogSlate: Window 'Delete Assets' being destroyed
+[2018.09.24-14.08.32:717][554]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-14.08.34:774][554]SourceControl: rm 'Content/Assets/Xmodular/WallEntrance_g1.uasset'
+[2018.09.24-14.08.34:774][554]SourceControl: rm 'Content/Assets/Xmodular/WallInside_g1.uasset'
+[2018.09.24-14.08.34:774][554]SourceControl: rm 'Content/Assets/Xmodular/WallOutside_g1.uasset'
+[2018.09.24-14.08.34:774][554]SourceControl: rm 'Content/Assets/Xmodular/WallSmalInside_g1.uasset'
+[2018.09.24-14.08.34:774][554]SourceControl: rm 'Content/Assets/Xmodular/WallSmalOutside_g1.uasset'
+[2018.09.24-14.08.34:774][554]SourceControl: rm 'Content/Assets/Xmodular/WallWindowSmal_g2.uasset'
+[2018.09.24-14.08.34:774][554]SourceControl: rm 'Content/Assets/Xmodular/WallWindow_g1.uasset'
+[2018.09.24-14.08.48:278][346]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.08.48:278][346]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.08.48:278][346]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.08.48:279][346]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.08.48:279][346]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.08.48:279][346]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.08.48:279][346]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.08.48:279][346]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-14.08.48:297][346]LogEditorActor: Deleted 8 Actors (0.031 secs)
+[2018.09.24-14.13.55:625][612]LogSavePackage: Save=373.46ms
+[2018.09.24-14.13.55:625][612]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_Auto965D2359E4721744FB01B39965F0B202B.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto9.umap'
+[2018.09.24-14.13.55:628][612]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto9.umap
+[2018.09.24-14.13.55:632][612]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.421
+[2018.09.24-14.13.55:632][612]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.421
+[2018.09.24-14.15.56:307][105]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-14.15.56:429][105]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallDoor.fbx)
+[2018.09.24-14.15.56:438][105]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.09.24-14.15.56:438][105]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.09.24-14.15.56:438][105]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.09.24-14.15.56:438][105]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.09.24-14.15.56:438][105]LogFbx: ItemName: Model, ItemCount : 2
+[2018.09.24-14.15.56:438][105]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.09.24-14.15.56:438][105]LogFbx: ItemName: Material, ItemCount : 1
+[2018.09.24-14.15.56:446][105]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallDoor.fbx
+[2018.09.24-14.15.56:457][105]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.15.58:609][105]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.09.24-14.15.58:657][105]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallDoor.fbx
+[2018.09.24-14.15.58:667][105]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.15.58:668][105]LogFbx: Warning: Triangulating static mesh WallDoor
+[2018.09.24-14.15.58:669][105]LogStaticMesh: Building static mesh WallDoor...
+[2018.09.24-14.15.58:672][105]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallDoor.WallDoor
+[2018.09.24-14.15.58:818][105]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallEntrance.fbx)
+[2018.09.24-14.15.58:831][105]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallEntrance.fbx
+[2018.09.24-14.15.58:840][105]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.15.58:840][105]LogFbx: Warning: Triangulating static mesh WallEntrance
+[2018.09.24-14.15.58:841][105]LogStaticMesh: Building static mesh WallEntrance...
+[2018.09.24-14.15.58:842][105]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallEntrance.WallEntrance
+[2018.09.24-14.15.58:984][105]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallInside.fbx)
+[2018.09.24-14.15.58:998][105]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallInside.fbx
+[2018.09.24-14.15.59:006][105]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.15.59:007][105]LogFbx: Warning: Triangulating static mesh WallInside
+[2018.09.24-14.15.59:008][105]LogStaticMesh: Building static mesh WallInside...
+[2018.09.24-14.15.59:009][105]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallInside.WallInside
+[2018.09.24-14.15.59:152][105]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallOutside.fbx)
+[2018.09.24-14.15.59:165][105]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallOutside.fbx
+[2018.09.24-14.15.59:173][105]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.15.59:173][105]LogFbx: Warning: Triangulating static mesh WallOutside
+[2018.09.24-14.15.59:175][105]LogStaticMesh: Building static mesh WallOutside...
+[2018.09.24-14.15.59:175][105]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallOutside.WallOutside
+[2018.09.24-14.15.59:318][105]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallSmalInside.fbx)
+[2018.09.24-14.15.59:329][105]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallSmalInside.fbx
+[2018.09.24-14.15.59:338][105]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.15.59:338][105]LogFbx: Warning: Triangulating static mesh WallSmalInside
+[2018.09.24-14.15.59:339][105]LogStaticMesh: Building static mesh WallSmalInside...
+[2018.09.24-14.15.59:341][105]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallSmalInside.WallSmalInside
+[2018.09.24-14.15.59:485][105]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallSmalOutside.fbx)
+[2018.09.24-14.15.59:497][105]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallSmalOutside.fbx
+[2018.09.24-14.15.59:506][105]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.15.59:506][105]LogFbx: Warning: Triangulating static mesh WallSmalOutside
+[2018.09.24-14.15.59:507][105]LogStaticMesh: Building static mesh WallSmalOutside...
+[2018.09.24-14.15.59:508][105]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallSmalOutside.WallSmalOutside
+[2018.09.24-14.15.59:653][105]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallWindow.fbx)
+[2018.09.24-14.15.59:666][105]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallWindow.fbx
+[2018.09.24-14.15.59:675][105]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.15.59:675][105]LogFbx: Warning: Triangulating static mesh WallWindow
+[2018.09.24-14.15.59:676][105]LogStaticMesh: Building static mesh WallWindow...
+[2018.09.24-14.15.59:679][105]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallWindow.WallWindow
+[2018.09.24-14.15.59:823][105]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallWindowSmal.fbx)
+[2018.09.24-14.15.59:837][105]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallWindowSmal.fbx
+[2018.09.24-14.15.59:845][105]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.15.59:845][105]LogFbx: Warning: Triangulating static mesh WallWindowSmal
+[2018.09.24-14.15.59:847][105]LogStaticMesh: Building static mesh WallWindowSmal...
+[2018.09.24-14.15.59:850][105]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallWindowSmal.WallWindowSmal
+[2018.09.24-14.15.59:993][105]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallCorner.fbx)
+[2018.09.24-14.16.00:008][105]LogFbx: Loading FBX Scene from C:\Users\usagi\Desktop\Maya\scenes\Fbx\Wall\export\WallCorner.fbx
+[2018.09.24-14.16.00:018][105]LogFbx: FBX Scene Loaded Succesfully
+[2018.09.24-14.16.00:018][105]LogFbx: Warning: Triangulating static mesh WallCorner
+[2018.09.24-14.16.00:020][105]LogStaticMesh: Building static mesh WallCorner...
+[2018.09.24-14.16.00:022][105]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Xmodular/WallCorner.WallCorner
