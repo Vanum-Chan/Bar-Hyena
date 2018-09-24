@@ -3305,3 +3305,423 @@ LogInit: Object subsystem initialized
 [2018.09.24-15.50.48:084][571]LogSavePackage: Save=5735.99ms
 [2018.09.24-15.50.48:084][571]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataADFEF252485638FD48ADC69990028788.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
 [2018.09.24-15.50.48:099][571]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.24-15.52.14:072][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill3)
+[2018.09.24-15.52.15:866][755]Cmd: DELETE
+[2018.09.24-15.52.15:866][755]Cmd: ACTOR DELETE
+[2018.09.24-15.52.15:877][755]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.52.15:893][755]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.09.24-15.52.19:532][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside24)
+[2018.09.24-15.52.20:822][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside16)
+[2018.09.24-15.52.22:090][109]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallOutside24)
+[2018.09.24-15.52.25:079][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside16)
+[2018.09.24-15.52.25:801][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-15.52.27:278][400]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.52.27:294][400]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.09.24-15.52.29:280][518]Cmd: TRANSACTION UNDO
+[2018.09.24-15.52.29:280][518]LogEditorTransaction: Undo Delete selection
+[2018.09.24-15.52.30:279][565]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallOutside24)
+[2018.09.24-15.52.31:258][615]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Wallfill4)
+[2018.09.24-15.52.37:365][960]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.52.50:064][695]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.52.57:113][107]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-15.53.20:081][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside7)
+[2018.09.24-15.53.21:347][364]Cmd: DELETE
+[2018.09.24-15.53.21:347][364]Cmd: ACTOR DELETE
+[2018.09.24-15.53.21:360][364]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.53.21:381][364]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.09.24-15.53.23:383][481]Cmd: TRANSACTION UNDO
+[2018.09.24-15.53.23:383][481]LogEditorTransaction: Undo Delete Actors
+[2018.09.24-15.53.24:859][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-15.53.25:802][593]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.53.25:823][593]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2018.09.24-15.53.30:792][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-15.53.30:949][845]LogActorFactory: Actor Factory created WallEntrance
+[2018.09.24-15.53.30:964][845]LogActorFactory: Actor Factory created WallEntrance
+[2018.09.24-15.53.33:716][916]LogActorFactory: Actor Factory created WallEntrance
+[2018.09.24-15.53.38:267][ 30]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.53.55:249][479]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-15.53.58:266][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-15.54.30:579][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.30:579][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.30:580][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.30:580][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.30:580][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.30:581][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.30:581][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.30:581][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.30:581][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.30:581][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.30:582][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.30:582][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.30:582][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.30:582][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.30:582][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.30:582][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.30:582][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.30:583][421]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.30:604][421]LogEditorActor: Deleted 18 Actors (0.050 secs)
+[2018.09.24-15.54.40:152][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:153][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:153][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:153][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:153][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:154][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:154][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:154][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:156][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:156][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:157][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:157][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:157][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:157][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:157][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:158][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:158][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:158][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:158][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:158][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:158][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:158][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:159][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:159][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:159][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:159][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:159][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:159][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:159][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:160][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:160][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:160][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:160][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:160][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:160][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:161][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:161][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:161][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:161][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:161][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:161][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:161][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:162][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:162][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:162][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:162][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:162][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:162][680]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.54.40:179][680]LogEditorActor: Deleted 48 Actors (0.063 secs)
+[2018.09.24-15.55.18:460][696]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.55.18:486][696]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2018.09.24-15.55.32:591][ 69]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-15.56.19:232][307]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-15.56.25:528][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Bar)
+[2018.09.24-15.56.27:187][509]Cmd: DELETE
+[2018.09.24-15.56.27:187][509]Cmd: ACTOR DELETE
+[2018.09.24-15.56.27:198][509]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.56.27:223][509]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2018.09.24-15.56.30:528][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-15.56.33:052][668]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.56.33:052][668]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.56.33:052][668]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.56.33:053][668]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.56.33:078][668]LogEditorActor: Deleted 4 Actors (0.038 secs)
+[2018.09.24-15.56.37:493][791]Cmd: TRANSACTION UNDO
+[2018.09.24-15.56.37:493][791]LogEditorTransaction: Undo Delete selection
+[2018.09.24-15.56.37:974][801]Cmd: TRANSACTION UNDO
+[2018.09.24-15.56.37:974][801]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.24-15.56.38:407][813]Cmd: TRANSACTION UNDO
+[2018.09.24-15.56.38:407][813]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.24-15.56.38:888][826]Cmd: TRANSACTION UNDO
+[2018.09.24-15.56.38:889][826]LogEditorTransaction: Undo Delete Actors
+[2018.09.24-15.56.41:521][893]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.57.16:411][814]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.09.24-15.57.22:540][814]LogSlate: Window 'Submit Files' being destroyed
+[2018.09.24-15.57.37:577][926]LogSavePackage: Save=366.41ms
+[2018.09.24-15.57.37:577][926]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap073831AC4C53A91A4FAB00BFB83CE64C.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.24-15.57.37:585][926]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.24-15.57.42:666][926]LogSavePackage: Save=4878.92ms
+[2018.09.24-15.57.42:666][926]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataEED673394CAA5888B2F84DA8B61819D5.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.24-15.57.42:674][926]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.24-15.58.08:433][352]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-15.58.15:307][750]Cmd: TRANSACTION UNDO
+[2018.09.24-15.58.15:307][750]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.24-15.58.28:609][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Bar)
+[2018.09.24-15.58.33:191][704]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.58.34:981][780]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Kitchen)
+[2018.09.24-15.58.43:989][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2018.09.24-15.58.48:118][370]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube13)
+[2018.09.24-15.58.48:927][405]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube14)
+[2018.09.24-15.58.52:389][598]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.58.59:027][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Woodwall_low7)
+[2018.09.24-15.59.00:085][ 36]Cmd: DELETE
+[2018.09.24-15.59.00:085][ 36]Cmd: ACTOR DELETE
+[2018.09.24-15.59.00:093][ 36]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-15.59.00:112][ 36]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2018.09.24-15.59.14:935][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube15)
+[2018.09.24-15.59.15:954][959]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.59.23:227][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube16)
+[2018.09.24-15.59.24:122][396]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.59.30:690][755]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.59.38:553][181]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube17)
+[2018.09.24-15.59.39:474][226]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-15.59.50:694][873]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.00.04:628][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2018.09.24-16.00.05:660][714]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.00.12:206][ 90]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-16.00.14:752][232]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-16.00.15:334][232]LogSavePackage: Save=393.95ms
+[2018.09.24-16.00.15:334][232]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap70094C0C4FC6CBB191508AAB69373DF4.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.24-16.00.15:347][232]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.24-16.00.21:211][232]LogSavePackage: Save=5301.28ms
+[2018.09.24-16.00.21:211][232]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataF5B84C18481B1B5D9875548931C7513B.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.24-16.00.21:220][232]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.24-16.02.33:026][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-16.02.57:536][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Bar)
+[2018.09.24-16.02.58:694][266]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.03.08:349][792]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.03.15:745][193]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.03.18:550][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Kitchen)
+[2018.09.24-16.03.19:459][388]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.03.37:740][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Bar)
+[2018.09.24-16.03.45:564][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Kitchen)
+[2018.09.24-16.03.52:061][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-16.05.04:782][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Kitchen)
+[2018.09.24-16.05.12:902][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Kitchen)
+[2018.09.24-16.05.17:045][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-16.05.17:199][235]LogActorFactory: Actor Factory created Cube
+[2018.09.24-16.05.18:990][329]LogActorFactory: Actor Factory created Cube
+[2018.09.24-16.05.21:669][477]Cmd: POLY SELECT MEMORY RECALL
+[2018.09.24-16.05.22:948][552]Cmd: TRANSACTION UNDO
+[2018.09.24-16.05.22:948][552]LogEditorTransaction: Undo Recall Selection Set
+[2018.09.24-16.05.24:007][606]Cmd: TRANSACTION UNDO
+[2018.09.24-16.05.24:007][606]LogEditorTransaction: Undo Create Actors
+[2018.09.24-16.05.25:572][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-16.05.25:703][694]LogActorFactory: Actor Factory created Cube
+[2018.09.24-16.05.28:990][875]LogActorFactory: Actor Factory created Cube
+[2018.09.24-16.05.30:528][961]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.05.43:629][737]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.06.01:005][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.24-16.06.01:776][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-16.06.09:723][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-16.06.20:873][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-16.06.27:740][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-16.06.38:144][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Bar)
+[2018.09.24-16.06.44:607][836]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.24-16.06.46:204][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-16.06.51:519][131]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ground_Bar)
+[2018.09.24-16.06.54:184][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.24-16.06.56:087][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Bar)
+[2018.09.24-16.06.57:725][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.24-16.06.58:860][530]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ground_Bar)
+[2018.09.24-16.07.11:915][293]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-16.07.12:434][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.24-16.07.22:042][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Woodwall_low2)
+[2018.09.24-16.07.26:331][107]Cmd: DELETE
+[2018.09.24-16.07.26:331][107]Cmd: ACTOR DELETE
+[2018.09.24-16.07.26:341][107]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-16.07.26:366][107]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.09.24-16.07.28:126][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Woodwall_low3)
+[2018.09.24-16.07.28:885][248]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Woodwall_low4)
+[2018.09.24-16.07.29:737][292]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Woodwall_low5)
+[2018.09.24-16.07.30:714][344]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.07.41:963][944]Cmd: TRANSACTION UNDO
+[2018.09.24-16.07.41:963][944]LogEditorTransaction: Undo Move Actors
+[2018.09.24-16.07.47:002][204]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.07.52:884][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Woodwall_low6)
+[2018.09.24-16.07.53:949][579]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.08.08:957][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Woodwall_low_edge)
+[2018.09.24-16.08.10:446][448]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.08.19:483][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Jukebox1)
+[2018.09.24-16.08.29:646][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.24-16.08.30:943][495]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.08.36:072][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.24-16.08.56:738][968]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-16.09.02:170][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_export)
+[2018.09.24-16.09.03:288][291]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.09.06:505][473]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.09.08:983][610]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.09.33:593][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Woodwall_long4)
+[2018.09.24-16.09.38:622][188]Cmd: DELETE
+[2018.09.24-16.09.38:622][188]Cmd: ACTOR DELETE
+[2018.09.24-16.09.38:633][188]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-16.09.38:656][188]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2018.09.24-16.09.39:870][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Woodwall_long3)
+[2018.09.24-16.09.41:155][319]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Woodwall_long2)
+[2018.09.24-16.09.41:815][347]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Woodwall_long)
+[2018.09.24-16.09.44:473][476]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.10.00:603][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_shelf)
+[2018.09.24-16.10.05:098][598]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.10.07:084][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Bar)
+[2018.09.24-16.10.12:221][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v2_4)
+[2018.09.24-16.10.13:097][986]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.10.14:727][ 73]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Chaire6)
+[2018.09.24-16.10.15:628][118]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Chaire2)
+[2018.09.24-16.10.16:379][155]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Chaire4)
+[2018.09.24-16.10.16:813][174]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Chaire13)
+[2018.09.24-16.10.17:152][187]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Table_v2_6)
+[2018.09.24-16.10.17:650][209]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ground_Bar)
+[2018.09.24-16.10.21:974][439]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Chaire15)
+[2018.09.24-16.10.22:817][483]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Chaire17)
+[2018.09.24-16.10.23:186][499]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Table_v2_5)
+[2018.09.24-16.10.23:715][524]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Chaire16)
+[2018.09.24-16.10.24:270][550]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Chaire5)
+[2018.09.24-16.10.28:843][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table_v2_7)
+[2018.09.24-16.10.29:946][861]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.10.32:764][ 20]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Chaire1)
+[2018.09.24-16.10.33:538][ 60]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Ground_Bar)
+[2018.09.24-16.10.35:023][141]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Chaire0)
+[2018.09.24-16.10.44:878][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Sink2)
+[2018.09.24-16.10.45:796][743]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.10.51:197][ 59]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (blockout_Sink2)
+[2018.09.24-16.10.51:252][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-16.10.56:030][303]Cmd: PIVOT HERE
+[2018.09.24-16.10.59:813][514]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (toilet)
+[2018.09.24-16.11.10:093][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (toilet2)
+[2018.09.24-16.11.11:566][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Sink)
+[2018.09.24-16.11.21:658][757]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (blockout_Sink)
+[2018.09.24-16.11.21:708][757]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-16.11.25:816][953]Cmd: PIVOT HERE
+[2018.09.24-16.11.34:904][469]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.11.38:207][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (toilet2)
+[2018.09.24-16.11.53:084][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (desk_office)
+[2018.09.24-16.11.53:715][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_shelf2)
+[2018.09.24-16.11.54:710][533]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.11.58:065][726]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (desk_office)
+[2018.09.24-16.12.00:041][831]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (tv)
+[2018.09.24-16.12.03:432][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (lamp)
+[2018.09.24-16.12.04:273][ 62]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight10)
+[2018.09.24-16.12.07:703][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (grammofon)
+[2018.09.24-16.12.12:245][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (piano)
+[2018.09.24-16.12.13:119][518]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.12.20:240][894]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (shelf)
+[2018.09.24-16.12.25:708][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Fridge3)
+[2018.09.24-16.12.27:617][271]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.12.30:226][405]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Frezzer2)
+[2018.09.24-16.12.30:879][433]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Frezzer3)
+[2018.09.24-16.12.31:965][485]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Holzplanke17)
+[2018.09.24-16.12.32:656][516]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-16.12.33:507][554]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Holzplanke16)
+[2018.09.24-16.12.35:304][639]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Holzplanke30)
+[2018.09.24-16.12.41:082][941]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.12.43:348][ 71]Cmd: TRANSACTION UNDO
+[2018.09.24-16.12.43:348][ 71]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.24-16.12.44:561][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-16.12.45:528][190]Cmd: ACTOR HIDE SELECTED
+[2018.09.24-16.12.48:493][361]Cmd: ACTOR HIDE SELECTED
+[2018.09.24-16.12.49:611][425]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.13.13:328][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Holzplanke26)
+[2018.09.24-16.13.14:294][852]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.13.15:693][919]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-16.13.16:194][919]LogSavePackage: Save=415.77ms
+[2018.09.24-16.13.16:194][919]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_Auto35CF20F0A487D68C3555A9BB63541E8F9.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2018.09.24-16.13.16:199][919]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap
+[2018.09.24-16.13.16:203][919]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.468
+[2018.09.24-16.13.16:203][919]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.468
+[2018.09.24-16.13.18:026][ 15]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Holzplanke27)
+[2018.09.24-16.13.18:719][ 46]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallOutside19)
+[2018.09.24-16.13.20:076][106]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (WallOutside19)
+[2018.09.24-16.13.21:214][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Holzplanke24)
+[2018.09.24-16.13.22:020][197]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Holzplanke23)
+[2018.09.24-16.13.22:615][223]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Holzplanke26)
+[2018.09.24-16.13.23:497][265]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Holzplanke27)
+[2018.09.24-16.13.24:259][300]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Holzplanke28)
+[2018.09.24-16.13.24:870][327]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Holzplanke25)
+[2018.09.24-16.13.25:699][366]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Holzplanke29)
+[2018.09.24-16.13.27:584][457]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Frezzer3)
+[2018.09.24-16.13.28:147][481]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Holzplanke17)
+[2018.09.24-16.13.28:966][520]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Frezzer2)
+[2018.09.24-16.13.29:696][554]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Holzplanke16)
+[2018.09.24-16.13.30:927][612]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Fridge3)
+[2018.09.24-16.13.39:336][ 51]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Frezzer3)
+[2018.09.24-16.13.44:766][335]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (blockout_Holzplanke28)
+[2018.09.24-16.13.44:825][335]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-16.13.47:058][428]Cmd: PIVOT HERE
+[2018.09.24-16.13.48:870][510]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.14.16:384][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Frezzer3)
+[2018.09.24-16.14.18:220][108]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Frezzer2)
+[2018.09.24-16.14.22:000][312]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (blockout_Frezzer2)
+[2018.09.24-16.14.22:060][312]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-16.14.25:490][465]Cmd: PIVOT SNAPPED
+[2018.09.24-16.14.32:892][841]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.24-16.14.33:877][890]Cmd: TRANSACTION UNDO
+[2018.09.24-16.14.33:877][890]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.24-16.14.34:210][899]Cmd: TRANSACTION UNDO
+[2018.09.24-16.14.34:210][899]LogEditorTransaction: Undo Move Actors
+[2018.09.24-16.14.34:513][910]Cmd: TRANSACTION UNDO
+[2018.09.24-16.14.34:513][910]LogEditorTransaction: Undo Rotate Actors
+[2018.09.24-16.14.38:499][ 97]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Office)
+[2018.09.24-16.14.40:103][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Holzplanke7)
+[2018.09.24-16.14.41:128][206]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.14.43:836][336]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Holzplanke10)
+[2018.09.24-16.14.44:389][358]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Holzplanke11)
+[2018.09.24-16.14.44:874][377]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Holzplanke8)
+[2018.09.24-16.14.46:112][436]Cmd: DELETE
+[2018.09.24-16.14.46:112][436]Cmd: ACTOR DELETE
+[2018.09.24-16.14.46:123][436]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-16.14.46:124][436]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-16.14.46:124][436]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-16.14.46:125][436]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-16.14.46:148][436]LogEditorActor: Deleted 4 Actors (0.037 secs)
+[2018.09.24-16.14.47:831][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Frezzer3)
+[2018.09.24-16.14.48:360][535]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Frezzer2)
+[2018.09.24-16.15.14:784][606]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.15.19:751][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Frezzer2)
+[2018.09.24-16.15.24:367][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wallfill7)
+[2018.09.24-16.15.25:189][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Holzplanke17)
+[2018.09.24-16.15.25:936][130]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Holzplanke16)
+[2018.09.24-16.15.34:144][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Holzplanke17)
+[2018.09.24-16.15.35:383][584]Cmd: DELETE
+[2018.09.24-16.15.35:383][584]Cmd: ACTOR DELETE
+[2018.09.24-16.15.35:394][584]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.24-16.15.35:415][584]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.09.24-16.15.36:062][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Fridge3)
+[2018.09.24-16.15.37:093][665]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.15.45:854][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Holzplanke16)
+[2018.09.24-16.15.49:032][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Holzplanke23)
+[2018.09.24-16.15.49:954][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Holzplanke25)
+[2018.09.24-16.15.50:888][347]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.15.54:448][534]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Holzplanke23)
+[2018.09.24-16.16.04:172][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Holzplanke16)
+[2018.09.24-16.16.18:880][874]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.16.23:805][119]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (blockout_Holzplanke17)
+[2018.09.24-16.16.23:868][119]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-16.16.26:588][235]Cmd: ACTOR BAKEPREPIVOT
+[2018.09.24-16.16.27:859][292]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (blockout_Holzplanke17)
+[2018.09.24-16.16.27:920][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-16.16.30:831][428]Cmd: PIVOT HERE
+[2018.09.24-16.16.36:741][711]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (blockout_Holzplanke18)
+[2018.09.24-16.16.36:800][711]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-16.16.40:715][879]Cmd: ACTOR UNBAKEPREPIVOT
+[2018.09.24-16.16.42:355][947]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (blockout_Holzplanke18)
+[2018.09.24-16.16.42:416][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-16.16.45:317][ 85]Cmd: PIVOT SNAPPED
+[2018.09.24-16.17.02:761][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Holzplanke17)
+[2018.09.24-16.17.03:650][ 27]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Holzplanke16)
+[2018.09.24-16.17.08:312][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Office)
+[2018.09.24-16.17.12:146][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Fridge3)
+[2018.09.24-16.17.17:278][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Office)
+[2018.09.24-16.17.18:149][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Holzplanke12)
+[2018.09.24-16.17.19:143][784]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.17.24:901][ 48]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (blockout_Holzplanke14)
+[2018.09.24-16.17.30:154][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Office)
+[2018.09.24-16.17.41:633][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (desk_office)
+[2018.09.24-16.17.42:812][786]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (tv)
+[2018.09.24-16.17.44:193][844]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (lamp)
+[2018.09.24-16.17.44:750][863]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight10)
+[2018.09.24-16.17.47:801][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Storage)
+[2018.09.24-16.17.48:634][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-16.17.48:792][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.24-16.17.49:213][ 28]LogSavePackage: Save=380.83ms
+[2018.09.24-16.17.49:213][ 28]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap44399B244234749AE5E3E9911E804D24.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.24-16.17.49:222][ 28]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.24-16.17.54:644][ 28]LogSavePackage: Save=5199.75ms
+[2018.09.24-16.17.54:644][ 28]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltData9B363AAB43E15C9BA7B9D8B4A36EFB0A.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.24-16.17.54:652][ 28]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.24-16.17.59:715][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Bar)
+[2018.09.24-16.18.03:697][403]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.18.08:229][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2018.09.24-16.18.26:658][383]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.24-16.18.36:526][822]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.24-16.18.48:564][337]Cmd: TRANSACTION UNDO
+[2018.09.24-16.18.48:564][337]LogEditorTransaction: Undo Move Actors
+[2018.09.24-16.19.07:304][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Bar)
+[2018.09.24-16.19.08:464][806]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
