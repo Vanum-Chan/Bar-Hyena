@@ -919,3 +919,262 @@ LogInit: Object subsystem initialized
 [2018.09.25-09.45.40:304][ 70]SourceControl:  copy Content/Assets/Xtexture/WallTextures/{group2_BaseColor_Mat.uasset => group2_Bar_BaseColor_Mat.uasset} (98%)
 [2018.09.25-09.45.40:304][ 70]SourceControl:  rewrite Content/Assets/Xtexture/WallTextures/group2_BaseColor_Mat.uasset (100%)
 [2018.09.25-09.45.40:325][ 70]SourceControl: Commited [Test a32b836] office.
+[2018.09.25-09.55.18:301][887]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.024
+[2018.09.25-09.55.18:306][887]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xtexture/WallTextures/group1_low_Office_BaseColor] ([1] browsable assets)...
+[2018.09.25-09.55.18:318][887]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Xtexture/WallTextures/group1_low_Office_BaseColor.group1_low_Office_BaseColor]
+[2018.09.25-09.55.18:318][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xtexture/WallTextures/group1_low_Office_BaseColor]
+[2018.09.25-09.55.18:344][887]LogSavePackage: Save=20.83ms
+[2018.09.25-09.55.18:344][887]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group1_low_Office_BaseColor_AutoF155C76847A93EA1FED3D3B6E8398E31.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group1_low_Office_BaseColor_Auto3.uasset'
+[2018.09.25-09.55.18:349][887]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group1_low_Office_BaseColor_Auto3.uasset
+[2018.09.25-09.55.18:355][887]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xtexture/WallTextures/group1_low_Office_Normal] ([1] browsable assets)...
+[2018.09.25-09.55.18:368][887]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Xtexture/WallTextures/group1_low_Office_Normal.group1_low_Office_Normal]
+[2018.09.25-09.55.18:368][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xtexture/WallTextures/group1_low_Office_Normal]
+[2018.09.25-09.55.18:393][887]LogSavePackage: Save=21.37ms
+[2018.09.25-09.55.18:393][887]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group1_low_Office_Normal_Auto34CFB5AC44F10C1BFF58C4CB1330C63F1.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group1_low_Office_Normal_Auto3.uasset'
+[2018.09.25-09.55.18:405][887]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group1_low_Office_Normal_Auto3.uasset
+[2018.09.25-09.55.18:405][887]LogFileHelpers: Auto-saving content packages took 0.104
+[2018.09.25-10.07.37:171][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-10.08.33:819][278]LogMaterial: Missing cached shader map for material group2_Office_BaseColor_Mat, compiling. 
+[2018.09.25-10.08.33:843][278]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.25-10.08.33:843][278]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.25-10.08.33:843][278]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.25-10.08.42:226][278]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.25-10.08.42:276][278]LogSavePackage: Save=19.04ms
+[2018.09.25-10.08.42:276][278]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group2_Office_BaseColor_MatD4F9DA824C4C5A136DF4E388CE1BBB41.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group2_Office_BaseColor_Mat.uasset'
+[2018.09.25-10.08.42:285][278]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group2_Office_BaseColor_Mat.uasset
+[2018.09.25-10.09.18:344][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Storage2)
+[2018.09.25-10.09.46:662][135]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-10.09.46:837][135]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\usagi\Documents\Allegorithmic\Substance Painter\export\Wall_Group2\Office\group2_low_Office_BaseColor.tga)
+[2018.09.25-10.09.46:972][135]LogTexture: Display: Building textures: group2_low_Office_BaseColor (AutoDXT, 2048X2048)
+[2018.09.25-10.09.48:072][135]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\usagi\Documents\Allegorithmic\Substance Painter\export\Wall_Group2\Office\group2_low_Office_Normal.tga)
+[2018.09.25-10.09.48:257][135]LogTexture: Display: Building textures: group2_low_Office_Normal (BC5, 2048X2048)
+[2018.09.25-10.09.49:387][135]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\usagi\Documents\Allegorithmic\Substance Painter\export\Wall_Group2\Office\group2_low_Office_OcclusionRoughnessMetallic.tga)
+[2018.09.25-10.09.49:517][135]LogTexture: Display: Building textures: group2_low_Office_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.09.25-10.09.55:904][258]LogMaterial: Missing cached shader map for material group2_Office_BaseColor_Mat, compiling. 
+[2018.09.25-10.09.56:046][258]LogMaterial: Missing cached shader map for material group2_Office_BaseColor_Mat, compiling. 
+[2018.09.25-10.09.56:066][258]LogMaterial: Missing cached shader map for material group2_Office_BaseColor_Mat, compiling. 
+[2018.09.25-10.09.56:083][258]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.25-10.09.56:083][258]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.25-10.09.56:083][258]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.25-10.09.56:110][258]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.09.25-10.09.56:117][258]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.09.25-10.09.56:124][258]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.09.25-10.10.03:768][536]LogMaterial: Missing cached shader map for material group2_Office_BaseColor_Mat, compiling. 
+[2018.09.25-10.10.03:790][536]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.09.25-10.10.03:820][536]LogMaterial: Missing cached shader map for material group2_Office_BaseColor_Mat, compiling. 
+[2018.09.25-10.10.07:128][661]LogMaterial: Missing cached shader map for material group2_Office_BaseColor_Mat, compiling. 
+[2018.09.25-10.10.07:157][661]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.09.25-10.10.07:188][661]LogMaterial: Missing cached shader map for material group2_Office_BaseColor_Mat, compiling. 
+[2018.09.25-10.10.15:685][991]LogMaterial: Missing cached shader map for material group2_Office_BaseColor_Mat, compiling. 
+[2018.09.25-10.10.18:586][123]LogMaterial: Missing cached shader map for material group2_Office_BaseColor_Mat, compiling. 
+[2018.09.25-10.10.18:588][123]LogMaterial: Warning: /Engine/Transient.group2_Office_BaseColor_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.25-10.10.18:588][123]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Assets/Xtexture/WallTextures/group2_low_Office_OcclusionRoughnessMetallic.group2_low_Office_OcclusionRoughnessMetallic
+[2018.09.25-10.10.18:595][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.09.25-10.10.18:623][123]LogMaterial: Missing cached shader map for material group2_Office_BaseColor_Mat, compiling. 
+[2018.09.25-10.10.18:624][123]LogMaterial: Warning: /Engine/Transient.group2_Office_BaseColor_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.25-10.10.18:624][123]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Assets/Xtexture/WallTextures/group2_low_Office_OcclusionRoughnessMetallic.group2_low_Office_OcclusionRoughnessMetallic
+[2018.09.25-10.10.18:632][123]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Assets/Xtexture/WallTextures/group2_low_Office_OcclusionRoughnessMetallic.group2_low_Office_OcclusionRoughnessMetallic
+[2018.09.25-10.10.20:855][203]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.25-10.10.23:825][321]LogTexture: Display: Building textures: group2_low_Office_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.09.25-10.10.27:674][321]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.25-10.10.27:674][321]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.25-10.10.27:674][321]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.25-10.10.27:684][321]LogMaterial: Missing cached shader map for material group2_Office_BaseColor_Mat, compiling. 
+[2018.09.25-10.10.27:753][322]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.25-10.10.27:753][322]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.25-10.10.27:753][322]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.25-10.10.30:543][408]LogSavePackage: Save=573.90ms
+[2018.09.25-10.10.30:543][408]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group2_low_Office_OcclusionRough21F01EF9424D97AC1DE8838EAFAFC650.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group2_low_Office_OcclusionRoughnessMetallic.uasset'
+[2018.09.25-10.10.30:554][408]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group2_low_Office_OcclusionRoughnessMetallic.uasset
+[2018.09.25-10.10.34:503][541]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.25-10.10.34:503][541]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.25-10.10.34:517][541]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.25-10.10.37:425][650]LogMaterial: Missing cached shader map for material group2_Office_BaseColor_Mat, compiling. 
+[2018.09.25-10.10.39:957][747]LogMaterialEditor: Saving and Compiling material group2_Office_BaseColor_Mat
+[2018.09.25-10.10.41:046][747]LogMaterial: Missing cached shader map for material group2_Office_BaseColor_Mat, compiling. 
+[2018.09.25-10.10.41:132][747]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.25-10.10.41:132][747]LogMaterial: Missing cached shader map for material group2_Office_BaseColor_Mat, compiling. 
+[2018.09.25-10.10.41:190][747]LogMaterial: Missing cached shader map for material group2_Office_BaseColor_Mat, compiling. 
+[2018.09.25-10.10.41:240][747]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy group2_Office_BaseColor_Mat, compiling. 
+[2018.09.25-10.10.46:232][747]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.09.25-10.10.46:232][747]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.09.25-10.10.46:232][747]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.09.25-10.10.46:232][747]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.25-10.10.46:232][747]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.25-10.10.46:232][747]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.25-10.10.46:232][747]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.25-10.10.46:232][747]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.25-10.10.46:232][747]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.25-10.10.46:232][747]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.25-10.10.46:232][747]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.25-10.10.46:232][747]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.25-10.10.46:232][747]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.25-10.10.46:232][747]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.25-10.10.46:232][747]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.25-10.10.46:232][747]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.25-10.10.46:233][747]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.25-10.10.46:233][747]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.25-10.10.46:233][747]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.25-10.10.46:233][747]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.25-10.10.46:233][747]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.25-10.10.46:235][747]TextureStreamingBuild: Display: Compiling optional shaders took 5.003 seconds.
+[2018.09.25-10.10.52:705][747]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.25-10.10.52:786][747]LogSavePackage: Save=23.92ms
+[2018.09.25-10.10.52:786][747]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group2_Office_BaseColor_MatA9D8BE8F44FCF6685CFEE497961D0B3A.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group2_Office_BaseColor_Mat.uasset'
+[2018.09.25-10.10.52:815][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group2_Office_BaseColor_Mat.uasset
+[2018.09.25-10.10.52:825][747]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.09.25-10.10.52:825][747]MaterialEditorStats: Base pass shader with Surface Lightmap: 135 instructions
+[2018.09.25-10.10.52:825][747]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.09.25-10.10.52:825][747]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.09.25-10.10.52:825][747]MaterialEditorStats: Texture samplers: 6/16
+[2018.09.25-10.10.52:825][747]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.25-10.10.54:477][802]LogMaterial: Missing cached shader map for material group2_Bar_BaseColor_Mat, compiling. 
+[2018.09.25-10.10.54:615][802]LogMaterial: Missing cached shader map for material group2_Bar_BaseColor_Mat, compiling. 
+[2018.09.25-10.10.54:630][802]LogMaterial: Missing cached shader map for material group2_Bar_BaseColor_Mat, compiling. 
+[2018.09.25-10.10.54:655][802]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.25-10.10.54:655][802]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.25-10.10.54:655][802]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.25-10.10.54:668][802]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.09.25-10.10.54:682][802]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.09.25-10.10.54:689][802]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.09.25-10.11.05:721][242]LogSlate: Window 'group2_Bar_BaseColor_Mat' being destroyed
+[2018.09.25-10.11.05:729][242]LogSlate: Window 'group2_Bar_BaseColor_Mat' being destroyed
+[2018.09.25-10.11.06:187][242]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.25-10.11.06:187][242]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.25-10.11.06:262][242]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.25-10.11.10:651][436]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.25-10.11.11:688][479]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.25-10.11.11:714][480]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.25-10.11.14:196][599]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.25-10.11.17:289][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-10.11.20:168][883]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.25-10.11.20:931][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-10.11.21:096][920]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.25-10.11.22:964][ 15]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.25-10.11.23:741][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-10.11.25:593][138]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.25-10.11.26:706][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-10.11.28:060][255]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.25-10.11.29:625][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-10.11.32:701][475]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.25-10.11.34:199][551]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.25-10.11.35:013][589]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-10.11.35:195][589]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-10.11.35:421][589]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.25-10.11.35:823][589]LogSavePackage: Save=558.48ms
+[2018.09.25-10.11.35:823][589]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMapB64A892B4918870719A70B840ED1EBF9.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.25-10.11.35:837][589]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.25-10.11.41:782][589]LogSavePackage: Save=5261.96ms
+[2018.09.25-10.11.41:782][589]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataD2D80AFD406F748FA9DC5B85931A64A9.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.25-10.11.41:790][589]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.25-10.11.51:761][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside22)
+[2018.09.25-10.11.53:852][287]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.25-10.11.57:209][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-10.11.57:892][487]LogSavePackage: Save=384.27ms
+[2018.09.25-10.11.57:893][487]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap933D8B1248A4EE6D18411D8C5B56DAA0.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.25-10.11.57:903][487]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.25-10.12.03:578][487]LogSavePackage: Save=5163.33ms
+[2018.09.25-10.12.03:578][487]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltData1625F93641945B846EF888B8E9598822.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.25-10.12.03:586][487]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.25-10.21.57:806][751]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.021
+[2018.09.25-10.21.57:811][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xtexture/WallTextures/group2_low_Office_BaseColor] ([1] browsable assets)...
+[2018.09.25-10.21.57:824][751]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Xtexture/WallTextures/group2_low_Office_BaseColor.group2_low_Office_BaseColor]
+[2018.09.25-10.21.57:824][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xtexture/WallTextures/group2_low_Office_BaseColor]
+[2018.09.25-10.21.57:844][751]LogSavePackage: Save=16.23ms
+[2018.09.25-10.21.57:844][751]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group2_low_Office_BaseColor_Auto1DCB67104E3DD824D8E7E7B1B2B89B93.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group2_low_Office_BaseColor_Auto4.uasset'
+[2018.09.25-10.21.57:848][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group2_low_Office_BaseColor_Auto4.uasset
+[2018.09.25-10.21.57:850][751]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xtexture/WallTextures/group2_low_Office_Normal] ([1] browsable assets)...
+[2018.09.25-10.21.57:864][751]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Xtexture/WallTextures/group2_low_Office_Normal.group2_low_Office_Normal]
+[2018.09.25-10.21.57:864][751]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xtexture/WallTextures/group2_low_Office_Normal]
+[2018.09.25-10.21.57:887][751]LogSavePackage: Save=19.15ms
+[2018.09.25-10.21.57:887][751]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group2_low_Office_Normal_Auto4307F4A0A4F8021E1FD9F7E8B878E1169.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group2_low_Office_Normal_Auto4.uasset'
+[2018.09.25-10.21.57:892][751]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group2_low_Office_Normal_Auto4.uasset
+[2018.09.25-10.21.57:892][751]LogFileHelpers: Auto-saving content packages took 0.085
+[2018.09.25-10.29.31:051][255]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_export)
+[2018.09.25-10.29.34:725][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_export)
+[2018.09.25-10.29.35:556][515]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.25-10.31.09:598][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Woodwall_low3)
+[2018.09.25-10.31.47:587][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-10.33.36:689][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barstool2)
+[2018.09.25-10.33.37:653][872]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.25-10.33.59:285][113]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-10.34.20:764][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Bar)
+[2018.09.25-10.34.22:832][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bar_export)
+[2018.09.25-10.34.24:401][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-10.34.27:580][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Bar)
+[2018.09.25-10.34.28:308][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Bar)
+[2018.09.25-10.34.29:898][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-10.34.45:281][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-10.34.58:651][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-10.35.07:675][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barstool2)
+[2018.09.25-10.35.11:897][234]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.25-10.35.18:346][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-10.35.49:686][939]LogSavePackage: Save=455.48ms
+[2018.09.25-10.35.49:686][939]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_Auto53CBD5FA84F036820FD7D50BC5307A5B4.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2018.09.25-10.35.49:691][939]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap
+[2018.09.25-10.35.49:695][939]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.533
+[2018.09.25-10.35.49:695][939]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.533
+[2018.09.25-10.37.10:617][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Woodwall_low4)
+[2018.09.25-10.37.11:500][282]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.25-10.37.16:712][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside4)
+[2018.09.25-10.37.17:811][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside3)
+[2018.09.25-10.37.19:792][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-10.38.16:373][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sink2)
+[2018.09.25-10.38.18:803][405]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.25-10.38.27:335][834]Cmd: TRANSACTION UNDO
+[2018.09.25-10.38.27:335][834]LogEditorTransaction: Undo Move Actors
+[2018.09.25-10.38.36:421][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_Kitchen)
+[2018.09.25-10.38.37:472][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-10.39.12:371][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Shelf3)
+[2018.09.25-10.39.13:248][803]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.25-10.39.20:418][171]Cmd: TRANSACTION UNDO
+[2018.09.25-10.39.20:418][171]LogEditorTransaction: Undo Move Actors
+[2018.09.25-10.39.44:895][447]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.25-10.40.32:200][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-10.40.34:934][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner5)
+[2018.09.25-10.40.36:862][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside4)
+[2018.09.25-10.40.47:219][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside)
+[2018.09.25-10.40.48:102][990]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.25-10.40.50:022][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockout_Sink2)
+[2018.09.25-10.40.51:070][155]Cmd: ACTOR HIDE SELECTED
+[2018.09.25-10.40.56:161][454]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside)
+[2018.09.25-10.40.57:041][501]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.25-10.40.58:718][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-10.41.07:794][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-10.41.09:852][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-10.41.12:667][323]Cmd: TRANSACTION UNDO
+[2018.09.25-10.41.12:667][323]LogEditorTransaction: Undo Create Actors
+[2018.09.25-10.41.14:190][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside)
+[2018.09.25-10.41.18:670][658]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.25-10.41.58:911][503]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-10.45.26:963][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside)
+[2018.09.25-10.45.29:024][250]Cmd: TRANSACTION UNDO
+[2018.09.25-10.45.29:024][250]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.25-10.45.29:442][266]Cmd: TRANSACTION UNDO
+[2018.09.25-10.45.29:442][266]LogEditorTransaction: Undo Move Actors
+[2018.09.25-10.45.30:326][313]Cmd: TRANSACTION UNDO
+[2018.09.25-10.45.30:326][313]LogEditorTransaction: Undo Move Actors
+[2018.09.25-10.45.32:096][416]Cmd: TRANSACTION UNDO
+[2018.09.25-10.45.32:097][416]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.25-10.45.33:031][466]Cmd: TRANSACTION UNDO
+[2018.09.25-10.45.33:031][466]LogEditorTransaction: Undo Create Actors
+[2018.09.25-10.45.37:088][695]Cmd: TRANSACTION UNDO
+[2018.09.25-10.45.37:088][695]LogEditorTransaction: Undo Create Actors
+[2018.09.25-10.46.01:854][131]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-10.46.02:301][131]LogSavePackage: Save=368.06ms
+[2018.09.25-10.46.02:301][131]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_Auto6828C6D49481D6A4CD89CB089D604E0CB.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap'
+[2018.09.25-10.46.02:305][131]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap
+[2018.09.25-10.46.02:310][131]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.419
+[2018.09.25-10.46.02:310][131]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.419
+[2018.09.25-10.46.13:225][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Barstool5)
+[2018.09.25-10.46.14:185][817]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.25-10.49.09:394][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-10.52.37:268][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside)
+[2018.09.25-10.52.38:173][584]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.25-10.52.45:858][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner5)
+[2018.09.25-10.52.46:391][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside4)
+[2018.09.25-10.52.47:119][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner10)
+[2018.09.25-10.52.58:645][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWindowSmal)
+[2018.09.25-10.53.04:813][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-10.58.37:511][ 91]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{92be4f26-6a94-423a-9942-2926fd608fd5} was removed. Shutting down audio device.
+[2018.09.25-10.58.37:511][ 91]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
