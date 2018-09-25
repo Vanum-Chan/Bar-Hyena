@@ -1827,3 +1827,432 @@ LogInit: Object subsystem initialized
 [2018.09.25-13.11.32:118][611]LogSavePackage: Save=5411.49ms
 [2018.09.25-13.11.32:118][611]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataB18E9BB04BFB0C741C5BEDAA62DF2C5C.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
 [2018.09.25-13.11.32:126][611]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.25-13.21.26:125][604]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.039
+[2018.09.25-13.21.26:136][604]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xtexture/WallTextures/group4_low_1001_BaseColor] ([1] browsable assets)...
+[2018.09.25-13.21.26:150][604]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Xtexture/WallTextures/group4_low_1001_BaseColor.group4_low_1001_BaseColor]
+[2018.09.25-13.21.26:150][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xtexture/WallTextures/group4_low_1001_BaseColor]
+[2018.09.25-13.21.26:185][604]LogSavePackage: Save=22.75ms
+[2018.09.25-13.21.26:185][604]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group4_low_1001_BaseColor_Auto80512FC65424AF5760D46359EE0469E01.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group4_low_1001_BaseColor_Auto8.uasset'
+[2018.09.25-13.21.26:191][604]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group4_low_1001_BaseColor_Auto8.uasset
+[2018.09.25-13.21.26:196][604]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xtexture/WallTextures/group4_low_1001_Normal] ([1] browsable assets)...
+[2018.09.25-13.21.26:210][604]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Xtexture/WallTextures/group4_low_1001_Normal.group4_low_1001_Normal]
+[2018.09.25-13.21.26:210][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xtexture/WallTextures/group4_low_1001_Normal]
+[2018.09.25-13.21.26:238][604]LogSavePackage: Save=24.53ms
+[2018.09.25-13.21.26:238][604]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group4_low_1001_Normal_Auto86C10815E4B053EBD15E25E8064D2C55E.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group4_low_1001_Normal_Auto8.uasset'
+[2018.09.25-13.21.26:243][604]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group4_low_1001_Normal_Auto8.uasset
+[2018.09.25-13.21.26:243][604]LogFileHelpers: Auto-saving content packages took 0.116
+[2018.09.25-14.34.36:389][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-14.34.38:092][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner8)
+[2018.09.25-14.34.39:388][963]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.25-14.34.44:151][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-14.34.46:720][355]LogMaterial: Missing cached shader map for material group4_Plaster_Mat_2, compiling. 
+[2018.09.25-14.34.46:750][355]LogMaterial: Missing cached shader map for material group3_Plaster_Mat_2, compiling. 
+[2018.09.25-14.34.46:781][355]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.25-14.34.46:781][355]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.25-14.34.46:781][355]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.25-14.35.09:460][355]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.25-14.35.09:460][355]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.25-14.35.09:460][355]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.25-14.35.09:460][355]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.25-14.35.09:527][355]LogSavePackage: Save=26.98ms
+[2018.09.25-14.35.09:527][355]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group4_Plaster_Mat_2D6A3198C40659A99F6F924886FDFB8A2.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group4_Plaster_Mat_2.uasset'
+[2018.09.25-14.35.09:538][355]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group4_Plaster_Mat_2.uasset
+[2018.09.25-14.35.16:992][355]LogSavePackage: Save=25.01ms
+[2018.09.25-14.35.16:993][355]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group3_Plaster_Mat_28D774DA44AB097C8CDFC2E992CEEA375.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group3_Plaster_Mat_2.uasset'
+[2018.09.25-14.35.17:004][355]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group3_Plaster_Mat_2.uasset
+[2018.09.25-14.35.41:510][516]LogSavePackage: Save=29.72ms
+[2018.09.25-14.35.41:510][516]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group3_Toiletbrik_Mat502B599B4E199B0F79E1E1857A6957CE.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group3_Toiletbrik_Mat.uasset'
+[2018.09.25-14.35.41:521][516]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group3_Toiletbrik_Mat.uasset
+[2018.09.25-14.35.42:790][516]SourceControl: rm 'Content/Assets/Xtexture/WallTextures/group3_Plaster_Mat_2.uasset'
+[2018.09.25-14.35.56:782][251]LogSavePackage: Save=22.65ms
+[2018.09.25-14.35.56:782][251]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group4_Toiletbrik_Mat37E6AAA64313FAC3034033BB0B6834F4.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group4_Toiletbrik_Mat.uasset'
+[2018.09.25-14.35.56:791][251]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group4_Toiletbrik_Mat.uasset
+[2018.09.25-14.35.57:934][251]SourceControl: rm 'Content/Assets/Xtexture/WallTextures/group4_Plaster_Mat_2.uasset'
+[2018.09.25-14.35.59:117][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_WC)
+[2018.09.25-14.36.00:827][407]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner11)
+[2018.09.25-14.36.02:019][471]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.25-14.36.16:034][552]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-14.36.16:218][552]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\usagi\Documents\Allegorithmic\Substance Painter\export\Wall_Group3\group3_Toiletbricks_OcclusionRoughnessMetallic.tga)
+[2018.09.25-14.36.16:371][552]LogTexture: Display: Building textures: group3_Toiletbricks_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.09.25-14.36.23:278][552]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\usagi\Documents\Allegorithmic\Substance Painter\export\Wall_Group3\group3_Toiletbriks_BaseColor.tga)
+[2018.09.25-14.36.23:426][552]LogTexture: Display: Building textures: group3_Toiletbriks_BaseColor (AutoDXT, 2048X2048)
+[2018.09.25-14.36.27:478][552]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\usagi\Documents\Allegorithmic\Substance Painter\export\Wall_Group3\group3_Toiletbriks_Normal.tga)
+[2018.09.25-14.36.27:636][552]LogTexture: Display: Building textures: group3_Toiletbriks_Normal (BC5, 2048X2048)
+[2018.09.25-14.36.34:433][655]LogMaterial: Missing cached shader map for material group3_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.36.34:590][655]LogMaterial: Missing cached shader map for material group3_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.36.34:609][655]LogMaterial: Missing cached shader map for material group3_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.36.34:631][655]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.25-14.36.34:631][655]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.25-14.36.34:631][655]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.25-14.36.34:659][655]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.09.25-14.36.34:667][655]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.09.25-14.36.34:673][655]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.09.25-14.36.43:541][973]LogMaterial: Missing cached shader map for material group3_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.36.43:567][973]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.09.25-14.36.43:600][973]LogMaterial: Missing cached shader map for material group3_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.36.52:676][301]LogMaterial: Missing cached shader map for material group3_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.36.56:557][446]LogMaterial: Missing cached shader map for material group3_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.36.56:578][446]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.09.25-14.36.56:610][446]LogMaterial: Missing cached shader map for material group3_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.37.00:946][602]LogMaterial: Missing cached shader map for material group3_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.37.00:968][602]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.09.25-14.37.00:999][602]LogMaterial: Missing cached shader map for material group3_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.37.06:200][789]LogMaterial: Missing cached shader map for material group3_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.37.07:405][840]LogMaterial: Missing cached shader map for material group3_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.37.07:406][840]LogMaterial: Warning: /Engine/Transient.group3_Toiletbrik_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.25-14.37.07:406][840]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Assets/Xtexture/WallTextures/group3_Toiletbricks_OcclusionRoughnessMetallic.group3_Toiletbricks_OcclusionRoughnessMetallic
+[2018.09.25-14.37.07:418][840]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.09.25-14.37.07:446][840]LogMaterial: Missing cached shader map for material group3_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.37.07:447][840]LogMaterial: Warning: /Engine/Transient.group3_Toiletbrik_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.25-14.37.07:447][840]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Assets/Xtexture/WallTextures/group3_Toiletbricks_OcclusionRoughnessMetallic.group3_Toiletbricks_OcclusionRoughnessMetallic
+[2018.09.25-14.37.07:452][840]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Assets/Xtexture/WallTextures/group3_Toiletbricks_OcclusionRoughnessMetallic.group3_Toiletbricks_OcclusionRoughnessMetallic
+[2018.09.25-14.37.10:357][939]LogTexture: Display: Building textures: group3_Toiletbricks_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.09.25-14.37.16:830][939]LogMaterial: Missing cached shader map for material group3_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.37.16:881][939]LogMaterial: Missing cached shader map for material group3_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.37.16:882][939]LogMaterial: Warning: /Engine/Transient.group3_Toiletbrik_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.25-14.37.16:882][939]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Assets/Xtexture/WallTextures/group3_Toiletbricks_OcclusionRoughnessMetallic.group3_Toiletbricks_OcclusionRoughnessMetallic
+[2018.09.25-14.37.18:565][ 11]LogMaterial: Missing cached shader map for material group3_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.37.21:556][ 92]LogSavePackage: Save=806.02ms
+[2018.09.25-14.37.21:556][ 92]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group3_Toiletbricks_OcclusionRou1EFB7B1049FC96E671C473B4F52ABEED.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group3_Toiletbricks_OcclusionRoughnessMetallic.uasset'
+[2018.09.25-14.37.21:567][ 92]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group3_Toiletbricks_OcclusionRoughnessMetallic.uasset
+[2018.09.25-14.37.36:212][650]LogMaterialEditor: Saving and Compiling material group3_Toiletbrik_Mat
+[2018.09.25-14.37.37:375][650]LogMaterial: Missing cached shader map for material group3_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.37.37:504][650]LogMaterial: Missing cached shader map for material group3_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.37.37:560][650]LogMaterial: Missing cached shader map for material group3_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.37.37:608][650]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy group3_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.25-14.37.50:413][650]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.25-14.37.50:414][650]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.25-14.37.50:414][650]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.25-14.37.50:414][650]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.25-14.37.50:416][650]TextureStreamingBuild: Display: Compiling optional shaders took 12.817 seconds.
+[2018.09.25-14.38.03:981][650]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.25-14.38.04:075][650]LogSavePackage: Save=22.71ms
+[2018.09.25-14.38.04:075][650]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group3_Toiletbrik_Mat9AD1D1C941B72966E1C7919B33538836.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group3_Toiletbrik_Mat.uasset'
+[2018.09.25-14.38.04:086][650]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group3_Toiletbrik_Mat.uasset
+[2018.09.25-14.38.04:098][650]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.09.25-14.38.04:098][650]MaterialEditorStats: Base pass shader with Surface Lightmap: 135 instructions
+[2018.09.25-14.38.04:098][650]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.09.25-14.38.04:098][650]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.09.25-14.38.04:098][650]MaterialEditorStats: Texture samplers: 6/16
+[2018.09.25-14.38.04:098][650]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.25-14.38.11:543][977]LogMaterial: Missing cached shader map for material group3_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.38.11:576][978]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.25-14.38.11:577][978]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.25-14.38.11:577][978]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.25-14.38.17:220][206]LogSlate: Window 'group3_Toiletbrik_Mat' being destroyed
+[2018.09.25-14.38.17:229][206]LogSlate: Window 'group3_Toiletbrik_Mat' being destroyed
+[2018.09.25-14.38.20:091][329]LogMaterial: Missing cached shader map for material group4_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.38.20:243][329]LogMaterial: Missing cached shader map for material group4_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.38.20:264][329]LogMaterial: Missing cached shader map for material group4_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.38.20:310][329]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.09.25-14.38.20:316][329]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.09.25-14.38.20:321][329]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.09.25-14.38.33:265][753]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.25-14.38.33:265][753]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.25-14.38.33:679][754]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.25-14.38.35:023][756]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.25-14.38.35:023][756]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.25-14.38.35:947][758]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.25-14.38.37:025][760]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.25-14.38.37:872][762]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.25-14.38.38:383][763]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.25-14.38.39:427][765]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.09.25-14.38.40:334][767]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.09.25-14.38.40:752][768]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.09.25-14.38.41:818][770]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.09.25-14.38.42:078][771]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.09.25-14.38.43:201][773]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.09.25-14.38.43:634][774]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.09.25-14.38.43:935][774]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.09.25-14.38.44:066][774]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.25-14.38.44:887][774]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\usagi\Documents\Allegorithmic\Substance Painter\export\Wall_Group4\group4_Toiletbriks_BaseColor.tga)
+[2018.09.25-14.38.45:517][774]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.25-14.38.45:517][774]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.25-14.38.45:517][774]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.25-14.38.45:698][774]LogTexture: Display: Building textures: group4_Toiletbriks_BaseColor (AutoDXT, 2048X2048)
+[2018.09.25-14.38.51:769][774]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.25-14.38.51:770][774]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.25-14.38.51:770][774]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.25-14.38.51:770][774]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.25-14.38.52:450][774]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\usagi\Documents\Allegorithmic\Substance Painter\export\Wall_Group4\group4_Toiletbriks_Normal.tga)
+[2018.09.25-14.38.53:528][774]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.25-14.38.53:694][774]LogTexture: Display: Building textures: group4_Toiletbriks_Normal (BC5, 2048X2048)
+[2018.09.25-14.38.56:327][774]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.25-14.38.56:328][774]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.25-14.38.56:328][774]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.25-14.38.56:328][774]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.25-14.38.56:814][774]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\usagi\Documents\Allegorithmic\Substance Painter\export\Wall_Group4\group4_Toiletbriks_OcclusionRoughnessMetallic.tga)
+[2018.09.25-14.38.57:686][774]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.25-14.38.57:809][774]LogTexture: Display: Building textures: group4_Toiletbriks_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.09.25-14.39.04:511][774]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.25-14.39.06:028][775]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.25-14.39.06:374][776]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.25-14.39.07:338][779]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.25-14.39.07:676][779]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.25-14.39.07:676][779]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.09.25-14.39.07:676][779]MaterialEditorStats: Base pass shader with Surface Lightmap: 135 instructions
+[2018.09.25-14.39.07:676][779]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.09.25-14.39.07:676][779]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.09.25-14.39.07:676][779]MaterialEditorStats: Texture samplers: 6/16
+[2018.09.25-14.39.07:676][779]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.25-14.39.08:187][781]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.25-14.39.08:188][781]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.25-14.39.26:320][415]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.25-14.39.44:632][ 72]LogMaterial: Missing cached shader map for material group4_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.39.44:656][ 72]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.25-14.39.44:656][ 72]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.25-14.39.44:656][ 72]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.25-14.39.44:656][ 72]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.09.25-14.39.44:691][ 72]LogMaterial: Missing cached shader map for material group4_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.39.47:533][178]LogMaterial: Missing cached shader map for material group4_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.39.47:551][178]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.09.25-14.39.47:582][178]LogMaterial: Missing cached shader map for material group4_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.39.50:617][294]LogMaterial: Missing cached shader map for material group4_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.39.50:637][294]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.09.25-14.39.50:669][294]LogMaterial: Missing cached shader map for material group4_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.39.51:429][322]LogMaterial: Missing cached shader map for material group4_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.39.53:084][394]LogMaterial: Missing cached shader map for material group4_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.39.53:085][394]LogMaterial: Warning: /Engine/Transient.group4_Toiletbrik_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.25-14.39.53:085][394]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_OcclusionRoughnessMetallic.group4_Toiletbriks_OcclusionRoughnessMetallic
+[2018.09.25-14.39.53:095][394]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.09.25-14.39.53:123][394]LogMaterial: Missing cached shader map for material group4_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.39.53:124][394]LogMaterial: Warning: /Engine/Transient.group4_Toiletbrik_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.25-14.39.53:124][394]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_OcclusionRoughnessMetallic.group4_Toiletbriks_OcclusionRoughnessMetallic
+[2018.09.25-14.39.53:130][394]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_OcclusionRoughnessMetallic.group4_Toiletbriks_OcclusionRoughnessMetallic
+[2018.09.25-14.39.54:633][449]LogMaterial: Missing cached shader map for material group4_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.39.54:634][449]LogMaterial: Warning: /Engine/Transient.group4_Toiletbrik_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.25-14.39.54:634][449]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Linear Color, should be Color for /Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_OcclusionRoughnessMetallic.group4_Toiletbriks_OcclusionRoughnessMetallic
+[2018.09.25-14.40.01:901][726]LogTexture: Display: Building textures: group4_Toiletbriks_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.09.25-14.40.08:114][726]LogMaterial: Missing cached shader map for material group4_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.40.19:578][230]LogSavePackage: Save=783.75ms
+[2018.09.25-14.40.19:578][230]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group4_Toiletbriks_OcclusionRoug3F0916A5415ECFABB55C9392E57859FF.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group4_Toiletbriks_OcclusionRoughnessMetallic.uasset'
+[2018.09.25-14.40.19:589][230]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group4_Toiletbriks_OcclusionRoughnessMetallic.uasset
+[2018.09.25-14.40.36:361][975]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.25-14.40.36:361][975]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.25-14.40.36:361][975]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.09.25-14.40.37:061][977]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.09.25-14.40.37:061][977]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.25-14.40.37:061][977]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.25-14.40.37:406][978]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.25-14.40.37:752][979]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.25-14.40.37:753][979]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.25-14.40.38:128][980]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.25-14.40.38:128][980]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.25-14.40.38:128][980]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.25-14.40.38:496][981]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.25-14.40.38:496][981]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.25-14.40.39:212][983]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.25-14.40.39:212][983]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.25-14.40.39:547][983]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.25-14.40.40:063][983]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.25-14.40.40:090][983]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.25-14.40.40:090][983]LogSavePackage: Save=304.14ms
+[2018.09.25-14.40.40:090][983]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group4_Toiletbriks_OcclusionRoug5DE0929742434290FA20C596CF06202B.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group4_Toiletbriks_OcclusionRoughnessMetallic.uasset'
+[2018.09.25-14.40.40:095][983]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group4_Toiletbriks_OcclusionRoughnessMetallic.uasset
+[2018.09.25-14.40.45:584][242]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.25-14.40.45:615][243]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.25-14.40.47:594][325]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.25-14.40.51:843][509]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.09.25-14.40.51:843][509]MaterialEditorStats: Base pass shader with Surface Lightmap: 135 instructions
+[2018.09.25-14.40.51:844][509]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.09.25-14.40.51:844][509]MaterialEditorStats: Vertex shader: 38 instructions
+[2018.09.25-14.40.51:844][509]MaterialEditorStats: Texture samplers: 6/16
+[2018.09.25-14.40.51:844][509]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.09.25-14.40.54:827][561]LogSlate: Window 'Message' being destroyed
+[2018.09.25-14.40.55:591][561]LogMaterial: Missing cached shader map for material group4_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.40.55:638][561]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.25-14.40.55:638][561]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.25-14.40.55:638][561]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.25-14.40.55:662][561]LogMaterial: Missing cached shader map for material group4_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.40.55:712][561]LogMaterial: Missing cached shader map for material group4_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.40.55:766][561]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy group4_Toiletbrik_Mat, compiling. 
+[2018.09.25-14.40.59:867][561]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.09.25-14.40.59:867][561]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.09.25-14.40.59:867][561]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.09.25-14.40.59:867][561]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.09.25-14.40.59:867][561]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.09.25-14.40.59:867][561]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.09.25-14.40.59:867][561]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.09.25-14.40.59:867][561]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.09.25-14.40.59:867][561]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.09.25-14.40.59:867][561]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.09.25-14.40.59:867][561]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.09.25-14.40.59:867][561]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.09.25-14.40.59:867][561]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.09.25-14.40.59:867][561]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.09.25-14.40.59:867][561]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.09.25-14.40.59:867][561]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.09.25-14.40.59:867][561]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.09.25-14.40.59:867][561]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.09.25-14.40.59:867][561]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.25-14.40.59:869][561]TextureStreamingBuild: Display: Compiling optional shaders took 4.113 seconds.
+[2018.09.25-14.40.59:896][561]LogSlate: Window 'group4_Toiletbrik_Mat*' being destroyed
+[2018.09.25-14.40.59:898][561]LogSlate: Window 'group4_Toiletbrik_Mat*' being destroyed
+[2018.09.25-14.41.02:342][684]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWindowSmal)
+[2018.09.25-14.41.03:270][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_WC)
+[2018.09.25-14.41.04:530][793]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.25-14.41.07:313][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-14.41.17:580][422]Cmd: TRANSACTION UNDO
+[2018.09.25-14.41.17:580][422]LogEditorTransaction: Undo Create Actors
+[2018.09.25-14.41.28:020][841]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside11)
+[2018.09.25-14.41.30:723][980]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.25-14.41.33:407][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-14.41.36:400][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-14.41.38:465][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-14.43.35:845][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-14.45.20:315][655]LogSavePackage: Save=531.23ms
+[2018.09.25-14.45.20:315][655]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_Auto964A6C7B648918C76252EA48F5C3F0BCD.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto9.umap'
+[2018.09.25-14.45.20:320][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto9.umap
+[2018.09.25-14.45.20:328][655]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.609
+[2018.09.25-14.45.20:328][655]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.609
+[2018.09.25-14.45.20:335][655]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xtexture/WallTextures/group4_Toiletbrik_Mat] ([1] browsable assets)...
+[2018.09.25-14.45.20:427][655]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Xtexture/WallTextures/group4_Toiletbrik_Mat.group4_Toiletbrik_Mat]
+[2018.09.25-14.45.20:427][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xtexture/WallTextures/group4_Toiletbrik_Mat]
+[2018.09.25-14.45.20:483][655]LogSavePackage: Save=34.99ms
+[2018.09.25-14.45.20:483][655]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group4_Toiletbrik_Mat_Auto90192895643DC77830F71FFBB4ED747EC.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group4_Toiletbrik_Mat_Auto9.uasset'
+[2018.09.25-14.45.20:489][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group4_Toiletbrik_Mat_Auto9.uasset
+[2018.09.25-14.45.20:497][655]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xtexture/WallTextures/group3_Toiletbriks_BaseColor] ([1] browsable assets)...
+[2018.09.25-14.45.20:513][655]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Xtexture/WallTextures/group3_Toiletbriks_BaseColor.group3_Toiletbriks_BaseColor]
+[2018.09.25-14.45.20:514][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xtexture/WallTextures/group3_Toiletbriks_BaseColor]
+[2018.09.25-14.45.20:554][655]LogSavePackage: Save=35.08ms
+[2018.09.25-14.45.20:555][655]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group3_Toiletbriks_BaseColor_Aut5A32B5BA4F96972010E12099C1B6EEAE.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group3_Toiletbriks_BaseColor_Auto9.uasset'
+[2018.09.25-14.45.20:565][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group3_Toiletbriks_BaseColor_Auto9.uasset
+[2018.09.25-14.45.20:568][655]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xtexture/WallTextures/group3_Toiletbriks_Normal] ([1] browsable assets)...
+[2018.09.25-14.45.20:583][655]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Xtexture/WallTextures/group3_Toiletbriks_Normal.group3_Toiletbriks_Normal]
+[2018.09.25-14.45.20:583][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xtexture/WallTextures/group3_Toiletbriks_Normal]
+[2018.09.25-14.45.20:608][655]LogSavePackage: Save=22.95ms
+[2018.09.25-14.45.20:608][655]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group3_Toiletbriks_Normal_Auto9EAC313814692B63712F4A3B31128D43D.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group3_Toiletbriks_Normal_Auto9.uasset'
+[2018.09.25-14.45.20:614][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group3_Toiletbriks_Normal_Auto9.uasset
+[2018.09.25-14.45.20:617][655]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_BaseColor] ([1] browsable assets)...
+[2018.09.25-14.45.20:631][655]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_BaseColor.group4_Toiletbriks_BaseColor]
+[2018.09.25-14.45.20:631][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_BaseColor]
+[2018.09.25-14.45.20:665][655]LogSavePackage: Save=29.65ms
+[2018.09.25-14.45.20:665][655]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group4_Toiletbriks_BaseColor_Aut7FDA9718498595B1D4561386E95976C8.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_BaseColor_Auto9.uasset'
+[2018.09.25-14.45.20:670][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_BaseColor_Auto9.uasset
+[2018.09.25-14.45.20:674][655]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_Normal] ([1] browsable assets)...
+[2018.09.25-14.45.20:686][655]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_Normal.group4_Toiletbriks_Normal]
+[2018.09.25-14.45.20:686][655]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_Normal]
+[2018.09.25-14.45.20:712][655]LogSavePackage: Save=20.15ms
+[2018.09.25-14.45.20:712][655]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group4_Toiletbriks_Normal_Auto97D84B97C4B1F87E28CA161B00A9B3532.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_Normal_Auto9.uasset'
+[2018.09.25-14.45.20:718][655]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_Normal_Auto9.uasset
+[2018.09.25-14.45.20:718][655]LogFileHelpers: Auto-saving content packages took 0.388
+[2018.09.25-15.35.04:627][970]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Allegorithmic/Substance Painter/export/group4_low_1001_OcclusionRoughnessMetallic.tga]
+[2018.09.25-15.35.04:718][970]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/usagi/Documents/Allegorithmic/Substance Painter/export/group4_low_1001_OcclusionRoughnessMetallic.tga)
+[2018.09.25-15.35.04:886][970]LogTexture: Display: Building textures: group4_low_1001_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.09.25-15.35.09:955][970]LogEditorFactories: -- imported successfully
+[2018.09.25-15.35.10:017][970]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Allegorithmic/Substance Painter/export/group4_Toiletbriks_BaseColor.tga]
+[2018.09.25-15.35.10:101][970]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/usagi/Documents/Allegorithmic/Substance Painter/export/group4_Toiletbriks_BaseColor.tga)
+[2018.09.25-15.35.10:225][970]LogTexture: Display: Building textures: group4_Toiletbriks_BaseColor (AutoDXT, 2048X2048)
+[2018.09.25-15.35.13:136][970]LogEditorFactories: -- imported successfully
+[2018.09.25-15.35.13:198][970]LogEditorFactories: Performing atomic reimport of [C:/Users/usagi/Documents/Allegorithmic/Substance Painter/export/group4_Toiletbriks_Normal.tga]
+[2018.09.25-15.35.13:244][970]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/usagi/Documents/Allegorithmic/Substance Painter/export/group4_Toiletbriks_Normal.tga)
+[2018.09.25-15.35.13:369][970]LogTexture: Display: Building textures: group4_Toiletbriks_Normal (BC5, 2048X2048)
+[2018.09.25-15.35.14:137][970]LogEditorFactories: -- imported successfully
+[2018.09.25-15.35.17:687][981]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.035
+[2018.09.25-15.35.17:694][981]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xtexture/WallTextures/group4_low_1001_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2018.09.25-15.35.17:707][981]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Xtexture/WallTextures/group4_low_1001_OcclusionRoughnessMetallic.group4_low_1001_OcclusionRoughnessMetallic]
+[2018.09.25-15.35.17:707][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xtexture/WallTextures/group4_low_1001_OcclusionRoughnessMetallic]
+[2018.09.25-15.35.17:773][981]LogSavePackage: Save=46.26ms
+[2018.09.25-15.35.17:773][981]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group4_low_1001_OcclusionRoughne5A946DD14522FAFE6BF7E3BF5295510E.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group4_low_1001_OcclusionRoughnessMetallic_Auto0.uasset'
+[2018.09.25-15.35.17:778][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group4_low_1001_OcclusionRoughnessMetallic_Auto0.uasset
+[2018.09.25-15.35.17:781][981]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_BaseColor] ([1] browsable assets)...
+[2018.09.25-15.35.17:795][981]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_BaseColor.group4_Toiletbriks_BaseColor]
+[2018.09.25-15.35.17:795][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_BaseColor]
+[2018.09.25-15.35.17:830][981]LogSavePackage: Save=27.84ms
+[2018.09.25-15.35.17:830][981]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group4_Toiletbriks_BaseColor_Aut201FFD53415149BE96D8DD88412D7469.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_BaseColor_Auto0.uasset'
+[2018.09.25-15.35.17:839][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_BaseColor_Auto0.uasset
+[2018.09.25-15.35.17:844][981]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_Normal] ([1] browsable assets)...
+[2018.09.25-15.35.17:858][981]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_Normal.group4_Toiletbriks_Normal]
+[2018.09.25-15.35.17:858][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_Normal]
+[2018.09.25-15.35.17:882][981]LogSavePackage: Save=18.16ms
+[2018.09.25-15.35.17:882][981]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group4_Toiletbriks_Normal_Auto0F6DA93FF49735D12E7B48F83720E1BAC.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_Normal_Auto0.uasset'
+[2018.09.25-15.35.17:887][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/Autosaves/Game/Assets/Xtexture/WallTextures/group4_Toiletbriks_Normal_Auto0.uasset
+[2018.09.25-15.35.17:887][981]LogFileHelpers: Auto-saving content packages took 0.198
+[2018.09.25-15.35.20:408][994]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallWindowSmal)
+[2018.09.25-15.36.14:809][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-15.36.17:691][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-15.36.22:261][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-15.36.23:522][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside)
+[2018.09.25-15.36.24:557][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-15.36.30:463][721]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-15.36.33:081][872]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.25-15.36.37:226][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-15.36.51:137][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-15.36.58:263][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-15.37.04:163][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-15.37.07:811][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside4)
+[2018.09.25-15.37.08:848][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-15.37.12:376][874]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside2)
+[2018.09.25-15.37.13:369][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-15.37.14:860][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-15.37.18:161][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-15.37.19:851][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-15.37.23:074][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-15.37.24:677][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-15.37.30:264][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-15.37.36:417][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallSmalOutside3)
+[2018.09.25-15.37.38:009][291]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.09.25-15.38.28:122][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside17)
+[2018.09.25-15.38.29:043][314]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.25-15.38.32:833][536]Cmd: TRANSACTION UNDO
+[2018.09.25-15.38.32:833][536]LogEditorTransaction: Undo Move Actors
+[2018.09.25-15.38.39:927][936]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-15.38.42:543][ 80]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content' is outside repository
+[2018.09.25-15.38.42:764][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-15.38.44:656][ 80]LogSlate: Window 'Save Content' being destroyed
+[2018.09.25-15.38.44:672][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-15.38.44:832][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-15.38.44:866][ 80]LogSavePackage: Save=6.49ms
+[2018.09.25-15.38.44:866][ 80]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/group4_Toiletbrik_Mat89BE2E114193ED2E3259C280FB1BA985.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group4_Toiletbrik_Mat.uasset'
+[2018.09.25-15.38.44:874][ 80]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/Assets/Xtexture/WallTextures/group4_Toiletbrik_Mat.uasset
+[2018.09.25-15.38.44:897][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-15.38.49:285][ 80]LogSlate: Window 'Submit Files' being destroyed
+[2018.09.25-15.38.49:298][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-15.38.49:464][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-15.38.50:382][ 80]LogSourceControl: commit successful: [Test 680da0b] wals
+[2018.09.25-15.38.50:491][ 80]SourceControl: [Test 680da0b] wals
+[2018.09.25-15.38.50:491][ 80]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
+[2018.09.25-15.38.50:491][ 80]SourceControl:  create mode 100644 Content/Assets/Xtexture/WallTextures/group3_Toiletbricks_OcclusionRoughnessMetallic.uasset
+[2018.09.25-15.38.50:491][ 80]SourceControl:  create mode 100644 Content/Assets/Xtexture/WallTextures/group3_Toiletbrik_Mat.uasset
+[2018.09.25-15.38.50:491][ 80]SourceControl:  create mode 100644 Content/Assets/Xtexture/WallTextures/group4_Toiletbrik_Mat.uasset
+[2018.09.25-15.38.50:491][ 80]SourceControl:  create mode 100644 Content/Assets/Xtexture/WallTextures/group4_Toiletbriks_OcclusionRoughnessMetallic.uasset
+[2018.09.25-15.38.50:501][ 80]SourceControl: Commited [Test 680da0b] wals.
+[2018.09.25-15.38.51:394][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.25-15.38.51:590][130]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-15.38.52:038][130]LogSavePackage: Save=395.31ms
+[2018.09.25-15.38.52:038][130]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap3695BF62474EA5B81C121FAA3D0EA708.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.09.25-15.38.52:048][130]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.09.25-15.38.57:814][130]LogSavePackage: Save=5548.48ms
+[2018.09.25-15.38.57:814][130]LogSavePackage: Moving '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Saved/FirstPersonExampleMap_BuiltDataA1F9D81C4C6D3B5D185F42832F2D4AF1.tmp' to '../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.09.25-15.38.57:823][130]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/usagi/Documents/Unreal Projects/Roadhouse/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.09.25-15.42.26:507][838]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.25-15.42.29:113][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallCorner10)
+[2018.09.25-15.42.30:515][ 63]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.25-15.42.39:139][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallInside)
+[2018.09.25-15.42.40:034][622]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.25-15.42.41:131][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_WC)
+[2018.09.25-15.42.50:720][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutside17)
+[2018.09.25-15.43.25:242][949]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.09.25-15.43.31:845][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
